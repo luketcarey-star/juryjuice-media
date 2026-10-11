@@ -20,7 +20,7 @@ Also read `state/oldcrow/config.json` (mode, Buffer IDs, windows, image settings
 ## Post types (all single illustrated images with the ravens; Luke's rule)
 Every post is about one belief or habit we were **told or sold**, shown through the two ravens and
 one everyday object, so the images feel like stills from the Old Crow videos. Daily: 2 posts. **Always vary the type** (Luke's rule): the planner rotates told or sold,
-question, one-liner and then vs now so the same type never runs twice in a row. **Every day one of the two posts is a one-liner or a then vs now** (alternating); the other rotates told or sold and question.
+question, one-liner and then vs now so the same type never runs twice in a row. **The one-liner and then vs now are most posts (Luke's rule, about 3 in 4):** both daily posts are one of these two (alternating), except every other day one post is a told-or-sold or question. Use the types the planner gives.
 | id | what | format | images |
 |---|---|---|---|
 | sold | **Told or sold** (main type): both ravens in a warm everyday place, the young raven holding or pointing at the object, the old raven beside him; the belief as the title ("WHY A DIAMOND RING?"); the caption gives the real history and who benefits | single | 1 |

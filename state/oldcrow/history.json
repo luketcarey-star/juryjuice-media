@@ -656,70 +656,88 @@
     {
       "date": "2026-10-11",
       "n": 2,
-      "type": "question",
+      "type": "oneliner",
       "format": "single",
-      "style": "illus",
-      "title": "What are you saving the good dishes for?",
+      "style": "ai",
+      "title": "Everyone wants honest advice. Until they get it.",
       "topic": "Saving the good dishes for a special occasion",
       "slides": [
-        "What are you saving the good dishes for?"
+        "EVERYONE WANTS HONEST ADVICE. UNTIL THEY GET IT."
       ],
       "sources": [],
-      "imageFolder": "posts/oldcrow/2026-10-11/2-question",
+      "imageFolder": "posts/oldcrow/2026-10-11/2-oneliner",
       "facebook": {
         "postId": "6acaab39bba9419ccb16500f",
         "plannedAt": "2026-10-11T20:39:00-04:00"
       },
       "status": "scheduled",
-      "metaCheck": "passed (regenerated note image: first version showed a red circle resembling a national flag)",
-      "metrics": {}
+      "metaCheck": "passed",
+      "metrics": {},
+      "replaced": {
+        "type": "question",
+        "title": "What are you saving the good dishes for?"
+      },
+      "line": "Everyone wants honest advice. Until they get it.",
+      "caption": "Ask me how I know.",
+      "note": "2026-10-11: swapped by hand for Luke's approved new-style test"
     },
     {
       "date": "2026-10-12",
       "n": 1,
-      "type": "sold",
+      "type": "oneliner",
       "format": "single",
-      "style": "illus",
-      "title": "Why a White Wedding Dress?",
+      "style": "ai",
+      "title": "They sold you the dream. You're still making the payments.",
       "topic": "White wedding dress and Queen Victoria 1840",
       "slides": [
-        "WHY A WHITE WEDDING DRESS?"
+        "THEY SOLD YOU THE DREAM. YOU'RE STILL MAKING THE PAYMENTS."
       ],
-      "sources": [
-        {
-          "item": "Victoria wore white satin with lace, married Feb 10 1840; earlier brides wore many colours, royals silver/gold; Godey's 1849 'most fitting hue'",
-          "source": "Dalhousie News 2011; FIT fashion history"
-        }
-      ],
-      "imageFolder": "posts/oldcrow/2026-10-12/1-sold",
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-12/1-oneliner",
       "facebook": {
         "postId": "6acbfca27db619a2914a48ff",
         "plannedAt": "2026-10-12T10:20:00-04:00"
       },
       "status": "scheduled",
       "metaCheck": "passed",
-      "metrics": {}
+      "metrics": {},
+      "replaced": {
+        "type": "sold",
+        "title": "Why a White Wedding Dress?"
+      },
+      "line": "They sold you the dream. You're still making the payments.",
+      "caption": "Still paying.",
+      "note": "2026-10-11: swapped by hand for Luke's approved new-style test"
     },
     {
       "date": "2026-10-12",
       "n": 2,
-      "type": "note",
+      "type": "thennow",
       "format": "single",
-      "style": "illus",
-      "title": "The alarm says five. Who decided early means better?",
+      "style": "ai",
+      "title": "Built to last. Built to replace.",
       "topic": "Early rising as a sign of success",
       "slides": [
-        "The alarm says five. Who decided early means better?"
+        "BUILT TO LAST. BUILT TO REPLACE."
       ],
       "sources": [],
-      "imageFolder": "posts/oldcrow/2026-10-12/2-note",
+      "imageFolder": "posts/oldcrow/2026-10-12/2-thennow",
       "facebook": {
         "postId": "6acbfca4ea568e911a403782",
         "plannedAt": "2026-10-12T20:58:00-04:00"
       },
       "status": "scheduled",
       "metaCheck": "passed",
-      "metrics": {}
+      "metrics": {},
+      "replaced": {
+        "type": "note",
+        "title": "The alarm says five. Who decided early means better?"
+      },
+      "headline": "BUILT TO LAST. BUILT TO REPLACE.",
+      "then": "sturdy chrome toaster",
+      "now": "flimsy cracked plastic toaster",
+      "caption": "When did something you bought last outlive its warranty? \ud83e\udd14\n\nThe old toaster was heavy, plain and built for decades. The new one is light, shiny and cheaper to replace than to fix.\n\nSomewhere along the way, new stopped meaning better.",
+      "note": "2026-10-11: swapped by hand for Luke's approved new-style test"
     }
   ],
   "ideas": []
