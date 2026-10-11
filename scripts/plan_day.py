@@ -133,6 +133,19 @@ def plan_slots(n):
             done = [p["type"] for p in hist["posts"] if p.get("status") not in ("skipped", "deleted-by-luke")] + [x["type"] for x in slots]
             last_seen = {o: max([i for i, ty in enumerate(done) if ty == o], default=-1) for o in options}
             t = min(options, key=lambda o: (last_seen[o], rng.random())); why = "rotation (least recently posted type)"
+        daily = [d for d in cfg.get("dailyTypes", []) if d in cfg["formats"]]
+        if daily:
+            # Luke's rule (Old Crow): one post every day is a "new style" type (one-liner / then vs now,
+            # alternating, least recently posted first); the other slot rotates the remaining types.
+            done = [p["type"] for p in hist["posts"] if p.get("status") not in ("skipped", "deleted-by-luke")] + [x["type"] for x in slots]
+            seen = lambda o: (max([i for i, ty in enumerate(done) if ty == o], default=-1), rng.random())
+            have = any(used[d] for d in daily)
+            daily_slot = names[day.toordinal() % len(names)]
+            if not have and (window == daily_slot or window == names[-1]):
+                t = min(daily, key=seen); why = "daily new-style type (Luke's rule)"
+            elif t in daily:
+                rest = [o for o in cfg["formats"] if o not in daily]
+                t = min(rest, key=seen); why = "rotation (least recently posted type)"
         used[t] += 1
         combos = [tuple([t] + c) for c in cfg["formats"][t]
                   if not (cap is not None and carousels >= cap and c[0] == "carousel")] or [tuple([t] + c) for c in cfg["formats"][t]]

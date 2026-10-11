@@ -20,18 +20,19 @@ Also read `state/oldcrow/config.json` (mode, Buffer IDs, windows, image settings
 ## Post types (all single illustrated images with the ravens; Luke's rule)
 Every post is about one belief or habit we were **told or sold**, shown through the two ravens and
 one everyday object, so the images feel like stills from the Old Crow videos. Daily: 2 posts. **Always vary the type** (Luke's rule): the planner rotates told or sold,
-question and note so the same type never runs twice in a row.
+question, one-liner and then vs now so the same type never runs twice in a row. **Every day one of the two posts is a one-liner or a then vs now** (alternating); the other rotates told or sold and question.
 | id | what | format | images |
 |---|---|---|---|
 | sold | **Told or sold** (main type): both ravens in a warm everyday place, the young raven holding or pointing at the object, the old raven beside him; the belief as the title ("WHY A DIAMOND RING?"); the caption gives the real history and who benefits | single | 1 |
 | question | The old raven's question: the old raven alone with the object, his question as the title | single | 1 |
-| note | The old raven's short note about a told-or-sold belief, over the old raven with the object | single | 1 |
-No then vs. now, no price-in-hours posts, no tweet-style posts, no carousels, no animal flashbacks.
+| oneliner | **One-liner** (Luke's rule, 2026-10-11; replaces the note): a fully AI-drawn cartoon poster in the Raven Remembers style. Cream parchment background, big bold hand-lettered black text at the top with ONE key word in deep crimson, the old raven below (waist up, large) acting the line out. See step 4b | single | 1 |
+| thennow | **Then vs Now** (Luke's rule, 2026-10-11): a fully AI-drawn poster in the shrinkflation style. Dark brown background with theatrical spotlights, one tall bold condensed cream headline with a thin underline at the top, the old raven (waist up) holding the THEN version in one hand and the NOW version in the other, each under a curled ribbon banner labelled THEN / NOW. See step 4b | single | 1 |
+No price-in-hours posts, no tweet-style posts, no carousels, no animal flashbacks. (The old two-raven "then vs. now" is gone; the new **thennow** type above is different and allowed.)
 
 ## Hard rules (never break these)
 0. **Every post passes `META_CHECK.md`** (Meta Community Standards and monetization policies)
    before it is saved to Buffer. Luke's pages are monetized; a failed check means fix or replace.
-1. **Real facts are verified.** For told-or-sold posts (and any note or question that states a
+1. **Real facts are verified.** For told-or-sold posts (and any question or then vs now that states a
    fact), every date, company, campaign, study and historical claim must be confirmed with web
    search against reliable sources (historical archives, encyclopedias, major newspapers, museums,
    government statistics). If a fact can't be confirmed, cut it or change the topic. Never guess.
@@ -76,7 +77,7 @@ No then vs. now, no price-in-hours posts, no tweet-style posts, no carousels, no
   PROBLEM for it. Posts already marked `deleted-by-luke` are ignored.
 - **Every planned post is accounted for.** If the plan gave N posts and you made fewer, save each
   missing one in history as `"status": "skipped"` with `"skipReason"` (the exact reason), and say
-  in the summary which post was skipped and why, e.g. "Made 1 of 2: the note was skipped because
+  in the summary which post was skipped and why, e.g. "Made 1 of 2: the one-liner was skipped because
   the image failed twice."
 - If nothing went wrong, start the summary with `✅ All good` instead.
 
@@ -130,6 +131,7 @@ No then vs. now, no price-in-hours posts, no tweet-style posts, no carousels, no
   3 best-performing captions in history and match what made them work (without copying them).
 - Luke's own rules always win over learnings: short captions, no sources in captions, good
   searchable hashtags, no engagement bait, Meta rules, fact-checking, carousel limits.
+- **oneliner and thennow posts: follow step 4b instead of `hookline.js` and step 6.** For sold and question:
 - Write `avoid.json` (array of every earlier topic and title in history), then run
   `node scripts/hookline.js write oldcrow <type> <style> avoid.json 1` (style from the plan: `illus`
   or `tweet`; the final `1` makes it a single standalone slide) and follow that prompt exactly.
@@ -137,7 +139,81 @@ No then vs. now, no price-in-hours posts, no tweet-style posts, no carousels, no
   Produce the same JSON it asks for: `topic`, `slides` (`text` + `scene`), `caption`, and `sources`
   for real types.
 
-### 5. Fact-check (sold, and any fact in a note or question)
+### 4b. One-liner and Then vs Now posts (fully AI-drawn, Luke's rule 2026-10-11)
+These two types skip `hookline.js` and `render.js`: the image model draws the whole poster, text
+included. **Old raven only** (never the young raven). Only the old raven's sheet is the reference:
+`reference_urls: ["https://raw.githubusercontent.com/luketcarey-star/juryjuice-media/main/refs/oldcrow-old.jpg"]`,
+model `sunburst`, quality `high`, aspect `4:5` (rule 3 applies: the reply must say 1 reference image).
+
+**Writing the line**
+- One-liner: an original line of 6 to 14 words, usually split into two short sentences (set-up, then
+  twist). Mostly dry, witty and a little sarcastic about people, money, work, buying things, advice
+  and modern habits (Luke: "mix but more raven"); about 1 in 4 is a quieter reflective line. Tie it
+  to the page's told-or-sold world when it fits. Examples of the level (never reuse these):
+  "Everyone wants honest advice. Until they get it." / "They sold you the dream. You're still
+  making the payments."
+- Then vs Now: one everyday thing that got worse while we were told it got better (products made
+  to break, smaller portions, subscriptions instead of owning, "free" things that aren't, repairs
+  made impossible...). Headline 3 to 8 words (e.g. "BUILT TO LAST. BUILT TO REPLACE."). The THEN and
+  NOW objects must be clearly different at a glance. If the comparison states a fact (a size, a
+  price, a year), fact-check it like a told-or-sold post; otherwise keep it general and true.
+- Never copy or reword lines from other pages (Raven Remembers, Human Patterns, quote sites).
+  Check `state/oldcrow/history.json` so a line, headline or object is never repeated.
+- No insults about groups of people, no politics, religion, health or bodies. Meta rules apply.
+
+**Image prompt templates** (fill in the parts in <>; keep everything else word for word)
+One-liner:
+```
+A single-panel cartoon poster. At the top, big bold hand-lettered comic text in black, centered, in <3-5> lines, with the word "<KEY WORD>" in deep crimson red:
+
+<LINE 1>
+<LINE 2>
+...
+
+Spell every word exactly as written above, nothing else written anywhere.
+
+Below the text, large in the frame from the waist up: the old raven <doing something that acts out the line, with one clear prop and a dry, knowing, heavy-lidded expression>. Plain warm cream parchment background with subtle paper texture.
+
+Style: Hand-drawn 2D cartoon with strong dark outlines, simple cel shading and a subtle paper texture; muted navy and walnut colours. The older raven is calm and knowing, with heavy-lidded amber eyes, a navy three-piece suit, cream shirt, muted brown tie and a small round gold lapel pin; black feathers, grey beak and black feathered hands. The reference image is his official character sheet: copy his face, feather shapes, eye shapes, outfit, colours and proportions exactly, in this same line style.
+
+<Any prop with paper or screens: "has only blank lines, no readable writing".> No logos, signatures or watermarks.
+```
+Then vs Now:
+```
+A bold cartoon poster on a dark brown background with soft theatrical spotlights from above.
+
+At the top, one line of tall, bold, condensed all-capital headline text in warm cream, with a thin cream underline beneath it:
+<HEADLINE>
+
+Spell every word exactly as written, nothing else written except the two banner labels below.
+
+Below the headline, large in the frame from the waist up: the old raven faces the viewer with a sly, knowing, heavy-lidded half-smile. In his left hand (viewer's left) he holds up <THEN object, described so it looks better/bigger/sturdier>; above it, a curled ribbon banner labelled "THEN". In his right hand (viewer's right) he holds up <NOW object, clearly worse/smaller/flimsier>; above it, a curled ribbon banner labelled "NOW". The objects have no brand names or other writing.
+
+Style: Bold, polished 2D cartoon illustration with thick clean dark outlines, rich cel shading and warm dramatic lighting; browns, creams, deep navy and a touch of red. The older raven is calm and knowing, with heavy-lidded amber eyes, a navy three-piece suit, cream shirt, muted brown tie and a small round gold lapel pin; black feathers, grey beak and black feathered hands. The reference image is his official character sheet: copy his face, feather shapes, eye shapes, outfit, colours and proportions exactly.
+
+No logos, signatures or watermarks.
+```
+
+**Check the image (always)**: look at it and read every word on it letter by letter against your
+line. Any misspelling, missing or extra word, extra text, a brand logo, or a raven that doesn't
+match the sheet → regenerate once with the same prompt. Still wrong → write a different line and
+try once more; if that fails, skip the post with a skipReason. Never post a misspelled image.
+Save the good image as `posts/oldcrow/<date>/<n>-<type>/slide1.jpg` (convert to JPEG if needed).
+In history save `"line"` (one-liner) or `"headline"`, `"then"`, `"now"` (then vs now).
+
+**Captions for these two types (Luke's rules; NO hashtags on either)**
+- One-liner: one short deadpan line in the old raven's voice, 1 to 6 words, adding a dry twist
+  instead of repeating the image ("Still paying." / "Every single time." / "Confidential, of course.").
+  Never the same caption twice; check history.
+- Then vs Now: Human Patterns format, always freshly written and varied:
+  line 1 = a curious question about the reader's own experience, optionally with one emoji at the
+  end (👀 🤔 😏, not every time); blank line; 2 or 3 short sentences that name the thing and add one
+  sharp observation; optionally a final short reflective line. No hashtags, no sources, and never
+  "tell us / comment / share / tag" (Meta engagement-bait rule); a plain question is fine.
+  Vary the question shape and wording every time (check the last 10 Old Crow captions).
+- The hashtag rules in step 5 apply only to told-or-sold and question posts.
+
+### 5. Fact-check (sold, question, and any fact in a then vs now)
 - Search the web for every claim and figure. Fix or drop anything wrong; if the post's core claim
   can't be confirmed, choose a new topic and rewrite.
 - Keep `sources` in history only. **Captions must be engaging and inspiring** (Luke's rule; length
@@ -147,12 +223,13 @@ No then vs. now, no price-in-hours posts, no tweet-style posts, no carousels, no
   sources, links or `References:` in the caption, no engagement bait, never preachy.
 - **Told-or-sold images show only the title** (the belief, e.g. "WHO MADE BREAKFAST SO IMPORTANT?").
   No subtitle or second line on the image; everything else goes in the caption.
-- **Hashtags:** the page tag first, then 1 or 2 popular, widely searched tags that name the post's
+- **Hashtags (told-or-sold and question posts only):** the page tag first, then 1 or 2 popular, widely searched tags that name the post's
   actual subject, in CamelCase (e.g. #McDonalds #LawFacts, #GuineaPigs #WeirdLaws, #Nostalgia,
   #SlowLiving, #EngagementRing). Never made-up or niche tags nobody searches (#oldcrowasks,
   #thingswearesold, #notes, #busy) and never vague filler (#history, #facts).
 
 ### 6. Make the images and slides
+- (Not for oneliner / thennow: those are finished in step 4b.)
 - Check rules 3, 4 and 7 first.
 - Write `work/p<n>/spec.json`: `{"page":"oldcrow","style":"<illus|tweet>","format":"<type>","caption":"...","slides":[{"text":"...","scene":"..."}]}`.
   Tweet-style posts: add `"theme"` from the plan (`black`, `light` = white with black text, `dim` =

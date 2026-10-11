@@ -59,10 +59,16 @@
         "illus"
       ]
     ],
-    "note": [
+    "oneliner": [
       [
         "single",
-        "illus"
+        "ai"
+      ]
+    ],
+    "thennow": [
+      [
+        "single",
+        "ai"
       ]
     ]
   },
@@ -70,5 +76,10 @@
   "lastRun": "2026-10-11T17:16-04:00",
   "maxCarouselsPerWeek": 0,
   "minGapMinutes": 150,
-  "rotateTypes": true
+  "rotateTypes": true,
+  "dailyTypes": [
+    "oneliner",
+    "thennow"
+  ],
+  "typeNote": "Luke 2026-10-11: the note type is replaced by two fully AI-drawn types: oneliner (cream poster, Raven Remembers style) and thennow (old raven holding Then vs Now, shrinkflation style). One of them every day, alternating; the other daily post rotates told-or-sold and question. No hashtags on these two types."
 }
