@@ -693,10 +693,10 @@
       ],
       "imageFolder": "posts/oldcrow/2026-10-12/1-sold",
       "facebook": {
-        "postId": null,
+        "postId": "6acbfca27db619a2914a48ff",
         "plannedAt": "2026-10-12T10:20:00-04:00"
       },
-      "status": "pending",
+      "status": "scheduled",
       "metaCheck": "passed",
       "metrics": {}
     },
@@ -714,10 +714,10 @@
       "sources": [],
       "imageFolder": "posts/oldcrow/2026-10-12/2-note",
       "facebook": {
-        "postId": null,
+        "postId": "6acbfca4ea568e911a403782",
         "plannedAt": "2026-10-12T20:58:00-04:00"
       },
-      "status": "pending",
+      "status": "scheduled",
       "metaCheck": "passed",
       "metrics": {}
     }
