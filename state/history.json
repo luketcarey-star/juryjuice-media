@@ -963,7 +963,7 @@
         "postId": "6aca187eb07d37ac976cbd10",
         "plannedAt": "2026-10-10T18:20:00-04:00"
       },
-      "status": "scheduled",
+      "status": "sent",
       "metaCheck": "passed",
       "metrics": {},
       "note": "switched back to photo by hand after the image tool came back"
@@ -973,7 +973,7 @@
       "format": "single",
       "metrics": {},
       "metaCheck": "passed",
-      "status": "scheduled",
+      "status": "sent",
       "n": 1,
       "type": "engage",
       "topicGroup": "police",
@@ -1025,6 +1025,64 @@
         "postId": "6acaa50ef91f772d45a76422",
         "plannedAt": "2026-10-11T18:58:00-04:00"
       }
+    },
+    {
+      "date": "2026-10-12",
+      "n": 1,
+      "type": "engage",
+      "topicGroup": "county",
+      "format": "single",
+      "style": "tweet",
+      "theme": "light",
+      "title": "Strangest permit",
+      "topic": "city/county permit question",
+      "slides": [
+        "What's the strangest thing your city or county ever required a permit for?"
+      ],
+      "caption": "What's the strangest thing your city or county ever required a permit for?\n\n#JuryJuice #CityHall #Permits",
+      "sources": [],
+      "imageFolder": "posts/2026-10-12/1-engage",
+      "facebook": {
+        "postId": null,
+        "plannedAt": "2026-10-12T10:31:00-04:00"
+      },
+      "instagram": {
+        "postId": null,
+        "plannedAt": "2026-10-12T10:37:00-04:00"
+      },
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "metrics": {}
+    },
+    {
+      "date": "2026-10-12",
+      "n": 2,
+      "type": "laws",
+      "topicGroup": "county",
+      "format": "single",
+      "style": "photo",
+      "title": "Vegetables Out Front",
+      "topic": "Miami Shores, Florida front-yard vegetable garden ban: $50/day fine (2013 ordinance), 3rd DCA upheld Nov 1 2017; Florida 2019 law ended such bans",
+      "slides": [
+        "Miami Shores, Florida fined a couple **$50 a day** for front-yard vegetables. In 2017 a court upheld the ban."
+      ],
+      "caption": "A Florida village fined a couple $50 a day for growing vegetables out front. Should the court have let that stand?\n\n#JuryJuice #VegetableGarden #Florida\n\nSource: Ricketts v. Village of Miami Shores (2017)",
+      "sources": [
+        "https://ij.org/press-release/florida-appellate-court-upholds-ban-front-yard-vegetable-gardens/",
+        "https://www.cbsnews.com/amp/news/florida-towns-can-no-longer-ban-residential-vegetable-gardens"
+      ],
+      "imageFolder": "posts/2026-10-12/2-laws-photo",
+      "facebook": {
+        "postId": null,
+        "plannedAt": "2026-10-12T19:14:00-04:00"
+      },
+      "instagram": {
+        "postId": null,
+        "plannedAt": "2026-10-12T18:33:00-04:00"
+      },
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "metrics": {}
     }
   ],
   "ideas": []
