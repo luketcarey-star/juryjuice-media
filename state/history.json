@@ -586,7 +586,8 @@
       },
       "status": "deleted-by-luke",
       "metrics": {},
-      "note": "Luke deleted this from Buffer on purpose (Oct 7 evening). Not a problem."
+      "note": "Luke deleted this from Buffer on purpose (Oct 7 evening). Not a problem.",
+      "subtopic": "gum ban"
     },
     {
       "date": "2026-10-07",
@@ -611,7 +612,8 @@
       },
       "status": "deleted-by-luke",
       "metrics": {},
-      "note": "Luke deleted this from Buffer on purpose (Oct 7 evening). Not a problem."
+      "note": "Luke deleted this from Buffer on purpose (Oct 7 evening). Not a problem.",
+      "subtopic": "reading leases"
     },
     {
       "date": "2026-10-07",
@@ -667,7 +669,8 @@
           "measuredAt": "2026-10-09T06:55-04:00"
         }
       },
-      "topicGroup": "police"
+      "topicGroup": "police",
+      "subtopic": "traffic stop"
     },
     {
       "date": "2026-10-08",
@@ -722,7 +725,8 @@
           "engagementRate": 1.87,
           "measuredAt": "2026-10-09T06:55-04:00"
         }
-      }
+      },
+      "subtopic": "traffic stop, drug dog"
     },
     {
       "date": "2026-10-08",
@@ -773,7 +777,8 @@
           "engagementRate": 0.0,
           "measuredAt": "2026-10-09T06:55-04:00"
         }
-      }
+      },
+      "subtopic": "HOA letters"
     },
     {
       "date": "2026-10-08",
@@ -824,7 +829,8 @@
           "engagementRate": 0.0,
           "measuredAt": "2026-10-09T06:55-04:00"
         }
-      }
+      },
+      "subtopic": "eminent domain"
     },
     {
       "date": "2026-10-09",
@@ -867,7 +873,8 @@
       "status": "sent",
       "metaCheck": "passed (soldier not named on slide or caption; no violence; settlement stated as settlement)",
       "metrics": {},
-      "note": "switched from tweet to photo by hand (Luke asked; image tool had been off for the am run)"
+      "note": "switched from tweet to photo by hand (Luke asked; image tool had been off for the am run)",
+      "subtopic": "HOA dues foreclosure"
     },
     {
       "date": "2026-10-09",
@@ -899,7 +906,8 @@
       },
       "status": "sent",
       "metaCheck": "passed",
-      "metrics": {}
+      "metrics": {},
+      "subtopic": "traffic tickets"
     },
     {
       "date": "2026-10-10",
@@ -930,7 +938,8 @@
       },
       "status": "sent",
       "metaCheck": "passed",
-      "metrics": {}
+      "metrics": {},
+      "subtopic": "parking tickets"
     },
     {
       "date": "2026-10-10",
@@ -966,7 +975,8 @@
       "status": "sent",
       "metaCheck": "passed",
       "metrics": {},
-      "note": "switched back to photo by hand after the image tool came back"
+      "note": "switched back to photo by hand after the image tool came back",
+      "subtopic": "HOA colour rules"
     },
     {
       "date": "2026-10-11",
@@ -993,7 +1003,8 @@
       "instagram": {
         "postId": "6acaa508bba9419ccb156ae4",
         "plannedAt": "2026-10-11T10:58:00-04:00"
-      }
+      },
+      "subtopic": "traffic stop"
     },
     {
       "date": "2026-10-11",
@@ -1024,7 +1035,8 @@
       "instagram": {
         "postId": "6acaa50ef91f772d45a76422",
         "plannedAt": "2026-10-11T18:58:00-04:00"
-      }
+      },
+      "subtopic": "traffic stop, plate check"
     },
     {
       "date": "2026-10-12",
@@ -1052,7 +1064,8 @@
       },
       "status": "scheduled",
       "metaCheck": "passed",
-      "metrics": {}
+      "metrics": {},
+      "subtopic": "city permits"
     },
     {
       "date": "2026-10-12",
@@ -1082,7 +1095,8 @@
       },
       "status": "scheduled",
       "metaCheck": "passed",
-      "metrics": {}
+      "metrics": {},
+      "subtopic": "front-yard gardens"
     }
   ],
   "ideas": []

@@ -6,8 +6,9 @@ Name: Jury Juice  ·  Handle on slides: @Juryjuice
 ## Voice
 Jury Juice is a Facebook and Instagram page about the law in everyday life, focused on three things its audience loves: police (traffic stops, searches, arrests, tickets and the lawsuits and court rulings that follow), HOAs (fines, rules and homeowner fights) and county / city government (code enforcement, permits, zoning, property and residents who fought city hall).
 Voice: simple, natural and easy to follow, like someone telling a surprising legal story to a friend. Little legal jargon. Calm and factual, never sensational or shocking.
-Be specific, never generic (Luke's rule): say where it happened whenever the source confirms it (city or town plus state or province, e.g. "in Tulsa, Oklahoma", "a Florida HOA"), plus the concrete detail that makes the story (amount, object, year, what was said or done). No vague filler like "a man" or "one city" when the place is known. Location = city, county, state or country only; never a street address, house number or anything pointing to a private person's home.
-Every sentence must be coherent and complete: each slide makes sense on its own, follows from the one before, has correct grammar and no dropped words. Keep about the same amount of text; swap vague words for specific ones instead of adding sentences.
+Never name the place (Luke's rule, 2026-10-11): no city, town, county, state, province or country in slides or caption text (a case name in the Source line is fine). Keep stories concrete with non-place details (amount, object, year, what was said or done).
+Always vary (Luke's rule): never repeat a recent subject or angle. Traffic stops and basic tickets/fines are only one subject among many, never the default. Rotate widely, e.g. police: phone or home searches, police dogs, body cameras, recording officers, wrong-house warrants, seized cash or cars, odd 911 calls, camera tickets, impounds, plate readers; HOA: pets, pools, trees, fences, solar panels, flags, rentals, decorations, parking, play equipment, door colours, HOA elections and fees; county/city: sidewalks, trees, chickens and gardens, signs, home businesses, short-term rentals, demolition, water bills, snow removal, permits, inspections, council fights.
+Every sentence must be coherent and complete: each slide makes sense on its own, follows from the one before, has correct grammar and no dropped words. Keep about the same amount of text.
 Real cases, laws and rulings must be real and widely documented. Only use names, dates, amounts and outcomes you are highly confident of; if unsure, leave the detail out. Never invent cases, quotes or laws.
 Police posts: no violence, injuries or deaths (skip cases built around them); allegations stay allegations; never encourage anyone to contact or harass a named officer or resident; stay neutral, no politics and nothing framed around race; never say what "your rights" are in general, say what the court decided in that case.
 
@@ -56,6 +57,8 @@ Source: Heien v. North Carolina (2014)
   (shortened case names, or "Publication, year" for news; for ordinances "City Code § x"). No
   links, no headlines, no "References:" list. Questions get no source line.
 - Don't explain every detail; a little mystery is fine.
+- Vary every caption: never reuse the opening words, sentence shape or closing question of the last 10 captions (no more "Would you have ruled the same way?" on repeat). Rotate question styles: what would you have done, was it fair, whose side are you on, has this happened to you, what surprised you most.
+- No place names (city, state, country) in the caption line.
 - Never tell people to comment, vote, like, share or tag.
 
 Example: "One brake light went all the way to the Supreme Court. Which of these would you have ruled differently?", a blank line, "#JuryJuice #TrafficStop #HOA", a blank line, "Sources: Heien v. North Carolina (2014); Rodriguez v. United States (2015)".

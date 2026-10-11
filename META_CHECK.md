@@ -36,5 +36,5 @@ Save `"metaCheck": "passed"` (and a few words on anything you fixed) on each pos
 any post you fixed or replaced in the run summary. If a post had to be dropped, that's a
 `⚠️ PROBLEM` line.
 
-- [ ] Locations: city, county, state or country only. No street address, house number or detail that points to a private person's home.
+- [ ] No place names in slides or caption line (Luke's rule); never an address or anything pointing to a private person's home.
 - [ ] Every slide and the caption read as complete, coherent sentences (no dropped words, no mixed-up ideas).
