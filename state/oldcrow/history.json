@@ -673,6 +673,53 @@
       "status": "scheduled",
       "metaCheck": "passed (regenerated note image: first version showed a red circle resembling a national flag)",
       "metrics": {}
+    },
+    {
+      "date": "2026-10-12",
+      "n": 1,
+      "type": "sold",
+      "format": "single",
+      "style": "illus",
+      "title": "Why a White Wedding Dress?",
+      "topic": "White wedding dress and Queen Victoria 1840",
+      "slides": [
+        "WHY A WHITE WEDDING DRESS?"
+      ],
+      "sources": [
+        {
+          "item": "Victoria wore white satin with lace, married Feb 10 1840; earlier brides wore many colours, royals silver/gold; Godey's 1849 'most fitting hue'",
+          "source": "Dalhousie News 2011; FIT fashion history"
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-12/1-sold",
+      "facebook": {
+        "postId": null,
+        "plannedAt": "2026-10-12T10:20:00-04:00"
+      },
+      "status": "pending",
+      "metaCheck": "passed",
+      "metrics": {}
+    },
+    {
+      "date": "2026-10-12",
+      "n": 2,
+      "type": "note",
+      "format": "single",
+      "style": "illus",
+      "title": "The alarm says five. Who decided early means better?",
+      "topic": "Early rising as a sign of success",
+      "slides": [
+        "The alarm says five. Who decided early means better?"
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-12/2-note",
+      "facebook": {
+        "postId": null,
+        "plannedAt": "2026-10-12T20:58:00-04:00"
+      },
+      "status": "pending",
+      "metaCheck": "passed",
+      "metrics": {}
     }
   ],
   "ideas": []
