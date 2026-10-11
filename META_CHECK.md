@@ -35,3 +35,6 @@ check again; if it can't be fixed, replace the post with a different topic. Neve
 Save `"metaCheck": "passed"` (and a few words on anything you fixed) on each post in history. List
 any post you fixed or replaced in the run summary. If a post had to be dropped, that's a
 `⚠️ PROBLEM` line.
+
+- [ ] Locations: city, county, state or country only. No street address, house number or detail that points to a private person's home.
+- [ ] Every slide and the caption read as complete, coherent sentences (no dropped words, no mixed-up ideas).

@@ -8,6 +8,8 @@ Old Crow is NOT handled here. Work from this repo (`luketcarey-star/juryjuice-me
 
 **Posting day = TOMORROW.** The run fires around 16:48 the evening before and makes the NEXT day's posts (Luke's rule, since early-morning runs kept losing the image tool). Everywhere below, `<today>`, `<date>` and "today's posts" mean the posting day = tomorrow's local date in America/Toronto, and the run is always `am`. Post `date` in history = the posting day.
 
+**Specific and coherent (Luke's rule, 2026-10-11):** posts must not sound generic. Name the place (city/town + state or province) and the concrete detail whenever your fact-check source confirms it; never a street address or a private person's home. Before rendering, re-read every slide and the caption: each sentence must be complete, grammatical and make sense on its own and after the previous slide. Rewrite anything vague or garbled. Same amount of text as before.
+
 **Photo first (Luke's rule):** most Jury Juice posts are photo posts. Real cases, weird laws and strangest trials are always photo style (single or Instagram carousel); only quick questions are tweet slides, at most 1 a day. Use the style the planner gives.
 
 Read these before writing anything:
