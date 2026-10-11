@@ -11,7 +11,7 @@ const { chromium } = require("playwright");
 const REPO = "luketcarey-star/juryjuice-media";
 const RAW = `https://raw.githubusercontent.com/${REPO}/main/refs/`;
 const REFS = {
-  oldcrow: { sheets: [RAW + "oldcrow-young.jpg", RAW + "oldcrow-old.jpg"], style: [RAW + "oldcrow-flash.jpg"] },
+  oldcrow: { sheets: [RAW + "oldcrow-young.jpg", RAW + "oldcrow-old.jpg"], old: [RAW + "oldcrow-old.jpg"], style: [RAW + "oldcrow-flash.jpg"] },
   jury: {}
 };
 (async () => {

@@ -552,14 +552,24 @@ Avoid broad lectures, preachy morals, blanket claims that the past was better, a
 - Last slide: no labels; one reflective question to the reader, a blank line, then the call to action.
 - Every historical claim (names, dates, companies, campaigns, studies) must be real and well documented. If you are not highly confident of a detail, leave it out. Never invent quotes.
 - In the Illustrated style, every slide where the old raven explains the history is a FLASHBACK. Start that slide's "scene" with "FLASHBACK:" and describe the historical moment acted out by anthropomorphic animals in period clothing (for example a fox ad man pitching at a 1940s desk, rabbit shoppers at an old general store), never the two ravens and never humans. Animals stand in for roles, not for specific real people: no real person's likeness, no brand logos or readable signs. Slides that come back to the present (slide 1, slide 2, the second-to-last and last slides) show the two ravens in full colour as usual.`},
-      {id:"note", label:"The old raven's note", count:6,
-       illusSingle:" The note is about one belief or habit we were told or sold. The slide text is the old raven's note to the reader in his own words, one or two short sentences, at most 16 words, no label and no quotes; it is shown as the big title. The scene shows the old raven alone in warm colour with the everyday object the note is about, calm and thoughtful, medium shot, with plain space at the top for the text.",
-       hint:"The old raven speaks straight to the reader about one object.",
-       guide:`The old raven speaks directly to the reader, first person, no dialogue labels.
-- Always about one belief or habit we were told or sold (what we buy, how we eat, work, celebrate or spend), seen through one object.
-- Slide 1: a concrete object or moment and the assumption hidden in it, as a hook (max 20 words).
-- Middle slides: one short observation each (max 40 words), moving from the object, to the history behind it or who benefits now, to what the reader might notice tomorrow.
-- Last slide: one reflective question, a blank line, then the call to action.`},
+      {id:"oneliner", label:"One-liner", count:1, single:true, noText:true, poster:"oneliner", oldOnly:true,
+       hint:"A fully AI-drawn poster: the old raven acts out one dry line, lettered into the picture. Wrap the key word in **double asterisks** to make it red. The scene says what he does.",
+       illusSingle:" The slide text is the one-liner itself: an original line of 6 to 14 words, usually two short sentences (set-up, then twist). Wrap exactly ONE key word in **double asterisks**; it is lettered in crimson. The scene says what the old raven alone does, waist up, to act the line out with one clear prop and a dry, knowing, heavy-lidded look (no other characters).",
+       guide:`One original line from the old raven, lettered big into a cartoon poster (the image model draws the text).
+- 6 to 14 words, usually two short sentences: a set-up, then a dry twist. Mostly witty and a little sarcastic about people, money, work, buying things, advice and modern habits; about 1 in 4 is quieter and reflective. Tie it to things we're told or sold when it fits.
+- Wrap exactly ONE key word in **double asterisks** (it is lettered in crimson).
+- The scene: what the old raven alone does to act the line out, waist up, with one clear prop. Any paper or screen in the scene has no readable writing.
+- Never copy or reword lines from other pages or quote sites. Nothing about groups of people, politics, religion, health or bodies.
+- Examples of the level (never reuse): "Everyone wants **honest** advice. Until they get it." / "They sold you the **dream**. You're still making the payments."`,
+       caption:"Write the caption: ONE short deadpan line in the old raven's voice, 1 to 6 words, that adds a dry twist instead of repeating the picture (for example \"Still paying.\" or \"Every single time.\"). No hashtags, no emojis, nothing else."},
+      {id:"thennow", label:"Then vs Now", count:1, single:true, noText:true, poster:"thennow", oldOnly:true,
+       hint:"A fully AI-drawn poster: the old raven holds the THEN version and the NOW version of one thing under a bold headline. Scene format: THEN: <object> ; NOW: <object>.",
+       illusSingle:" The slide text is the headline, 3 to 8 words in capital letters (like \"BUILT TO LAST. BUILT TO REPLACE.\"). The scene is written exactly as \"THEN: <the older, better or bigger version> ; NOW: <the newer, worse or smaller version>\", two objects that look clearly different at a glance, with no brand names.",
+       guide:`One everyday thing that got worse while we were told it got better (products made to break, smaller portions, subscriptions instead of owning, "free" things that aren't, repairs made impossible).
+- Slide text: the headline, 3 to 8 words, capital letters, punchy (like "BUILT TO LAST. BUILT TO REPLACE." or "SAME PRICE. LESS INSIDE.", never reuse these).
+- Scene, written exactly as: THEN: <the older, better or bigger version> ; NOW: <the newer, worse or smaller version>. Two objects that look clearly different at a glance, no brand names.
+- If the comparison states a fact (a size, a price, a year), it must be true and well documented; otherwise keep it general and true.`,
+       caption:"Write the caption in this format, freshly worded every time: line 1 is a curious question about the reader's own experience with the thing, sometimes ending with one emoji (👀 🤔 😏, not every time); a blank line; 2 or 3 short sentences that name the thing and add one sharp observation; optionally one short reflective closing line. No hashtags, no sources, and never ask people to comment, tell, share or tag; a plain question is fine."},
       {id:"question", label:"One question from the old raven", count:1, single:true, noQuotes:true,
        hint:"A single slide: the old raven asks one question that makes people stop. Always a single post.",
        illusSingle:" The slide text is only the old raven's question, at most 14 words, with no label and no quotes; it is shown as the big title. The scene shows the old raven alone in warm colour, quietly looking at or holding the everyday object the question is about.",
@@ -572,23 +582,19 @@ Avoid broad lectures, preachy morals, blanket claims that the past was better, a
     ideas:[
       {fmt:"sold", title:"Why we're told to drink 2 litres of water a day"},
       {fmt:"sold", title:"Why we were told to pay for bottled water"},
-      {fmt:"note", title:"Why a broken watch gets replaced instead of repaired"},
+      {fmt:"thennow", title:"Built to last vs built to replace (a toaster)"},
       {fmt:"sold", title:"Why breakfast became “the most important meal of the day”"},
       {fmt:"question", title:"Who decided a phone should last two years?"},
       {fmt:"sold", title:"Why an engagement ring is supposed to cost a fortune"},
-      {fmt:"note", title:"Why we keep the good china for a day that never comes"}
+      {fmt:"oneliner", title:"Everyone wants honest advice, until they get it"},
+      {fmt:"oneliner", title:"Free trials that are never really free"},
+      {fmt:"thennow", title:"Owning it vs subscribing to it"}
     ],
     example:{
-      topic:"Why a fully booked week feels like proof of a good life", format:"note",
-      slides:[
-        "A diary with every square filled in feels like proof that you matter.",
-        "I watched a young raven show me his week once. Not one free hour. He was proud of it.",
-        "So I asked him which of those hours were his. He looked again. Most belonged to someone else's deadline.",
-        "There was a time when having hours to spare was the sign you'd done well. Somewhere along the way, busy became the good kind.",
-        "Someone sells you the diary. Someone else fills it. Neither of them asks what you'd keep for yourself.",
-        "Which hour of your week would you guard, if you believed it mattered?\n\nFollow Old Crow for more things we never thought to question."
-      ],
-      caption:"A diary with every square filled in feels like proof that we matter.\n\nThe old raven once watched a young raven show off a week with not one free hour. He was proud of it, until he was asked which of those hours were his. Most belonged to someone else's deadline.\n\nThere was a time when spare hours were the sign you'd done well. Somewhere along the way, busy became the good kind.\n\nWhich hour of your week would you guard, if you believed it mattered?\n\n#OldCrow #SlowLiving #Mindfulness"
+      topic:"Everyone wants honest advice, until they get it", format:"oneliner",
+      slides:["Everyone wants **honest** advice. Until they get it."],
+      scenes:["The old raven sits in a worn burgundy leather armchair, one eyebrow raised, slowly stirring a cup of tea with a knowing, unimpressed look, as if he just told someone the truth and watched them sulk."],
+      caption:"Ask me how I know."
     }
   },
   pp: {
@@ -1298,7 +1304,7 @@ Type: ${f.label}
 ${f.guide}
 
 ${img ? styleRules(st) + "\n\nThe slide-style rules above override any conflicting formatting in the type rules (keep the type's story structure).\n" : ""}GENERAL RULES
-- ${single ? `Exactly 1 slide. This is a SINGLE standalone post, not a carousel: the one slide must work on its own, with the hook and the payoff together. Use the type above only for the angle and tone, and ignore its slide-by-slide structure. Do not put a call to action on the slide; end the caption with it instead.${st === "photo" ? " The slide text can be up to 25 words for a single post." : st === "illus" ? (f.illusSingle || " The slide text is just the short title.") : ""}` : `Exactly ${n} slides.`}
+- ${single ? `Exactly 1 slide. This is a SINGLE standalone post, not a carousel: the one slide must work on its own, with the hook and the payoff together. Use the type above only for the angle and tone, and ignore its slide-by-slide structure. Do not put a call to action on the slide${f.poster ? " or in the caption" : "; end the caption with it instead"}.${st === "photo" ? " The slide text can be up to 25 words for a single post." : st === "illus" ? (f.illusSingle || " The slide text is just the short title.") : ""}` : `Exactly ${n} slides.`}
 - ${img ? "Keep text short; it sits on top of a picture." : `Keep each slide readable in a few seconds: at most about ${P.id === "pp" ? 50 : 60} words.`}
 - Separate paragraphs inside a slide with a blank line ("\\n\\n").
 ${single ? "" : `- The final call to action: "${cta}"`}
@@ -1472,7 +1478,41 @@ async function refPayload(id){
   return sheets.concat(out).slice(0, 3);
 }
 const blobB64 = b => new Promise(res => { const fr = new FileReader(); fr.onload = () => res(String(fr.result).split(",")[1]); fr.readAsDataURL(b); });
-function imagePrompt(P, st, s, i, hasRefs){
+const OLD_RAVEN = "The older raven is calm and knowing, with heavy-lidded amber eyes, a navy three-piece suit, cream shirt, muted brown tie and a small round gold lapel pin; black feathers, grey beak and black feathered hands. The reference image is his official character sheet: copy his face, feather shapes, eye shapes, outfit, colours and proportions exactly, in this same line style.";
+function wrapWords(t, max){
+  // Balanced lines (no lonely last word): aim every line at the same length.
+  const words = t.split(/\s+/).filter(Boolean), n = Math.max(1, Math.ceil(t.length / max)), target = t.length / n;
+  const out = []; let line = "";
+  for (const w of words){
+    if (line && out.length < n - 1 && (line + " " + w).length > target + 3){ out.push(line); line = w; } else line = line ? line + " " + w : w;
+  }
+  if (line) out.push(line);
+  return out;
+}
+function posterPrompt(kind, s){
+  const raw = (s.text || "").replace(/__/g, "");
+  if (kind === "thennow"){
+    const head = raw.replace(/\*\*/g, "").toUpperCase().trim();
+    const m = (s.scene || "").match(/THEN\s*:\s*(.+?)\s*[;|]\s*NOW\s*:\s*(.+)$/is);
+    const then = m ? m[1].trim() : "the older, sturdier version of the object", now = m ? m[2].trim() : "the newer, flimsier version of the same object";
+    return ["A bold cartoon poster on a dark brown background with soft theatrical spotlights from above.",
+      "At the top, one line of tall, bold, condensed all-capital headline text in warm cream, with a thin cream underline beneath it:\n" + head,
+      "Spell every word exactly as written, nothing else written except the two banner labels below.",
+      `Below the headline, large in the frame from the waist up: the old raven faces the viewer with a sly, knowing, heavy-lidded half-smile. In his left hand (viewer's left) he holds up ${then}; above it, a curled ribbon banner labelled "THEN". In his right hand (viewer's right) he holds up ${now}; above it, a curled ribbon banner labelled "NOW". The objects have no brand names or other writing.`,
+      "Style: Bold, polished 2D cartoon illustration with thick clean dark outlines, rich cel shading and warm dramatic lighting; browns, creams, deep navy and a touch of red. " + OLD_RAVEN,
+      "No logos, signatures or watermarks."].join("\n\n");
+  }
+  const key = (raw.match(/\*\*(.+?)\*\*/) || [])[1];
+  const lines = wrapWords(raw.replace(/\*\*/g, "").toUpperCase().trim(), 16);
+  return [`A single-panel cartoon poster. At the top, big bold hand-lettered comic text in black, centered, in ${lines.length} lines` + (key ? `, with the word "${key.toUpperCase()}" in deep crimson red` : "") + ":\n\n" + lines.join("\n"),
+    "Spell every word exactly as written above, nothing else written anywhere.",
+    "Below the text, large in the frame from the waist up: " + (s.scene || "the old raven with a dry, knowing, heavy-lidded expression") + " Plain warm cream parchment background with subtle paper texture.",
+    "Style: Hand-drawn 2D cartoon with strong dark outlines, simple cel shading and a subtle paper texture; muted navy and walnut colours. " + OLD_RAVEN,
+    "Any paper, sign or screen in the scene has no readable writing. No logos, signatures or watermarks."].join("\n\n");
+}
+function imagePrompt(P, st, s, i, hasRefs, fmt){
+  const pf_ = fmt && (P.formats || []).find(x => x.id === fmt);
+  if (pf_ && pf_.poster && st === "illus") return posterPrompt(pf_.poster, s);
   const parts = [s.scene || s.text.replace(/\*\*|__/g, "")];
   parts.push("Style: " + (st === "photo" ? P.photoStyle : P.imageStyle));
   if (st === "photo") parts.push("Composition: vertical photo. Keep the main subject in the upper two-thirds; the bottom third should be darker and simpler because text will be placed there.");
@@ -1521,9 +1561,10 @@ async function genSlideImage(pid, slide, i){
   const P = PAGES[pid], d = decks[pid];
   const isFlash = d.style === "illus" && /^\s*(flashback|split|splitv)\s*:/i.test(slide.scene || "") && P.flashRef;
   // Flashbacks use the flashback style sample as their only reference (no raven sheets).
-  const refs = isFlash ? [{data: P.flashRef, mime_type: "image/jpeg"}] : await refPayload(pid);
+  const fdefG = (P.formats || []).find(x => x.id === d.format) || {};
+  const refs = isFlash ? [{data: P.flashRef, mime_type: "image/jpeg"}] : (fdefG.oldOnly && P.sheets && d.style === "illus") ? [{data: P.sheets[1], mime_type: "image/jpeg"}] : await refPayload(pid);
   const o = imgOpt[pid] || {model: P.imgModel || "flare", quality: P.imgQuality || "medium"};
-  const input = {prompt: imagePrompt(P, d.style, slide, i, refs.length > 0), aspect_ratio: "4:5", model: o.model, quality: o.quality};
+  const input = {prompt: imagePrompt(P, d.style, slide, i, refs.length > 0, d.format), aspect_ratio: "4:5", model: o.model, quality: o.quality};
   if (refs.length) input.reference_images = refs;
   const res = await mcp.callTool(IMG_SERVER, IMG_TOOL, input, {cache:false});
   const im = (res.content || []).find(b => b.type === "image");
@@ -1687,8 +1728,9 @@ window.hooklineImagePrompts = (page, style, format, slides) => {
   return slides.map((s, i) => {
     const sl = {text: s.text || "", scene: s.scene || ""};
     const isStyleRef = style === "illus" && /^\s*(flashback|split|splitv)\s*:/i.test(sl.scene) && P.flashRef;
-    const refs = isStyleRef ? "style" : (P.sheets && style === "illus" ? "sheets" : "none");
-    return {slide: i + 1, prompt: imagePrompt(P, style, sl, i, refs !== "none"), refs};
+    const fd = (P.formats || []).find(x => x.id === format) || {};
+    const refs = isStyleRef ? "style" : (P.sheets && style === "illus" ? (fd.oldOnly ? "old" : "sheets") : "none");
+    return {slide: i + 1, prompt: imagePrompt(P, style, sl, i, refs !== "none", format), refs};
   });
 };
 })();
