@@ -1077,9 +1077,9 @@
       "title": "Vegetables Out Front",
       "topic": "Miami Shores, Florida front-yard vegetable garden ban: $50/day fine (2013 ordinance), 3rd DCA upheld Nov 1 2017; Florida 2019 law ended such bans",
       "slides": [
-        "Miami Shores, Florida fined a couple **$50 a day** for front-yard vegetables. In 2017 a court upheld the ban."
+        "A couple was fined **$50 a day** for growing vegetables in their front yard. A court upheld the ban."
       ],
-      "caption": "A Florida village fined a couple $50 a day for growing vegetables out front. Should the court have let that stand?\n\n#JuryJuice #VegetableGarden #Florida\n\nSource: Ricketts v. Village of Miami Shores (2017)",
+      "caption": "Tomatoes and peppers out front cost one couple $50 a day. Whose side are you on?\n\n#JuryJuice #VegetableGarden #CityHall\n\nSource: Ricketts v. Village of Miami Shores (2017)",
       "sources": [
         "https://ij.org/press-release/florida-appellate-court-upholds-ban-front-yard-vegetable-gardens/",
         "https://www.cbsnews.com/amp/news/florida-towns-can-no-longer-ban-residential-vegetable-gardens"
@@ -1096,7 +1096,9 @@
       "status": "scheduled",
       "metaCheck": "passed",
       "metrics": {},
-      "subtopic": "front-yard gardens"
+      "subtopic": "front-yard gardens",
+      "image": "posts/2026-10-12/2-laws-photo/slide1-v2.jpg",
+      "note": "2026-10-11: place name removed (Luke's rule), caption varied"
     }
   ],
   "ideas": []
