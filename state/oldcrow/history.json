@@ -738,6 +738,55 @@
       "now": "flimsy cracked plastic toaster",
       "caption": "When did something you bought last outlive its warranty? \ud83e\udd14\n\nThe old toaster was heavy, plain and built for decades. The new one is light, shiny and cheaper to replace than to fix.\n\nSomewhere along the way, new stopped meaning better.",
       "note": "2026-10-11: swapped by hand for Luke's approved new-style test"
+    },
+    {
+      "date": "2026-10-13",
+      "n": 1,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "title": "Free shipping, they said. You bought three things you didn't need.",
+      "topic": "Free-shipping thresholds make us buy more",
+      "slides": [
+        "Free shipping, they said. You bought three things you didn't need."
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-13/1-oneliner",
+      "facebook": {
+        "postId": null,
+        "plannedAt": "2026-10-13T09:00:00-04:00"
+      },
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "metrics": {},
+      "line": "Free shipping, they said. You bought three things you didn't need.",
+      "caption": "Saved nothing, spent plenty."
+    },
+    {
+      "date": "2026-10-13",
+      "n": 2,
+      "type": "question",
+      "format": "single",
+      "style": "illus",
+      "title": "Who picked 10,000 steps?",
+      "topic": "The 10,000 steps daily goal and the manpo-kei pedometer",
+      "object": "clip-on step counter",
+      "slides": [
+        "WHO PICKED 10,000 STEPS?"
+      ],
+      "sources": [
+        "https://www.wbur.org/news/2019/05/29/10000-steps-longevity-older-women-study",
+        "https://news.harvard.edu/gazette/story/2019/06/for-older-women-just-7500-steps-a-day-lowers-mortality"
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-13/2-question",
+      "facebook": {
+        "postId": null,
+        "plannedAt": "2026-10-13T19:12:00-04:00"
+      },
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "metrics": {},
+      "caption": "Your phone gives a little cheer when you reach 10,000 steps. Have you ever wondered who picked that number?\n\nThe goal may trace back to 1965, when a pedometer was sold under the name manpo-kei. In English that's roughly \"10,000 steps meter.\" A catchy number on a gadget, long before anyone had tested it.\n\nDecades later, a Harvard-led study followed more than 16,000 older women wearing step counters. Their risk of death kept falling as daily steps rose, then levelled off around 7,500. It was one study of one group of women, so it's no rule for anyone. Still, it shows how a round number can settle into our heads and stay there.\n\nThe old raven keeps a little step counter on his desk and looks at it fondly. A number can be a friendly nudge. It just helps to know where it came from.\n\nWhich number do you chase most days, and who gave it to you?\n\n#OldCrow #Walking #DailySteps"
     }
   ],
   "ideas": []
