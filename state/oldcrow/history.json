@@ -649,7 +649,7 @@
         "postId": "6acaab37d9cab260a7d95a73",
         "plannedAt": "2026-10-11T11:10:00-04:00"
       },
-      "status": "scheduled",
+      "status": "sent",
       "metaCheck": "passed (regenerated note image: first version showed a red circle resembling a national flag)",
       "metrics": {}
     },
@@ -670,7 +670,7 @@
         "postId": "6acaab39bba9419ccb16500f",
         "plannedAt": "2026-10-11T20:39:00-04:00"
       },
-      "status": "scheduled",
+      "status": "sent",
       "metaCheck": "passed",
       "metrics": {},
       "replaced": {
@@ -698,7 +698,7 @@
         "postId": "6acbfca27db619a2914a48ff",
         "plannedAt": "2026-10-12T10:20:00-04:00"
       },
-      "status": "scheduled",
+      "status": "sent",
       "metaCheck": "passed",
       "metrics": {},
       "replaced": {
@@ -753,7 +753,7 @@
       "sources": [],
       "imageFolder": "posts/oldcrow/2026-10-13/1-oneliner",
       "facebook": {
-        "postId": null,
+        "postId": "6acd4e36a36dd851812ff620",
         "plannedAt": "2026-10-13T09:00:00-04:00"
       },
       "status": "scheduled",
@@ -780,7 +780,7 @@
       ],
       "imageFolder": "posts/oldcrow/2026-10-13/2-question",
       "facebook": {
-        "postId": null,
+        "postId": "6acd4e395562ebe80f6ce0e0",
         "plannedAt": "2026-10-13T19:12:00-04:00"
       },
       "status": "scheduled",
