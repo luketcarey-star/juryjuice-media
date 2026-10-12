@@ -1100,6 +1100,68 @@
       "subtopic": "front-yard gardens",
       "image": "posts/2026-10-12/2-laws-photo/slide1-v3.jpg",
       "note": "2026-10-11: place name removed (Luke's rule), caption varied"
+    },
+    {
+      "date": "2026-10-13",
+      "metrics": {},
+      "metaCheck": "passed",
+      "n": 1,
+      "type": "list",
+      "topicGroup": "police",
+      "format": "single",
+      "style": "photo",
+      "title": "Phone Search After Arrest",
+      "topic": "Riley v. California (2014)",
+      "subtopic": "phone search",
+      "slides": [
+        "Officers read through a man's phone after his arrest. The justices voted **9 to 0** that they needed a warrant first."
+      ],
+      "caption": "One phone, one arrest, and zero dissenting votes. Does a phone deserve more privacy than a wallet?\n\n#JuryJuice #CellPhone #Privacy\n\nSource: Riley v. California (2014)",
+      "sources": [
+        {
+          "item": "Riley v. California (2014)",
+          "source": "Faegre Drinker summary of decision, 2014-06-25; unanimous, warrant generally required for phone seized at arrest"
+        }
+      ],
+      "imageFolder": "posts/2026-10-13/1-list-photo",
+      "facebook": {
+        "postId": "6acd48148465d3f29e8d9fcf",
+        "plannedAt": "2026-10-13T11:01:00-04:00"
+      },
+      "instagram": {
+        "postId": "6acd48155562ebe80f6bbd56",
+        "plannedAt": "2026-10-13T11:17:00-04:00"
+      },
+      "status": "scheduled"
+    },
+    {
+      "date": "2026-10-13",
+      "metrics": {},
+      "metaCheck": "passed",
+      "n": 2,
+      "type": "engage",
+      "topicGroup": "county",
+      "format": "single",
+      "style": "tweet",
+      "theme": "dim",
+      "title": "Neighbour's overhanging tree",
+      "topic": "Whose job to trim an overhanging tree",
+      "subtopic": "neighbour trees",
+      "slides": [
+        "Your neighbour's tree hangs over your yard. Whose job is it to trim it?"
+      ],
+      "caption": "Tree fights between neighbours get surprisingly heated. Has one ever started on your street?\n\n#JuryJuice #Neighbors #PropertyLine",
+      "sources": [],
+      "imageFolder": "posts/2026-10-13/2-engage",
+      "facebook": {
+        "postId": "6acd4817e9da05d4097d95c7",
+        "plannedAt": "2026-10-13T20:46:00-04:00"
+      },
+      "instagram": {
+        "postId": "6acd48190fd81940c1c72467",
+        "plannedAt": "2026-10-13T18:08:00-04:00"
+      },
+      "status": "scheduled"
     }
   ],
   "ideas": []
