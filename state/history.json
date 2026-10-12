@@ -1049,9 +1049,9 @@
       "title": "Strangest permit",
       "topic": "city/county permit question",
       "slides": [
-        "What's the strangest thing your city or county ever required a permit for?"
+        "Which permit from your city or county made you laugh out loud?"
       ],
-      "caption": "What's the strangest thing your city or county ever required a permit for?\n\n#JuryJuice #CityHall #Permits",
+      "caption": "Some permits make sense. Others make you read the letter twice. Which one got you?\n\n#JuryJuice #CityHall #Permits",
       "sources": [],
       "imageFolder": "posts/2026-10-12/1-engage",
       "facebook": {
@@ -1065,7 +1065,8 @@
       "status": "scheduled",
       "metaCheck": "passed",
       "metrics": {},
-      "subtopic": "city permits"
+      "subtopic": "city permits",
+      "image": "posts/2026-10-12/1-engage/slide1-v2.jpg"
     },
     {
       "date": "2026-10-12",
@@ -1077,7 +1078,7 @@
       "title": "Vegetables Out Front",
       "topic": "Miami Shores, Florida front-yard vegetable garden ban: $50/day fine (2013 ordinance), 3rd DCA upheld Nov 1 2017; Florida 2019 law ended such bans",
       "slides": [
-        "A couple was fined **$50 a day** for growing vegetables in their front yard. A court upheld the ban."
+        "A couple was fined **$50 a day** for growing vegetables in their front yard. The judges sided with the village."
       ],
       "caption": "Tomatoes and peppers out front cost one couple $50 a day. Whose side are you on?\n\n#JuryJuice #VegetableGarden #CityHall\n\nSource: Ricketts v. Village of Miami Shores (2017)",
       "sources": [
@@ -1097,7 +1098,7 @@
       "metaCheck": "passed",
       "metrics": {},
       "subtopic": "front-yard gardens",
-      "image": "posts/2026-10-12/2-laws-photo/slide1-v2.jpg",
+      "image": "posts/2026-10-12/2-laws-photo/slide1-v3.jpg",
       "note": "2026-10-11: place name removed (Luke's rule), caption varied"
     }
   ],
