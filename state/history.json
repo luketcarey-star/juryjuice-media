@@ -1,1168 +1,1235 @@
 {
-  "posts": [
+ "posts": [
+  {
+   "date": "2026-10-05",
+   "n": 1,
+   "type": "list",
+   "format": "carousel",
+   "style": "tweet",
+   "topic": "5 lawsuits too bizarre to be real: Chambers v. God, Crunch Berries, Starbucks ice, Pringles VAT, Velveeta cook time",
+   "slides": 7,
+   "sources": [
     {
-      "date": "2026-10-05",
-      "n": 1,
-      "type": "list",
-      "format": "carousel",
-      "style": "tweet",
-      "topic": "5 lawsuits too bizarre to be real: Chambers v. God, Crunch Berries, Starbucks ice, Pringles VAT, Velveeta cook time",
-      "slides": 7,
-      "sources": [
-        {
-          "item": "Chambers v. God (2007-08)",
-          "source": "https://www.mentalfloss.com/history/government-politics/politician-who-sued-god"
-        },
-        {
-          "item": "Sugawara v. PepsiCo, Crunch Berries (2009)",
-          "source": "https://consumerist.com/2009/06/04/alert-crunchberries-are-not-real-berries"
-        },
-        {
-          "item": "Starbucks iced drinks case (2016)",
-          "source": "https://www.cnbc.com/2016/08/23/no-starbucks-isnt-cheating-customers-by-adding-ice-to-drinks.html"
-        },
-        {
-          "item": "HMRC v Procter & Gamble UK [2009] EWCA Civ 407",
-          "source": "https://cms.law/en/gbr/legal-updates/are-pringles-crisps-the-court-of-appeal-decides"
-        },
-        {
-          "item": "Ramirez v. Kraft Heinz, Velveeta (2023)",
-          "source": "https://www.tastingtable.com/1354460/velveeta-shells-cheese-lawsuit-thrown-out"
-        }
-      ],
-      "imageFolder": "posts/2026-10-05/1-list",
-      "facebook": {
-        "postId": "6ac425df4e17d6a1b25b1dde",
-        "plannedAt": "2026-10-05T20:17:00-04:00",
-        "sentAt": "2026-10-05T18:35:45-04:00",
-        "url": "https://facebook.com/879850111887291_122137741827199899"
-      },
-      "instagram": {
-        "postId": "6ac425e638629554e344fc7b",
-        "plannedAt": "2026-10-05T19:38:00-04:00",
-        "sentAt": "2026-10-05T18:35:44-04:00",
-        "url": "https://www.instagram.com/p/DeIS5wdlOmO/"
-      },
-      "status": "sent",
-      "metrics": {
-        "facebook": {
-          "reactions": 1,
-          "comments": 0,
-          "impressions": 228,
-          "shares": 0,
-          "clicks": 4,
-          "engagementRate_buffer": 2.19,
-          "engagementRate": 0.44,
-          "measuredAt": "2026-10-09T06:55-04:00"
-        },
-        "instagram": {
-          "reactions": 0,
-          "comments": 0,
-          "views": 124,
-          "shares": 0,
-          "saves": 0,
-          "follows": 0,
-          "reach": 52,
-          "engagementRate_buffer": 0,
-          "engagementRate": 0.0,
-          "measuredAt": "2026-10-09T06:55-04:00"
-        }
-      },
-      "note": "Posted immediately at Luke's request; use sentAt (not plannedAt) for time-of-day learning.",
-      "title": "5 Lawsuits Too Bizarre to Be Real"
+     "item": "Chambers v. God (2007-08)",
+     "source": "https://www.mentalfloss.com/history/government-politics/politician-who-sued-god"
     },
     {
-      "date": "2026-10-06",
-      "n": 1,
-      "type": "list",
-      "format": "carousel",
-      "style": "tweet",
-      "topic": "5 lawsuits too bizarre to be real: Mayo v. Satan (1971), Leonard v. PepsiCo (Harrier jet), Red Bull gives you wings class action, Nutella balanced breakfast class action, Subway footlong (7th Cir. 2017)",
-      "slides": 7,
-      "sources": [
-        {
-          "item": "Mayo v. Satan and His Staff (1971)",
-          "source": "Atlas Obscura: Are You There God? I'd Like to Sue You https://www.atlasobscura.com/articles/lawsuits-against-god"
-        },
-        {
-          "item": "Leonard v. PepsiCo (SDNY, Aug 1999)",
-          "source": "Seattle Times: Judge: No Harrier Jet For Seattle Consumer; Mental Floss https://mentalfloss.com/posts/pepsi-harrier-jet-lawsuit-history"
-        },
-        {
-          "item": "Careathers v. Red Bull ($13M settlement)",
-          "source": "NBC News https://www.nbcnews.com/business/consumer/red-bull-drinkers-can-claim-10-over-gives-you-wings-n221901"
-        },
-        {
-          "item": "Hohenberg v. Ferrero (Nutella, $3M, 2012)",
-          "source": "NBC San Diego https://nbcsandiego.com/news/local/sd-mother-wins-nutella-lawsuit/1951487; WGBH https://wgbh.org/news/2012-04-26/nutella-maker-may-settle-deceptive-ad-lawsuit-for-3-million"
-        },
-        {
-          "item": "In re Subway Footlong Sandwich Litigation (7th Cir. 2017)",
-          "source": "Nation's Restaurant News https://www.nrn.com/restaurant-operations/appeals-court-rejects-subway-foot-long-settlement"
-        }
-      ],
-      "imageFolder": "posts/2026-10-06/1-list",
-      "facebook": {
-        "postId": "6ac4d4f5b26845c29743e480",
-        "plannedAt": "2026-10-06T11:38:00-04:00"
-      },
-      "instagram": {
-        "postId": "6ac4d4f9cd5ae4a005f83a0b",
-        "plannedAt": "2026-10-06T08:00:00-04:00"
-      },
-      "status": "deleted",
-      "metrics": {},
-      "title": "5 Lawsuits Too Bizarre to Be Real",
-      "note": "Both Buffer posts no longer exist (404 on 2026-10-06 pm run), presumably removed by Luke."
+     "item": "Sugawara v. PepsiCo, Crunch Berries (2009)",
+     "source": "https://consumerist.com/2009/06/04/alert-crunchberries-are-not-real-berries"
     },
     {
-      "date": "2026-10-06",
-      "n": 2,
-      "type": "engage",
-      "format": "single",
-      "style": "tweet",
-      "topic": "Jury duty summons vs dentist appointment would-you-rather",
-      "slides": 1,
-      "sources": [],
-      "imageFolder": "posts/2026-10-06/2-engage",
-      "facebook": {
-        "postId": "6ac4d4ff504ed07fb48900f5",
-        "plannedAt": "2026-10-06T15:28:00-04:00",
-        "sentAt": "2026-10-06T15:28:05-04:00"
-      },
-      "instagram": {
-        "postId": "6ac4d504504ed07fb4890358",
-        "plannedAt": "2026-10-06T16:51:00-04:00"
-      },
-      "status": "sent",
-      "metrics": {
-        "facebook": {
-          "reactions": 1,
-          "comments": 2,
-          "impressions": 353,
-          "shares": 0,
-          "clicks": 6,
-          "engagementRate_buffer": 2.55,
-          "engagementRate": 0.85,
-          "measuredAt": "2026-10-09T06:55-04:00"
-        }
-      }
+     "item": "Starbucks iced drinks case (2016)",
+     "source": "https://www.cnbc.com/2016/08/23/no-starbucks-isnt-cheating-customers-by-adding-ice-to-drinks.html"
     },
     {
-      "date": "2026-10-06",
-      "n": 3,
-      "type": "laws",
-      "format": "single",
-      "style": "photo",
-      "topic": "Switzerland: guinea pigs must not be kept alone (Animal Protection Ordinance)",
-      "slides": 1,
-      "sources": [
-        {
-          "item": "Swiss Animal Protection Ordinance, guinea pigs kept in groups",
-          "source": "swissinfo https://www.swissinfo.ch/eng/loo-flushing--explosives---gold_fact-check--lonely-guinea-pigs-and-other-quirky-swiss-rumours/45067078; Mental Floss https://www.mentalfloss.com/animals/pets/its-illegal-own-single-guinea-pig-switzerland"
-        }
-      ],
-      "imageFolder": "posts/2026-10-06/3-laws",
-      "facebook": {
-        "postId": "6ac4d508504ed07fb489062f",
-        "plannedAt": "2026-10-06T21:03:00-04:00"
-      },
-      "instagram": {
-        "postId": "6ac4d50bcd5ae4a005f84308",
-        "plannedAt": "2026-10-06T21:25:00-04:00"
-      },
-      "status": "sent",
-      "metrics": {
-        "facebook": {
-          "reactions": 0,
-          "comments": 0,
-          "impressions": 276,
-          "shares": 0,
-          "clicks": 2,
-          "engagementRate_buffer": 0.72,
-          "engagementRate": 0.0,
-          "measuredAt": "2026-10-09T06:55-04:00"
-        },
-        "instagram": {
-          "reactions": 1,
-          "comments": 0,
-          "views": 83,
-          "shares": 0,
-          "saves": 0,
-          "follows": 0,
-          "reach": 62,
-          "engagementRate_buffer": 1.61,
-          "engagementRate": 1.61,
-          "measuredAt": "2026-10-09T06:55-04:00"
-        }
-      }
+     "item": "HMRC v Procter & Gamble UK [2009] EWCA Civ 407",
+     "source": "https://cms.law/en/gbr/legal-updates/are-pringles-crisps-the-court-of-appeal-decides"
     },
     {
-      "date": "2026-10-06",
-      "n": 4,
-      "type": "laws",
-      "format": "single",
-      "style": "photo",
-      "title": "Don't Feed the Pigeons in Venice",
-      "topic": "Venice ban on feeding pigeons in St. Mark's Square and public areas (2008, fines up to EUR 200)",
-      "slides": 1,
-      "sources": [
-        {
-          "item": "Venice pigeon feeding ban (2008)",
-          "source": "https://www.nbcnews.com/id/wbna24390018"
-        },
-        {
-          "item": "Still illegal, EUR 50-200 fine",
-          "source": "https://www.afar.com/magazine/brewing-coffee-on-the-rialto-bridge-and-other-unexpected-things-that-are-illegal"
-        }
-      ],
-      "imageFolder": "posts/2026-10-06/4-laws",
-      "facebook": {
-        "postId": "6ac4ffcba5491202d07fb3e3",
-        "plannedAt": "2026-10-06T10:03:55-04:00",
-        "sentAt": "2026-10-06T10:03:59-04:00"
-      },
-      "instagram": {
-        "postId": "6ac4ffbc0ee5068821434777",
-        "plannedAt": "2026-10-06T10:03:41-04:00",
-        "sentAt": "2026-10-06T10:03:41-04:00"
-      },
-      "status": "sent",
-      "metrics": {
-        "facebook": {
-          "reactions": 0,
-          "comments": 0,
-          "impressions": 304,
-          "shares": 0,
-          "clicks": 4,
-          "engagementRate_buffer": 1.32,
-          "engagementRate": 0.0,
-          "measuredAt": "2026-10-09T06:55-04:00"
-        },
-        "instagram": {
-          "reactions": 0,
-          "comments": 0,
-          "views": 152,
-          "shares": 0,
-          "saves": 0,
-          "follows": 0,
-          "reach": 98,
-          "engagementRate_buffer": 0,
-          "engagementRate": 0.0,
-          "measuredAt": "2026-10-09T06:55-04:00"
-        }
-      },
-      "note": "Extra post made by hand at Luke's request because the morning carousel reused an old title."
-    },
-    {
-      "date": "2026-10-06",
-      "n": 5,
-      "type": "humour",
-      "format": "single",
-      "style": "tweet",
-      "title": "Terms and Conditions Be Like",
-      "topic": "Terms and conditions nobody reads joke",
-      "slides": 1,
-      "sources": [],
-      "imageFolder": "posts/2026-10-06/5-humour",
-      "facebook": {
-        "postId": "6ac5436e8815e4f757092666",
-        "plannedAt": "2026-10-06T17:07:00-04:00"
-      },
-      "instagram": {
-        "postId": "6ac5436c0231af6af7beec45",
-        "plannedAt": "2026-10-06T15:35:00-04:00",
-        "sentAt": "2026-10-06T15:35:08-04:00"
-      },
-      "status": "sent",
-      "metrics": {
-        "facebook": {
-          "reactions": 0,
-          "comments": 0,
-          "impressions": 158,
-          "shares": 0,
-          "clicks": 1,
-          "engagementRate_buffer": 0.63,
-          "engagementRate": 0.0,
-          "measuredAt": "2026-10-09T06:55-04:00"
-        },
-        "instagram": {
-          "reactions": 0,
-          "comments": 0,
-          "views": 71,
-          "shares": 0,
-          "saves": 0,
-          "follows": 0,
-          "reach": 52,
-          "engagementRate_buffer": 0,
-          "engagementRate": 0.0,
-          "measuredAt": "2026-10-09T06:55-04:00"
-        }
-      }
-    },
-    {
-      "date": "2026-10-06",
-      "n": 6,
-      "type": "myth",
-      "format": "carousel",
-      "style": "tweet",
-      "title": "The McDonald's Coffee Case, Fact Checked",
-      "topic": "Liebeck v. McDonald's hot coffee myth",
-      "slides": 7,
-      "sources": [
-        {
-          "item": "Liebeck v. McDonald's facts",
-          "source": "https://www.findlaw.com/injury/product-liability/the-mcdonald-s-coffee-cup-case-separating-mcfacts-from-mcfiction.html"
-        },
-        {
-          "item": "Verdict, 20% fault, reduction to $480k, 158F",
-          "source": "https://sso.billmarler.com/blog/the-mcdonalds-coffee-case"
-        },
-        {
-          "item": "Damages summary",
-          "source": "https://www.quimbee.com/cases/liebeck-v-mcdonald-s-restaurants"
-        },
-        {
-          "item": "Parked car, 700 reports, $800 offer",
-          "source": "https://www.caoc.org/?pg=facts"
-        }
-      ],
-      "imageFolder": "posts/2026-10-06/6-myth",
-      "facebook": {
-        "postId": "6ac543788815e4f75709279b",
-        "plannedAt": "2026-10-06T18:44:00-04:00"
-      },
-      "instagram": {
-        "postId": "6ac543736cefee8493228fec",
-        "plannedAt": "2026-10-06T17:34:00-04:00"
-      },
-      "status": "sent",
-      "metrics": {
-        "facebook": {
-          "reactions": 0,
-          "comments": 0,
-          "impressions": 134,
-          "shares": 0,
-          "clicks": 1,
-          "engagementRate_buffer": 0.75,
-          "engagementRate": 0.0,
-          "measuredAt": "2026-10-09T06:55-04:00"
-        },
-        "instagram": {
-          "reactions": 0,
-          "comments": 0,
-          "views": 127,
-          "shares": 0,
-          "saves": 0,
-          "follows": 0,
-          "reach": 60,
-          "engagementRate_buffer": 0,
-          "engagementRate": 0.0,
-          "measuredAt": "2026-10-09T06:55-04:00"
-        }
-      }
-    },
-    {
-      "date": "2026-10-07",
-      "n": 1,
-      "type": "history",
-      "format": "single",
-      "style": "tweet",
-      "theme": "light",
-      "title": "The Weevils Who Got a Lawyer",
-      "topic": "Saint-Julien weevils trial 1587",
-      "slides": 1,
-      "sources": [
-        "curiousrambler.com: Rats and weevils have their day in court",
-        "discoverwildlife.com: weevil trial",
-        "historycollection.com: 15 animal trials that actually happened in court"
-      ],
-      "imageFolder": "posts/2026-10-07/1-history",
-      "caption": "A French village took its weevils to court, and the weevils' lawyer turned down the deal. Would you have taken it?\n\n#JuryJuice #LegalHistory #WeirdHistory",
-      "facebook": {
-        "postId": "6ac6267fdc114118aebcba85",
-        "plannedAt": "2026-10-07T09:56:00-04:00"
-      },
-      "instagram": {
-        "postId": "6ac626821d37bfff591062b5",
-        "plannedAt": "2026-10-07T09:06:00-04:00"
-      },
-      "status": "sent",
-      "metrics": {
-        "facebook": {
-          "reactions": 0,
-          "comments": 0,
-          "impressions": 201,
-          "shares": 0,
-          "clicks": 0,
-          "engagementRate_buffer": 0,
-          "engagementRate": 0.0,
-          "measuredAt": "2026-10-09T06:55-04:00"
-        },
-        "instagram": {
-          "reactions": 0,
-          "comments": 0,
-          "views": 100,
-          "shares": 0,
-          "saves": 0,
-          "follows": 0,
-          "reach": 67,
-          "engagementRate_buffer": 0,
-          "engagementRate": 0.0,
-          "measuredAt": "2026-10-09T06:55-04:00"
-        }
-      }
-    },
-    {
-      "date": "2026-10-07",
-      "n": 2,
-      "type": "humour",
-      "format": "single",
-      "style": "tweet",
-      "theme": "black",
-      "title": "Fair and Impartial, Until Lunch",
-      "topic": "jury selection joke",
-      "slides": 1,
-      "sources": [],
-      "imageFolder": "posts/2026-10-07/2-humour",
-      "caption": "Jury selection in a nutshell. What went through your mind when your summons arrived?\n\n#JuryJuice #JuryDuty #LegalHumor",
-      "facebook": {
-        "postId": "6ac626853f62a9ae41a12ae0",
-        "plannedAt": "2026-10-07T12:21:00-04:00"
-      },
-      "instagram": {
-        "postId": "6ac626880ea81feae6a68178",
-        "plannedAt": "2026-10-07T11:50:00-04:00"
-      },
-      "status": "sent",
-      "metrics": {
-        "facebook": {
-          "reactions": 1,
-          "comments": 1,
-          "impressions": 196,
-          "shares": 0,
-          "clicks": 5,
-          "engagementRate_buffer": 3.57,
-          "engagementRate": 1.02,
-          "measuredAt": "2026-10-09T06:55-04:00"
-        },
-        "instagram": {
-          "reactions": 0,
-          "comments": 0,
-          "views": 67,
-          "shares": 0,
-          "saves": 0,
-          "follows": 0,
-          "reach": 49,
-          "engagementRate_buffer": 0,
-          "engagementRate": 0.0,
-          "measuredAt": "2026-10-09T06:55-04:00"
-        }
-      }
-    },
-    {
-      "date": "2026-10-07",
-      "n": 3,
-      "type": "list",
-      "format": "single",
-      "style": "tweet",
-      "theme": "dim",
-      "title": "The $54 Million Pair of Pants",
-      "topic": "Pearson v. Chung (D.C. 2007), lost pants lawsuit",
-      "slides": 1,
-      "sources": [
-        "en.wikipedia.org/wiki/Pearson_v._Chung",
-        "abcnews.go.com/TheLaw/story?id=3303910",
-        "washingtontimes.com 2007-06-25"
-      ],
-      "imageFolder": "posts/2026-10-07/3-list",
-      "caption": "$54 million over one pair of pants. What would you have decided?\n\n#JuryJuice #BizarreLawsuits #DryCleaning",
-      "facebook": {
-        "postId": "6ac6268b0ea81feae6a68220",
-        "plannedAt": "2026-10-07T14:05:00-04:00"
-      },
-      "instagram": {
-        "postId": "6ac6268e2ff102be34be7d6f",
-        "plannedAt": "2026-10-07T12:39:00-04:00"
-      },
-      "status": "sent",
-      "metrics": {
-        "facebook": {
-          "reactions": 0,
-          "comments": 0,
-          "impressions": 323,
-          "shares": 0,
-          "clicks": 2,
-          "engagementRate_buffer": 0.62,
-          "engagementRate": 0.0,
-          "measuredAt": "2026-10-09T06:55-04:00"
-        },
-        "instagram": {
-          "reactions": 0,
-          "comments": 0,
-          "views": 175,
-          "shares": 0,
-          "saves": 0,
-          "follows": 0,
-          "reach": 115,
-          "engagementRate_buffer": 0,
-          "engagementRate": 0.0,
-          "measuredAt": "2026-10-09T06:55-04:00"
-        }
-      }
-    },
-    {
-      "date": "2026-10-07",
-      "n": 4,
-      "type": "myth",
-      "format": "carousel",
-      "style": "tweet",
-      "theme": "black",
-      "title": "The Monkey Selfie Lawsuit, Fact Checked",
-      "topic": "Naruto v. Slater (monkey selfie copyright)",
-      "slides": 7,
-      "sources": [
-        "abc7news.com/post/court-rejects-copyright-suit-over-monkey-selfies/3382516/",
-        "ktvu.com/news/monkey-selfie-case-ends-in-settlement"
-      ],
-      "imageFolder": "posts/2026-10-07/4-myth",
-      "caption": "A monkey, a camera and a lawsuit. Did the monkey really win the photos?\n\n#JuryJuice #MonkeySelfie #CopyrightLaw",
-      "facebook": {
-        "postId": "6ac69638223f8511230c2dd5",
-        "plannedAt": "2026-10-07T16:56:00-04:00"
-      },
-      "instagram": {
-        "postId": "6ac6963ba8c569b3dfae0a1c",
-        "plannedAt": "2026-10-07T15:50:00-04:00"
-      },
-      "status": "sent",
-      "metrics": {
-        "facebook": {
-          "reactions": 0,
-          "comments": 0,
-          "impressions": 70,
-          "shares": 0,
-          "clicks": 1,
-          "engagementRate_buffer": 1.43,
-          "engagementRate": 0.0,
-          "measuredAt": "2026-10-09T06:55-04:00"
-        },
-        "instagram": {
-          "reactions": 0,
-          "comments": 0,
-          "views": 86,
-          "shares": 0,
-          "saves": 0,
-          "follows": 0,
-          "reach": 43,
-          "engagementRate_buffer": 0,
-          "engagementRate": 0.0,
-          "measuredAt": "2026-10-09T06:55-04:00"
-        }
-      }
-    },
-    {
-      "date": "2026-10-07",
-      "n": 5,
-      "type": "laws",
-      "format": "single",
-      "style": "photo",
-      "theme": null,
-      "title": "Singapore's Chewing Gum Sales Ban",
-      "topic": "Singapore: sale of regular chewing gum banned since 1992",
-      "slides": 1,
-      "sources": [
-        "en.wikipedia.org/wiki/Chewing_gum_sales_ban_in_Singapore"
-      ],
-      "imageFolder": "posts/2026-10-07/5-laws",
-      "caption": "A tiny city with a big rule about gum. Would you have passed this law?\n\n#JuryJuice #Singapore #WeirdLaws",
-      "facebook": {
-        "postId": "6ac6963e62a632ed42a5940c",
-        "plannedAt": "2026-10-07T17:56:00-04:00"
-      },
-      "instagram": {
-        "postId": "6ac696419c24023398416218",
-        "plannedAt": "2026-10-07T18:54:00-04:00"
-      },
-      "status": "deleted-by-luke",
-      "metrics": {},
-      "note": "Luke deleted this from Buffer on purpose (Oct 7 evening). Not a problem.",
-      "subtopic": "gum ban"
-    },
-    {
-      "date": "2026-10-07",
-      "n": 6,
-      "type": "engage",
-      "format": "single",
-      "style": "tweet",
-      "theme": "light",
-      "title": "Read the lease or skim it",
-      "topic": "Lease reading habits question",
-      "slides": 1,
-      "sources": [],
-      "imageFolder": "posts/2026-10-07/6-engage",
-      "caption": "When you sign a lease, do you read every page or skim to the signature line?\n\n#JuryJuice #Renting #LeaseAgreement",
-      "facebook": {
-        "postId": "6ac696443f76f145e7bfc4d5",
-        "plannedAt": "2026-10-07T19:40:00-04:00"
-      },
-      "instagram": {
-        "postId": "6ac69647223f8511230c30ea",
-        "plannedAt": "2026-10-07T21:18:00-04:00"
-      },
-      "status": "deleted-by-luke",
-      "metrics": {},
-      "note": "Luke deleted this from Buffer on purpose (Oct 7 evening). Not a problem.",
-      "subtopic": "reading leases"
-    },
-    {
-      "date": "2026-10-07",
-      "n": 7,
-      "type": "list",
-      "format": "single",
-      "style": "photo",
-      "title": "One Broken Brake Light",
-      "topic": "Heien v. North Carolina (2014): traffic stop over one broken brake light",
-      "slides": [
-        "A driver was pulled over for **one broken brake light**. The law only required one. The **Supreme Court** still said the stop was fine."
-      ],
-      "caption": "One broken brake light took this traffic stop all the way to the Supreme Court. Would you have ruled the same way?\n\n#JuryJuice #TrafficStop #SupremeCourt\n\nSource: Heien v. North Carolina (2014)",
-      "sources": [
-        {
-          "item": "Heien v. North Carolina, 574 U.S. 54 (2014), 8-1: reasonable mistake of law can support a stop",
-          "source": "U.S. Supreme Court"
-        }
-      ],
-      "imageFolder": "posts/2026-10-07/7-list",
-      "facebook": {
-        "postId": "6ac6c5612977c961bdb95832",
-        "plannedAt": "2026-10-07T19:40:00-04:00"
-      },
-      "instagram": {
-        "postId": "6ac6c56401166a3e1c08294e",
-        "plannedAt": "2026-10-07T20:05:00-04:00"
-      },
-      "status": "sent",
-      "metaCheck": "passed",
-      "note": "made by hand after the queue was cleared",
-      "metrics": {
-        "facebook": {
-          "reactions": 9,
-          "comments": 20,
-          "impressions": 3157,
-          "shares": 2,
-          "clicks": 160,
-          "engagementRate_buffer": 5.92,
-          "engagementRate": 0.98,
-          "measuredAt": "2026-10-09T06:55-04:00"
-        },
-        "instagram": {
-          "reactions": 0,
-          "comments": 0,
-          "views": 233,
-          "shares": 0,
-          "saves": 0,
-          "follows": 0,
-          "reach": 174,
-          "engagementRate_buffer": 0,
-          "engagementRate": 0.0,
-          "measuredAt": "2026-10-09T06:55-04:00"
-        }
-      },
-      "topicGroup": "police",
-      "subtopic": "traffic stop"
-    },
-    {
-      "date": "2026-10-08",
-      "n": 1,
-      "type": "list",
-      "topicGroup": "police",
-      "format": "single",
-      "style": "photo",
-      "title": "Kept Waiting for the Dog",
-      "topic": "Rodriguez v. United States (2015): traffic stop can't be prolonged for a drug-dog sniff",
-      "slides": [
-        "An officer finished a traffic stop but **kept the driver waiting** for a drug dog. The Supreme Court ruled that **wasn't allowed**."
-      ],
-      "caption": "A finished traffic stop, a waiting drug dog and a Supreme Court ruling. Would you have decided it the same way?\n\n#JuryJuice #TrafficStop #SupremeCourt\n\nSource: Rodriguez v. United States (2015)",
-      "sources": [
-        {
-          "item": "Rodriguez v. United States, 575 U.S. 348 (2015), 6-3",
-          "source": "U.S. Supreme Court (Justia/Cornell/UPI)"
-        }
-      ],
-      "imageFolder": "posts/2026-10-08/1-list",
-      "facebook": {
-        "postId": "6ac776f0cc46365fd37a82c0",
-        "plannedAt": "2026-10-08T08:34:00-04:00"
-      },
-      "instagram": {
-        "postId": "6ac776f2444a36d3be1b2788",
-        "plannedAt": "2026-10-08T09:09:00-04:00"
-      },
-      "status": "sent",
-      "metaCheck": "passed",
-      "metrics": {
-        "facebook": {
-          "reactions": 20,
-          "comments": 1,
-          "impressions": 1398,
-          "shares": 2,
-          "clicks": 30,
-          "engagementRate_buffer": 3.79,
-          "engagementRate": 1.65,
-          "measuredAt": "2026-10-09T06:55-04:00"
-        },
-        "instagram": {
-          "reactions": 2,
-          "comments": 0,
-          "views": 169,
-          "shares": 0,
-          "saves": 0,
-          "follows": 0,
-          "reach": 107,
-          "engagementRate_buffer": 1.87,
-          "engagementRate": 1.87,
-          "measuredAt": "2026-10-09T06:55-04:00"
-        }
-      },
-      "subtopic": "traffic stop, drug dog"
-    },
-    {
-      "date": "2026-10-08",
-      "n": 2,
-      "type": "engage",
-      "topicGroup": "hoa",
-      "format": "single",
-      "style": "tweet",
-      "theme": "dim",
-      "title": "Strangest HOA letter",
-      "topic": "HOA letter question",
-      "slides": [
-        "What is the most unexpected thing an HOA has ever sent you a letter about?"
-      ],
-      "caption": "HOA letters can get oddly specific. What's the strangest one you've heard of?\n\n#JuryJuice #HOA #Homeowners",
-      "sources": [],
-      "imageFolder": "posts/2026-10-08/2-engage",
-      "facebook": {
-        "postId": "6ac776f59117a76f3a2961a2",
-        "plannedAt": "2026-10-08T13:00:00-04:00"
-      },
-      "instagram": {
-        "postId": "6ac776f7e63932e2c59b4b9f",
-        "plannedAt": "2026-10-08T12:02:00-04:00"
-      },
-      "status": "sent",
-      "metaCheck": "passed",
-      "metrics": {
-        "facebook": {
-          "reactions": 0,
-          "comments": 0,
-          "impressions": 102,
-          "shares": 0,
-          "clicks": 0,
-          "engagementRate_buffer": 0,
-          "engagementRate": 0.0,
-          "measuredAt": "2026-10-09T06:55-04:00"
-        },
-        "instagram": {
-          "reactions": 0,
-          "comments": 0,
-          "views": 34,
-          "shares": 0,
-          "saves": 0,
-          "follows": 0,
-          "reach": 22,
-          "engagementRate_buffer": 0,
-          "engagementRate": 0.0,
-          "measuredAt": "2026-10-09T06:55-04:00"
-        }
-      },
-      "subtopic": "HOA letters"
-    },
-    {
-      "date": "2026-10-08",
-      "n": 3,
-      "type": "history",
-      "topicGroup": "county",
-      "format": "single",
-      "style": "tweet",
-      "theme": "black",
-      "title": "The Land That Sat Empty",
-      "topic": "Kelo v. City of New London (2005): city took homes for private development; Pfizer left in 2009, land stayed vacant",
-      "slides": [
-        {
-          "text": "In 2005, the Supreme Court ruled New London, Connecticut could **take homes for a private development**.\n\nThe homes came down. Then **Pfizer, the big neighbor the plan was built around, left town** in 2009, and the land sat empty for years."
-        }
-      ],
-      "caption": "A city won at the Supreme Court, then the project it fought for was never built. Was the ruling right?\n\n#JuryJuice #EminentDomain #SupremeCourt\n\nSource: Kelo v. City of New London (2005)",
-      "sources": [
-        {
-          "item": "2005 5-4 ruling; Pfizer leaving New London 2009; homes demolished for hotel/stores/condos never built",
-          "source": "https://thetech.com/2009/11/13/long4-v129-n53"
-        },
-        {
-          "item": "Fort Trumbull land still largely vacant; Kelo house relocated",
-          "source": "https://www.inversecondemnation.com/2025/07/property-rights-pilgrimage-the-kelo-property-and-house-twenty-years-on.html"
-        }
-      ],
-      "imageFolder": "posts/2026-10-08/3-history/",
-      "facebook": {
-        "postId": "6ac7e6035b76911adddd3ae0",
-        "plannedAt": "2026-10-08T19:41:00-04:00",
-        "format": "single"
-      },
-      "instagram": {
-        "postId": "6ac7e605d3b0be2fc4154000",
-        "plannedAt": "2026-10-08T18:38:00-04:00"
-      },
-      "status": "sent",
-      "metaCheck": "passed",
-      "metrics": {
-        "facebook": {
-          "reactions": 0,
-          "comments": 0,
-          "impressions": 244,
-          "shares": 0,
-          "clicks": 0,
-          "engagementRate_buffer": 0,
-          "engagementRate": 0.0,
-          "measuredAt": "2026-10-09T06:55-04:00"
-        }
-      },
-      "subtopic": "eminent domain"
-    },
-    {
-      "date": "2026-10-09",
-      "n": 1,
-      "type": "list",
-      "topicGroup": "hoa",
-      "format": "single",
-      "style": "photo",
-      "theme": null,
-      "plannedStyle": "photo",
-      "styleNote": "switched photo->tweet: Hookline Images generate_image tool not available in this run",
-      "title": "Foreclosed Over $800 in HOA Dues",
-      "topic": "Texas HOA foreclosed on deployed soldier Michael Clauer's paid-off ~$300k home over ~$800 dues (sold for $3,500, 2008); confidential settlement returned home (2010)",
-      "slides": [
-        {
-          "text": "An HOA **foreclosed on a soldier's paid-off home** over $800 in dues while he served in Iraq. It sold for **$3,500**."
-        }
-      ],
-      "caption": "Two missed HOA payments, a paid-off house and a soldier overseas. Should an HOA be able to foreclose over dues?\n\n#JuryJuice #HOA #RealEstate\n\nSources: NPR, 2010; Mother Jones, 2010",
-      "sources": [
-        {
-          "item": "Paid-off ~$300k Texas home, two missed HOA payments, sold ~$3,500 at courthouse sale while he served in Iraq",
-          "source": "https://www.npr.org/transcripts/128078864"
-        },
-        {
-          "item": "$800 dues, sold May 2008 for $3,500, confidential settlement 2010, family gets house back",
-          "source": "https://www.motherjones.com/politics/2010/08/michael-clauer-update/"
-        }
-      ],
-      "imageFolder": "posts/2026-10-09/1-list-photo",
-      "facebook": {
-        "postId": "6ac8c74c3cdd14dcd26a7569",
-        "plannedAt": "2026-10-09T09:56:00-04:00",
-        "format": "single"
-      },
-      "instagram": {
-        "postId": "6ac8c74f84976ed3ee1ad8a3",
-        "plannedAt": "2026-10-09T09:50:00-04:00"
-      },
-      "status": "sent",
-      "metaCheck": "passed (soldier not named on slide or caption; no violence; settlement stated as settlement)",
-      "metrics": {},
-      "note": "switched from tweet to photo by hand (Luke asked; image tool had been off for the am run)",
-      "subtopic": "HOA dues foreclosure"
-    },
-    {
-      "date": "2026-10-09",
-      "n": 2,
-      "type": "engage",
-      "topicGroup": "police",
-      "format": "single",
-      "style": "tweet",
-      "theme": "light",
-      "title": "Tickets from unmarked cars",
-      "topic": "police question: should officers be allowed to ticket from unmarked cars?",
-      "slides": [
-        {
-          "text": "Should police be allowed to write traffic tickets from unmarked cars?"
-        }
-      ],
-      "caption": "Unmarked cars catch plenty of speeders. Fair enforcement or a little sneaky?\n\n#JuryJuice #TrafficStop #Police",
-      "sources": [],
-      "imageFolder": "posts/2026-10-09/2-engage/",
-      "experiment": "sharper, opinion-based police/ticket question (Test next: quick questions)",
-      "facebook": {
-        "postId": "6ac8c75333f2b9fa8134907e",
-        "plannedAt": "2026-10-09T13:43:00-04:00",
-        "format": "single"
-      },
-      "instagram": {
-        "postId": "6ac8c75684976ed3ee1ad935",
-        "plannedAt": "2026-10-09T13:25:00-04:00"
-      },
-      "status": "sent",
-      "metaCheck": "passed",
-      "metrics": {},
-      "subtopic": "traffic tickets"
-    },
-    {
-      "date": "2026-10-10",
-      "n": 1,
-      "type": "engage",
-      "topicGroup": "police",
-      "format": "single",
-      "style": "tweet",
-      "theme": "dim",
-      "title": "Quickest parking ticket",
-      "topic": "parking ticket question: shortest time before finding a ticket",
-      "slides": [
-        {
-          "text": "What's the shortest time you've ever left your car before finding a parking ticket on it?"
-        }
-      ],
-      "caption": "Some parking tickets show up before you're out of sight. What's your quickest one?\n\n#JuryJuice #ParkingTicket #Police",
-      "sources": [],
-      "imageFolder": "posts/2026-10-10/1-engage/",
-      "facebook": {
-        "postId": "6aca1876ed92ed8fa5c68014",
-        "plannedAt": "2026-10-10T11:47:00-04:00",
-        "format": "single"
-      },
-      "instagram": {
-        "postId": "6aca1879d9cab260a7bf41e6",
-        "plannedAt": "2026-10-10T09:04:00-04:00"
-      },
-      "status": "sent",
-      "metaCheck": "passed",
-      "metrics": {},
-      "subtopic": "parking tickets"
-    },
-    {
-      "date": "2026-10-10",
-      "n": 2,
-      "type": "laws",
-      "topicGroup": "hoa",
-      "format": "single",
-      "style": "photo",
-      "theme": null,
-      "title": "The Purple Swing Set",
-      "topic": "Lee's Summit, Missouri HOA vs purple play set (2015): judge let family keep it",
-      "slides": [
-        {
-          "text": "A Missouri HOA threatened a family with fines and even jail time over a **purple swing set**.\n\nThe HOA's rules said play equipment had to match the community's colors. In 2015, a judge let the family **keep it**."
-        }
-      ],
-      "caption": "An HOA threatened a family with jail over a purple swing set. Should color rules like that hold up?\n\n#JuryJuice #HOA #HomeownersAssociation\n\nSource: ABA Journal, 2015",
-      "sources": [
-        "ABA Journal 2015",
-        "Boston 25 News 2015",
-        "ConsumerAffairs 2015"
-      ],
-      "imageFolder": "posts/2026-10-10/2-laws-photo",
-      "facebook": {
-        "postId": "6aca187bd9cab260a7bf439b",
-        "plannedAt": "2026-10-10T19:15:00-04:00",
-        "format": "single"
-      },
-      "instagram": {
-        "postId": "6aca187eb07d37ac976cbd10",
-        "plannedAt": "2026-10-10T18:20:00-04:00"
-      },
-      "status": "sent",
-      "metaCheck": "passed",
-      "metrics": {},
-      "note": "switched back to photo by hand after the image tool came back",
-      "subtopic": "HOA colour rules"
-    },
-    {
-      "date": "2026-10-11",
-      "format": "single",
-      "metrics": {},
-      "metaCheck": "passed",
-      "status": "sent",
-      "n": 1,
-      "type": "engage",
-      "topicGroup": "police",
-      "style": "tweet",
-      "theme": "black",
-      "title": "Wait at a traffic stop",
-      "topic": "traffic stop wait time question",
-      "slides": [
-        "How long did you wait at your last traffic stop before the officer came back to your window?"
-      ],
-      "sources": [],
-      "imageFolder": "posts/2026-10-11/1-engage",
-      "facebook": {
-        "postId": "6acaa506bba9419ccb156a68",
-        "plannedAt": "2026-10-11T09:46:00-04:00"
-      },
-      "instagram": {
-        "postId": "6acaa508bba9419ccb156ae4",
-        "plannedAt": "2026-10-11T10:58:00-04:00"
-      },
-      "subtopic": "traffic stop"
-    },
-    {
-      "date": "2026-10-11",
-      "format": "single",
-      "metrics": {},
-      "metaCheck": "passed",
-      "status": "scheduled",
-      "n": 2,
-      "type": "list",
-      "topicGroup": "police",
-      "style": "photo",
-      "title": "Plate Run, Revoked License",
-      "topic": "Kansas v. Glover (2020): deputy ran plate, owner's license revoked, stop upheld 8-1 (Thomas)",
-      "slides": [
-        "A deputy ran a plate, saw the owner's license was revoked, and pulled the truck over. The Supreme Court upheld the stop."
-      ],
-      "sources": [
-        {
-          "item": "Kansas v. Glover (2020)",
-          "source": "https://kansaslawreview.ku.edu/kansas-v-glover-us-supreme-court-decides-kansas-case-about-traffic-stops"
-        }
-      ],
-      "imageFolder": "posts/2026-10-11/2-list-photo",
-      "facebook": {
-        "postId": "6acaa50bd9cab260a7d88356",
-        "plannedAt": "2026-10-11T20:18:00-04:00"
-      },
-      "instagram": {
-        "postId": "6acaa50ef91f772d45a76422",
-        "plannedAt": "2026-10-11T18:58:00-04:00"
-      },
-      "subtopic": "traffic stop, plate check"
-    },
-    {
-      "date": "2026-10-12",
-      "n": 1,
-      "type": "engage",
-      "topicGroup": "county",
-      "format": "single",
-      "style": "tweet",
-      "theme": "light",
-      "title": "Strangest permit",
-      "topic": "city/county permit question",
-      "slides": [
-        "Which permit from your city or county made you laugh out loud?"
-      ],
-      "caption": "Some permits make sense. Others make you read the letter twice. Which one got you?\n\n#JuryJuice #CityHall #Permits",
-      "sources": [],
-      "imageFolder": "posts/2026-10-12/1-engage",
-      "facebook": {
-        "postId": "6acbf6aeea568e911a3f0758",
-        "plannedAt": "2026-10-12T10:31:00-04:00"
-      },
-      "instagram": {
-        "postId": "6acbf6b0fa026cfb81156722",
-        "plannedAt": "2026-10-12T10:37:00-04:00"
-      },
-      "status": "scheduled",
-      "metaCheck": "passed",
-      "metrics": {},
-      "subtopic": "city permits",
-      "image": "posts/2026-10-12/1-engage/slide1-v2.jpg"
-    },
-    {
-      "date": "2026-10-12",
-      "n": 2,
-      "type": "laws",
-      "topicGroup": "county",
-      "format": "single",
-      "style": "photo",
-      "title": "Vegetables Out Front",
-      "topic": "Miami Shores, Florida front-yard vegetable garden ban: $50/day fine (2013 ordinance), 3rd DCA upheld Nov 1 2017; Florida 2019 law ended such bans",
-      "slides": [
-        "A couple was fined **$50 a day** for growing vegetables in their front yard. The judges sided with the village."
-      ],
-      "caption": "Tomatoes and peppers out front cost one couple $50 a day. Whose side are you on?\n\n#JuryJuice #VegetableGarden #CityHall\n\nSource: Ricketts v. Village of Miami Shores (2017)",
-      "sources": [
-        "https://ij.org/press-release/florida-appellate-court-upholds-ban-front-yard-vegetable-gardens/",
-        "https://www.cbsnews.com/amp/news/florida-towns-can-no-longer-ban-residential-vegetable-gardens"
-      ],
-      "imageFolder": "posts/2026-10-12/2-laws-photo",
-      "facebook": {
-        "postId": "6acbf6b263ff33d8c99697c1",
-        "plannedAt": "2026-10-12T19:14:00-04:00"
-      },
-      "instagram": {
-        "postId": "6acbf6b47db619a291492818",
-        "plannedAt": "2026-10-12T18:33:00-04:00"
-      },
-      "status": "scheduled",
-      "metaCheck": "passed",
-      "metrics": {},
-      "subtopic": "front-yard gardens",
-      "image": "posts/2026-10-12/2-laws-photo/slide1-v3.jpg",
-      "note": "2026-10-11: place name removed (Luke's rule), caption varied"
-    },
-    {
-      "date": "2026-10-13",
-      "metrics": {},
-      "metaCheck": "passed",
-      "n": 1,
-      "type": "list",
-      "topicGroup": "police",
-      "format": "single",
-      "style": "photo",
-      "title": "Phone Search After Arrest",
-      "topic": "Riley v. California (2014)",
-      "subtopic": "phone search",
-      "slides": [
-        "Officers read through a man's phone after his arrest. The justices voted **9 to 0** that they needed a warrant first."
-      ],
-      "caption": "One phone, one arrest, and zero dissenting votes. Does a phone deserve more privacy than a wallet?\n\n#JuryJuice #CellPhone #Privacy\n\nSource: Riley v. California (2014)",
-      "sources": [
-        {
-          "item": "Riley v. California (2014)",
-          "source": "Faegre Drinker summary of decision, 2014-06-25; unanimous, warrant generally required for phone seized at arrest"
-        }
-      ],
-      "imageFolder": "posts/2026-10-13/1-list-photo",
-      "facebook": {
-        "postId": "6acd48148465d3f29e8d9fcf",
-        "plannedAt": "2026-10-13T11:01:00-04:00"
-      },
-      "instagram": {
-        "postId": "6acd48155562ebe80f6bbd56",
-        "plannedAt": "2026-10-13T11:17:00-04:00"
-      },
-      "status": "scheduled"
-    },
-    {
-      "date": "2026-10-13",
-      "metrics": {},
-      "metaCheck": "passed",
-      "n": 2,
-      "type": "engage",
-      "topicGroup": "county",
-      "format": "single",
-      "style": "tweet",
-      "theme": "dim",
-      "title": "Neighbour's overhanging tree",
-      "topic": "Whose job to trim an overhanging tree",
-      "subtopic": "neighbour trees",
-      "slides": [
-        "Your neighbour's tree hangs over your yard. Whose job is it to trim it?"
-      ],
-      "caption": "Tree fights between neighbours get surprisingly heated. Has one ever started on your street?\n\n#JuryJuice #Neighbors #PropertyLine",
-      "sources": [],
-      "imageFolder": "posts/2026-10-13/2-engage",
-      "facebook": {
-        "postId": "6acd4817e9da05d4097d95c7",
-        "plannedAt": "2026-10-13T20:46:00-04:00"
-      },
-      "instagram": {
-        "postId": "6acd48190fd81940c1c72467",
-        "plannedAt": "2026-10-13T18:08:00-04:00"
-      },
-      "status": "scheduled"
+     "item": "Ramirez v. Kraft Heinz, Velveeta (2023)",
+     "source": "https://www.tastingtable.com/1354460/velveeta-shells-cheese-lawsuit-thrown-out"
     }
-  ],
-  "ideas": []
+   ],
+   "imageFolder": "posts/2026-10-05/1-list",
+   "facebook": {
+    "postId": "6ac425df4e17d6a1b25b1dde",
+    "plannedAt": "2026-10-05T20:17:00-04:00",
+    "sentAt": "2026-10-05T18:35:45-04:00",
+    "url": "https://facebook.com/879850111887291_122137741827199899"
+   },
+   "instagram": {
+    "postId": "6ac425e638629554e344fc7b",
+    "plannedAt": "2026-10-05T19:38:00-04:00",
+    "sentAt": "2026-10-05T18:35:44-04:00",
+    "url": "https://www.instagram.com/p/DeIS5wdlOmO/"
+   },
+   "status": "sent",
+   "metrics": {
+    "facebook": {
+     "reactions": 1,
+     "comments": 0,
+     "impressions": 228,
+     "shares": 0,
+     "clicks": 4,
+     "engagementRate_buffer": 2.19,
+     "engagementRate": 0.44,
+     "measuredAt": "2026-10-09T06:55-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 124,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 52,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-09T06:55-04:00"
+    }
+   },
+   "note": "Posted immediately at Luke's request; use sentAt (not plannedAt) for time-of-day learning.",
+   "title": "5 Lawsuits Too Bizarre to Be Real"
+  },
+  {
+   "date": "2026-10-06",
+   "n": 1,
+   "type": "list",
+   "format": "carousel",
+   "style": "tweet",
+   "topic": "5 lawsuits too bizarre to be real: Mayo v. Satan (1971), Leonard v. PepsiCo (Harrier jet), Red Bull gives you wings class action, Nutella balanced breakfast class action, Subway footlong (7th Cir. 2017)",
+   "slides": 7,
+   "sources": [
+    {
+     "item": "Mayo v. Satan and His Staff (1971)",
+     "source": "Atlas Obscura: Are You There God? I'd Like to Sue You https://www.atlasobscura.com/articles/lawsuits-against-god"
+    },
+    {
+     "item": "Leonard v. PepsiCo (SDNY, Aug 1999)",
+     "source": "Seattle Times: Judge: No Harrier Jet For Seattle Consumer; Mental Floss https://mentalfloss.com/posts/pepsi-harrier-jet-lawsuit-history"
+    },
+    {
+     "item": "Careathers v. Red Bull ($13M settlement)",
+     "source": "NBC News https://www.nbcnews.com/business/consumer/red-bull-drinkers-can-claim-10-over-gives-you-wings-n221901"
+    },
+    {
+     "item": "Hohenberg v. Ferrero (Nutella, $3M, 2012)",
+     "source": "NBC San Diego https://nbcsandiego.com/news/local/sd-mother-wins-nutella-lawsuit/1951487; WGBH https://wgbh.org/news/2012-04-26/nutella-maker-may-settle-deceptive-ad-lawsuit-for-3-million"
+    },
+    {
+     "item": "In re Subway Footlong Sandwich Litigation (7th Cir. 2017)",
+     "source": "Nation's Restaurant News https://www.nrn.com/restaurant-operations/appeals-court-rejects-subway-foot-long-settlement"
+    }
+   ],
+   "imageFolder": "posts/2026-10-06/1-list",
+   "facebook": {
+    "postId": "6ac4d4f5b26845c29743e480",
+    "plannedAt": "2026-10-06T11:38:00-04:00"
+   },
+   "instagram": {
+    "postId": "6ac4d4f9cd5ae4a005f83a0b",
+    "plannedAt": "2026-10-06T08:00:00-04:00"
+   },
+   "status": "deleted",
+   "metrics": {},
+   "title": "5 Lawsuits Too Bizarre to Be Real",
+   "note": "Both Buffer posts no longer exist (404 on 2026-10-06 pm run), presumably removed by Luke."
+  },
+  {
+   "date": "2026-10-06",
+   "n": 2,
+   "type": "engage",
+   "format": "single",
+   "style": "tweet",
+   "topic": "Jury duty summons vs dentist appointment would-you-rather",
+   "slides": 1,
+   "sources": [],
+   "imageFolder": "posts/2026-10-06/2-engage",
+   "facebook": {
+    "postId": "6ac4d4ff504ed07fb48900f5",
+    "plannedAt": "2026-10-06T15:28:00-04:00",
+    "sentAt": "2026-10-06T15:28:05-04:00"
+   },
+   "instagram": {
+    "postId": "6ac4d504504ed07fb4890358",
+    "plannedAt": "2026-10-06T16:51:00-04:00"
+   },
+   "status": "sent",
+   "metrics": {
+    "facebook": {
+     "reactions": 1,
+     "comments": 2,
+     "impressions": 353,
+     "shares": 0,
+     "clicks": 6,
+     "engagementRate_buffer": 2.55,
+     "engagementRate": 0.85,
+     "measuredAt": "2026-10-09T06:55-04:00"
+    }
+   }
+  },
+  {
+   "date": "2026-10-06",
+   "n": 3,
+   "type": "laws",
+   "format": "single",
+   "style": "photo",
+   "topic": "Switzerland: guinea pigs must not be kept alone (Animal Protection Ordinance)",
+   "slides": 1,
+   "sources": [
+    {
+     "item": "Swiss Animal Protection Ordinance, guinea pigs kept in groups",
+     "source": "swissinfo https://www.swissinfo.ch/eng/loo-flushing--explosives---gold_fact-check--lonely-guinea-pigs-and-other-quirky-swiss-rumours/45067078; Mental Floss https://www.mentalfloss.com/animals/pets/its-illegal-own-single-guinea-pig-switzerland"
+    }
+   ],
+   "imageFolder": "posts/2026-10-06/3-laws",
+   "facebook": {
+    "postId": "6ac4d508504ed07fb489062f",
+    "plannedAt": "2026-10-06T21:03:00-04:00"
+   },
+   "instagram": {
+    "postId": "6ac4d50bcd5ae4a005f84308",
+    "plannedAt": "2026-10-06T21:25:00-04:00"
+   },
+   "status": "sent",
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 276,
+     "shares": 0,
+     "clicks": 2,
+     "engagementRate_buffer": 0.72,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-09T06:55-04:00"
+    },
+    "instagram": {
+     "reactions": 1,
+     "comments": 0,
+     "views": 83,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 62,
+     "engagementRate_buffer": 1.61,
+     "engagementRate": 1.61,
+     "measuredAt": "2026-10-09T06:55-04:00"
+    }
+   }
+  },
+  {
+   "date": "2026-10-06",
+   "n": 4,
+   "type": "laws",
+   "format": "single",
+   "style": "photo",
+   "title": "Don't Feed the Pigeons in Venice",
+   "topic": "Venice ban on feeding pigeons in St. Mark's Square and public areas (2008, fines up to EUR 200)",
+   "slides": 1,
+   "sources": [
+    {
+     "item": "Venice pigeon feeding ban (2008)",
+     "source": "https://www.nbcnews.com/id/wbna24390018"
+    },
+    {
+     "item": "Still illegal, EUR 50-200 fine",
+     "source": "https://www.afar.com/magazine/brewing-coffee-on-the-rialto-bridge-and-other-unexpected-things-that-are-illegal"
+    }
+   ],
+   "imageFolder": "posts/2026-10-06/4-laws",
+   "facebook": {
+    "postId": "6ac4ffcba5491202d07fb3e3",
+    "plannedAt": "2026-10-06T10:03:55-04:00",
+    "sentAt": "2026-10-06T10:03:59-04:00"
+   },
+   "instagram": {
+    "postId": "6ac4ffbc0ee5068821434777",
+    "plannedAt": "2026-10-06T10:03:41-04:00",
+    "sentAt": "2026-10-06T10:03:41-04:00"
+   },
+   "status": "sent",
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 304,
+     "shares": 0,
+     "clicks": 4,
+     "engagementRate_buffer": 1.32,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-09T06:55-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 152,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 98,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-09T06:55-04:00"
+    }
+   },
+   "note": "Extra post made by hand at Luke's request because the morning carousel reused an old title."
+  },
+  {
+   "date": "2026-10-06",
+   "n": 5,
+   "type": "humour",
+   "format": "single",
+   "style": "tweet",
+   "title": "Terms and Conditions Be Like",
+   "topic": "Terms and conditions nobody reads joke",
+   "slides": 1,
+   "sources": [],
+   "imageFolder": "posts/2026-10-06/5-humour",
+   "facebook": {
+    "postId": "6ac5436e8815e4f757092666",
+    "plannedAt": "2026-10-06T17:07:00-04:00"
+   },
+   "instagram": {
+    "postId": "6ac5436c0231af6af7beec45",
+    "plannedAt": "2026-10-06T15:35:00-04:00",
+    "sentAt": "2026-10-06T15:35:08-04:00"
+   },
+   "status": "sent",
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 158,
+     "shares": 0,
+     "clicks": 1,
+     "engagementRate_buffer": 0.63,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-09T06:55-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 71,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 52,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-09T06:55-04:00"
+    }
+   }
+  },
+  {
+   "date": "2026-10-06",
+   "n": 6,
+   "type": "myth",
+   "format": "carousel",
+   "style": "tweet",
+   "title": "The McDonald's Coffee Case, Fact Checked",
+   "topic": "Liebeck v. McDonald's hot coffee myth",
+   "slides": 7,
+   "sources": [
+    {
+     "item": "Liebeck v. McDonald's facts",
+     "source": "https://www.findlaw.com/injury/product-liability/the-mcdonald-s-coffee-cup-case-separating-mcfacts-from-mcfiction.html"
+    },
+    {
+     "item": "Verdict, 20% fault, reduction to $480k, 158F",
+     "source": "https://sso.billmarler.com/blog/the-mcdonalds-coffee-case"
+    },
+    {
+     "item": "Damages summary",
+     "source": "https://www.quimbee.com/cases/liebeck-v-mcdonald-s-restaurants"
+    },
+    {
+     "item": "Parked car, 700 reports, $800 offer",
+     "source": "https://www.caoc.org/?pg=facts"
+    }
+   ],
+   "imageFolder": "posts/2026-10-06/6-myth",
+   "facebook": {
+    "postId": "6ac543788815e4f75709279b",
+    "plannedAt": "2026-10-06T18:44:00-04:00"
+   },
+   "instagram": {
+    "postId": "6ac543736cefee8493228fec",
+    "plannedAt": "2026-10-06T17:34:00-04:00"
+   },
+   "status": "sent",
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 134,
+     "shares": 0,
+     "clicks": 1,
+     "engagementRate_buffer": 0.75,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-09T06:55-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 127,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 60,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-09T06:55-04:00"
+    }
+   }
+  },
+  {
+   "date": "2026-10-07",
+   "n": 1,
+   "type": "history",
+   "format": "single",
+   "style": "tweet",
+   "theme": "light",
+   "title": "The Weevils Who Got a Lawyer",
+   "topic": "Saint-Julien weevils trial 1587",
+   "slides": 1,
+   "sources": [
+    "curiousrambler.com: Rats and weevils have their day in court",
+    "discoverwildlife.com: weevil trial",
+    "historycollection.com: 15 animal trials that actually happened in court"
+   ],
+   "imageFolder": "posts/2026-10-07/1-history",
+   "caption": "A French village took its weevils to court, and the weevils' lawyer turned down the deal. Would you have taken it?\n\n#JuryJuice #LegalHistory #WeirdHistory",
+   "facebook": {
+    "postId": "6ac6267fdc114118aebcba85",
+    "plannedAt": "2026-10-07T09:56:00-04:00"
+   },
+   "instagram": {
+    "postId": "6ac626821d37bfff591062b5",
+    "plannedAt": "2026-10-07T09:06:00-04:00"
+   },
+   "status": "sent",
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 201,
+     "shares": 0,
+     "clicks": 0,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-09T06:55-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 100,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 67,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-09T06:55-04:00"
+    }
+   }
+  },
+  {
+   "date": "2026-10-07",
+   "n": 2,
+   "type": "humour",
+   "format": "single",
+   "style": "tweet",
+   "theme": "black",
+   "title": "Fair and Impartial, Until Lunch",
+   "topic": "jury selection joke",
+   "slides": 1,
+   "sources": [],
+   "imageFolder": "posts/2026-10-07/2-humour",
+   "caption": "Jury selection in a nutshell. What went through your mind when your summons arrived?\n\n#JuryJuice #JuryDuty #LegalHumor",
+   "facebook": {
+    "postId": "6ac626853f62a9ae41a12ae0",
+    "plannedAt": "2026-10-07T12:21:00-04:00"
+   },
+   "instagram": {
+    "postId": "6ac626880ea81feae6a68178",
+    "plannedAt": "2026-10-07T11:50:00-04:00"
+   },
+   "status": "sent",
+   "metrics": {
+    "facebook": {
+     "reactions": 1,
+     "comments": 1,
+     "impressions": 196,
+     "shares": 0,
+     "clicks": 5,
+     "engagementRate_buffer": 3.57,
+     "engagementRate": 1.02,
+     "measuredAt": "2026-10-09T06:55-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 67,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 49,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-09T06:55-04:00"
+    }
+   }
+  },
+  {
+   "date": "2026-10-07",
+   "n": 3,
+   "type": "list",
+   "format": "single",
+   "style": "tweet",
+   "theme": "dim",
+   "title": "The $54 Million Pair of Pants",
+   "topic": "Pearson v. Chung (D.C. 2007), lost pants lawsuit",
+   "slides": 1,
+   "sources": [
+    "en.wikipedia.org/wiki/Pearson_v._Chung",
+    "abcnews.go.com/TheLaw/story?id=3303910",
+    "washingtontimes.com 2007-06-25"
+   ],
+   "imageFolder": "posts/2026-10-07/3-list",
+   "caption": "$54 million over one pair of pants. What would you have decided?\n\n#JuryJuice #BizarreLawsuits #DryCleaning",
+   "facebook": {
+    "postId": "6ac6268b0ea81feae6a68220",
+    "plannedAt": "2026-10-07T14:05:00-04:00"
+   },
+   "instagram": {
+    "postId": "6ac6268e2ff102be34be7d6f",
+    "plannedAt": "2026-10-07T12:39:00-04:00"
+   },
+   "status": "sent",
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 323,
+     "shares": 0,
+     "clicks": 2,
+     "engagementRate_buffer": 0.62,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-09T06:55-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 175,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 115,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-09T06:55-04:00"
+    }
+   }
+  },
+  {
+   "date": "2026-10-07",
+   "n": 4,
+   "type": "myth",
+   "format": "carousel",
+   "style": "tweet",
+   "theme": "black",
+   "title": "The Monkey Selfie Lawsuit, Fact Checked",
+   "topic": "Naruto v. Slater (monkey selfie copyright)",
+   "slides": 7,
+   "sources": [
+    "abc7news.com/post/court-rejects-copyright-suit-over-monkey-selfies/3382516/",
+    "ktvu.com/news/monkey-selfie-case-ends-in-settlement"
+   ],
+   "imageFolder": "posts/2026-10-07/4-myth",
+   "caption": "A monkey, a camera and a lawsuit. Did the monkey really win the photos?\n\n#JuryJuice #MonkeySelfie #CopyrightLaw",
+   "facebook": {
+    "postId": "6ac69638223f8511230c2dd5",
+    "plannedAt": "2026-10-07T16:56:00-04:00"
+   },
+   "instagram": {
+    "postId": "6ac6963ba8c569b3dfae0a1c",
+    "plannedAt": "2026-10-07T15:50:00-04:00"
+   },
+   "status": "sent",
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 70,
+     "shares": 0,
+     "clicks": 1,
+     "engagementRate_buffer": 1.43,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-09T06:55-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 86,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 43,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-09T06:55-04:00"
+    }
+   }
+  },
+  {
+   "date": "2026-10-07",
+   "n": 5,
+   "type": "laws",
+   "format": "single",
+   "style": "photo",
+   "theme": null,
+   "title": "Singapore's Chewing Gum Sales Ban",
+   "topic": "Singapore: sale of regular chewing gum banned since 1992",
+   "slides": 1,
+   "sources": [
+    "en.wikipedia.org/wiki/Chewing_gum_sales_ban_in_Singapore"
+   ],
+   "imageFolder": "posts/2026-10-07/5-laws",
+   "caption": "A tiny city with a big rule about gum. Would you have passed this law?\n\n#JuryJuice #Singapore #WeirdLaws",
+   "facebook": {
+    "postId": "6ac6963e62a632ed42a5940c",
+    "plannedAt": "2026-10-07T17:56:00-04:00"
+   },
+   "instagram": {
+    "postId": "6ac696419c24023398416218",
+    "plannedAt": "2026-10-07T18:54:00-04:00"
+   },
+   "status": "deleted-by-luke",
+   "metrics": {},
+   "note": "Luke deleted this from Buffer on purpose (Oct 7 evening). Not a problem.",
+   "subtopic": "gum ban"
+  },
+  {
+   "date": "2026-10-07",
+   "n": 6,
+   "type": "engage",
+   "format": "single",
+   "style": "tweet",
+   "theme": "light",
+   "title": "Read the lease or skim it",
+   "topic": "Lease reading habits question",
+   "slides": 1,
+   "sources": [],
+   "imageFolder": "posts/2026-10-07/6-engage",
+   "caption": "When you sign a lease, do you read every page or skim to the signature line?\n\n#JuryJuice #Renting #LeaseAgreement",
+   "facebook": {
+    "postId": "6ac696443f76f145e7bfc4d5",
+    "plannedAt": "2026-10-07T19:40:00-04:00"
+   },
+   "instagram": {
+    "postId": "6ac69647223f8511230c30ea",
+    "plannedAt": "2026-10-07T21:18:00-04:00"
+   },
+   "status": "deleted-by-luke",
+   "metrics": {},
+   "note": "Luke deleted this from Buffer on purpose (Oct 7 evening). Not a problem.",
+   "subtopic": "reading leases"
+  },
+  {
+   "date": "2026-10-07",
+   "n": 7,
+   "type": "list",
+   "format": "single",
+   "style": "photo",
+   "title": "One Broken Brake Light",
+   "topic": "Heien v. North Carolina (2014): traffic stop over one broken brake light",
+   "slides": [
+    "A driver was pulled over for **one broken brake light**. The law only required one. The **Supreme Court** still said the stop was fine."
+   ],
+   "caption": "One broken brake light took this traffic stop all the way to the Supreme Court. Would you have ruled the same way?\n\n#JuryJuice #TrafficStop #SupremeCourt\n\nSource: Heien v. North Carolina (2014)",
+   "sources": [
+    {
+     "item": "Heien v. North Carolina, 574 U.S. 54 (2014), 8-1: reasonable mistake of law can support a stop",
+     "source": "U.S. Supreme Court"
+    }
+   ],
+   "imageFolder": "posts/2026-10-07/7-list",
+   "facebook": {
+    "postId": "6ac6c5612977c961bdb95832",
+    "plannedAt": "2026-10-07T19:40:00-04:00"
+   },
+   "instagram": {
+    "postId": "6ac6c56401166a3e1c08294e",
+    "plannedAt": "2026-10-07T20:05:00-04:00"
+   },
+   "status": "sent",
+   "metaCheck": "passed",
+   "note": "made by hand after the queue was cleared",
+   "metrics": {
+    "facebook": {
+     "reactions": 9,
+     "comments": 20,
+     "impressions": 3157,
+     "shares": 2,
+     "clicks": 160,
+     "engagementRate_buffer": 5.92,
+     "engagementRate": 0.98,
+     "measuredAt": "2026-10-09T06:55-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 233,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 174,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-09T06:55-04:00"
+    }
+   },
+   "topicGroup": "police",
+   "subtopic": "traffic stop"
+  },
+  {
+   "date": "2026-10-08",
+   "n": 1,
+   "type": "list",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "photo",
+   "title": "Kept Waiting for the Dog",
+   "topic": "Rodriguez v. United States (2015): traffic stop can't be prolonged for a drug-dog sniff",
+   "slides": [
+    "An officer finished a traffic stop but **kept the driver waiting** for a drug dog. The Supreme Court ruled that **wasn't allowed**."
+   ],
+   "caption": "A finished traffic stop, a waiting drug dog and a Supreme Court ruling. Would you have decided it the same way?\n\n#JuryJuice #TrafficStop #SupremeCourt\n\nSource: Rodriguez v. United States (2015)",
+   "sources": [
+    {
+     "item": "Rodriguez v. United States, 575 U.S. 348 (2015), 6-3",
+     "source": "U.S. Supreme Court (Justia/Cornell/UPI)"
+    }
+   ],
+   "imageFolder": "posts/2026-10-08/1-list",
+   "facebook": {
+    "postId": "6ac776f0cc46365fd37a82c0",
+    "plannedAt": "2026-10-08T08:34:00-04:00"
+   },
+   "instagram": {
+    "postId": "6ac776f2444a36d3be1b2788",
+    "plannedAt": "2026-10-08T09:09:00-04:00"
+   },
+   "status": "sent",
+   "metaCheck": "passed",
+   "metrics": {
+    "facebook": {
+     "reactions": 20,
+     "comments": 1,
+     "impressions": 1398,
+     "shares": 2,
+     "clicks": 30,
+     "engagementRate_buffer": 3.79,
+     "engagementRate": 1.65,
+     "measuredAt": "2026-10-09T06:55-04:00"
+    },
+    "instagram": {
+     "reactions": 2,
+     "comments": 0,
+     "views": 169,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 107,
+     "engagementRate_buffer": 1.87,
+     "engagementRate": 1.87,
+     "measuredAt": "2026-10-09T06:55-04:00"
+    }
+   },
+   "subtopic": "traffic stop, drug dog"
+  },
+  {
+   "date": "2026-10-08",
+   "n": 2,
+   "type": "engage",
+   "topicGroup": "hoa",
+   "format": "single",
+   "style": "tweet",
+   "theme": "dim",
+   "title": "Strangest HOA letter",
+   "topic": "HOA letter question",
+   "slides": [
+    "What is the most unexpected thing an HOA has ever sent you a letter about?"
+   ],
+   "caption": "HOA letters can get oddly specific. What's the strangest one you've heard of?\n\n#JuryJuice #HOA #Homeowners",
+   "sources": [],
+   "imageFolder": "posts/2026-10-08/2-engage",
+   "facebook": {
+    "postId": "6ac776f59117a76f3a2961a2",
+    "plannedAt": "2026-10-08T13:00:00-04:00"
+   },
+   "instagram": {
+    "postId": "6ac776f7e63932e2c59b4b9f",
+    "plannedAt": "2026-10-08T12:02:00-04:00"
+   },
+   "status": "sent",
+   "metaCheck": "passed",
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 102,
+     "shares": 0,
+     "clicks": 0,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-09T06:55-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 34,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 22,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-09T06:55-04:00"
+    }
+   },
+   "subtopic": "HOA letters"
+  },
+  {
+   "date": "2026-10-08",
+   "n": 3,
+   "type": "history",
+   "topicGroup": "county",
+   "format": "single",
+   "style": "tweet",
+   "theme": "black",
+   "title": "The Land That Sat Empty",
+   "topic": "Kelo v. City of New London (2005): city took homes for private development; Pfizer left in 2009, land stayed vacant",
+   "slides": [
+    {
+     "text": "In 2005, the Supreme Court ruled New London, Connecticut could **take homes for a private development**.\n\nThe homes came down. Then **Pfizer, the big neighbor the plan was built around, left town** in 2009, and the land sat empty for years."
+    }
+   ],
+   "caption": "A city won at the Supreme Court, then the project it fought for was never built. Was the ruling right?\n\n#JuryJuice #EminentDomain #SupremeCourt\n\nSource: Kelo v. City of New London (2005)",
+   "sources": [
+    {
+     "item": "2005 5-4 ruling; Pfizer leaving New London 2009; homes demolished for hotel/stores/condos never built",
+     "source": "https://thetech.com/2009/11/13/long4-v129-n53"
+    },
+    {
+     "item": "Fort Trumbull land still largely vacant; Kelo house relocated",
+     "source": "https://www.inversecondemnation.com/2025/07/property-rights-pilgrimage-the-kelo-property-and-house-twenty-years-on.html"
+    }
+   ],
+   "imageFolder": "posts/2026-10-08/3-history/",
+   "facebook": {
+    "postId": "6ac7e6035b76911adddd3ae0",
+    "plannedAt": "2026-10-08T19:41:00-04:00",
+    "format": "single"
+   },
+   "instagram": {
+    "postId": "6ac7e605d3b0be2fc4154000",
+    "plannedAt": "2026-10-08T18:38:00-04:00"
+   },
+   "status": "sent",
+   "metaCheck": "passed",
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 244,
+     "shares": 0,
+     "clicks": 0,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-09T06:55-04:00"
+    }
+   },
+   "subtopic": "eminent domain"
+  },
+  {
+   "date": "2026-10-09",
+   "n": 1,
+   "type": "list",
+   "topicGroup": "hoa",
+   "format": "single",
+   "style": "photo",
+   "theme": null,
+   "plannedStyle": "photo",
+   "styleNote": "switched photo->tweet: Hookline Images generate_image tool not available in this run",
+   "title": "Foreclosed Over $800 in HOA Dues",
+   "topic": "Texas HOA foreclosed on deployed soldier Michael Clauer's paid-off ~$300k home over ~$800 dues (sold for $3,500, 2008); confidential settlement returned home (2010)",
+   "slides": [
+    {
+     "text": "An HOA **foreclosed on a soldier's paid-off home** over $800 in dues while he served in Iraq. It sold for **$3,500**."
+    }
+   ],
+   "caption": "Two missed HOA payments, a paid-off house and a soldier overseas. Should an HOA be able to foreclose over dues?\n\n#JuryJuice #HOA #RealEstate\n\nSources: NPR, 2010; Mother Jones, 2010",
+   "sources": [
+    {
+     "item": "Paid-off ~$300k Texas home, two missed HOA payments, sold ~$3,500 at courthouse sale while he served in Iraq",
+     "source": "https://www.npr.org/transcripts/128078864"
+    },
+    {
+     "item": "$800 dues, sold May 2008 for $3,500, confidential settlement 2010, family gets house back",
+     "source": "https://www.motherjones.com/politics/2010/08/michael-clauer-update/"
+    }
+   ],
+   "imageFolder": "posts/2026-10-09/1-list-photo",
+   "facebook": {
+    "postId": "6ac8c74c3cdd14dcd26a7569",
+    "plannedAt": "2026-10-09T09:56:00-04:00",
+    "format": "single"
+   },
+   "instagram": {
+    "postId": "6ac8c74f84976ed3ee1ad8a3",
+    "plannedAt": "2026-10-09T09:50:00-04:00"
+   },
+   "status": "sent",
+   "metaCheck": "passed (soldier not named on slide or caption; no violence; settlement stated as settlement)",
+   "metrics": {},
+   "note": "switched from tweet to photo by hand (Luke asked; image tool had been off for the am run)",
+   "subtopic": "HOA dues foreclosure"
+  },
+  {
+   "date": "2026-10-09",
+   "n": 2,
+   "type": "engage",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "tweet",
+   "theme": "light",
+   "title": "Tickets from unmarked cars",
+   "topic": "police question: should officers be allowed to ticket from unmarked cars?",
+   "slides": [
+    {
+     "text": "Should police be allowed to write traffic tickets from unmarked cars?"
+    }
+   ],
+   "caption": "Unmarked cars catch plenty of speeders. Fair enforcement or a little sneaky?\n\n#JuryJuice #TrafficStop #Police",
+   "sources": [],
+   "imageFolder": "posts/2026-10-09/2-engage/",
+   "experiment": "sharper, opinion-based police/ticket question (Test next: quick questions)",
+   "facebook": {
+    "postId": "6ac8c75333f2b9fa8134907e",
+    "plannedAt": "2026-10-09T13:43:00-04:00",
+    "format": "single"
+   },
+   "instagram": {
+    "postId": "6ac8c75684976ed3ee1ad935",
+    "plannedAt": "2026-10-09T13:25:00-04:00"
+   },
+   "status": "sent",
+   "metaCheck": "passed",
+   "metrics": {},
+   "subtopic": "traffic tickets"
+  },
+  {
+   "date": "2026-10-10",
+   "n": 1,
+   "type": "engage",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "tweet",
+   "theme": "dim",
+   "title": "Quickest parking ticket",
+   "topic": "parking ticket question: shortest time before finding a ticket",
+   "slides": [
+    {
+     "text": "What's the shortest time you've ever left your car before finding a parking ticket on it?"
+    }
+   ],
+   "caption": "Some parking tickets show up before you're out of sight. What's your quickest one?\n\n#JuryJuice #ParkingTicket #Police",
+   "sources": [],
+   "imageFolder": "posts/2026-10-10/1-engage/",
+   "facebook": {
+    "postId": "6aca1876ed92ed8fa5c68014",
+    "plannedAt": "2026-10-10T11:47:00-04:00",
+    "format": "single"
+   },
+   "instagram": {
+    "postId": "6aca1879d9cab260a7bf41e6",
+    "plannedAt": "2026-10-10T09:04:00-04:00"
+   },
+   "status": "sent",
+   "metaCheck": "passed",
+   "metrics": {},
+   "subtopic": "parking tickets"
+  },
+  {
+   "date": "2026-10-10",
+   "n": 2,
+   "type": "laws",
+   "topicGroup": "hoa",
+   "format": "single",
+   "style": "photo",
+   "theme": null,
+   "title": "The Purple Swing Set",
+   "topic": "Lee's Summit, Missouri HOA vs purple play set (2015): judge let family keep it",
+   "slides": [
+    {
+     "text": "A Missouri HOA threatened a family with fines and even jail time over a **purple swing set**.\n\nThe HOA's rules said play equipment had to match the community's colors. In 2015, a judge let the family **keep it**."
+    }
+   ],
+   "caption": "An HOA threatened a family with jail over a purple swing set. Should color rules like that hold up?\n\n#JuryJuice #HOA #HomeownersAssociation\n\nSource: ABA Journal, 2015",
+   "sources": [
+    "ABA Journal 2015",
+    "Boston 25 News 2015",
+    "ConsumerAffairs 2015"
+   ],
+   "imageFolder": "posts/2026-10-10/2-laws-photo",
+   "facebook": {
+    "postId": "6aca187bd9cab260a7bf439b",
+    "plannedAt": "2026-10-10T19:15:00-04:00",
+    "format": "single"
+   },
+   "instagram": {
+    "postId": "6aca187eb07d37ac976cbd10",
+    "plannedAt": "2026-10-10T18:20:00-04:00"
+   },
+   "status": "sent",
+   "metaCheck": "passed",
+   "metrics": {},
+   "note": "switched back to photo by hand after the image tool came back",
+   "subtopic": "HOA colour rules"
+  },
+  {
+   "date": "2026-10-11",
+   "format": "single",
+   "metrics": {},
+   "metaCheck": "passed",
+   "status": "sent",
+   "n": 1,
+   "type": "engage",
+   "topicGroup": "police",
+   "style": "tweet",
+   "theme": "black",
+   "title": "Wait at a traffic stop",
+   "topic": "traffic stop wait time question",
+   "slides": [
+    "How long did you wait at your last traffic stop before the officer came back to your window?"
+   ],
+   "sources": [],
+   "imageFolder": "posts/2026-10-11/1-engage",
+   "facebook": {
+    "postId": "6acaa506bba9419ccb156a68",
+    "plannedAt": "2026-10-11T09:46:00-04:00"
+   },
+   "instagram": {
+    "postId": "6acaa508bba9419ccb156ae4",
+    "plannedAt": "2026-10-11T10:58:00-04:00"
+   },
+   "subtopic": "traffic stop"
+  },
+  {
+   "date": "2026-10-11",
+   "format": "single",
+   "metrics": {},
+   "metaCheck": "passed",
+   "status": "sent",
+   "n": 2,
+   "type": "list",
+   "topicGroup": "police",
+   "style": "photo",
+   "title": "Plate Run, Revoked License",
+   "topic": "Kansas v. Glover (2020): deputy ran plate, owner's license revoked, stop upheld 8-1 (Thomas)",
+   "slides": [
+    "A deputy ran a plate, saw the owner's license was revoked, and pulled the truck over. The Supreme Court upheld the stop."
+   ],
+   "sources": [
+    {
+     "item": "Kansas v. Glover (2020)",
+     "source": "https://kansaslawreview.ku.edu/kansas-v-glover-us-supreme-court-decides-kansas-case-about-traffic-stops"
+    }
+   ],
+   "imageFolder": "posts/2026-10-11/2-list-photo",
+   "facebook": {
+    "postId": "6acaa50bd9cab260a7d88356",
+    "plannedAt": "2026-10-11T20:18:00-04:00"
+   },
+   "instagram": {
+    "postId": "6acaa50ef91f772d45a76422",
+    "plannedAt": "2026-10-11T18:58:00-04:00"
+   },
+   "subtopic": "traffic stop, plate check"
+  },
+  {
+   "date": "2026-10-12",
+   "n": 1,
+   "type": "engage",
+   "topicGroup": "county",
+   "format": "single",
+   "style": "tweet",
+   "theme": "light",
+   "title": "Strangest permit",
+   "topic": "city/county permit question",
+   "slides": [
+    "Which permit from your city or county made you laugh out loud?"
+   ],
+   "caption": "Some permits make sense. Others make you read the letter twice. Which one got you?\n\n#JuryJuice #CityHall #Permits",
+   "sources": [],
+   "imageFolder": "posts/2026-10-12/1-engage",
+   "facebook": {
+    "postId": "6acbf6aeea568e911a3f0758",
+    "plannedAt": "2026-10-12T10:31:00-04:00"
+   },
+   "instagram": {
+    "postId": "6acbf6b0fa026cfb81156722",
+    "plannedAt": "2026-10-12T10:37:00-04:00"
+   },
+   "status": "sent",
+   "metaCheck": "passed",
+   "metrics": {},
+   "subtopic": "city permits",
+   "image": "posts/2026-10-12/1-engage/slide1-v2.jpg"
+  },
+  {
+   "date": "2026-10-12",
+   "n": 2,
+   "type": "laws",
+   "topicGroup": "county",
+   "format": "single",
+   "style": "photo",
+   "title": "Vegetables Out Front",
+   "topic": "Miami Shores, Florida front-yard vegetable garden ban: $50/day fine (2013 ordinance), 3rd DCA upheld Nov 1 2017; Florida 2019 law ended such bans",
+   "slides": [
+    "A couple was fined **$50 a day** for growing vegetables in their front yard. The judges sided with the village."
+   ],
+   "caption": "Tomatoes and peppers out front cost one couple $50 a day. Whose side are you on?\n\n#JuryJuice #VegetableGarden #CityHall\n\nSource: Ricketts v. Village of Miami Shores (2017)",
+   "sources": [
+    "https://ij.org/press-release/florida-appellate-court-upholds-ban-front-yard-vegetable-gardens/",
+    "https://www.cbsnews.com/amp/news/florida-towns-can-no-longer-ban-residential-vegetable-gardens"
+   ],
+   "imageFolder": "posts/2026-10-12/2-laws-photo",
+   "facebook": {
+    "postId": "6acbf6b263ff33d8c99697c1",
+    "plannedAt": "2026-10-12T19:14:00-04:00"
+   },
+   "instagram": {
+    "postId": "6acbf6b47db619a291492818",
+    "plannedAt": "2026-10-12T18:33:00-04:00"
+   },
+   "status": "sent",
+   "metaCheck": "passed",
+   "metrics": {},
+   "subtopic": "front-yard gardens",
+   "image": "posts/2026-10-12/2-laws-photo/slide1-v3.jpg",
+   "note": "2026-10-11: place name removed (Luke's rule), caption varied"
+  },
+  {
+   "date": "2026-10-13",
+   "metrics": {},
+   "metaCheck": "passed",
+   "n": 1,
+   "type": "list",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "photo",
+   "title": "Phone Search After Arrest",
+   "topic": "Riley v. California (2014)",
+   "subtopic": "phone search",
+   "slides": [
+    "Officers read through a man's phone after his arrest. The justices voted **9 to 0** that they needed a warrant first."
+   ],
+   "caption": "One phone, one arrest, and zero dissenting votes. Does a phone deserve more privacy than a wallet?\n\n#JuryJuice #CellPhone #Privacy\n\nSource: Riley v. California (2014)",
+   "sources": [
+    {
+     "item": "Riley v. California (2014)",
+     "source": "Faegre Drinker summary of decision, 2014-06-25; unanimous, warrant generally required for phone seized at arrest"
+    }
+   ],
+   "imageFolder": "posts/2026-10-13/1-list-photo",
+   "facebook": {
+    "postId": "6acd48148465d3f29e8d9fcf",
+    "plannedAt": "2026-10-13T11:01:00-04:00"
+   },
+   "instagram": {
+    "postId": "6acd48155562ebe80f6bbd56",
+    "plannedAt": "2026-10-13T11:17:00-04:00"
+   },
+   "status": "sent"
+  },
+  {
+   "date": "2026-10-13",
+   "metrics": {},
+   "metaCheck": "passed",
+   "n": 2,
+   "type": "engage",
+   "topicGroup": "county",
+   "format": "single",
+   "style": "tweet",
+   "theme": "dim",
+   "title": "Neighbour's overhanging tree",
+   "topic": "Whose job to trim an overhanging tree",
+   "subtopic": "neighbour trees",
+   "slides": [
+    "Your neighbour's tree hangs over your yard. Whose job is it to trim it?"
+   ],
+   "caption": "Tree fights between neighbours get surprisingly heated. Has one ever started on your street?\n\n#JuryJuice #Neighbors #PropertyLine",
+   "sources": [],
+   "imageFolder": "posts/2026-10-13/2-engage",
+   "facebook": {
+    "postId": "6acd4817e9da05d4097d95c7",
+    "plannedAt": "2026-10-13T20:46:00-04:00"
+   },
+   "instagram": {
+    "postId": "6acd48190fd81940c1c72467",
+    "plannedAt": "2026-10-13T18:08:00-04:00"
+   },
+   "status": "sent"
+  },
+  {
+   "date": "2026-10-14",
+   "n": 1,
+   "type": "history",
+   "topicGroup": "police",
+   "format": "carousel",
+   "facebookFormat": "single",
+   "style": "photo",
+   "title": "4 Times Police Never Went Inside",
+   "topic": "Kyllo (2001) thermal imager; Jardines (2013) dog on porch; Collins (2018) tarp in driveway; Greenwood (1988) curbside trash",
+   "subtopic": "searches around home",
+   "slides": [
+    "4 times police **never went inside** and still ended up in court",
+    "A **heat scanner** aimed at a house from the street counted as a search.",
+    "A **sniffer dog on the front porch** counted as a search too.",
+    "Lifting a **tarp in a driveway** was a search, eight justices agreed.",
+    "Police went through **trash bags at the curb**, and the ruling allowed it.",
+    "Follow for more"
+   ],
+   "sources": [
+    "Kyllo v. United States (2001) 5-4",
+    "Florida v. Jardines (2013) 5-4",
+    "Collins v. Virginia (2018) 8-1",
+    "California v. Greenwood (1988) 6-2"
+   ],
+   "imageFolder": "posts/2026-10-14/1-history-photo",
+   "facebook": {
+    "postId": "6ace99fc48ff980feab319cb",
+    "plannedAt": "2026-10-14T09:48:00-04:00",
+    "format": "single"
+   },
+   "instagram": {
+    "postId": "6ace9a01b5699de5d709b4db",
+    "plannedAt": "2026-10-14T10:20:00-04:00"
+   },
+   "status": "scheduled",
+   "metaCheck": "passed (replaced car image that showed a badge)",
+   "metrics": {}
+  },
+  {
+   "date": "2026-10-14",
+   "n": 2,
+   "type": "engage",
+   "topicGroup": "hoa",
+   "format": "single",
+   "style": "tweet",
+   "theme": "black",
+   "title": "Holiday lights timing",
+   "topic": "How early is too early for holiday lights",
+   "subtopic": "holiday lights",
+   "slides": [
+    "How early is too early to put up holiday lights in your neighbourhood?"
+   ],
+   "sources": [],
+   "imageFolder": "posts/2026-10-14/2-engage",
+   "facebook": {
+    "postId": "6ace9a03f0aaa6342e128fad",
+    "plannedAt": "2026-10-14T18:48:00-04:00"
+   },
+   "instagram": {
+    "postId": "6ace9a04ffa44ef4f99b5442",
+    "plannedAt": "2026-10-14T18:39:00-04:00"
+   },
+   "status": "scheduled",
+   "metaCheck": "passed",
+   "metrics": {}
+  }
+ ],
+ "ideas": []
 }
