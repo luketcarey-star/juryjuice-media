@@ -147,7 +147,12 @@ def plan_slots(n):
             if window == old_slot:
                 t = min(rest, key=seen); why = "rotation: told-or-sold / question (every other day)"
             else:
-                t = min(daily, key=seen); why = "new-style type (Luke's rule: most posts)"
+                # dailyWeights (Luke 2026-10-13: more one-liners): among the last 6 new-style posts, pick the type
+                # furthest below its share, e.g. {"oneliner": 2, "thennow": 1} gives about 2 one-liners per then vs now.
+                weights = cfg.get("dailyWeights", {})
+                recent_new = [ty for ty in done if ty in daily][-6:]
+                t = min(daily, key=lambda o: ((recent_new.count(o) + 1) / weights.get(o, 1),) + seen(o))
+                why = "new-style type (Luke's rule: most posts, weighted toward one-liners)"
         used[t] += 1
         combos = [tuple([t] + c) for c in cfg["formats"][t]
                   if not (cap is not None and carousels >= cap and c[0] == "carousel")] or [tuple([t] + c) for c in cfg["formats"][t]]

@@ -20,7 +20,7 @@ Also read `state/oldcrow/config.json` (mode, Buffer IDs, windows, image settings
 ## Post types (all single illustrated images with the ravens; Luke's rule)
 Every post is about one belief or habit we were **told or sold**, shown through the two ravens and
 one everyday object, so the images feel like stills from the Old Crow videos. Daily: 2 posts. **Always vary the type** (Luke's rule): the planner rotates told or sold,
-question, one-liner and then vs now so the same type never runs twice in a row. **The one-liner and then vs now are most posts (Luke's rule, about 3 in 4):** both daily posts are one of these two (alternating), except every other day one post is a told-or-sold or question. Use the types the planner gives.
+question, one-liner and then vs now so the same type never runs twice in a row. **The one-liner and then vs now are most posts (Luke's rule, about 3 in 4):** both daily posts are one of these two (alternating), except every other day one post is a told-or-sold or question. **Luke (2026-10-13): he wants MORE one-liners** (the cream poster with the old raven), so the planner weights them about 2 to 1 over then vs now; about half of all Old Crow posts are one-liners. Use the types the planner gives.
 | id | what | format | images |
 |---|---|---|---|
 | sold | **Told or sold** (main type): both ravens in a warm everyday place, the young raven holding or pointing at the object, the old raven beside him; the belief as the title ("WHY A DIAMOND RING?"); the caption gives the real history and who benefits | single | 1 |
@@ -148,6 +148,7 @@ model `sunburst`, quality `high`, aspect `4:5` (rule 3 applies: the reply must s
   made impossible...). Headline 3 to 8 words (e.g. "BUILT TO LAST. BUILT TO REPLACE."). The THEN and
   NOW objects must be clearly different at a glance. If the comparison states a fact (a size, a
   price, a year), fact-check it like a told-or-sold post; otherwise keep it general and true.
+- Since one-liners are now the most common post, vary the picture every time: a different pose, prop, expression and setting for the old raven (not always the armchair and tea cup), and a different kind of line (money, work, advice, habits, buying things, time, technology). Check the INDEX so a line, prop or scene isn't repeated.
 - Never copy or reword lines from other pages (Raven Remembers, Human Patterns, quote sites).
   Check the INDEX so a line, headline or object is never repeated.
 - No insults about groups of people, no politics, religion, health or bodies. Meta rules apply.
