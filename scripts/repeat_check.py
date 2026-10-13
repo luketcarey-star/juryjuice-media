@@ -18,6 +18,15 @@ BANNED = ["the court upheld", "a court upheld", "court upheld the", "the supreme
           "would you have decided", "the same way", "what's the strangest", "should the court have",
           "took this traffic stop all the way", "all the way to the supreme court"]
 
+# Any form of these is never allowed (Luke: "the court upheld the ban" keeps repeating). Say the outcome in plain,
+# story-specific words instead (the fine stood, the family got to keep it, the judge sided with the city...).
+BANNED_RE = [r"\bupheld\b", r"\buphold(s|ing)?\b", r"\bupholds\b", r"\bthe (supreme )?court ruled\b",
+             r"\bruled in favou?r of\b", r"\bruled that\b"]
+# Outcome phrases that become stock if they show up in many recent posts: flagged when the draft uses one that
+# already appears in 2+ of the last 10 posts.
+TIRED = ["sided with", "struck down", "thrown out", "threw out", "ruled against", "found in favor", "won the case",
+         "lost the case", "dismissed the case", "sided against", "went to court", "ended up in court", "took it to court"]
+
 def text_of(p):
     sl = p.get("slides") or []
     parts = [s if isinstance(s, str) else s.get("text", "") for s in sl] if isinstance(sl, list) else []
@@ -50,8 +59,13 @@ final, cur = [], []
 for k, c in enumerate(covered + [False]):
     if c: cur.append(dw[k])
     elif cur: final.append(" ".join(cur)); cur = []
-banned = [b for b in BANNED if b in " ".join(dw)]
-if final or banned:
+joined = " ".join(dw)
+banned = [b for b in BANNED if b in joined]
+banned += [m.group(0) for r in BANNED_RE for m in re.finditer(r, joined)]
+recent10 = [" ".join(words(text_of(p))) for p in posts[-10:]]
+tired = [t for t in TIRED if t in joined and sum(t in r for r in recent10) >= 2]
+if final or banned or tired:
+    for t in tired: print("TIRED OUTCOME PHRASE (used in 2+ of the last 10 posts):", t)
     for g in final: print("REPEATED:", g)
     for b in banned: print("STOCK PHRASE:", b)
     sys.exit(1)
