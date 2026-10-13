@@ -10,8 +10,8 @@ Old Crow is NOT handled here. Work from this repo (`luketcarey-star/juryjuice-me
 
 **Varied, coherent, no places (Luke's rule, 2026-10-11):**
 - No place names: never a city, town, county, state, province or country in slides or the caption line (the Source line's case name is fine). Use concrete non-place details instead.
-- Never repeat a subject: before choosing a topic, list the `subtopic` of the last 12 Jury Juice posts in history and pick something clearly different (traffic stops, pull-overs and basic tickets/fines are ONE subject, not the default). Use the brief's subject list for ideas. Save `"subtopic": "<2-4 words>"` on every post in history. Pass the last 20 titles + subtopics in avoid.json to `hookline.js write`.
-- Vary every caption: read the last 10 captions in history first; don't reuse their opening words, sentence shape or closing question.
+- Never repeat a subject: before choosing a topic, list the `subtopic` of the last 12 Jury Juice posts in history and pick something clearly different (traffic stops, pull-overs and basic tickets/fines are ONE subject, not the default). Use the brief's subject list for ideas. Save `"subtopic": "<2-4 words>"` on every post in history. `work/avoid.json` (written by `history_view.py`) already holds the last 20 titles + subtopics: pass it to `hookline.js write`.
+- Vary every caption: read the CAPTIONS section (last 10) first; don't reuse their opening words, sentence shape or closing question.
 - **Vary the wording (Luke's rule):** no phrase may repeat from recent posts. Before rendering, write the post's slides + caption to `work/p<n>/draft.json` (`{"slides":[...],"caption":"..."}`) and run `python3 scripts/repeat_check.py jury work/p<n>/draft.json`. Rewrite every REPEATED or STOCK PHRASE it lists in fresh words that fit this story, and run it again until it prints OK. Describe each outcome differently (the judge sided with..., the fine stood, the family lost on appeal, the HOA backed down, the case was thrown out...).
 - Coherence: re-read every slide and the caption before rendering; each sentence complete, grammatical and sensible on its own and after the previous slide. Same amount of text as before.
 
@@ -37,7 +37,7 @@ Read these before writing anything:
    comment, vote, like, share or tag.
 3. **No realistic images of real people.** Photo posts about real cases show objects, places or
    generic anonymous scenes, never someone made to look like the real person.
-4. **Never repeat a topic or a title.** Check `state/history.json` before writing: no case, law or
+4. **Never repeat a topic or a title.** Check the INDEX from `history_view.py` before writing: no case, law or
    trial that appeared in any earlier post, and no hook or caption title that matches or closely
    resembles an earlier one (e.g. never reuse "5 lawsuits too bizarre to be real"; vary the angle:
    "Lawsuits judges threw out in minutes", "Companies sued over the dumbest things"). Save each
@@ -62,8 +62,8 @@ Read these before writing anything:
   OpenAI credit out, the image connector or Buffer missing or erroring, Buffer's post limit hit,
   a GitHub push refused, a fact that couldn't be verified, a render error, a post rejected by
   Facebook or Instagram.
-- Check recent posts for failures: for every post in this page's history planned in the last 2
-  days that has a Buffer `postId`, call Buffer `get_post` (no metrics needed). If its status is
+- Check recent posts for failures: for every post listed under CHECK (planned in the last 2
+  days, with a Buffer `postId`), call Buffer `get_post` (no metrics needed). If its status is
   `error`, or it's more than 1 hour past its planned time and still not `sent`, report it as a
   PROBLEM with the error text, and update its `status` in history.
 - Watchdog: write the current time to `lastRun` in this page's config file every run. Then read
@@ -94,10 +94,11 @@ Read these before writing anything:
   `generate_image` and for `Buffer create_post` if that finds nothing). Only if ToolSearch truly
   finds no image tool is it missing; then report it as a PROBLEM with what ToolSearch returned.
 - `cd` into the repo, `git pull`. Posting day = TOMORROW's local date in America/Toronto (`date -d tomorrow +%F` with TZ=America/Toronto).
+- **Read history the cheap way:** run `python3 scripts/history_view.py jury` once. It prints an INDEX of every earlier post (titles, topics, subtopics), the last 10 captions in full, the 3 best captions, the posts to failure-check and the posts to refresh metrics for, and writes `work/avoid.json`. Use that output everywhere this guide says "check history". Do NOT open or print `state/history.json` (it is large); only append your new posts to it with a short python snippet.
 - Install nothing new unless needed; `playwright` (with Chromium) is preinstalled. Run renders with `node render.js`.
 
 ### 2. Update analytics (only if the last update was 40+ hours ago, i.e. every other day; skip if no posts yet)
-- For each post in `state/history.json` that was sent 1 to 14 days ago and has a Buffer post ID (refresh them
+- For each post listed under METRICS (sent 1 to 14 days ago, has a Buffer post ID; refresh them
   every other day; save the time in `lastMetricsAt` in this page's config),
   call Buffer `get_post` with `includeMetrics: true` (only for those posts; mind rate limits:
   max ~40 calls per run).
@@ -106,17 +107,7 @@ Read these before writing anything:
   reach is missing; leave null if neither). Record `measuredAt`.
 - If a draft was never approved (still draft/not sent after 3 days), mark it `"status": "skipped"`.
 
-### 2b. Learn from Luke's insights (Sunday run only, once 6+ posts have metrics)
-- Rank every measured post in this page's history by `engagementRate` (also look at shares and
-  comments on their own: shares spread the page, comments show a caption landed).
-- Compare the top third with the bottom third and look for real patterns, not one-offs: hook and
-  title style, topic, post type, single vs. carousel, tweet vs. image, tweet background (`theme`),
-  caption length, kind of closing question, hashtags, posting hour.
-- Rewrite `state/learnings.md` (keep it under ~40 lines): **Do more**, **Do less**, **Test next**. Each line
-  names the evidence (e.g. "short question captions: 4.1% avg over 6 posts vs 2.3% for longer
-  ones"). Drop lines the newer data no longer supports. Only claim a pattern seen in 3+ posts.
-- If a post's comments show confusion or complaints (via Buffer metrics/notes when available),
-  note it there too.
+### 2b. Learn from Luke's insights: **Sunday run only.** On Sundays (and only then) read `BOT-WEEKLY.md` and do its step 2b first. Other days skip it.
 
 ### 3. Plan the day
 - Run `python3 scripts/plan_day.py <posting day> am`. It returns this run's posts (both of the day's posts) with
@@ -134,7 +125,7 @@ Read these before writing anything:
 - Before writing, read `state/learnings.md` and apply its **Do more / Do less** lines to the topic, hook,
   slides and caption. About 1 post in 4, try one idea from **Test next** and save it on the post as
   `"experiment": "<what was tested>"` in history so the next review can judge it. Also re-read the
-  3 best-performing captions in history and match what made them work (without copying them).
+  BEST section (3 best-performing captions) and match what made them work (without copying them).
 - Luke's own rules always win over learnings: short captions, no sources in captions, good
   searchable hashtags, no engagement bait, Meta rules, fact-checking, carousel limits.
 - Follow `jury-juice-brief.md` for the post's type and style. Carousels use the type's default
@@ -147,7 +138,7 @@ Read these before writing anything:
 - Run the humanizer rules over the slides and caption. Check the banned words list.
 
 ### 5. Fact-check (types list, laws, history)
-- Search the web for every claim. Fix or drop anything wrong.
+- Search the web for every claim. Fix or drop anything wrong. One reliable source per claim is enough: stop searching a claim once it is confirmed, don't re-search facts you already confirmed, and don't search at all for engagement questions.
 - **Short sources go at the bottom of the caption** (Luke's rule), never on the slides: after the
   hashtags, a blank line and `Source: <case (year)>` or `Sources: <case (year)>; <case (year)>`,
   using the sources you actually confirmed. Engagement questions get no source line.
@@ -205,26 +196,7 @@ For each post, two `create_post` calls:
 - Delete `posts/<date>` folders older than `keepImagesDays` (already posted; Meta keeps its own copy).
 - Commit and push.
 
-### 10. Weekly report and tune-up (Sunday run only)
-Write `reports/jury/<date>.md` (commit it) and put the short version at the top of the summary.
-1. **The week in numbers** (last 7 days vs the 7 before): posts made, total reach, reactions,
-   comments, shares, saves, average engagement rate, for Facebook and Instagram separately. Use
-   Buffer `get_aggregated_post_metrics` for the totals (both Jury Juice channels) and the per-post `metrics` in `state/history.json`.
-2. **Top 3 and bottom 3 posts** of the week: title, type, style, time posted, reach, engagement
-   rate, and one line on why it likely worked or didn't (hook, topic, image, timing).
-3. **What's working:** engagement by post type, topic group (police / HOA / county / other), style, posting hour and
-   platform.
-   Only call something a pattern if it shows in 3+ posts.
-4. **What changes next week** (make these changes now, then list them):
-   - Rewrite `state/learnings.md` with the new Do more / Do less / Test next.
-   - The planner already shifts post types and hours toward what earns the most engagement; note
-     any big shift it will make.
-   - Add 2 or 3 new post ideas to `ideas` in `state/history.json`, based on the top posts.
-   - Never change Luke's rules to chase numbers (posts per day, platforms, no Facebook
-     carousels, caption style, fact-checking, Meta check). If the data suggests one of those should
-     change, recommend it to Luke in the report instead of doing it.
-5. Summary for Luke (push): 5 to 8 short lines: the headline numbers vs last week, the best post,
-   the weakest post, the 2 or 3 changes made, and any recommendation that needs his OK.
+### 10. Weekly report and tune-up: **Sunday run only.** On Sundays (and only then) do step 10 from `BOT-WEEKLY.md` before the summary. Other days skip it.
 
 ### 11. Summary for Luke (always, keep it short)
 - What was made: for each post, type, title, planned FB and IG times, draft or scheduled.

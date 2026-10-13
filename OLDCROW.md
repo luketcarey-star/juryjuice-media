@@ -36,8 +36,8 @@ No price-in-hours posts, no tweet-style posts, no carousels, no animal flashback
    fact), every date, company, campaign, study and historical claim must be confirmed with web
    search against reliable sources (historical archives, encyclopedias, major newspapers, museums,
    government statistics). If a fact can't be confirmed, cut it or change the topic. Never guess.
-2. **Never repeat a topic or a title.** Check `state/oldcrow/history.json` (topics, titles, objects)
-   and pass earlier topics in `avoid.json` to the writing prompt.
+2. **Never repeat a topic or a title.** Check the INDEX from `history_view.py` (topics, titles, objects)
+   and pass `work/avoid.json` (written by it) to the writing prompt.
 3. **Images stay on model.** Every `generate_image` call uses model `sunburst`, quality `high`,
    aspect `4:5`, and the `reference_urls` that `hookline.js images` gives for that slide. The tool's
    reply must say "using N reference image(s)" with N equal to the number of URLs sent. If it says
@@ -63,8 +63,8 @@ No price-in-hours posts, no tweet-style posts, no carousels, no animal flashback
   OpenAI credit out, the image connector or Buffer missing or erroring, Buffer's post limit hit,
   a GitHub push refused, a fact that couldn't be verified, a render error, a post rejected by
   Facebook or Instagram.
-- Check recent posts for failures: for every post in this page's history planned in the last 2
-  days that has a Buffer `postId`, call Buffer `get_post` (no metrics needed). If its status is
+- Check recent posts for failures: for every post listed under CHECK (planned in the last 2
+  days, with a Buffer `postId`), call Buffer `get_post` (no metrics needed). If its status is
   `error`, or it's more than 1 hour past its planned time and still not `sent`, report it as a
   PROBLEM with the error text, and update its `status` in history.
 - Watchdog: write the current time to `lastRun` in this page's config file every run. Then read
@@ -95,25 +95,16 @@ No price-in-hours posts, no tweet-style posts, no carousels, no animal flashback
   `generate_image` and for `Buffer create_post` if that finds nothing). Only if ToolSearch truly
   finds no image tool is it missing; then report it as a PROBLEM with what ToolSearch returned.
 - `cd` into the repo, `git pull`. Posting day = TOMORROW's local date in America/Toronto (`TZ=America/Toronto date -d tomorrow +%F`). Run = `am`.
+- **Read history the cheap way:** run `python3 scripts/history_view.py oldcrow` once. It prints an INDEX of every earlier post (titles, topics, objects, lines, headlines), the last 10 captions in full, the 3 best captions, the posts to failure-check and the posts to refresh metrics for, and writes `work/avoid.json` (every earlier topic and title). Use that output everywhere this guide says "check history". Do NOT open or print `state/oldcrow/history.json` (it is large); only append your new posts to it with a short python snippet.
 - `playwright` (with Chromium) is preinstalled.
 
 ### 2. Update analytics (only if the last update was 40+ hours ago, i.e. every other day; skip if no posts yet)
-- For each post in `state/oldcrow/history.json` sent 1 to 14 days ago with a Buffer post ID (refresh them every other day; save the time in `lastMetricsAt` in this page's config), call
+- For each post listed under METRICS (sent 1 to 14 days ago, with a Buffer post ID; refresh them every other day; save the time in `lastMetricsAt` in this page's config), call
   Buffer `get_post` with `includeMetrics: true` (max ~30 calls).
 - Save under `metrics.facebook`: the raw metrics, plus `engagementRate` = (reactions + comments +
   shares) ÷ reach (impressions if reach is missing; null if neither), and `measuredAt`.
 
-### 2b. Learn from Luke's insights (Sunday run only, once 6+ posts have metrics)
-- Rank every measured post in this page's history by `engagementRate` (also look at shares and
-  comments on their own: shares spread the page, comments show a caption landed).
-- Compare the top third with the bottom third and look for real patterns, not one-offs: hook and
-  title style, topic, post type, single vs. carousel, tweet vs. image, tweet background (`theme`),
-  caption length, kind of closing question, hashtags, posting hour.
-- Rewrite `state/oldcrow/learnings.md` (keep it under ~40 lines): **Do more**, **Do less**, **Test next**. Each line
-  names the evidence (e.g. "short question captions: 4.1% avg over 6 posts vs 2.3% for longer
-  ones"). Drop lines the newer data no longer supports. Only claim a pattern seen in 3+ posts.
-- If a post's comments show confusion or complaints (via Buffer metrics/notes when available),
-  note it there too.
+### 2b. Learn from Luke's insights: **Sunday run only.** On Sundays (and only then) read `OLDCROW-WEEKLY.md` and do its step 2b first. Other days skip it.
 
 ### 3. Plan
 - `python3 scripts/plan_day.py <posting day> am oldcrow`. It returns this run's posts (type,
@@ -128,12 +119,12 @@ No price-in-hours posts, no tweet-style posts, no carousels, no animal flashback
 - Before writing, read `state/oldcrow/learnings.md` and apply its **Do more / Do less** lines to the topic, hook,
   slides and caption. About 1 post in 4, try one idea from **Test next** and save it on the post as
   `"experiment": "<what was tested>"` in history so the next review can judge it. Also re-read the
-  3 best-performing captions in history and match what made them work (without copying them).
+  BEST section (3 best-performing captions) and match what made them work (without copying them).
 - Luke's own rules always win over learnings: short captions, no sources in captions, good
   searchable hashtags, no engagement bait, Meta rules, fact-checking, carousel limits.
 - **oneliner and thennow posts: follow step 4b instead of `hookline.js` and step 6.** For sold and question:
-- Write `avoid.json` (array of every earlier topic and title in history), then run
-  `node scripts/hookline.js write oldcrow <type> <style> avoid.json 1` (style from the plan: `illus`
+- `work/avoid.json` (from `history_view.py`) already holds every earlier topic and title. Run
+  `node scripts/hookline.js write oldcrow <type> <style> work/avoid.json 1` (style from the plan: `illus`
   or `tweet`; the final `1` makes it a single standalone slide) and follow that prompt exactly.
   **Never make carousels for Old Crow** (Facebook only, and carousels do badly there).
   Produce the same JSON it asks for: `topic`, `slides` (`text` + `scene`), `caption`, and `sources`
@@ -158,7 +149,7 @@ model `sunburst`, quality `high`, aspect `4:5` (rule 3 applies: the reply must s
   NOW objects must be clearly different at a glance. If the comparison states a fact (a size, a
   price, a year), fact-check it like a told-or-sold post; otherwise keep it general and true.
 - Never copy or reword lines from other pages (Raven Remembers, Human Patterns, quote sites).
-  Check `state/oldcrow/history.json` so a line, headline or object is never repeated.
+  Check the INDEX so a line, headline or object is never repeated.
 - No insults about groups of people, no politics, religion, health or bodies. Meta rules apply.
 
 **Image prompt templates** (fill in the parts in <>; keep everything else word for word)
@@ -210,11 +201,11 @@ In history save `"line"` (one-liner) or `"headline"`, `"then"`, `"now"` (then vs
   end (👀 🤔 😏, not every time); blank line; 2 or 3 short sentences that name the thing and add one
   sharp observation; optionally a final short reflective line. No hashtags, no sources, and never
   "tell us / comment / share / tag" (Meta engagement-bait rule); a plain question is fine.
-  Vary the question shape and wording every time (check the last 10 Old Crow captions).
+  Vary the question shape and wording every time (check the CAPTIONS section, last 10).
 - The hashtag rules in step 5 apply only to told-or-sold and question posts.
 
 ### 5. Fact-check (sold, question, and any fact in a then vs now)
-- Search the web for every claim and figure. Fix or drop anything wrong; if the post's core claim
+- Search the web for every claim and figure. One reliable source per claim is enough: stop searching a claim once it is confirmed and don't re-search facts you already confirmed. Fix or drop anything wrong; if the post's core claim
   can't be confirmed, choose a new topic and rewrite.
 - Keep `sources` in history only. **Captions must be engaging and inspiring** (Luke's rule; length
   is free, quality is what matters): a strong first line that hooks, the story in 2 to 4 short
@@ -270,25 +261,7 @@ In history save `"line"` (one-liner) or `"headline"`, `"then"`, `"now"` (then vs
     facebook: {postId, plannedAt}, status, metrics: {}}`
 - Delete `posts/oldcrow/<date>` folders older than `keepImagesDays`. Commit and push.
 
-### 10. Weekly report and tune-up (Sunday run only)
-Write `reports/oldcrow/<date>.md` (commit it) and put the short version at the top of the summary.
-1. **The week in numbers** (last 7 days vs the 7 before): posts made, total reach, reactions,
-   comments, shares, average engagement rate. Use Buffer `get_aggregated_post_metrics` for
-   the totals (the Old Crow Facebook channel) and the per-post `metrics` in `state/oldcrow/history.json`.
-2. **Top 3 and bottom 3 posts** of the week: title, type, style, time posted, reach, engagement
-   rate, and one line on why it likely worked or didn't (hook, topic, image, timing).
-3. **What's working:** engagement by post type, topic, style, posting hour.
-   Only call something a pattern if it shows in 3+ posts.
-4. **What changes next week** (make these changes now, then list them):
-   - Rewrite `state/oldcrow/learnings.md` with the new Do more / Do less / Test next.
-   - The planner already shifts post types and hours toward what earns the most engagement; note
-     any big shift it will make.
-   - Add 2 or 3 new post ideas to `ideas` in `state/oldcrow/history.json`, based on the top posts.
-   - Never change Luke's rules to chase numbers (posts per day, platforms, no Facebook
-     carousels, caption style, fact-checking, Meta check). If the data suggests one of those should
-     change, recommend it to Luke in the report instead of doing it.
-5. Summary for Luke (push): 5 to 8 short lines: the headline numbers vs last week, the best post,
-   the weakest post, the 2 or 3 changes made, and any recommendation that needs his OK.
+### 10. Weekly report and tune-up: **Sunday run only.** On Sundays (and only then) do step 10 from `OLDCROW-WEEKLY.md` before the summary. Other days skip it.
 
 ### 11. Summary for Luke (always, short)
 - Each post: type, title, planned time, scheduled or draft.
