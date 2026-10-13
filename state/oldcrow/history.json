@@ -726,7 +726,7 @@
         "postId": "6acbfca4ea568e911a403782",
         "plannedAt": "2026-10-12T20:58:00-04:00"
       },
-      "status": "scheduled",
+      "status": "sent",
       "metaCheck": "passed",
       "metrics": {},
       "replaced": {
@@ -736,7 +736,7 @@
       "headline": "BUILT TO LAST. BUILT TO REPLACE.",
       "then": "sturdy chrome toaster",
       "now": "flimsy cracked plastic toaster",
-      "caption": "When did something you bought last outlive its warranty? \ud83e\udd14\n\nThe old toaster was heavy, plain and built for decades. The new one is light, shiny and cheaper to replace than to fix.\n\nSomewhere along the way, new stopped meaning better.",
+      "caption": "When did something you bought last outlive its warranty? 🤔\n\nThe old toaster was heavy, plain and built for decades. The new one is light, shiny and cheaper to replace than to fix.\n\nSomewhere along the way, new stopped meaning better.",
       "note": "2026-10-11: swapped by hand for Luke's approved new-style test"
     },
     {
@@ -756,7 +756,7 @@
         "postId": "6acd4e36a36dd851812ff620",
         "plannedAt": "2026-10-13T09:00:00-04:00"
       },
-      "status": "scheduled",
+      "status": "sent",
       "metaCheck": "passed",
       "metrics": {},
       "line": "Free shipping, they said. You bought three things you didn't need.",
@@ -787,6 +787,56 @@
       "metaCheck": "passed",
       "metrics": {},
       "caption": "Your phone gives a little cheer when you reach 10,000 steps. Have you ever wondered who picked that number?\n\nThe goal may trace back to 1965, when a pedometer was sold under the name manpo-kei. In English that's roughly \"10,000 steps meter.\" A catchy number on a gadget, long before anyone had tested it.\n\nDecades later, a Harvard-led study followed more than 16,000 older women wearing step counters. Their risk of death kept falling as daily steps rose, then levelled off around 7,500. It was one study of one group of women, so it's no rule for anyone. Still, it shows how a round number can settle into our heads and stay there.\n\nThe old raven keeps a little step counter on his desk and looks at it fondly. A number can be a friendly nudge. It just helps to know where it came from.\n\nWhich number do you chase most days, and who gave it to you?\n\n#OldCrow #Walking #DailySteps"
+    },
+    {
+      "date": "2026-10-14",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "sources": [],
+      "status": "scheduled",
+      "metrics": {},
+      "metaCheck": "passed",
+      "n": 1,
+      "type": "thennow",
+      "title": "Repairable then. Disposable now.",
+      "topic": "Phone repairability: removable battery vs sealed slab",
+      "headline": "REPAIRABLE THEN. DISPOSABLE NOW.",
+      "then": "flip phone with removable battery",
+      "now": "sealed cracked glass slab phone",
+      "slides": [
+        "slide1"
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-14/1-thennow",
+      "caption": "Remember when a dead phone battery meant a ten-second fix? 🔋",
+      "facebook": {
+        "postId": "6ace9f6063a12fa737242f38",
+        "plannedAt": "2026-10-14T09:04:00-04:00"
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "sources": [],
+      "status": "scheduled",
+      "metrics": {},
+      "metaCheck": "passed",
+      "n": 2,
+      "type": "oneliner",
+      "title": "Nobody sells things anymore. Everything is a monthly plan.",
+      "topic": "Subscriptions replacing ownership",
+      "line": "Nobody sells things anymore. Everything is a monthly plan.",
+      "slides": [
+        "slide1"
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-14/2-oneliner",
+      "caption": "Cancel anytime. Allegedly.",
+      "facebook": {
+        "postId": "6ace9f62bd46a7db7a0295d4",
+        "plannedAt": "2026-10-14T20:02:00-04:00"
+      }
     }
   ],
   "ideas": []
