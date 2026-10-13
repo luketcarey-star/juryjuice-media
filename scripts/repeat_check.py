@@ -5,7 +5,7 @@ Usage: python3 scripts/repeat_check.py <jury|oldcrow> draft.json [--skip DATE:N]
 (--skip leaves out that post from history, when you are rewriting a post that is already recorded)
 draft.json = {"slides": ["..."], "caption": "..."} (slides may also be [{"text": ...}]).
 Prints every 3+ word phrase the draft shares with the last 30 posts' slides or captions
-(hashtags and Source lines ignored), plus any stock phrase on the banned list.
+(hashtags and Source lines ignored), plus stock phrases that already appear in 2+ of the last 10 posts. Nothing is banned outright.
 Exit code 1 if anything was found: rewrite those parts in fresh words and run it again.
 """
 import json, re, sys, pathlib
@@ -14,18 +14,13 @@ page, draft_path = sys.argv[1], sys.argv[2]
 skip = sys.argv[sys.argv.index("--skip") + 1] if "--skip" in sys.argv else None
 hist = ROOT / "state" / ("oldcrow/history.json" if page == "oldcrow" else "history.json")
 STOP = set("a an the of to in on at for and or but is was were be it its this that with as by from you your they their he she his her we our i my me not no so if did do does".split())
-BANNED = ["the court upheld", "a court upheld", "court upheld the", "the supreme court ruled", "would you have ruled",
-          "would you have decided", "the same way", "what's the strangest", "should the court have",
-          "took this traffic stop all the way", "all the way to the supreme court"]
-
-# Any form of these is never allowed (Luke: "the court upheld the ban" keeps repeating). Say the outcome in plain,
-# story-specific words instead (the fine stood, the family got to keep it, the judge sided with the city...).
-BANNED_RE = [r"\bupheld\b", r"\buphold(s|ing)?\b", r"\bupholds\b", r"\bthe (supreme )?court ruled\b",
-             r"\bruled in favou?r of\b", r"\bruled that\b"]
-# Outcome phrases that become stock if they show up in many recent posts: flagged when the draft uses one that
-# already appears in 2+ of the last 10 posts.
-TIRED = ["sided with", "struck down", "thrown out", "threw out", "ruled against", "found in favor", "won the case",
-         "lost the case", "dismissed the case", "sided against", "went to court", "ended up in court", "took it to court"]
+BANNED = []   # nothing is banned outright (Luke): wording is only flagged when it keeps repeating
+# Outcome / stock phrases: allowed, but flagged when the draft uses one that already appears in 2+ of the last 10 posts.
+TIRED = ["upheld", "uphold", "upholds", "the court ruled", "the supreme court ruled", "ruled in favor of", "ruled that",
+         "would you have decided", "would you have ruled", "the same way", "what's the strangest", "should the court have",
+         "all the way to the supreme court", "sided with", "struck down", "thrown out", "threw out", "ruled against",
+         "found in favor", "won the case", "lost the case", "dismissed the case", "went to court", "ended up in court",
+         "took it to court"]
 
 def text_of(p):
     sl = p.get("slides") or []
@@ -61,7 +56,6 @@ for k, c in enumerate(covered + [False]):
     elif cur: final.append(" ".join(cur)); cur = []
 joined = " ".join(dw)
 banned = [b for b in BANNED if b in joined]
-banned += [m.group(0) for r in BANNED_RE for m in re.finditer(r, joined)]
 recent10 = [" ".join(words(text_of(p))) for p in posts[-10:]]
 tired = [t for t in TIRED if t in joined and sum(t in r for r in recent10) >= 2]
 if final or banned or tired:
