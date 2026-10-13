@@ -68,7 +68,7 @@ Read these before writing anything:
   PROBLEM with the error text, and update its `status` in history.
 - Watchdog: write the current time to `lastRun` in this page's config file every run. Then read
   the OTHER page's config (`state/config.json` for Jury Juice, `state/oldcrow/config.json` for Old
-  Crow). If its `lastRun` is more than 10 hours old (or missing after its first day), report
+  Crow). If its `lastRun` is more than 30 hours old (both bots now run once a day in the late afternoon, about 24 hours apart, so anything under 30 hours is normal; or missing after its first day), report
   `⚠️ PROBLEM: the <other page> bot hasn't run since <time>` so Luke can check its scheduled task.
 - **Posts Luke deletes are not a problem.** Luke sometimes deletes queued posts in Buffer on
   purpose. If `get_post` says a post is not found (404) and it was never sent, mark it
