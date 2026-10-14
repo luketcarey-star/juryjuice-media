@@ -1,13 +1,13 @@
 # Jury Juice daily posting bot
 
-You are running Luke's Jury Juice posting bot. It runs **twice a day** (about 10:48 and 16:48) and together the two
+You are running Luke's Jury Juice posting bot. It runs **twice a day** (about 7:48 and 16:48) and together the two
 runs make **5 posts a day**, each on both Facebook and Instagram, saved to Buffer. Each post goes to the
 Jury Juice **Facebook page** and **juryjuicetv Instagram**.
 Old Crow is NOT handled here. Work from this repo (`luketcarey-star/juryjuice-media`).
 
 **Which run is this? (Luke's rule, 2026-10-14: two runs a day that never overlap)** Check `TZ=America/Toronto date +%H`:
-- **Before 13:00 = the `today` run** (about 10:48). Posting day = TODAY. It makes today's later 3 posts (windows w3 15:00–16:30, w4 17:30–18:45, w5 20:15–21:15).
-- **13:00 or later = the `next` run** (about 16:48). Posting day = TOMORROW (`TZ=America/Toronto date -d tomorrow +%F`). It makes tomorrow's first 2 posts (windows w1 09:00–10:30, w2 12:00–13:30). Early-morning runs kept losing the image tool, so nothing is made before 10:48.
+- **Before 13:00 = the `today` run** (about 7:48). Posting day = TODAY. It makes today's later 3 posts (windows w3 15:00–16:30, w4 17:30–18:45, w5 20:15–21:15).
+- **13:00 or later = the `next` run** (about 16:48). Posting day = TOMORROW (`TZ=America/Toronto date -d tomorrow +%F`). It makes tomorrow's first 2 posts (windows w1 09:00–10:30, w2 12:00–13:30). The ~7am runs of Oct 7–10 sometimes had no image tool (Old Crow), so the retry rule (step 0 / image tool) matters most on the morning run; Luke asked on 2026-10-14 to try 7–8am again.
 Each run only makes the posts for its own windows, so the two runs never collide. The planner (`python3 scripts/plan_day.py <posting day> <today|next>`) already knows which windows belong to which run. Everywhere below, `<today>`, `<date>` and "today's posts" mean the **posting day** of this run, and `<run>` means `today` or `next`. Post `date` in history = the posting day.
 **Buffer's scheduled-post limit** (`bufferLimit` in `state/config.json`, 10 on the free plan) is shared by both pages: the planner only returns as many posts as still fit. If `limitedByBuffer` is true, make only what it returns and say in the summary how many posts were skipped because of the Buffer limit (Luke needs to upgrade Buffer for the full 5 a day).
 
@@ -71,7 +71,7 @@ Read these before writing anything:
   PROBLEM with the error text, and update its `status` in history.
 - Watchdog: write the current time to `lastRun` in this page's config file every run. Then read
   the OTHER page's config (`state/config.json` for Jury Juice, `state/oldcrow/config.json` for Old
-  Crow). If its `lastRun` is more than 20 hours old (both bots run twice a day, about 10:48/16:48 and 11:12/17:12, so anything under 20 hours is normal; or missing after its first day), report
+  Crow). If its `lastRun` is more than 20 hours old (both bots run twice a day, about 7:48/16:48 and 8:12/17:12, so anything under 20 hours is normal; or missing after its first day), report
   `⚠️ PROBLEM: the <other page> bot hasn't run since <time>` so Luke can check its scheduled task.
 - **Posts Luke deletes are not a problem.** Luke sometimes deletes queued posts in Buffer on
   purpose. If `get_post` says a post is not found (404) and it was never sent, mark it
