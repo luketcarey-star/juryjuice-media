@@ -864,13 +864,16 @@
    ],
    "imageFolder": "posts/oldcrow/2026-10-15/1-sold",
    "facebook": {
-    "postId": null,
+    "postId": "6acff13cd7ed7764890b9015",
     "plannedAt": "2026-10-15T09:25:00-04:00"
    },
-   "status": "pending",
+   "status": "scheduled",
    "caption": "Britain's wartime posters told people that carrots help you see in the blackout. Have you ever wondered where the idea that carrots give you sharp eyes came from?\n\nIn the early 1940s, Britain was dealing with blackouts at night and food shortages from the war at sea. The Ministry of Food leaned hard on home-grown vegetables, and carrots grew well and plentifully. Posters, cartoon characters like Dr. Carrot and radio recipes all pushed them, with a promise that they would help you see in the dark. By 1942 there was a carrot surplus to get through.\n\nThere is a grain of truth in it. Vitamin A matters for vision, and a lack of it can cause night blindness. But eating extra carrots does not give an otherwise healthy person sharper night sight. The idea stuck anyway, and it is still handed to children at dinner tables today.\n\nThe old raven likes a good carrot, mostly for the crunch. A kind story can travel a very long way when it is told over a good meal.\n\nWhat food were you told as a child would do something special for you?\n\n#OldCrow #Carrots #WWII",
    "metaCheck": "passed",
-   "metrics": {}
+   "metrics": {},
+   "postIds": {
+    "facebook": "6acff13cd7ed7764890b9015"
+   }
   },
   {
    "date": "2026-10-15",
@@ -889,14 +892,17 @@
    "sources": [],
    "imageFolder": "posts/oldcrow/2026-10-15/2-oneliner",
    "facebook": {
-    "postId": null,
+    "postId": "6acff13dad454aea56cf0dfa",
     "plannedAt": "2026-10-15T19:43:00-04:00"
    },
-   "status": "pending",
+   "status": "scheduled",
    "caption": "Efficiency, apparently.",
    "metaCheck": "passed",
    "metrics": {},
-   "line": "Work hard, they said. Your reward: more work."
+   "line": "Work hard, they said. Your reward: more work.",
+   "postIds": {
+    "facebook": "6acff13dad454aea56cf0dfa"
+   }
   }
  ],
  "ideas": []
