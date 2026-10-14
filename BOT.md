@@ -131,7 +131,7 @@ Read these before writing anything:
 - Follow `jury-juice-brief.md` for the post's type and style. Carousels use the type's default
   slide count (7) unless the content needs fewer; singles are exactly 1 slide.
 - If the topic hint is empty, choose a fresh topic for that type. **Follow the brief's "Audience
-  focus"**: about 4 in 5 posts on police, HOA or county/city government (police the biggest share),
+  focus"**: about 55% police, 30% county/city government, and only about 1 in 20 HOA (Luke 2026-10-14: police and county first, HOA rarely),
   and the brief's police safety rules on every police post.
 - Output for each post: `slides` (text, and `scene` for photo style), `caption`, and for real
   types a `sources` list (item + source URL or citation).

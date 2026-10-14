@@ -4,7 +4,7 @@
 Name: Jury Juice  ·  Handle on slides: @Juryjuice
 
 ## Voice
-Jury Juice is a Facebook and Instagram page about the law in everyday life, focused on three things its audience loves: police (traffic stops, searches, arrests, tickets and the lawsuits and court rulings that follow), HOAs (fines, rules and homeowner fights) and county / city government (code enforcement, permits, zoning, property and residents who fought city hall).
+Jury Juice is a Facebook and Instagram page about the law in everyday life, focused mainly on what its audience loves: police (traffic stops, searches, arrests, tickets and the lawsuits and court rulings that follow) and county / city government (code enforcement, permits, zoning, property and residents who fought city hall), with an occasional HOA story.
 Voice: simple, natural and easy to follow, like someone telling a surprising legal story to a friend. Little legal jargon. Calm and factual, never sensational or shocking.
 Never name the place (Luke's rule, 2026-10-11): no city, town, county, state, province or country in slides or caption text (a case name in the Source line is fine). Keep stories concrete with non-place details (amount, object, year, what was said or done).
 Always vary (Luke's rule): never repeat a recent subject or angle. Traffic stops and basic tickets/fines are only one subject among many, never the default. Rotate widely, e.g. police: phone or home searches, police dogs, body cameras, recording officers, wrong-house warrants, seized cash or cars, odd 911 calls, camera tickets, impounds, plate readers; HOA: pets, pools, trees, fences, solar panels, flags, rentals, decorations, parking, play equipment, door colours, HOA elections and fees; county/city: sidewalks, trees, chickens and gardens, signs, home businesses, short-term rentals, demolition, water bills, snow removal, permits, inspections, council fights.
@@ -13,17 +13,19 @@ Every sentence must be coherent and complete: each slide makes sense on its own,
 Real cases, laws and rulings must be real and widely documented. Only use names, dates, amounts and outcomes you are highly confident of; if unsure, leave the detail out. Never invent cases, quotes or laws.
 Police posts: no violence, injuries or deaths (skip cases built around them); allegations stay allegations; never encourage anyone to contact or harass a named officer or resident; stay neutral, no politics and nothing framed around race; never say what "your rights" are in general, say what the court decided in that case.
 
-## Audience focus (Luke's rule: most posts are about these three)
-Luke's audience comes for **police**, **HOA** and **county / city government** stories. Make about
-4 in 5 posts about one of these, with police the biggest share (about half of all posts):
+## Audience focus (Luke's rule, updated 2026-10-14: police and county/city first, HOA only occasionally)
+Luke's audience comes for **police** and **county / city government** stories. Split of all posts:
+about **55% police**, about **30% county / city**, about **5% HOA (an occasional one, not a regular)**,
+and the other ~10% any real legal story.
 - **Police:** court rulings on traffic stops, searches and arrests; lawsuits and settlements against
   departments; odd or funny real police calls, tickets and arrests; "what the court decided" cases
   about everyday encounters. Calm and factual.
-- **HOA:** fines, rules and lawsuits between homeowners and their HOA (flags, paint colours, lawn
-  length, parking, sheds, holiday lights), and who won.
 - **County / city:** code enforcement, permits, zoning, property tax, eminent domain, odd local
-  ordinances, and residents who fought city hall.
-Every post type is built around these three. The other ~1 in 5 can be any real legal story.
+  ordinances, sidewalks, trees, gardens, signs, home businesses, short-term rentals, water bills, snow
+  removal, inspections, and residents who fought city hall.
+- **HOA (rare, about 1 post in 20):** fines, rules and lawsuits between homeowners and their HOA, and
+  who won. Don't make HOA the topic of consecutive posts or of a whole day.
+Every post type is built around police and county/city first.
 
 ### Police content: how to stay safe on Meta
 Police content is allowed; what gets pages restricted is how it's handled. Always:
