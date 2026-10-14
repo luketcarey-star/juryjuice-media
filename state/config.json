@@ -1,5 +1,5 @@
 {
-  "postsPerDay": 2,
+  "postsPerDay": 5,
   "mode": "queue",
   "modeNote": "draft = save every post as a Buffer draft for Luke to approve. queue = schedule posts directly at their planned times. Only Luke changes this.",
   "timezone": "America/Toronto",
@@ -55,27 +55,35 @@
   "imagesPaused": false,
   "imagesPausedReason": "",
   "modeChanged": "2026-10-05: Luke asked to auto-post Jury Juice",
-  "postsPerRun": 2,
+  "postsPerRun": 3,
   "runs": {
-    "am": {
-      "runsAround": "16:48 the day before",
+    "next": {
+      "runsAround": "16:48 the day before: makes TOMORROW's first 2 posts",
       "windows": {
-        "morning": [
+        "w1": [
           "09:00",
-          "12:00"
+          "10:30"
         ],
-        "evening": [
-          "18:00",
-          "21:00"
+        "w2": [
+          "12:00",
+          "13:30"
         ]
       }
     },
-    "pm": {
-      "runsAround": "only if run by hand",
+    "today": {
+      "runsAround": "10:48 the same day: makes TODAY's later 3 posts",
       "windows": {
-        "evening": [
-          "18:00",
-          "21:00"
+        "w3": [
+          "15:00",
+          "16:30"
+        ],
+        "w4": [
+          "17:30",
+          "18:45"
+        ],
+        "w5": [
+          "20:15",
+          "21:15"
         ]
       }
     }
@@ -86,9 +94,11 @@
   "carouselsOnlyOn": [
     "instagram"
   ],
-  "minGapMinutes": 150,
+  "minGapMinutes": 90,
   "maxPerDay": {
     "engage": 1
   },
-  "photoNote": "Luke's rule (2026-10-10): majority photo posts. Real cases, weird laws and strangest trials are always photo style; only quick questions are tweet slides (max 1 a day)."
+  "photoNote": "Luke's rule (2026-10-10): majority photo posts. Real cases, weird laws and strangest trials are always photo style; only quick questions are tweet slides (max 1 a day).",
+  "bufferLimit": 10,
+  "bufferLimitNote": "Buffer plan allows 10 scheduled posts at once across both pages (free plan). If Luke upgrades Buffer, raise this number; the planner never queues more than this."
 }

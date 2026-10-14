@@ -1,16 +1,19 @@
 # Jury Juice daily posting bot
 
-You are running Luke's Jury Juice posting bot. It runs **once a day** (around 16:48) and makes
-both of the NEXT day's posts: one scheduled for 9:00–12:00 and one for 18:00–21:00 (2 posts a day in total), each on both Facebook and Instagram.
-The run is always `am`. Each post goes to the
-Jury Juice **Facebook page** and **juryjuicetv Instagram**, and saves them to Buffer.
+You are running Luke's Jury Juice posting bot. It runs **twice a day** (about 10:48 and 16:48) and together the two
+runs make **5 posts a day**, each on both Facebook and Instagram, saved to Buffer. Each post goes to the
+Jury Juice **Facebook page** and **juryjuicetv Instagram**.
 Old Crow is NOT handled here. Work from this repo (`luketcarey-star/juryjuice-media`).
 
-**Posting day = TOMORROW.** The run fires around 16:48 the evening before and makes the NEXT day's posts (Luke's rule, since early-morning runs kept losing the image tool). Everywhere below, `<today>`, `<date>` and "today's posts" mean the posting day = tomorrow's local date in America/Toronto, and the run is always `am`. Post `date` in history = the posting day.
+**Which run is this? (Luke's rule, 2026-10-14: two runs a day that never overlap)** Check `TZ=America/Toronto date +%H`:
+- **Before 13:00 = the `today` run** (about 10:48). Posting day = TODAY. It makes today's later 3 posts (windows w3 15:00–16:30, w4 17:30–18:45, w5 20:15–21:15).
+- **13:00 or later = the `next` run** (about 16:48). Posting day = TOMORROW (`TZ=America/Toronto date -d tomorrow +%F`). It makes tomorrow's first 2 posts (windows w1 09:00–10:30, w2 12:00–13:30). Early-morning runs kept losing the image tool, so nothing is made before 10:48.
+Each run only makes the posts for its own windows, so the two runs never collide. The planner (`python3 scripts/plan_day.py <posting day> <today|next>`) already knows which windows belong to which run. Everywhere below, `<today>`, `<date>` and "today's posts" mean the **posting day** of this run, and `<run>` means `today` or `next`. Post `date` in history = the posting day.
+**Buffer's scheduled-post limit** (`bufferLimit` in `state/config.json`, 10 on the free plan) is shared by both pages: the planner only returns as many posts as still fit. If `limitedByBuffer` is true, make only what it returns and say in the summary how many posts were skipped because of the Buffer limit (Luke needs to upgrade Buffer for the full 5 a day).
 
 **Varied, coherent, no places (Luke's rule, 2026-10-11):**
 - No place names: never a city, town, county, state, province or country in slides or the caption line (the Source line's case name is fine). Use concrete non-place details instead.
-- Never repeat a subject: before choosing a topic, list the `subtopic` of the last 12 Jury Juice posts in history and pick something clearly different (traffic stops, pull-overs and basic tickets/fines are ONE subject, not the default). Use the brief's subject list for ideas. Save `"subtopic": "<2-4 words>"` on every post in history. `work/avoid.json` (written by `history_view.py`) already holds the last 20 titles + subtopics: pass it to `hookline.js write`.
+- Never repeat a subject: before choosing a topic, list the `subtopic` of the last 12 Jury Juice posts in history and pick something clearly different (traffic stops, pull-overs and basic tickets/fines are ONE subject, not the default). Use the brief's subject list for ideas. Steer the topic group with the TOPIC GROUPS line in `history_view.py`: police ~55%, county/city ~30%, HOA only ~1 post in 20, other ~10% (Luke 2026-10-14); pick the group furthest below its target. Save `"subtopic": "<2-4 words>"` on every post in history. `work/avoid.json` (written by `history_view.py`) already holds the last 20 titles + subtopics: pass it to `hookline.js write`.
 - Vary every caption: read the CAPTIONS section (last 10) first; don't reuse their opening words, sentence shape or closing question.
 - **Vary the wording (Luke's rule):** no phrase may repeat from recent posts. Before rendering, write the post's slides + caption to `work/p<n>/draft.json` (`{"slides":[...],"caption":"..."}`) and run `python3 scripts/repeat_check.py jury work/p<n>/draft.json`. Rewrite every REPEATED or TIRED PHRASE it lists in fresh words that fit this story, and run it again until it prints OK. No word is banned outright; the point is that no phrase keeps repeating, so describe each outcome in words that fit this story. Describe each outcome differently (the judge sided with..., the fine stood, the family lost on appeal, the HOA backed down, the case was thrown out...).
 - Coherence: re-read every slide and the caption before rendering; each sentence complete, grammatical and sensible on its own and after the previous slide. Same amount of text as before.
@@ -68,7 +71,7 @@ Read these before writing anything:
   PROBLEM with the error text, and update its `status` in history.
 - Watchdog: write the current time to `lastRun` in this page's config file every run. Then read
   the OTHER page's config (`state/config.json` for Jury Juice, `state/oldcrow/config.json` for Old
-  Crow). If its `lastRun` is more than 30 hours old (both bots now run once a day in the late afternoon, about 24 hours apart, so anything under 30 hours is normal; or missing after its first day), report
+  Crow). If its `lastRun` is more than 20 hours old (both bots run twice a day, about 10:48/16:48 and 11:12/17:12, so anything under 20 hours is normal; or missing after its first day), report
   `⚠️ PROBLEM: the <other page> bot hasn't run since <time>` so Luke can check its scheduled task.
 - **Posts Luke deletes are not a problem.** Luke sometimes deletes queued posts in Buffer on
   purpose. If `get_post` says a post is not found (404) and it was never sent, mark it
@@ -93,7 +96,7 @@ Read these before writing anything:
   call ToolSearch with `select:mcp__Hookline_Images__generate_image` (then a keyword search for
   `generate_image` and for `Buffer create_post` if that finds nothing). Only if ToolSearch truly
   finds no image tool is it missing; then report it as a PROBLEM with what ToolSearch returned.
-- `cd` into the repo, `git pull`. Posting day = TOMORROW's local date in America/Toronto (`date -d tomorrow +%F` with TZ=America/Toronto).
+- `cd` into the repo, `git pull`. Work out the run and posting day as described at the top (`today` run: today's date; `next` run: tomorrow's date, both in America/Toronto).
 - **Read history the cheap way:** run `python3 scripts/history_view.py jury` once. It prints an INDEX of every earlier post (titles, topics, subtopics), the last 10 captions in full, the 3 best captions, the posts to failure-check and the posts to refresh metrics for, and writes `work/avoid.json`. Use that output everywhere this guide says "check history". Do NOT open or print `state/history.json` (it is large); only append your new posts to it with a short python snippet.
 - Install nothing new unless needed; `playwright` (with Chromium) is preinstalled. Run renders with `node render.js`.
 
@@ -107,13 +110,13 @@ Read these before writing anything:
   reach is missing; leave null if neither). Record `measuredAt`.
 - If a draft was never approved (still draft/not sent after 3 days), mark it `"status": "skipped"`.
 
-### 2b. Learn from Luke's insights: **Sunday run only.** On Sundays (and only then) read `BOT-WEEKLY.md` and do its step 2b first. Other days skip it.
+### 2b. Learn from Luke's insights: **Sunday `next` run only (the ~16:48 run on a Sunday).** On Sundays (and only then) read `BOT-WEEKLY.md` and do its step 2b first. Other days skip it.
 
 ### 3. Plan the day
-- Run `python3 scripts/plan_day.py <posting day> am`. It returns this run's posts (both of the day's posts) with
+- Run `python3 scripts/plan_day.py <posting day> <run>` (`<run>` = `today` or `next`). It returns this run's posts (the windows of this run only) with
   window, type, format, style, an optional topic hint and planned `facebookAt` / `instagramAt` times.
-  It already counts today's earlier posts (max 2 a day; max 1 carousel a day and 4 a week, and
-  carousels only ever go to Instagram, see step 8) and keeps posts well spaced (one each in the morning, midday and evening windows, 2.5+ hours apart). Use them as given.
+  It already counts today's earlier posts (max 5 a day; max 1 quick question a day; max 1 carousel a day and 4 a week, and
+  carousels only ever go to Instagram, see step 8) and keeps posts well spaced (one in each window, 90+ minutes apart). Use them as given.
   If it returns no posts, today is full: skip to the summary.
 - The planner also keeps Buffer under its 10-scheduled-posts limit across BOTH pages (it counts
   future posts in `state/history.json` and `state/oldcrow/history.json`). If `limitedByBuffer` is
@@ -197,7 +200,7 @@ For each post, two `create_post` calls:
 - Delete `posts/<date>` folders older than `keepImagesDays` (already posted; Meta keeps its own copy).
 - Commit and push.
 
-### 10. Weekly report and tune-up: **Sunday run only.** On Sundays (and only then) do step 10 from `BOT-WEEKLY.md` before the summary. Other days skip it.
+### 10. Weekly report and tune-up: **Sunday `next` run only.** On Sundays (and only then) do step 10 from `BOT-WEEKLY.md` before the summary. Other days skip it.
 
 ### 11. Summary for Luke (always, keep it short)
 - What was made: for each post, type, title, planned FB and IG times, draft or scheduled.

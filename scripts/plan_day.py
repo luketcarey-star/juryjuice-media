@@ -26,7 +26,7 @@ hist = json.loads((SD / "history.json").read_text())
 week1 = json.loads((SD / "week1.json").read_text()) if (SD / "week1.json").exists() else {"days": {}}
 TZ = ZoneInfo(cfg["timezone"])
 day = dt.date.fromisoformat(sys.argv[1])
-run = sys.argv[2] if len(sys.argv) > 2 else ("am" if dt.datetime.now(TZ).hour < 12 else "pm")
+run = sys.argv[2] if len(sys.argv) > 2 else ("today" if dt.datetime.now(TZ).hour < 13 else "next")
 rng = random.Random(f"{PAGE}-{day.isoformat()}-{run}")  # same plan if re-run
 EXPLORE = cfg["exploreShare"]
 WINDOWS = cfg["runs"][run]["windows"]          # {name: ["HH:MM", "HH:MM"]}
@@ -103,10 +103,19 @@ def pick_time(window, platform, taken):
     return t
 
 
+# Every window of the day, across both runs, in time order (the "next" run makes the early ones the day before,
+# the "today" run makes the later ones that morning).
+ALL_WINDOWS = []
+for _r in cfg["runs"].values():
+    for _w in _r["windows"]:
+        if _w not in ALL_WINDOWS:
+            ALL_WINDOWS.append(_w)
+
+
 def plan_slots(n):
     names = list(WINDOWS)[:n]
     key = day.isoformat()
-    if run == "am" and key in week1["days"] and not today_posts:
+    if run in ("am", "next") and key in week1["days"] and not today_posts:
         return [dict(s, window=names[i], why="week 1 plan") for i, s in enumerate(week1["days"][key][:n])]
     # Learned plan: score each type and each type+format+style combo by engagement.
     type_scores, combo_scores = defaultdict(list), defaultdict(list)
@@ -142,8 +151,11 @@ def plan_slots(n):
             seen = lambda o: (max([i for i, ty in enumerate(done) if ty == o], default=-1), rng.random())
             rest = [o for o in cfg["formats"] if o not in daily]
             old_slot = None
-            if cfg.get("oldTypeEveryOtherDay") and rest and day.toordinal() % 2 == 0:
-                old_slot = names[(day.toordinal() // 2) % len(names)]
+            if cfg.get("oldTypePerDay") and rest:
+                # one told-or-sold / question post every day, in a different window each day
+                old_slot = ALL_WINDOWS[day.toordinal() % len(ALL_WINDOWS)]
+            elif cfg.get("oldTypeEveryOtherDay") and rest and day.toordinal() % 2 == 0:
+                old_slot = ALL_WINDOWS[(day.toordinal() // 2) % len(ALL_WINDOWS)]
             if window == old_slot:
                 t = min(rest, key=seen); why = "rotation: told-or-sold / question (every other day)"
             else:
@@ -151,7 +163,8 @@ def plan_slots(n):
                 # furthest below its share, e.g. {"oneliner": 2, "thennow": 1} gives about 2 one-liners per then vs now.
                 weights = cfg.get("dailyWeights", {})
                 recent_new = [ty for ty in done if ty in daily][-6:]
-                t = min(daily, key=lambda o: ((recent_new.count(o) + 1) / weights.get(o, 1),) + seen(o))
+                cands = [o for o in daily if not (o != "oneliner" and done and done[-1] == o)] or daily  # no same non-one-liner type twice in a row
+                t = min(cands, key=lambda o: ((recent_new.count(o) + 1) / weights.get(o, 1),) + seen(o))
                 why = "new-style type (Luke's rule: most posts, weighted toward one-liners)"
         used[t] += 1
         combos = [tuple([t] + c) for c in cfg["formats"][t]
@@ -162,11 +175,11 @@ def plan_slots(n):
     return slots
 
 
-n = max(0, min(cfg["postsPerRun"], cfg["postsPerDay"] - len(today_posts)))
+n = max(0, min(len(WINDOWS), cfg["postsPerDay"] - len(today_posts)))
 
 # Buffer's free plan holds at most 10 scheduled posts across ALL pages. Count what both bots
 # have queued for the future and only plan as many posts as still fit.
-BUFFER_LIMIT = 10
+BUFFER_LIMIT = json.loads((ROOT / "state" / "config.json").read_text()).get("bufferLimit", 10)  # raise it in state/config.json if Buffer is upgraded
 queued = 0
 for hp in (ROOT / "state" / "history.json", ROOT / "state" / "oldcrow" / "history.json"):
     if not hp.exists():

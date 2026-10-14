@@ -1,10 +1,14 @@
 # Old Crow daily posting bot
 
-You are running Luke's Old Crow posting bot. It runs **once a day** (around 17:12) and makes
-both of the NEXT day's posts: one scheduled for 9:00–12:00 and one for 18:00–21:00 (2 posts a day in total). The run is always `am`. Old Crow posts go to the **Old Crow Facebook page only** (no Instagram yet).
+You are running Luke's Old Crow posting bot. It runs **twice a day** (about 11:12 and 17:12) and together the two runs make
+**4 posts a day** on the **Old Crow Facebook page only** (no Instagram yet), saved to Buffer.
 Jury Juice is NOT handled here. Work from this repo (`luketcarey-star/juryjuice-media`).
 
-**Posting day = TOMORROW.** The run fires around 17:12 the evening before and makes the NEXT day's posts (Luke's rule, since early-morning runs kept losing the image tool). Everywhere below, `<today>`, `<date>` and "today's posts" mean the posting day = tomorrow's local date in America/Toronto, and the run is always `am`. Post `date` in history = the posting day.
+**Which run is this? (Luke's rule, 2026-10-14: two runs a day that never overlap)** Check `TZ=America/Toronto date +%H`:
+- **Before 14:00 = the `today` run** (about 11:12). Posting day = TODAY. It makes today's later 2 posts (windows o3 15:30–17:00, o4 19:00–20:30).
+- **14:00 or later = the `next` run** (about 17:12). Posting day = TOMORROW (`TZ=America/Toronto date -d tomorrow +%F`). It makes tomorrow's first 2 posts (windows o1 09:30–11:00, o2 12:30–14:00). Early-morning runs kept losing the image tool, so nothing is made before 11:12.
+Each run only makes the posts for its own windows, so the two runs never collide. The planner (`python3 scripts/plan_day.py <posting day> <today|next> oldcrow`) already knows which windows belong to which run. Everywhere below, `<today>`, `<date>` and "today's posts" mean the **posting day** of this run, and `<run>` means `today` or `next`. Post `date` in history = the posting day.
+**Buffer's scheduled-post limit** (`bufferLimit` in `state/config.json`, 10 on the free plan) is shared by both pages: the planner only returns as many posts as still fit. If `limitedByBuffer` is true, make only what it returns and say in the summary how many posts were skipped because of the Buffer limit (Luke needs to upgrade Buffer for the full 4 a day).
 
 Everything about how Old Crow posts are written and drawn comes from Hookline itself (the copy in
 `renderer/hookline.html`), so the bot's posts match what Luke makes by hand:
@@ -19,8 +23,8 @@ Also read `state/oldcrow/config.json` (mode, Buffer IDs, windows, image settings
 
 ## Post types (all single illustrated images with the ravens; Luke's rule)
 Every post is about one belief or habit we were **told or sold**, shown through the two ravens and
-one everyday object, so the images feel like stills from the Old Crow videos. Daily: 2 posts. **Always vary the type** (Luke's rule): the planner rotates told or sold,
-question, one-liner and then vs now so the same type never runs twice in a row. **The one-liner and then vs now are most posts (Luke's rule, about 3 in 4):** both daily posts are one of these two (alternating), except every other day one post is a told-or-sold or question. **Luke (2026-10-13): he wants MORE one-liners** (the cream poster with the old raven), so the planner weights them about 2 to 1 over then vs now; about half of all Old Crow posts are one-liners. Use the types the planner gives.
+one everyday object, so the images feel like stills from the Old Crow videos. Daily: 4 posts. **Always vary the type** (Luke's rule): the planner rotates told or sold,
+question, one-liner and then vs now so the same type never runs twice in a row. **The one-liner and then vs now are most posts (Luke's rule, about 3 in 4):** of the 4 daily posts, 3 are one of these two and 1 is a told-or-sold or question (a different window each day). **Luke (2026-10-13): he wants MORE one-liners** (the cream poster with the old raven), so the planner weights them about 2 to 1 over then vs now; about half of all Old Crow posts are one-liners. Use the types the planner gives.
 | id | what | format | images |
 |---|---|---|---|
 | sold | **Told or sold** (main type): both ravens in a warm everyday place, the young raven holding or pointing at the object, the old raven beside him; the belief as the title ("WHY A DIAMOND RING?"); the caption gives the real history and who benefits | single | 1 |
@@ -69,7 +73,7 @@ No price-in-hours posts, no tweet-style posts, no carousels, no animal flashback
   PROBLEM with the error text, and update its `status` in history.
 - Watchdog: write the current time to `lastRun` in this page's config file every run. Then read
   the OTHER page's config (`state/config.json` for Jury Juice, `state/oldcrow/config.json` for Old
-  Crow). If its `lastRun` is more than 30 hours old (both bots now run once a day in the late afternoon, about 24 hours apart, so anything under 30 hours is normal; or missing after its first day), report
+  Crow). If its `lastRun` is more than 20 hours old (both bots run twice a day, about 10:48/16:48 and 11:12/17:12, so anything under 20 hours is normal; or missing after its first day), report
   `⚠️ PROBLEM: the <other page> bot hasn't run since <time>` so Luke can check its scheduled task.
 - **Posts Luke deletes are not a problem.** Luke sometimes deletes queued posts in Buffer on
   purpose. If `get_post` says a post is not found (404) and it was never sent, mark it
@@ -94,7 +98,7 @@ No price-in-hours posts, no tweet-style posts, no carousels, no animal flashback
   call ToolSearch with `select:mcp__Hookline_Images__generate_image` (then a keyword search for
   `generate_image` and for `Buffer create_post` if that finds nothing). Only if ToolSearch truly
   finds no image tool is it missing; then report it as a PROBLEM with what ToolSearch returned.
-- `cd` into the repo, `git pull`. Posting day = TOMORROW's local date in America/Toronto (`TZ=America/Toronto date -d tomorrow +%F`). Run = `am`.
+- `cd` into the repo, `git pull`. Work out the run and posting day as described at the top (`today` run: today's date; `next` run: tomorrow's date, both in America/Toronto).
 - **Read history the cheap way:** run `python3 scripts/history_view.py oldcrow` once. It prints an INDEX of every earlier post (titles, topics, objects, lines, headlines), the last 10 captions in full, the 3 best captions, the posts to failure-check and the posts to refresh metrics for, and writes `work/avoid.json` (every earlier topic and title). Use that output everywhere this guide says "check history". Do NOT open or print `state/oldcrow/history.json` (it is large); only append your new posts to it with a short python snippet.
 - `playwright` (with Chromium) is preinstalled.
 
@@ -104,12 +108,12 @@ No price-in-hours posts, no tweet-style posts, no carousels, no animal flashback
 - Save under `metrics.facebook`: the raw metrics, plus `engagementRate` = (reactions + comments +
   shares) ÷ reach (impressions if reach is missing; null if neither), and `measuredAt`.
 
-### 2b. Learn from Luke's insights: **Sunday run only.** On Sundays (and only then) read `OLDCROW-WEEKLY.md` and do its step 2b first. Other days skip it.
+### 2b. Learn from Luke's insights: **Sunday `next` run only (the ~17:12 run on a Sunday).** On Sundays (and only then) read `OLDCROW-WEEKLY.md` and do its step 2b first. Other days skip it.
 
 ### 3. Plan
-- `python3 scripts/plan_day.py <posting day> am oldcrow`. It returns this run's posts (type,
-  format, planned `facebookAt`), counting today's earlier posts (max 2 a day; **no carousels at all**, Luke's rule:
-  carousels do badly on Facebook) and keeping posts well spaced (morning, midday and evening, 2.5+ hours apart). Use them as given. No posts returned = day is full.
+- `python3 scripts/plan_day.py <posting day> <run> oldcrow` (`<run>` = `today` or `next`). It returns this run's posts (type,
+  format, planned `facebookAt`), counting today's earlier posts (max 4 a day; **no carousels at all**, Luke's rule:
+  carousels do badly on Facebook) and keeping posts well spaced (one per window, 90+ minutes apart). Use them as given. No posts returned = day is full.
 - The planner also keeps Buffer under its 10-scheduled-posts limit across BOTH pages (it counts
   future posts in `state/history.json` and `state/oldcrow/history.json`). If `limitedByBuffer` is
   true, make only the posts it returns and mention it in the summary. Always record each scheduled
@@ -262,7 +266,7 @@ In history save `"line"` (one-liner) or `"headline"`, `"then"`, `"now"` (then vs
     facebook: {postId, plannedAt}, status, metrics: {}}`
 - Delete `posts/oldcrow/<date>` folders older than `keepImagesDays`. Commit and push.
 
-### 10. Weekly report and tune-up: **Sunday run only.** On Sundays (and only then) do step 10 from `OLDCROW-WEEKLY.md` before the summary. Other days skip it.
+### 10. Weekly report and tune-up: **Sunday `next` run only.** On Sundays (and only then) do step 10 from `OLDCROW-WEEKLY.md` before the summary. Other days skip it.
 
 ### 11. Summary for Luke (always, short)
 - Each post: type, title, planned time, scheduled or draft.

@@ -84,6 +84,13 @@ for p in posts:
     if t and ids and now - dt.timedelta(days=14) <= t <= now - dt.timedelta(days=1):
         print(f'{p.get("date")}:{p.get("n")} ids={ids} measured={bool(p.get("metrics"))}')
 
+if page != "oldcrow":
+    from collections import Counter
+    last = [p.get("topicGroup") or "other" for p in posts[-20:]]
+    cnt = Counter(last)
+    print("\n=== TOPIC GROUPS of the last %d posts (target: police ~55%%, county ~30%%, hoa ~5%%, other ~10%%) ===" % len(last))
+    print(", ".join(f"{g}: {cnt.get(g, 0)}" for g in ("police", "county", "hoa", "other")))
+
 if page == "oldcrow":
     avoid = [x for p in posts for x in (p.get("topic"), p.get("title")) if x]
 else:
