@@ -1,15 +1,15 @@
 # Jury Juice daily posting bot
 
-You are running Luke's Jury Juice posting bot. It runs **twice a day** (about 7:48 and 16:48) and together the two
+You are running Luke's Jury Juice posting bot. It runs **twice a day** (about 7:48 and 13:48) and together the two
 runs make **5 posts a day**, each on both Facebook and Instagram, saved to Buffer. Each post goes to the
 Jury Juice **Facebook page** and **juryjuicetv Instagram**.
 Old Crow is NOT handled here. Work from this repo (`luketcarey-star/juryjuice-media`).
 
-**Which run is this? (Luke's rule, 2026-10-14: two runs a day that never overlap)** Check `TZ=America/Toronto date +%H`:
-- **Before 13:00 = the `today` run** (about 7:48). Posting day = TODAY. It makes today's later 3 posts (windows w3 15:00–16:30, w4 17:30–18:45, w5 20:15–21:15).
-- **13:00 or later = the `next` run** (about 16:48). Posting day = TOMORROW (`TZ=America/Toronto date -d tomorrow +%F`). It makes tomorrow's first 2 posts (windows w1 09:00–10:30, w2 12:00–13:30). The ~7am runs of Oct 7–10 sometimes had no image tool (Old Crow), so the retry rule (step 0 / image tool) matters most on the morning run; Luke asked on 2026-10-14 to try 7–8am again.
-Each run only makes the posts for its own windows, so the two runs never collide. The planner (`python3 scripts/plan_day.py <posting day> <today|next>`) already knows which windows belong to which run. Everywhere below, `<today>`, `<date>` and "today's posts" mean the **posting day** of this run, and `<run>` means `today` or `next`. Post `date` in history = the posting day.
-**Buffer's scheduled-post limit** (`bufferLimit` in `state/config.json`, 10 on the free plan) is shared by both pages: the planner only returns as many posts as still fit. If `limitedByBuffer` is true, make only what it returns and say in the summary how many posts were skipped because of the Buffer limit (Luke needs to upgrade Buffer for the full 5 a day).
+**Which run is this? (Luke's rule, 2026-10-14: morning run posts the morning, afternoon run posts the afternoon, so Buffer's 10-post limit is never exceeded)** Check `TZ=America/Toronto date +%H`:
+- **Before 11:00 = the `am` run** (about 7:48). Posting day = TODAY. It makes today's early posts (windows w1 09:00–10:30, w2 12:00–13:30).
+- **11:00 or later = the `pm` run** (about 13:48). Posting day = TODAY too. It makes today's later posts (windows w3 15:00–16:30, w4 17:30–18:45, w5 20:15–21:15). The ~7am runs of Oct 7–10 sometimes had no image tool, so use the retry rule (sleep 180, up to 3 times) before giving up on the morning run.
+Each run only makes the posts for its own windows, so the two runs never collide, and each run's posts go out within hours, so few posts sit in Buffer at once. The planner (`python3 scripts/plan_day.py <date> <am|pm>`) already knows which windows belong to which run. Everywhere below, `<today>`, `<date>` and "today's posts" mean today's date (America/Toronto), and `<run>` means `am` or `pm`. Post `date` in history = today.
+**Buffer's scheduled-post limit** (`bufferLimit` in `state/config.json`, 10 on the free plan) is shared by both pages: the planner only returns as many posts as still fit. If `limitedByBuffer` is true, make only what it returns and say in the summary how many posts were skipped because of the Buffer limit (posts skipped; tell Luke).
 
 **Varied, coherent, no places (Luke's rule, 2026-10-11):**
 - No place names: never a city, town, county, state, province or country in slides or the caption line (the Source line's case name is fine). Use concrete non-place details instead.
@@ -71,7 +71,7 @@ Read these before writing anything:
   PROBLEM with the error text, and update its `status` in history.
 - Watchdog: write the current time to `lastRun` in this page's config file every run. Then read
   the OTHER page's config (`state/config.json` for Jury Juice, `state/oldcrow/config.json` for Old
-  Crow). If its `lastRun` is more than 20 hours old (both bots run twice a day, about 7:48/16:48 and 8:12/17:12, so anything under 20 hours is normal; or missing after its first day), report
+  Crow). If its `lastRun` is more than 20 hours old (both bots run twice a day, about 7:48/13:48 and 8:12/14:12, so anything under 20 hours is normal; or missing after its first day), report
   `⚠️ PROBLEM: the <other page> bot hasn't run since <time>` so Luke can check its scheduled task.
 - **Posts Luke deletes are not a problem.** Luke sometimes deletes queued posts in Buffer on
   purpose. If `get_post` says a post is not found (404) and it was never sent, mark it
@@ -96,7 +96,7 @@ Read these before writing anything:
   call ToolSearch with `select:mcp__Hookline_Images__generate_image` (then a keyword search for
   `generate_image` and for `Buffer create_post` if that finds nothing). Only if ToolSearch truly
   finds no image tool is it missing; then report it as a PROBLEM with what ToolSearch returned.
-- `cd` into the repo, `git pull`. Work out the run and posting day as described at the top (`today` run: today's date; `next` run: tomorrow's date, both in America/Toronto).
+- `cd` into the repo, `git pull`. Work out the run and posting day as described at the top (always today's date in America/Toronto).
 - **Read history the cheap way:** run `python3 scripts/history_view.py jury` once. It prints an INDEX of every earlier post (titles, topics, subtopics), the last 10 captions in full, the 3 best captions, the posts to failure-check and the posts to refresh metrics for, and writes `work/avoid.json`. Use that output everywhere this guide says "check history". Do NOT open or print `state/history.json` (it is large); only append your new posts to it with a short python snippet.
 - Install nothing new unless needed; `playwright` (with Chromium) is preinstalled. Run renders with `node render.js`.
 
@@ -110,10 +110,10 @@ Read these before writing anything:
   reach is missing; leave null if neither). Record `measuredAt`.
 - If a draft was never approved (still draft/not sent after 3 days), mark it `"status": "skipped"`.
 
-### 2b. Learn from Luke's insights: **Sunday `next` run only (the ~16:48 run on a Sunday).** On Sundays (and only then) read `BOT-WEEKLY.md` and do its step 2b first. Other days skip it.
+### 2b. Learn from Luke's insights: **Sunday `pm` run only (the ~13:48 run on a Sunday).** On Sundays (and only then) read `BOT-WEEKLY.md` and do its step 2b first. Other days skip it.
 
 ### 3. Plan the day
-- Run `python3 scripts/plan_day.py <posting day> <run>` (`<run>` = `today` or `next`). It returns this run's posts (the windows of this run only) with
+- Run `python3 scripts/plan_day.py <date> <run>` (`<run>` = `am` or `pm`). It returns this run's posts (the windows of this run only) with
   window, type, format, style, an optional topic hint and planned `facebookAt` / `instagramAt` times.
   It already counts today's earlier posts (max 5 a day; max 1 quick question a day; max 1 carousel a day and 4 a week, and
   carousels only ever go to Instagram, see step 8) and keeps posts well spaced (one in each window, 90+ minutes apart). Use them as given.
@@ -200,7 +200,7 @@ For each post, two `create_post` calls:
 - Delete `posts/<date>` folders older than `keepImagesDays` (already posted; Meta keeps its own copy).
 - Commit and push.
 
-### 10. Weekly report and tune-up: **Sunday `next` run only.** On Sundays (and only then) do step 10 from `BOT-WEEKLY.md` before the summary. Other days skip it.
+### 10. Weekly report and tune-up: **Sunday `pm` run only.** On Sundays (and only then) do step 10 from `BOT-WEEKLY.md` before the summary. Other days skip it.
 
 ### 11. Summary for Luke (always, keep it short)
 - What was made: for each post, type, title, planned FB and IG times, draft or scheduled.

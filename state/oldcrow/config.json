@@ -6,8 +6,8 @@
   "modeNote": "queue = schedule posts directly at their planned times (Luke chose auto-posting). draft = save as Buffer drafts. Only Luke changes this.",
   "timezone": "America/Toronto",
   "runs": {
-    "next": {
-      "runsAround": "17:12 the day before: makes TOMORROW's first 2 posts",
+    "am": {
+      "runsAround": "8:12 the same day: makes TODAY's early posts (morning to early afternoon)",
       "windows": {
         "o1": [
           "09:30",
@@ -19,8 +19,8 @@
         ]
       }
     },
-    "today": {
-      "runsAround": "8:12 the same day: makes TODAY's later 2 posts",
+    "pm": {
+      "runsAround": "14:12 the same day: makes TODAY's later posts (afternoon and evening)",
       "windows": {
         "o3": [
           "15:30",

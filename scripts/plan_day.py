@@ -26,7 +26,7 @@ hist = json.loads((SD / "history.json").read_text())
 week1 = json.loads((SD / "week1.json").read_text()) if (SD / "week1.json").exists() else {"days": {}}
 TZ = ZoneInfo(cfg["timezone"])
 day = dt.date.fromisoformat(sys.argv[1])
-run = sys.argv[2] if len(sys.argv) > 2 else ("today" if dt.datetime.now(TZ).hour < 13 else "next")
+run = sys.argv[2] if len(sys.argv) > 2 else ("am" if dt.datetime.now(TZ).hour < 11 else "pm")
 rng = random.Random(f"{PAGE}-{day.isoformat()}-{run}")  # same plan if re-run
 EXPLORE = cfg["exploreShare"]
 WINDOWS = cfg["runs"][run]["windows"]          # {name: ["HH:MM", "HH:MM"]}
@@ -103,8 +103,8 @@ def pick_time(window, platform, taken):
     return t
 
 
-# Every window of the day, across both runs, in time order (the "next" run makes the early ones the day before,
-# the "today" run makes the later ones that morning).
+# Every window of the day, across both runs, in time order (the "am" run makes the early ones that morning,
+# the "pm" run makes the later ones after lunch).
 ALL_WINDOWS = []
 for _r in cfg["runs"].values():
     for _w in _r["windows"]:

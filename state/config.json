@@ -57,8 +57,8 @@
   "modeChanged": "2026-10-05: Luke asked to auto-post Jury Juice",
   "postsPerRun": 3,
   "runs": {
-    "next": {
-      "runsAround": "16:48 the day before: makes TOMORROW's first 2 posts",
+    "am": {
+      "runsAround": "7:48 the same day: makes TODAY's early posts (morning to early afternoon)",
       "windows": {
         "w1": [
           "09:00",
@@ -70,8 +70,8 @@
         ]
       }
     },
-    "today": {
-      "runsAround": "7:48 the same day: makes TODAY's later 3 posts",
+    "pm": {
+      "runsAround": "13:48 the same day: makes TODAY's later posts (afternoon and evening)",
       "windows": {
         "w3": [
           "15:00",
