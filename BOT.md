@@ -158,6 +158,7 @@ Read these before writing anything:
   Use model `flare`, quality `medium`, aspect `4:5`. The tool result names the saved file path;
   copy it into the post folder (e.g. `work/p1/img1.jpg`). Max 8 images per run; if a carousel
   would go over, switch that post to tweet style.
+- **The photo must match the text.** If the slide says man, woman, he, she, a couple, etc., the person in the photo must match (state the gender and number of people in the scene prompt), or show no person at all (objects, hands, a doorway). Look at the generated photo for this before rendering; regenerate if it doesn't match.
 - Write a spec file and render:
   `{"page":"jury","style":"tweet"|"photo","caption":"...","slides":[{"text":"...","image":"img1.jpg"}]}`
   Tweet-style posts: add `"theme"` from the plan (`black`, `light` = white with black text, `dim` =
