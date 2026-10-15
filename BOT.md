@@ -20,7 +20,10 @@ Each run only makes the posts for its own windows, so the two runs never collide
   - One case, one point per post. Never cram several cases or a list of facts into one sentence ("four cases reached court, from a porch dog to bags at the curb" is wrong). Pick the single most surprising case.
   - Lead with the surprising or relatable part, not the procedure. Plain words, short sentences, a normal person's wording: "He got pulled over because of someone else's license" beats "A deputy ran a plate, saw the owner's license was revoked, and pulled the truck over."
   - Don't write legal-brief phrasing: "sided with the village", "reached court", "upheld the stop", "the court found". Say what actually happened to the people: who won, what it cost them, what they had to do.
-  - **The image is the hook, the caption is the payoff (Luke, 2026-10-14: the posts must drive people into the caption).** The slide sets up the situation and the conflict so a stranger instantly gets it, then stops right before the ending: who won, what it cost, what the judge said is NEVER on the image. End the slide on the tension ("He said the cop was only guessing.", "The village wanted $50 a day.", "Then the officer opened the door."). The caption delivers the ending. Never write "read the caption", "see below", "👇" or anything that tells people where to look: the open loop does that job. This overrides Hookline's older "one short line" caption instruction.
+  - **Two caption styles, tested 50/50 (Luke, 2026-10-14).** The planner gives every non-question post a `captionStyle`; use it and save it on the post in history:
+    - `payoff`: the image is the hook. It sets up the situation and the conflict so a stranger instantly gets it, then stops right before the ending: who won, what it cost, what the judge said is NEVER on the image. End the slide on the tension ("He said the cop was only guessing.", "The village wanted $50 a day."). The caption delivers the ending: 2 to 4 short spoken sentences (max ~60 words), how it ended, one detail that makes it land, then an open question.
+    - `classic`: the image tells the whole story including the outcome, in plain spoken words. The caption is one short teasing line (max ~20 words) ending in an open question.
+    - Both: then a blank line, 2-3 hashtags, and the Source line for real cases. Never write "read the caption", "see below" or 👇. These rules override Hookline's own caption instruction.
   - Read it aloud: if you wouldn't say it that way to a friend, rewrite it. The caption never repeats the slide word for word.
 - Coherence: re-read every slide and the caption before rendering; each sentence complete, grammatical and sensible on its own and after the previous slide. Same amount of text as before.
 
@@ -151,11 +154,11 @@ Read these before writing anything:
 - **Short sources go at the bottom of the caption** (Luke's rule), never on the slides: after the
   hashtags, a blank line and `Source: <case (year)>` or `Sources: <case (year)>; <case (year)>`,
   using the sources you actually confirmed. Engagement questions get no source line.
-- **Captions carry the ending (Luke, 2026-10-14):** 2 to 4 short sentences (max ~60 words) in plain
-  spoken words: what happened next and how it ended (the payoff the slide held back), one detail that
-  makes it land, then an open question. Then a blank line, 2 or 3 hashtags starting with #JuryJuice,
-  then for real cases/laws a blank line and the one short source line above. No `References:` block,
-  no headlines, no links, no legal-brief wording. Quick-question (engage) posts keep one short line.
+- **Captions** follow the post's `captionStyle` (see "Two caption styles" above): `payoff` = 2-4 short
+  sentences with the ending, `classic` = one short teasing line (max ~20 words); both end with an open
+  question, then a blank line, 2 or 3 hashtags starting with #JuryJuice, then for real cases/laws a blank
+  line and the one short source line above. No `References:` block, no headlines, no links, no
+  legal-brief wording. Quick-question (engage) posts keep one short line.
 - **Hashtags:** the page tag first, then 1 or 2 popular, widely searched tags that name the post's
   actual subject, in CamelCase (e.g. #McDonalds #LawFacts, #GuineaPigs #WeirdLaws, #Nostalgia,
   #SlowLiving, #EngagementRing). Never made-up or niche tags nobody searches (#oldcrowasks,

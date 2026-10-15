@@ -2,6 +2,8 @@
 
 Only read this file on a Sunday run. Same rules as the main guide.
 
+**Caption-style test (Luke, 2026-10-14):** in the weekly report, compare posts with `captionStyle: "payoff"` vs `"classic"` (average engagement rate, comments, shares, clicks, per platform, and how many of each were measured). Say which is winning and by how much; once each style has 10+ measured posts, recommend keeping the winner, but don't change the 50/50 split until Luke says so.
+
 ### 2b. Learn from Luke's insights (Sunday run only, once 6+ posts have metrics)
 - Rank every measured post in this page's history by `engagementRate` (also look at shares and
   comments on their own: shares spread the page, comments show a caption landed).

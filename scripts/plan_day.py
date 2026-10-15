@@ -237,6 +237,11 @@ for s in enforce_carousel_caps(plan_slots(n)):
     if s.get("style") == "tweet":
         last_theme = THEMES[(THEMES.index(last_theme) + 1) % 3]
         s = dict(s, theme=last_theme)
+    if PAGE == "jury" and s.get("type") != "engage":
+        # A/B test (Luke, 2026-10-14): "payoff" = image stops before the ending, caption tells it;
+        # "classic" = image tells the whole story, one short teasing caption line. Keep them 50/50.
+        styles = [p.get("captionStyle") for p in hist["posts"] if p.get("captionStyle")] + [x.get("captionStyle") for x in out if x.get("captionStyle")]
+        s = dict(s, captionStyle="payoff" if styles.count("payoff") <= styles.count("classic") else "classic")
     out.append(dict(s, facebookAt=fb.isoformat(), instagramAt=ig.isoformat() if "instagram" in cfg.get("platforms", ["facebook", "instagram"]) else None))
 print(json.dumps({"page": PAGE, "date": day.isoformat(), "run": run, "bufferQueued": queued,
                   "limitedByBuffer": limited_by_buffer, "mode": cfg["mode"],

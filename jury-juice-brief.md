@@ -45,7 +45,7 @@ Police content is allowed; what gets pages restricted is how it's handled. Alway
   posts stay recommendable.
 
 ## Caption
-The image is the hook, the caption is the payoff (Luke, 2026-10-14): the slide stops right before the ending, the caption tells it. Keep it short and clean (Facebook flags long, info-heavy captions). Layout:
+Two caption styles are being tested 50/50 (Luke, 2026-10-14); the planner picks one per post (`captionStyle`). `payoff`: the slide stops right before the ending and the caption tells it (2-4 short spoken sentences, max ~60 words). `classic`: the slide tells the whole story and the caption is one short teasing line (max ~20 words). Keep it short and clean either way (Facebook flags long, info-heavy captions). Layout (payoff; classic uses one line instead):
 ```
 2 to 4 short spoken sentences (max about 60 words): what happened next and how it ended, one detail that makes it land, then an open question.
 
@@ -135,7 +135,7 @@ Image prompt composition line: "Composition: vertical photo. Keep the main subje
   - One case, one point per post. Never cram several cases or a list of facts into one sentence ("four cases reached court, from a porch dog to bags at the curb" is wrong). Pick the single most surprising case.
   - Lead with the surprising or relatable part, not the procedure. Plain words, short sentences, a normal person's wording: "He got pulled over because of someone else's license" beats "A deputy ran a plate, saw the owner's license was revoked, and pulled the truck over."
   - Don't write legal-brief phrasing: "sided with the village", "reached court", "upheld the stop", "the court found". Say what actually happened to the people: who won, what it cost them, what they had to do.
-  - The slide sets up the situation and the conflict so a stranger instantly gets it, then stops right before the ending (who won, what it cost, what the judge said). The caption delivers the ending.
+  - Follow the post's `captionStyle`: `payoff` posts stop the slide right before the ending and let the caption tell it; `classic` posts tell the whole story on the slide.
   - Read it aloud: if you wouldn't say it that way to a friend, rewrite it. The caption never repeats the slide word for word.
 - No "not X but Y" contrasts in any form ("not just X, it's Y", "This doesn't mean X. It means Y.", "X rather than Y", "..., no guessing"). State the point directly.
 - No one-line closers or dramatic fragments that restate the point ("That's the real win.", "Let that sink in.", "Read that again.", "The message was clear:", rows of fragments, every. single. word.).
