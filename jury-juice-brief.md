@@ -130,6 +130,12 @@ Image prompt composition line: "Composition: vertical photo. Keep the main subje
 - Picture descriptions: no real, named person's likeness (use a generic person), no brand logos or packaging, no imitation news photos, mugshots or court documents.
 
 ## WRITE LIKE A PERSON (humanizer rules; every line you write must pass these)
+- **Say it the way a person would say it out loud (Luke, 2026-10-14: posts read stiff and weird):**
+  - One case, one point per post. Never cram several cases or a list of facts into one sentence ("four cases reached court, from a porch dog to bags at the curb" is wrong). Pick the single most surprising case.
+  - Lead with the surprising or relatable part, not the procedure. Plain words, short sentences, a normal person's wording: "He got pulled over because of someone else's license" beats "A deputy ran a plate, saw the owner's license was revoked, and pulled the truck over."
+  - Don't write legal-brief phrasing: "sided with the village", "reached court", "upheld the stop", "the court found". Say what actually happened to the people: who won, what it cost them, what they had to do.
+  - Every slide must say what the question or conflict was, then what happened. If a stranger can't tell what the dispute was, rewrite.
+  - Read it aloud: if you wouldn't say it that way to a friend, rewrite it. The caption adds a fresh thought, it never repeats the slide or just names the source.
 - No "not X but Y" contrasts in any form ("not just X, it's Y", "This doesn't mean X. It means Y.", "X rather than Y", "..., no guessing"). State the point directly.
 - No one-line closers or dramatic fragments that restate the point ("That's the real win.", "Let that sink in.", "Read that again.", "The message was clear:", rows of fragments, every. single. word.).
 - No deep-sounding sayings ("the real question is", "at its core", "what really matters", "X is the language of Y").
