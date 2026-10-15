@@ -26,7 +26,7 @@ a right people don't know they have. Police subjects to rotate: traffic stops; c
 home searches and warrants; recording officers; body cameras;
 plate readers and camera tickets; seized cars and property (no drug cases); impounds and tows;
 knock-and-talks at the door; ID and "do I have to answer" stops; odd 911 calls; police and pets; trespass and "leave the property" orders; noise and party calls; jaywalking, bike and scooter
-tickets; speed traps; false arrest lawsuits; officers on private property; searches at schools or events;
+tickets; speed traps; false arrest lawsuits; officers on private property; bag searches at events;
 lost-and-found and returned property; funny or strange real arrests.
 - **Police:** court rulings on traffic stops, searches and arrests; lawsuits and settlements against
   departments; odd or funny real police calls, tickets and arrests; "what the court decided" cases
