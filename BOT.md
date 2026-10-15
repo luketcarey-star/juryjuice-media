@@ -13,7 +13,7 @@ Each run only makes the posts for its own windows, so the two runs never collide
 
 **Varied, coherent, no places (Luke's rule, 2026-10-11):**
 - No place names: never a city, town, county, state, province or country in slides or the caption line (the Source line's case name is fine). Use concrete non-place details instead.
-- Never repeat a subject: before choosing a topic, list the `subtopic` of the last 12 Jury Juice posts in history and pick something clearly different (traffic stops, pull-overs and basic tickets/fines are ONE subject, not the default). Use the brief's subject list for ideas. Steer the topic group with the TOPIC GROUPS line in `history_view.py`: police ~55%, county/city ~30%, HOA only ~1 post in 20, other ~10% (Luke 2026-10-14); pick the group furthest below its target. Save `"subtopic": "<2-4 words>"` on every post in history. `work/avoid.json` (written by `history_view.py`) already holds the last 20 titles + subtopics: pass it to `hookline.js write`.
+- Never repeat a subject: before choosing a topic, list the `subtopic` of the last 12 Jury Juice posts in history and pick something clearly different (traffic stops, pull-overs and basic tickets/fines are ONE subject, not the default). Use the brief's subject list for ideas. Steer the topic group with the TOPIC GROUPS line in `history_view.py`: police ~70%, county/city ~20%, HOA only ~1 post in 20, other ~5% (Luke 2026-10-14); police posts rotate through the brief's police subject list and never repeat a police subject from the last 8 police posts; pick the group furthest below its target. Save `"subtopic": "<2-4 words>"` on every post in history. `work/avoid.json` (written by `history_view.py`) already holds the last 20 titles + subtopics: pass it to `hookline.js write`.
 - Vary every caption: read the CAPTIONS section (last 10) first; don't reuse their opening words, sentence shape or closing question.
 - **Vary the wording (Luke's rule):** no phrase may repeat from recent posts. Before rendering, write the post's slides + caption to `work/p<n>/draft.json` (`{"slides":[...],"caption":"..."}`) and run `python3 scripts/repeat_check.py jury work/p<n>/draft.json`. Rewrite every REPEATED or TIRED PHRASE it lists in fresh words that fit this story, and run it again until it prints OK. No word is banned outright; the point is that no phrase keeps repeating, so describe each outcome in words that fit this story. Describe each outcome differently (the judge sided with..., the fine stood, the family lost on appeal, the HOA backed down, the case was thrown out...).
 - **Say it the way a person would say it out loud (Luke, 2026-10-14: posts read stiff and weird):**
@@ -143,7 +143,7 @@ Read these before writing anything:
 - Follow `jury-juice-brief.md` for the post's type and style. Carousels use the type's default
   slide count (7) unless the content needs fewer; singles are exactly 1 slide.
 - If the topic hint is empty, choose a fresh topic for that type. **Follow the brief's "Audience
-  focus"**: about 55% police, 30% county/city government, and only about 1 in 20 HOA (Luke 2026-10-14: police and county first, HOA rarely),
+  focus"**: about 70% police (always varied, see the brief's police subject list), 20% county/city government, and only about 1 in 20 HOA (Luke 2026-10-14: mostly police, HOA rarely),
   and the brief's police safety rules on every police post.
 - Output for each post: `slides` (text, and `scene` for photo style), `caption`, and for real
   types a `sources` list (item + source URL or citation).

@@ -88,8 +88,10 @@ if page != "oldcrow":
     from collections import Counter
     last = [p.get("topicGroup") or "other" for p in posts[-20:]]
     cnt = Counter(last)
-    print("\n=== TOPIC GROUPS of the last %d posts (target: police ~55%%, county ~30%%, hoa ~5%%, other ~10%%) ===" % len(last))
+    print("\n=== TOPIC GROUPS of the last %d posts (target: police ~70%%, county ~20%%, hoa ~5%%, other ~5%%) ===" % len(last))
     print(", ".join(f"{g}: {cnt.get(g, 0)}" for g in ("police", "county", "hoa", "other")))
+    pol = [p.get("subtopic") or p.get("title") for p in posts if (p.get("topicGroup") == "police")][-8:]
+    print("Last 8 police subjects (don't repeat any of these):", "; ".join(str(x) for x in pol) or "(none)")
 
 if page == "oldcrow":
     avoid = [x for p in posts for x in (p.get("topic"), p.get("title")) if x]

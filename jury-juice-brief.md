@@ -13,10 +13,20 @@ Every sentence must be coherent and complete: each slide makes sense on its own,
 Real cases, laws and rulings must be real and widely documented. Only use names, dates, amounts and outcomes you are highly confident of; if unsure, leave the detail out. Never invent cases, quotes or laws.
 Police posts: no violence, injuries or deaths (skip cases built around them); allegations stay allegations; never encourage anyone to contact or harass a named officer or resident; stay neutral, no politics and nothing framed around race; never say what "your rights" are in general, say what the court decided in that case.
 
-## Audience focus (Luke's rule, updated 2026-10-14: police and county/city first, HOA only occasionally)
+## Audience focus (Luke's rule, updated 2026-10-14 night: mostly police, varied; county/city second; HOA rare)
 Luke's audience comes for **police** and **county / city government** stories. Split of all posts:
-about **55% police**, about **30% county / city**, about **5% HOA (an occasional one, not a regular)**,
-and the other ~10% any real legal story.
+about **70% police**, about **20% county / city**, about **5% HOA (an occasional one, not a regular)**,
+and the other ~5% any real legal story.
+**Police posts must stay varied (Luke):** rotate through the police subjects below. Never two police posts in a
+row on the same subject, and never repeat a subject used in the last 8 police posts (the `subtopic` field).
+Mix the kind of story too: a court ruling, a lawsuit or settlement, an odd real call or arrest, a ticket story,
+a right people don't know they have. Police subjects to rotate: traffic stops; car searches; phone searches;
+home searches and warrants; wrong-house raids; police dogs and sniffs; recording officers; body cameras;
+plate readers and camera tickets; DUI checkpoints and breath tests; seized cash and cars; impounds and tows;
+knock-and-talks at the door; ID and "do I have to answer" stops; odd 911 calls; police and pets; welfare
+checks; trespass and "leave the property" orders; noise and party calls; jaywalking, bike and scooter
+tickets; speed traps; false arrest lawsuits; officers on private property; searches at schools or events;
+lost-and-found and returned property; funny or strange real arrests.
 - **Police:** court rulings on traffic stops, searches and arrests; lawsuits and settlements against
   departments; odd or funny real police calls, tickets and arrests; "what the court decided" cases
   about everyday encounters. Calm and factual.
