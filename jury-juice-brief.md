@@ -45,9 +45,9 @@ Police content is allowed; what gets pages restricted is how it's handled. Alway
   posts stay recommendable.
 
 ## Caption
-Keep every caption short and clean (Facebook flags long, info-heavy captions). Layout:
+The image is the hook, the caption is the payoff (Luke, 2026-10-14): the slide stops right before the ending, the caption tells it. Keep it short and clean (Facebook flags long, info-heavy captions). Layout:
 ```
-One short line (max about 20 words) that teases the post and ends with an open question.
+2 to 4 short spoken sentences (max about 60 words): what happened next and how it ended, one detail that makes it land, then an open question.
 
 #JuryJuice #Tag2 #Tag3
 
@@ -59,7 +59,8 @@ Source: Heien v. North Carolina (2014)
   `Source: <case name (year)>` for one, or `Sources: <case (year)>; <case (year)>` for several
   (shortened case names, or "Publication, year" for news; for ordinances "City Code § x"). No
   links, no headlines, no "References:" list. Questions get no source line.
-- Don't explain every detail; a little mystery is fine.
+- Give the ending, not every detail. Quick-question (engage) posts keep a single short line.
+- Never point at the caption ("read the caption", "see below", 👇): the unfinished slide does that job.
 - Vary every caption: never reuse the opening words, sentence shape or closing question of the last 10 captions (no more "Would you have ruled the same way?" on repeat). Rotate question styles: what would you have done, was it fair, whose side are you on, has this happened to you, what surprised you most.
 - No place names (city, state, country) in the caption line.
 - Never tell people to comment, vote, like, share or tag.
@@ -134,8 +135,8 @@ Image prompt composition line: "Composition: vertical photo. Keep the main subje
   - One case, one point per post. Never cram several cases or a list of facts into one sentence ("four cases reached court, from a porch dog to bags at the curb" is wrong). Pick the single most surprising case.
   - Lead with the surprising or relatable part, not the procedure. Plain words, short sentences, a normal person's wording: "He got pulled over because of someone else's license" beats "A deputy ran a plate, saw the owner's license was revoked, and pulled the truck over."
   - Don't write legal-brief phrasing: "sided with the village", "reached court", "upheld the stop", "the court found". Say what actually happened to the people: who won, what it cost them, what they had to do.
-  - Every slide must say what the question or conflict was, then what happened. If a stranger can't tell what the dispute was, rewrite.
-  - Read it aloud: if you wouldn't say it that way to a friend, rewrite it. The caption adds a fresh thought, it never repeats the slide or just names the source.
+  - The slide sets up the situation and the conflict so a stranger instantly gets it, then stops right before the ending (who won, what it cost, what the judge said). The caption delivers the ending.
+  - Read it aloud: if you wouldn't say it that way to a friend, rewrite it. The caption never repeats the slide word for word.
 - No "not X but Y" contrasts in any form ("not just X, it's Y", "This doesn't mean X. It means Y.", "X rather than Y", "..., no guessing"). State the point directly.
 - No one-line closers or dramatic fragments that restate the point ("That's the real win.", "Let that sink in.", "Read that again.", "The message was clear:", rows of fragments, every. single. word.).
 - No deep-sounding sayings ("the real question is", "at its core", "what really matters", "X is the language of Y").
