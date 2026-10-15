@@ -6,6 +6,10 @@ it. A post goes to Buffer only if every line below is a clear YES. If anything f
 check again; if it can't be fixed, replace the post with a different topic. Never "probably fine".
 
 ## Community Standards (could get the page restricted)
+- [ ] Nothing about drugs (drug dogs, drug searches, marijuana, pills, "narcotics"), alcohol or
+      impaired driving, weapons or guns, violence or use of force, sex, minors in legal stories,
+      suicide, abuse, gangs, terrorism, immigration/ICE, politics, race or religion, or protests,
+      in the slides, caption, hashtags, alt text or image (Luke, 2026-10-14). Any hit = replace the post.
 - [ ] No violence, injuries, blood, bodies or deaths, in words or images. No fights, chases,
       shootings or rough arrests (arrests shown, if at all, are calm).
 - [ ] No real person's likeness in AI images; no imitation bodycam frames, mugshots, police
