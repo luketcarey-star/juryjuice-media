@@ -233,6 +233,13 @@ details.card .inner{display:flex;flex-direction:column;gap:14px;padding-top:16px
         <label class="f" for="format">Type
           <select id="format"></select>
         </label>
+        <label class="f" for="capStyle" id="capStyleWrap" hidden>Caption style
+          <select id="capStyle">
+            <option value="random">Random (50/50 test)</option>
+            <option value="payoff">Payoff: ending in the caption</option>
+            <option value="classic">Classic: whole story on the image</option>
+          </select>
+        </label>
         <label class="f" for="topic" hidden>Topic
           <textarea id="topic" rows="2"></textarea>
         </label>
@@ -458,16 +465,18 @@ const PAGES = {
             {id:"photo", label:"Photo story", hint:"One short sentence per slide (15 words max) in big capitals over a photo. Wrap words in <code>**double asterisks**</code> to make them orange. The picture comes from the image description below."}],
     photoStyle:"Realistic editorial news-style photograph, candid and emotional, natural light, true-to-life colours, sharp focus on the subject with a slightly shallow depth of field. Ordinary real people and everyday places, nothing glamorous or staged.",
     imageStyle:"Ordinary documentary-style photo, plain and unpolished, flat natural or fluorescent lighting, slightly washed-out colours, not cinematic. Courtrooms are beige wood-panelled with flat fluorescent light; police are ordinary patrol officers; code enforcement officers wear beige uniforms.",
-    voice:`Jury Juice is a Facebook and Instagram page about the law in everyday life, focused on three things its audience loves: police (traffic stops, searches, arrests, tickets and the lawsuits and court rulings that follow), HOAs (fines, rules and homeowner fights) and county / city government (code enforcement, permits, zoning, property and residents who fought city hall).
+    voice:`Jury Juice is a Facebook and Instagram page about the law in everyday life, focused mainly on police (about 70% of posts: stops, searches, tickets, recording officers, odd calls and the lawsuits and court rulings that follow), then county / city government (about 20%: code enforcement, permits, zoning, property and residents who fought city hall). HOAs only rarely (about 1 post in 20).
 Voice: simple, natural and easy to follow, like someone telling a surprising legal story to a friend. Little legal jargon. Calm and factual, never sensational or shocking.
 Never name the place (Luke's rule, 2026-10-11): no city, town, county, state, province or country in slides or caption text (a case name in the caption's Source line is fine). Keep the story concrete with the non-place details instead (the amount, the object, the year, what was actually said or done) so it never sounds generic.
-Always vary (Luke's rule): never repeat a recent subject or angle. Rotate widely within police, HOA and county/city: e.g. police: searches of phones or homes, body cameras, recording officers, seized or towed cars, odd 911 calls, noise and nuisance calls, school-zone or camera tickets, impounds, licence plate readers; HOA: pets, pools, trees, fences, solar panels, flags, rentals, holiday decorations, parking, kids' play equipment, front-door colours, HOA elections and fees; county/city: sidewalks, trees on city land, chickens and gardens, signs, home businesses, short-term rentals, demolition, water bills, snow removal, building permits, code inspections, city council fights. Traffic stops and basic tickets or fines are only one subject among many, never the default.
+NEVER-POST LIST (Luke, 2026-10-14: nothing that could get the page banned). If a case or idea touches any of these, pick a different one, even if the case is famous: drugs or any drug reference (drug dogs, drug searches, sniff cases, marijuana, pills, "narcotics"), alcohol or impaired driving (DUI, breath tests), violence or force of any kind (shootings, tasers, tackles, fights, chases, injuries, deaths, use-of-force lawsuits), weapons or guns, sexual content, minors in any police or legal story (no school cases), suicide or self-harm, abuse, terrorism, gangs, immigration or ICE, politics, race or religion, protests, specific officers or private people named or shown, wrong-house raids, welfare checks, and anything graphic or shocking. When in doubt, leave it out.
+Always vary (Luke's rule): never repeat a recent subject or angle, and never two police posts in a row on the same subject. Mix the kind of story too: a court ruling, a lawsuit or payout, an odd real call or arrest, a ticket story, a right people don't know they have. Police subjects to rotate: traffic stops (only now and then); car searches; phone searches; home searches and warrants; recording officers; body cameras; plate readers and camera tickets; seized or towed cars; impounds; knock-and-talks at the door; ID and "do I have to answer" stops; odd 911 calls; police and pets; trespass and "leave the property" orders; noise and party calls; jaywalking, bike and scooter tickets; speed traps; false arrest lawsuits; officers on private property; bag searches at events; lost-and-found property; funny or strange real arrests (only ones confirmed by reliable sources); HOA: pets, pools, trees, fences, solar panels, flags, rentals, holiday decorations, parking, kids' play equipment, front-door colours, HOA elections and fees; county/city: sidewalks, trees on city land, chickens and gardens, signs, home businesses, short-term rentals, demolition, water bills, snow removal, building permits, code inspections, city council fights. Traffic stops and basic tickets or fines are only one subject among many, never the default.
 Vary the wording every time (Luke's rule): never reuse a phrase from recent posts. Phrases like "the court upheld the ban", "the Supreme Court ruled" or "would you have decided the same way" are fine now and then, but never let one repeat from recent posts or become a habit; don't lean on any one outcome phrase ("sided with", "struck down", "thrown out") either. Say what actually happened to this specific person, object or rule in plain concrete words that only fit this story (the fine stayed, the swing set stayed in the yard, the deputy kept his stop, the city paid up, the family had to dig up the garden, the HOA dropped the letter, the case ended before it began), and word each post's outcome differently from the last ones.
+Say it the way a person would say it out loud (Luke, 2026-10-14: posts read stiff): one case and one point per post, never several cases or a list of facts crammed into one sentence. Lead with the surprising or relatable part, not the procedure ("He got pulled over because of someone else's license" beats "A deputy ran a plate, saw the owner's license was revoked, and pulled the truck over"). No legal-brief phrasing ("sided with the village", "reached court", "upheld the stop", "the court found"): say what happened to the people. If you wouldn't say it that way to a friend, rewrite it.
 Every sentence must be coherent and complete: read each slide aloud, check it makes sense on its own and follows from the slide before it, uses correct grammar, and never drops words or mixes two ideas. Keep about the same amount of text as before.
 Real cases, laws and rulings must be real and widely documented. Only use names, dates, amounts and outcomes you are highly confident of; if unsure, leave the detail out. Never invent cases, quotes or laws.
 Police posts: no violence, injuries or deaths (skip cases built around them); allegations stay allegations; never encourage anyone to contact or harass a named officer or resident; stay neutral, no politics and nothing framed around race; never say what "your rights" are in general, say what the court decided in that case.`,
     cta:"Follow for more",
-    caption:`Also write a short, concise caption: one short line (max about 20 words) that teases the post and ends with an open question, then a blank line and 2 or 3 hashtags starting with #JuryJuice. Vary every caption: never reuse the opening words, sentence shape or closing question of a recent caption (don't keep ending with "Would you have ruled the same way?" or "Should the court have..."). Mix it up: what would they have done, was it fair, whose side are they on, has it happened to them, what surprised them most, or a plain curious question. Never name a city, state or country in the caption line. For posts about real cases or laws only, end with a blank line and ONE short source line at the very bottom: "Source: <case name (year)>" for one case, or "Sources: <case (year)>; <case (year)>" for several (case names shortened, years in brackets, or "Publication, year" for news; no links, no headlines, no "References:" list). Questions and other posts get no source line. Otherwise keep it short: no case citations in the text, no links, and don't explain every detail; a little mystery is fine. (Facts are still checked behind the scenes.) Never tell people to comment, vote, like, share or tag. Hashtags: the page tag first, then 1 or 2 popular, widely searched tags that name the post's actual subject (e.g. #McDonalds #LawFacts #GuineaPigs #WeirdLaws #Nostalgia #SlowLiving #EngagementRing), in CamelCase. Never made-up or niche tags nobody searches (like #oldcrowasks #thingswearesold #notes #busy), never generic filler (#history #facts).`,
+    caption:`Also write a short, clean caption in the CAPTION STYLE given below, ending with an open question, then a blank line and 2 or 3 hashtags starting with #JuryJuice. Never write "read the caption", "see below" or 👇. Vary every caption: never reuse the opening words, sentence shape or closing question of a recent caption (don't keep ending with "Would you have ruled the same way?" or "Should the court have..."). Mix it up: what would they have done, was it fair, whose side are they on, has it happened to them, what surprised them most, or a plain curious question. Never name a city, state or country in the caption line. For posts about real cases or laws only, end with a blank line and ONE short source line at the very bottom: "Source: <case name (year)>" for one case, or "Sources: <case (year)>; <case (year)>" for several (case names shortened, years in brackets, or "Publication, year" for news; no links, no headlines, no "References:" list). Questions and other posts get no source line. Otherwise keep it short: no case citations in the text, no links, and don't explain every detail; a little mystery is fine. (Facts are still checked behind the scenes.) Never tell people to comment, vote, like, share or tag. Hashtags: the page tag first, then 1 or 2 popular, widely searched tags that name the post's actual subject (e.g. #McDonalds #LawFacts #GuineaPigs #WeirdLaws #Nostalgia #SlowLiving #EngagementRing), in CamelCase. Never made-up or niche tags nobody searches (like #oldcrowasks #thingswearesold #notes #busy), never generic filler (#history #facts).`,
     real:true,
     formats:[
       {id:"list", label:"Real cases: police, HOA & county", count:7, cta:"Follow for more", real:true,
@@ -1141,6 +1150,7 @@ $("factCopy").onclick = async () => {
 function fmt(){ return page().formats.find(x => x.id === $("format").value) || page().formats[0]; }
 function updateFormat(){
   const f = fmt();
+  $("capStyleWrap").hidden = !(cur === "jury" && f.id !== "engage");
   $("notesLabel").textContent = f.needsNotes ? "Case facts" : "Notes";
   $("notesSmall").textContent = f.needsNotes ? "Required: paste what really happened" : (f.hint || "Optional");
   $("notes").placeholder = f.needsNotes ? "Who, where, what happened, the outcome…" : (page().speakers ? "The object or scene, points to include…" : "Angle, facts or cases to include…");
@@ -1253,7 +1263,7 @@ Suggest 6 fresh carousel ideas spread across these formats:
 ${fmts.map(f => `- "${f.id}": ${f.label}. ${f.hint}`).join("\n")}
 
 Each idea: a one-line title in plain words with no em dashes (the topic or situation, under 15 words) and a short "angle" (the twist, the object, or 2 or 3 example cases to include).
-${P.id === "jury" ? 'For "list" ideas, only themes with real, widely reported lawsuits.\n' : ""}Don't repeat or closely resemble any of these:
+${id === "jury" ? 'For "list" ideas, only themes with real, widely reported lawsuits.\n' : ""}Don't repeat or closely resemble any of these:
 ${avoid.map(t => "• " + t).join("\n")}
 
 Reply with only JSON: [{"fmt": "${fmts[0].id}", "title": "...", "angle": "..."}]`, {cache:false});
@@ -1293,6 +1303,14 @@ Every slide is an illustration of the two ravens with text added on top. So for 
 }
 function buildPrompt(P, f, topic, notes, n, st, avoid = []){
   const cta = f.cta || pf().cta || P.cta, single = n === 1;
+  let capStyle = (P.name === "Jury Juice" && f.id === "engage") ? "\nCAPTION STYLE: one short line (max about 20 words) ending in an open question.\n" : "";
+  if (P.name === "Jury Juice" && f.id !== "engage"){
+    const sel = (typeof document !== "undefined" && document.getElementById("capStyle")) ? document.getElementById("capStyle").value : "random";
+    const pick = sel === "random" ? (Math.random() < 0.5 ? "payoff" : "classic") : sel;
+    capStyle = pick === "payoff"
+      ? `\nCAPTION STYLE: PAYOFF (Luke's 50/50 test). The image is the hook: it sets up the situation and the conflict so a stranger instantly gets it, then stops right before the ending. Who won, what it cost or what the judge said is NEVER on the image; end the slide on the tension. The caption delivers the ending: 2 to 4 short spoken sentences (max about 60 words) saying how it ended, one detail that makes it land, then an open question.${single ? " This overrides the rule that a single slide holds the hook and the payoff together." : " On a carousel, the last story slide stops before the outcome."}\n`
+      : `\nCAPTION STYLE: CLASSIC (Luke's 50/50 test). The image tells the whole story including the outcome, in plain spoken words. The caption is one short teasing line (max about 20 words) ending in an open question.\n`;
+  }
   const img = st !== "tweet";
   return `You write carousel copy for "${pf().name}", a ${P.platform}.
 
@@ -1311,7 +1329,7 @@ ${img ? styleRules(st) + "\n\nThe slide-style rules above override any conflicti
 ${single ? "" : `- The final call to action: "${cta}"`}
 ${img ? "" : "- " + FORMAT_RULE + "\n"}- Plain, human language. No hashtags or emojis on the slides.
 - Never use any of these words or patterns: ${BANNED.join(", ")}.
-- ${f.caption || P.caption || "Also write a post caption: 2 to 4 short sentences that end with a question, then a blank line and 2 or 3 popular, widely searched hashtags that name the subject (no made-up tags)."}${f.id === "story" || f.id === "cliff" ? ' Add "Dramatized story." on its own line before the hashtags.' : ""}
+- ${f.caption || P.caption || "Also write a post caption: 2 to 4 short sentences that end with a question, then a blank line and 2 or 3 popular, widely searched hashtags that name the subject (no made-up tags)."}${f.id === "story" || f.id === "cliff" ? ' Add "Dramatized story." on its own line before the hashtags.' : ""}${capStyle}
 
 ${POLICY}
 
