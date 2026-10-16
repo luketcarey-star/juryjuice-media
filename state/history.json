@@ -1300,7 +1300,7 @@
    "metrics": {}
   },
   {
-   "date": "2026-10-17",
+   "date": "2026-10-16",
    "n": 1,
    "type": "list",
    "topicGroup": "police",
@@ -1320,19 +1320,20 @@
    "imageFolder": "posts/2026-10-17/1-list/",
    "facebook": {
     "postId": "6ad214ba25d13dd62ee5bb2d",
-    "plannedAt": "2026-10-17T09:25:00-04:00",
+    "plannedAt": "2026-10-16T09:25:00-04:00",
     "format": "single"
    },
    "instagram": {
     "postId": "6ad214bcb948bf9e9d937a43",
-    "plannedAt": "2026-10-17T09:56:00-04:00"
+    "plannedAt": "2026-10-16T09:56:00-04:00"
    },
    "status": "scheduled",
    "metaCheck": "passed",
-   "metrics": {}
+   "metrics": {},
+   "note": "Made by the 2026-10-16 morning special run for 10-17, moved to 10-16 at Luke's request (images stay in posts/2026-10-17/)."
   },
   {
-   "date": "2026-10-17",
+   "date": "2026-10-16",
    "n": 2,
    "type": "history",
    "topicGroup": "county",
@@ -1357,20 +1358,21 @@
    "imageFolder": "posts/2026-10-17/2-history/",
    "facebook": {
     "postId": "6ad214bff24c5797a23af6a6",
-    "plannedAt": "2026-10-17T12:53:00-04:00",
+    "plannedAt": "2026-10-16T12:20:00-04:00",
     "format": "single"
    },
    "instagram": {
     "postId": "6ad214c2b948bf9e9d937b57",
-    "plannedAt": "2026-10-17T12:38:00-04:00"
+    "plannedAt": "2026-10-16T12:50:00-04:00"
    },
    "status": "scheduled",
    "metaCheck": "passed",
    "metrics": {},
-   "facebookFormat": "single (lawn slide, fb/slide1.jpg)"
+   "facebookFormat": "single (lawn slide, fb/slide1.jpg)",
+   "note": "Made by the 2026-10-16 morning special run for 10-17, moved to 10-16 at Luke's request (images stay in posts/2026-10-17/)."
   },
   {
-   "date": "2026-10-17",
+   "date": "2026-10-16",
    "n": 3,
    "type": "engage",
    "topicGroup": "police",
@@ -1387,17 +1389,18 @@
    "imageFolder": "posts/2026-10-17/3-engage/",
    "facebook": {
     "postId": "6ad214c62fe657de6ea2e152",
-    "plannedAt": "2026-10-17T15:46:00-04:00",
+    "plannedAt": "2026-10-16T15:10:00-04:00",
     "format": "single"
    },
    "instagram": {
     "postId": "6ad214c8f24c5797a23af8dd",
-    "plannedAt": "2026-10-17T15:02:00-04:00"
+    "plannedAt": "2026-10-16T15:40:00-04:00"
    },
    "status": "scheduled",
    "metaCheck": "passed",
    "metrics": {},
-   "theme": "light"
+   "theme": "light",
+   "note": "Made by the 2026-10-16 morning special run for 10-17, moved to 10-16 at Luke's request (images stay in posts/2026-10-17/)."
   }
  ],
  "ideas": []
