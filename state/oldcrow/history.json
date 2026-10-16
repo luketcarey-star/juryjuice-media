@@ -1028,6 +1028,26 @@
    "metaCheck": "passed",
    "line": "Everyone wants a quiet life. Until the wifi goes down.",
    "caption": "Peace is overrated."
+  },
+  {
+   "date": "2026-10-17",
+   "n": 4,
+   "type": "thennow",
+   "format": "single",
+   "style": "ai",
+   "title": "Resoled then. Replaced now.",
+   "topic": "Resoled leather shoes vs disposable foam sneakers",
+   "slides": 1,
+   "imageFolder": "posts/oldcrow/2026-10-17/4-thennow",
+   "facebook": {
+    "postId": null,
+    "plannedAt": "2026-10-17T20:27:00-04:00"
+   },
+   "status": "scheduled",
+   "metrics": {},
+   "metaCheck": "passed",
+   "headline": "RESOLED THEN. REPLACED NOW. / resoled leather dress shoe -> split foam sneaker",
+   "caption": "When did you last pay someone to fix your shoes instead of buying new ones? \ud83d\udc5e\n\nThe leather pair got a new sole and heel and carried on for years. The foam pair splits along the sole and heads for the bin within a season.\n\nSome things were made to be mended."
   }
  ],
  "ideas": []
