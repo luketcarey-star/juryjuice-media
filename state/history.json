@@ -1298,45 +1298,6 @@
    "status": "scheduled",
    "metaCheck": "passed",
    "metrics": {}
-  },
-  {
-   "date": "2026-10-16",
-   "n": 1,
-   "type": "laws",
-   "format": "carousel",
-   "style": "photo",
-   "captionStyle": "payoff",
-   "status": "skipped",
-   "skipReason": "image tool unavailable (ToolSearch found no generate_image after 3 retries, 3 min apart)",
-   "metrics": {}
-  },
-  {
-   "date": "2026-10-16",
-   "n": 2,
-   "type": "engage",
-   "topicGroup": "police",
-   "format": "single",
-   "style": "tweet",
-   "theme": "light",
-   "title": "Speed camera sign slowdown",
-   "topic": "speed cameras question",
-   "subtopic": "speed cameras",
-   "slides": [
-    "Do you actually slow down for a speed camera sign, or just for the camera?"
-   ],
-   "sources": [],
-   "imageFolder": "posts/2026-10-16/2-engage",
-   "facebook": {
-    "plannedAt": "2026-10-16T12:29:00-04:00",
-    "postId": "6ad211d81ffe4709802b08b2"
-   },
-   "instagram": {
-    "plannedAt": "2026-10-16T13:00:00-04:00",
-    "postId": "6ad211da2fe657de6ea1f827"
-   },
-   "status": "scheduled",
-   "metaCheck": "passed",
-   "metrics": {}
   }
  ],
  "ideas": []

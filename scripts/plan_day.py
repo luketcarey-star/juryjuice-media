@@ -4,7 +4,7 @@
 Usage: python3 scripts/plan_day.py YYYY-MM-DD am|pm [jury|oldcrow]  > plan.json
 (page defaults to jury; oldcrow reads state/oldcrow/config.json and history.json)
 
-The bot runs twice a day. Each run makes up to `postsPerRun` posts in its own time
+The bot runs once a day (Luke 2026-10-16), making the next day's posts. Each run makes up to `postsPerRun` posts in its own time
 windows (am run: 8:00 to 14:30, pm run: 15:30 to 22:30), never more than
 `postsPerDay` for the whole day (posts already in history for that date count).
 
@@ -26,7 +26,7 @@ hist = json.loads((SD / "history.json").read_text())
 week1 = json.loads((SD / "week1.json").read_text()) if (SD / "week1.json").exists() else {"days": {}}
 TZ = ZoneInfo(cfg["timezone"])
 day = dt.date.fromisoformat(sys.argv[1])
-run = sys.argv[2] if len(sys.argv) > 2 else ("am" if dt.datetime.now(TZ).hour < 11 else "pm")
+run = sys.argv[2] if len(sys.argv) > 2 else "day"
 rng = random.Random(f"{PAGE}-{day.isoformat()}-{run}")  # same plan if re-run
 EXPLORE = cfg["exploreShare"]
 WINDOWS = cfg["runs"][run]["windows"]          # {name: ["HH:MM", "HH:MM"]}
@@ -115,7 +115,7 @@ for _r in cfg["runs"].values():
 def plan_slots(n):
     names = list(WINDOWS)[:n]
     key = day.isoformat()
-    if run in ("am", "next") and key in week1["days"] and not today_posts:
+    if run in ("am", "next", "day") and key in week1["days"] and not today_posts:
         return [dict(s, window=names[i], why="week 1 plan") for i, s in enumerate(week1["days"][key][:n])]
     # Learned plan: score each type and each type+format+style combo by engagement.
     type_scores, combo_scores = defaultdict(list), defaultdict(list)

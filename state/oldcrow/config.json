@@ -1,34 +1,25 @@
 {
   "page": "oldcrow",
-  "postsPerDay": 4,
-  "postsPerRun": 2,
+  "postsPerDay": 3,
+  "postsPerRun": 3,
   "mode": "queue",
   "modeNote": "queue = schedule posts directly at their planned times (Luke chose auto-posting). draft = save as Buffer drafts. Only Luke changes this.",
   "timezone": "America/Toronto",
   "runs": {
-    "am": {
-      "runsAround": "8:12 the same day: makes TODAY's early posts (morning to early afternoon)",
+    "day": {
+      "runsAround": "17:12 the day before: makes the whole next day (3 posts)",
       "windows": {
         "o1": [
-          "09:30",
-          "11:00"
+          "09:45",
+          "10:45"
         ],
         "o2": [
-          "12:30",
-          "14:00"
-        ]
-      }
-    },
-    "pm": {
-      "runsAround": "14:12 the same day: makes TODAY's later posts (afternoon and evening)",
-      "windows": {
+          "12:45",
+          "13:45"
+        ],
         "o3": [
           "15:30",
-          "17:00"
-        ],
-        "o4": [
-          "19:00",
-          "20:30"
+          "16:30"
         ]
       }
     }
@@ -85,12 +76,13 @@
     "oneliner",
     "thennow"
   ],
-  "typeNote": "Luke 2026-10-11: the note is replaced by two fully AI-drawn types, oneliner (cream poster, Raven Remembers style) and thennow (old raven holding Then vs Now, shrinkflation style). They are MOST posts: both daily posts are new styles, except every other day one post is a told-or-sold or question (about 3 in 4 posts are new styles). No hashtags on the two new types. Luke 2026-10-13: wants MORE one-liners, so dailyWeights gives about 2 one-liners per then vs now among the new-style posts. Luke 2026-10-14: 4 posts a day; every day one slot is told-or-sold/question and the other three are new styles (one-liners weighted 2:1 over then vs now).",
+  "typeNote": "Luke 2026-10-11: the note is replaced by two fully AI-drawn types, oneliner (cream poster, Raven Remembers style) and thennow (old raven holding Then vs Now, shrinkflation style). They are MOST posts: both daily posts are new styles, except every other day one post is a told-or-sold or question (about 3 in 4 posts are new styles). No hashtags on the two new types. Luke 2026-10-13: wants MORE one-liners, so dailyWeights gives about 2 one-liners per then vs now among the new-style posts. Luke 2026-10-14: 4 posts a day; every day one slot is told-or-sold/question and the other three are new styles (one-liners weighted 2:1 over then vs now). Luke 2026-10-16: 3 posts a day: one told-or-sold/question and two new styles.",
   "newStylesPerDay": 2,
   "oldTypeEveryOtherDay": false,
   "dailyWeights": {
     "oneliner": 2,
     "thennow": 1
   },
-  "oldTypePerDay": 1
+  "oldTypePerDay": 1,
+  "scheduleNote": "Luke 2026-10-16: one run a day around 5pm makes the WHOLE next day (3 posts per page). All post windows end before ~16:45 so the day's posts have gone out before the next run, which keeps Buffer's 10-post limit free (Jury 3 posts x 2 channels + Old Crow 3 = 9)."
 }
