@@ -794,7 +794,7 @@
    "style": "ai",
    "theme": null,
    "sources": [],
-   "status": "scheduled",
+   "status": "sent",
    "metrics": {},
    "metaCheck": "passed",
    "n": 1,
@@ -820,7 +820,7 @@
    "style": "ai",
    "theme": null,
    "sources": [],
-   "status": "scheduled",
+   "status": "sent",
    "metrics": {},
    "metaCheck": "passed",
    "n": 2,
@@ -867,7 +867,7 @@
     "postId": "6acff13cd7ed7764890b9015",
     "plannedAt": "2026-10-15T09:25:00-04:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "caption": "Britain's wartime posters told people that carrots help you see in the blackout. Have you ever wondered where the idea that carrots give you sharp eyes came from?\n\nIn the early 1940s, Britain was dealing with blackouts at night and food shortages from the war at sea. The Ministry of Food leaned hard on home-grown vegetables, and carrots grew well and plentifully. Posters, cartoon characters like Dr. Carrot and radio recipes all pushed them, with a promise that they would help you see in the dark. By 1942 there was a carrot surplus to get through.\n\nThere is a grain of truth in it. Vitamin A matters for vision, and a lack of it can cause night blindness. But eating extra carrots does not give an otherwise healthy person sharper night sight. The idea stuck anyway, and it is still handed to children at dinner tables today.\n\nThe old raven likes a good carrot, mostly for the crunch. A kind story can travel a very long way when it is told over a good meal.\n\nWhat food were you told as a child would do something special for you?\n\n#OldCrow #Carrots #WWII",
    "metaCheck": "passed",
    "metrics": {},
@@ -895,7 +895,7 @@
     "postId": "6acff13dad454aea56cf0dfa",
     "plannedAt": "2026-10-15T19:43:00-04:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "caption": "Efficiency, apparently.",
    "metaCheck": "passed",
    "metrics": {},
@@ -903,6 +903,68 @@
    "postIds": {
     "facebook": "6acff13dad454aea56cf0dfa"
    }
+  },
+  {
+   "date": "2026-10-17",
+   "n": 1,
+   "type": "oneliner",
+   "format": "single",
+   "style": "ai",
+   "title": "Time-saving gadgets everywhere. Somehow nobody has any time.",
+   "topic": "Saving time, technology and busyness",
+   "slides": 1,
+   "imageFolder": "posts/oldcrow/2026-10-17/1-oneliner",
+   "facebook": {
+    "postId": "6ad2144cb948bf9e9d935669",
+    "plannedAt": "2026-10-17T09:45:00-04:00"
+   },
+   "status": "scheduled",
+   "metrics": {},
+   "metaCheck": "passed",
+   "caption": "The clock disagrees.",
+   "line": "Time-saving gadgets everywhere. Somehow nobody has any time."
+  },
+  {
+   "date": "2026-10-17",
+   "n": 2,
+   "type": "question",
+   "format": "single",
+   "style": "illus",
+   "title": "Who decided the work week ends on Friday?",
+   "topic": "Ford five-day 40-hour week, 1926",
+   "slides": 1,
+   "imageFolder": "posts/oldcrow/2026-10-17/2-question",
+   "facebook": {
+    "postId": "6ad2144e25d13dd62ee595f5",
+    "plannedAt": "2026-10-17T12:58:00-04:00"
+   },
+   "status": "scheduled",
+   "metrics": {},
+   "metaCheck": "passed",
+   "caption": "Most of us look forward to Friday evening without ever wondering who decided the work week should stop there. Have you ever asked where the two-day weekend came from?\n\nOn May 1, 1926, the Ford Motor Company moved its factory workers to a five-day, 40-hour week. Its president, Edsel Ford, had said in 1922 that workers need more than one day a week for rest. Office staff followed that August.\n\nThe change was meant to help productivity as much as rest, and other manufacturers in the U.S. and abroad followed. Monday to Friday became the standard. One company's decision slowly turned into a habit for a whole industry.\n\nThe old raven likes a good Saturday, mostly for the slow breakfast. Some habits are worth keeping, and it still helps to know who started them.\n\nWhat does your Friday evening look like once the week is done?\n\n#OldCrow #WorkWeek #Weekend",
+   "sources": [
+    "history.com: Ford factory workers get 40-hour week (May 1, 1926)"
+   ]
+  },
+  {
+   "date": "2026-10-17",
+   "n": 3,
+   "type": "oneliner",
+   "format": "single",
+   "style": "ai",
+   "title": "You saved fifty dollars. By spending two hundred.",
+   "topic": "Sale savings that make us spend more",
+   "slides": 1,
+   "imageFolder": "posts/oldcrow/2026-10-17/3-oneliner",
+   "facebook": {
+    "postId": "6ad21450f24c5797a23ad62c",
+    "plannedAt": "2026-10-17T15:42:00-04:00"
+   },
+   "status": "scheduled",
+   "metrics": {},
+   "metaCheck": "passed",
+   "caption": "Great deal, technically.",
+   "line": "You saved fifty dollars. By spending two hundred."
   }
  ],
  "ideas": []
