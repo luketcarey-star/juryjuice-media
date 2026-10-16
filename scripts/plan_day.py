@@ -177,22 +177,21 @@ def plan_slots(n):
 
 n = max(0, min(len(WINDOWS), cfg["postsPerDay"] - len(today_posts)))
 
-# Buffer's free plan holds at most 10 scheduled posts across ALL pages. Count what both bots
-# have queued for the future and only plan as many posts as still fit.
-BUFFER_LIMIT = json.loads((ROOT / "state" / "config.json").read_text()).get("bufferLimit", 10)  # raise it in state/config.json if Buffer is upgraded
-queued = 0
-for hp in (ROOT / "state" / "history.json", ROOT / "state" / "oldcrow" / "history.json"):
-    if not hp.exists():
+# Buffer's free plan holds at most 10 scheduled posts PER CHANNEL (Luke, 2026-10-16: per page/account,
+# not shared). Count what this page has queued for the future on each of its channels and only plan
+# as many posts as still fit on the fullest one.
+BUFFER_LIMIT = json.loads((ROOT / "state" / "config.json").read_text()).get("bufferLimit", 10)  # per channel; raise it in state/config.json if Buffer is upgraded
+platforms = cfg.get("platforms", ["facebook", "instagram"])
+queued_by = {pl: 0 for pl in platforms}
+for p in hist["posts"]:
+    if p.get("status") not in ("scheduled", "queued"):
         continue
-    for p in json.loads(hp.read_text())["posts"]:
-        if p.get("status") not in ("scheduled", "queued"):
-            continue
-        for pl in ("facebook", "instagram"):
-            t = (p.get(pl) or {}).get("plannedAt")
-            if t and (p.get(pl) or {}).get("postId") and dt.datetime.fromisoformat(t) > now:
-                queued += 1
-per_post = len(cfg.get("platforms", ["facebook", "instagram"]))
-room = max(0, (BUFFER_LIMIT - queued) // per_post)
+    for pl in platforms:
+        t = (p.get(pl) or {}).get("plannedAt")
+        if t and (p.get(pl) or {}).get("postId") and dt.datetime.fromisoformat(t) > now:
+            queued_by[pl] += 1
+queued = max(queued_by.values()) if queued_by else 0
+room = max(0, BUFFER_LIMIT - queued)
 limited_by_buffer = room < n
 n = min(n, room)
 

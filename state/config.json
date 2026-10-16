@@ -62,15 +62,15 @@
       "windows": {
         "w1": [
           "09:00",
-          "10:00"
+          "10:30"
         ],
         "w2": [
-          "12:00",
-          "13:00"
+          "13:00",
+          "14:30"
         ],
         "w3": [
-          "15:00",
-          "16:15"
+          "19:00",
+          "20:30"
         ]
       }
     }
@@ -87,6 +87,6 @@
   },
   "photoNote": "Luke's rule (2026-10-10): majority photo posts. Real cases, weird laws and strangest trials are always photo style; only quick questions are tweet slides (max 1 a day).",
   "bufferLimit": 10,
-  "bufferLimitNote": "Buffer plan allows 10 scheduled posts at once across both pages (free plan). If Luke upgrades Buffer, raise this number; the planner never queues more than this.",
-  "scheduleNote": "Luke 2026-10-16: one run a day around 5pm makes the WHOLE next day (3 posts per page). All post windows end before ~16:45 so the day's posts have gone out before the next run, which keeps Buffer's 10-post limit free (Jury 3 posts x 2 channels + Old Crow 3 = 9)."
+  "bufferLimitNote": "Buffer's free plan allows 10 scheduled posts PER CHANNEL (Jury Juice Facebook, Jury Juice Instagram and Old Crow Facebook each have their own 10; Luke 2026-10-16). If Luke upgrades Buffer, raise this number; the planner never queues more than this on any one channel.",
+  "scheduleNote": "Luke 2026-10-16: one run a day around 5pm makes the WHOLE next day (3 posts per page): morning, afternoon and evening. Buffer's free plan allows 10 scheduled posts per channel, so a run never comes close (at most ~4 queued per channel)."
 }

@@ -11,15 +11,15 @@
       "windows": {
         "o1": [
           "09:45",
-          "10:45"
+          "11:00"
         ],
         "o2": [
-          "12:45",
-          "13:45"
+          "13:30",
+          "15:00"
         ],
         "o3": [
-          "15:30",
-          "16:30"
+          "19:30",
+          "20:45"
         ]
       }
     }
@@ -84,5 +84,5 @@
     "thennow": 1
   },
   "oldTypePerDay": 1,
-  "scheduleNote": "Luke 2026-10-16: one run a day around 5pm makes the WHOLE next day (3 posts per page). All post windows end before ~16:45 so the day's posts have gone out before the next run, which keeps Buffer's 10-post limit free (Jury 3 posts x 2 channels + Old Crow 3 = 9)."
+  "scheduleNote": "Luke 2026-10-16: one run a day around 5pm makes the WHOLE next day (3 posts per page): morning, afternoon and evening. Buffer's free plan allows 10 scheduled posts per channel, so a run never comes close (at most ~4 queued per channel)."
 }
