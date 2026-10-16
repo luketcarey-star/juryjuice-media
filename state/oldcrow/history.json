@@ -965,6 +965,69 @@
    "metaCheck": "passed",
    "caption": "Great deal, technically.",
    "line": "You saved fifty dollars. By spending two hundred."
+  },
+  {
+   "date": "2026-10-16",
+   "n": 1,
+   "type": "sold",
+   "format": "single",
+   "style": "illus",
+   "title": "Who Sold Us Mother's Day?",
+   "topic": "Anna Jarvis and the commercialization of Mother's Day",
+   "slides": 1,
+   "imageFolder": "posts/oldcrow/2026-10-16/1-sold",
+   "facebook": {
+    "postId": "6ad2152a2fe657de6ea30711",
+    "plannedAt": "2026-10-16T10:12:00-04:00"
+   },
+   "status": "scheduled",
+   "metrics": {},
+   "metaCheck": "passed",
+   "sources": [
+    "history.com: why the founder of Mother's Day turned against it"
+   ]
+  },
+  {
+   "date": "2026-10-16",
+   "n": 2,
+   "type": "thennow",
+   "format": "single",
+   "style": "ai",
+   "title": "Mended then. Tossed now.",
+   "topic": "Darned wool sock vs thin disposable sock",
+   "slides": 1,
+   "imageFolder": "posts/oldcrow/2026-10-16/2-thennow",
+   "facebook": {
+    "postId": "6ad2152fb948bf9e9d9395b1",
+    "plannedAt": "2026-10-16T13:02:00-04:00"
+   },
+   "status": "scheduled",
+   "metrics": {},
+   "metaCheck": "passed",
+   "headline": "MENDED THEN. TOSSED NOW.",
+   "then": "darned wool sock",
+   "now": "worn-through thin sock",
+   "caption": "When did you last darn a sock instead of tossing it?"
+  },
+  {
+   "date": "2026-10-16",
+   "n": 3,
+   "type": "oneliner",
+   "format": "single",
+   "style": "ai",
+   "title": "Everyone wants a quiet life. Until the wifi goes down.",
+   "topic": "Quiet life vs constant connectivity",
+   "slides": 1,
+   "imageFolder": "posts/oldcrow/2026-10-16/3-oneliner",
+   "facebook": {
+    "postId": "6ad2152c1ffe4709802c1918",
+    "plannedAt": "2026-10-16T16:03:00-04:00"
+   },
+   "status": "scheduled",
+   "metrics": {},
+   "metaCheck": "passed",
+   "line": "Everyone wants a quiet life. Until the wifi goes down.",
+   "caption": "Peace is overrated."
   }
  ],
  "ideas": []
