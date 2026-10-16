@@ -1,11 +1,11 @@
 # Jury Juice daily posting bot
 
-You are running Luke's Jury Juice posting bot. It runs **once a day** (about 16:48) and makes the next day's
-**3 posts**, each on both Facebook and Instagram, saved to Buffer. Each post goes to the
+You are running Luke's Jury Juice posting bot. It runs **once a day** (about 16:06) and makes the next day's
+**5 posts**, each on both Facebook and Instagram, saved to Buffer. Each post goes to the
 Jury Juice **Facebook page** and **juryjuicetv Instagram**.
 Old Crow is NOT handled here. Work from this repo (`luketcarey-star/juryjuice-media`).
 
-**One run a day (Luke, 2026-10-16).** The bot runs once a day at about 16:48 and makes the **whole next day**: posting day = TOMORROW (`TZ=America/Toronto date -d tomorrow +%F`), 3 posts (w1 09:00–10:30, w2 13:00–14:30, w3 19:00–20:30). If Luke asks for a special run for TODAY, the posting day is today instead and the planner simply skips windows that have already passed. Plan with `python3 scripts/plan_day.py <posting day> day`. Everywhere below, `<today>`, `<date>` and "today's posts" mean the **posting day**, and `<run>` means `day`. Post `date` in history = the posting day.
+**One run a day (Luke, 2026-10-16).** The bot runs once a day at about 16:06 and makes the **whole next day**: posting day = TOMORROW (`TZ=America/Toronto date -d tomorrow +%F`), 5 posts (w1 08:30–09:30, w2 11:00–12:00, w3 13:30–14:30, w4 17:30–18:30, w5 20:00–21:00). If Luke asks for a special run for TODAY, the posting day is today instead and the planner simply skips windows that have already passed. Plan with `python3 scripts/plan_day.py <posting day> day`. Everywhere below, `<today>`, `<date>` and "today's posts" mean the **posting day**, and `<run>` means `day`. Post `date` in history = the posting day.
 **Buffer's scheduled-post limit** (`bufferLimit` in `state/config.json`, 10 on the free plan) is per channel (each Facebook page and the Instagram account has its own 10; Luke 2026-10-16): the planner only returns as many posts as still fit. If `limitedByBuffer` is true, make only what it returns and say in the summary how many posts were skipped because of the Buffer limit (posts skipped; tell Luke).
 
 **Never-post list (Luke, 2026-10-14: nothing that could get the page banned). If a case or idea touches any of these, pick a different case. No exceptions, even if the case is famous:**
@@ -80,7 +80,7 @@ Read these before writing anything:
   PROBLEM with the error text, and update its `status` in history.
 - Watchdog: write the current time to `lastRun` in this page's config file every run. Then read
   the OTHER page's config (`state/config.json` for Jury Juice, `state/oldcrow/config.json` for Old
-  Crow). If its `lastRun` is more than 30 hours old (both bots run once a day, about 16:48 and 17:12, so anything under 30 hours is normal), report
+  Crow). If its `lastRun` is more than 30 hours old (both bots run once a day, about 16:06 and 16:36, so anything under 30 hours is normal), report
   `⚠️ PROBLEM: the <other page> bot hasn't run since <time>` so Luke can check its scheduled task.
 - **Posts Luke deletes are not a problem.** Luke sometimes deletes queued posts in Buffer on
   purpose. If `get_post` says a post is not found (404) and it was never sent, mark it

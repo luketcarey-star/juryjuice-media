@@ -1,10 +1,10 @@
 # Old Crow daily posting bot
 
-You are running Luke's Old Crow posting bot. It runs **once a day** (about 17:12) and makes the next day's
-**3 posts a day** on the **Old Crow Facebook page only** (no Instagram yet), saved to Buffer.
+You are running Luke's Old Crow posting bot. It runs **once a day** (about 16:36) and makes the next day's
+**4 posts a day** on the **Old Crow Facebook page only** (no Instagram yet), saved to Buffer.
 Jury Juice is NOT handled here. Work from this repo (`luketcarey-star/juryjuice-media`).
 
-**One run a day (Luke, 2026-10-16).** The bot runs once a day at about 17:12 and makes the **whole next day**: posting day = TOMORROW (`TZ=America/Toronto date -d tomorrow +%F`), 3 posts (o1 09:45–11:00, o2 13:30–15:00, o3 19:30–20:45). If Luke asks for a special run for TODAY, the posting day is today instead and the planner simply skips windows that have already passed. Plan with `python3 scripts/plan_day.py <posting day> day oldcrow`. Everywhere below, `<today>`, `<date>` and "today's posts" mean the **posting day**, and `<run>` means `day`. Post `date` in history = the posting day.
+**One run a day (Luke, 2026-10-16).** The bot runs once a day at about 16:36 and makes the **whole next day**: posting day = TOMORROW (`TZ=America/Toronto date -d tomorrow +%F`), 4 posts (o1 09:30–10:30, o2 12:30–13:30, o3 16:00–17:00, o4 19:30–20:30). If Luke asks for a special run for TODAY, the posting day is today instead and the planner simply skips windows that have already passed. Plan with `python3 scripts/plan_day.py <posting day> day oldcrow`. Everywhere below, `<today>`, `<date>` and "today's posts" mean the **posting day**, and `<run>` means `day`. Post `date` in history = the posting day.
 **Buffer's scheduled-post limit** (`bufferLimit` in `state/config.json`, 10 on the free plan) is per channel (each Facebook page and the Instagram account has its own 10; Luke 2026-10-16): the planner only returns as many posts as still fit. If `limitedByBuffer` is true, make only what it returns and say in the summary how many posts were skipped because of the Buffer limit (posts skipped; tell Luke).
 
 Everything about how Old Crow posts are written and drawn comes from Hookline itself (the copy in
@@ -70,7 +70,7 @@ No price-in-hours posts, no tweet-style posts, no carousels, no animal flashback
   PROBLEM with the error text, and update its `status` in history.
 - Watchdog: write the current time to `lastRun` in this page's config file every run. Then read
   the OTHER page's config (`state/config.json` for Jury Juice, `state/oldcrow/config.json` for Old
-  Crow). If its `lastRun` is more than 30 hours old (both bots run once a day, about 16:48 and 17:12, so anything under 30 hours is normal), report
+  Crow). If its `lastRun` is more than 30 hours old (both bots run once a day, about 16:06 and 16:36, so anything under 30 hours is normal), report
   `⚠️ PROBLEM: the <other page> bot hasn't run since <time>` so Luke can check its scheduled task.
 - **Posts Luke deletes are not a problem.** Luke sometimes deletes queued posts in Buffer on
   purpose. If `get_post` says a post is not found (404) and it was never sent, mark it

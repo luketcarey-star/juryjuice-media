@@ -113,7 +113,11 @@ for _r in cfg["runs"].values():
 
 
 def plan_slots(n):
-    names = list(WINDOWS)[:n]
+    # Skip windows that already hold a post for this day (e.g. posts made earlier by hand or by another run).
+    gap = dt.timedelta(minutes=cfg.get("minGapMinutes", 90))
+    busy = taken_times("facebook") + taken_times("instagram")
+    free = [w for w in WINDOWS if not any(at(WINDOWS[w][0]) - gap < t < at(WINDOWS[w][1]) + gap for t in busy)]
+    names = (free + [w for w in WINDOWS if w not in free])[:n]
     key = day.isoformat()
     if run in ("am", "next", "day") and key in week1["days"] and not today_posts:
         return [dict(s, window=names[i], why="week 1 plan") for i, s in enumerate(week1["days"][key][:n])]

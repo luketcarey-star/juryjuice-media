@@ -1,5 +1,5 @@
 {
-  "postsPerDay": 3,
+  "postsPerDay": 5,
   "mode": "queue",
   "modeNote": "draft = save every post as a Buffer draft for Luke to approve. queue = schedule posts directly at their planned times. Only Luke changes this.",
   "timezone": "America/Toronto",
@@ -55,22 +55,30 @@
   "imagesPaused": false,
   "imagesPausedReason": "",
   "modeChanged": "2026-10-05: Luke asked to auto-post Jury Juice",
-  "postsPerRun": 3,
+  "postsPerRun": 5,
   "runs": {
     "day": {
-      "runsAround": "16:48 the day before: makes the whole next day (3 posts)",
+      "runsAround": "16:06 the day before: makes the whole next day (5 posts)",
       "windows": {
         "w1": [
-          "09:00",
-          "10:30"
+          "08:30",
+          "09:30"
         ],
         "w2": [
-          "13:00",
-          "14:30"
+          "11:00",
+          "12:00"
         ],
         "w3": [
-          "19:00",
-          "20:30"
+          "13:30",
+          "14:30"
+        ],
+        "w4": [
+          "17:30",
+          "18:30"
+        ],
+        "w5": [
+          "20:00",
+          "21:00"
         ]
       }
     }
@@ -88,5 +96,5 @@
   "photoNote": "Luke's rule (2026-10-10): majority photo posts. Real cases, weird laws and strangest trials are always photo style; only quick questions are tweet slides (max 1 a day).",
   "bufferLimit": 10,
   "bufferLimitNote": "Buffer's free plan allows 10 scheduled posts PER CHANNEL (Jury Juice Facebook, Jury Juice Instagram and Old Crow Facebook each have their own 10; Luke 2026-10-16). If Luke upgrades Buffer, raise this number; the planner never queues more than this on any one channel.",
-  "scheduleNote": "Luke 2026-10-16: one run a day around 5pm makes the WHOLE next day (3 posts per page): morning, afternoon and evening. Buffer's free plan allows 10 scheduled posts per channel, so a run never comes close (at most ~4 queued per channel)."
+  "scheduleNote": "Luke 2026-10-16: one run a day around 4-5pm makes the WHOLE next day: Jury Juice 5 posts (mostly police), Old Crow 4 posts. Buffer's free plan allows 10 scheduled posts per channel, which is enough (at most ~8 queued on a channel right after a run)."
 }
