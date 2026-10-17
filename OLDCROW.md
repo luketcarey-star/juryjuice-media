@@ -146,6 +146,7 @@ model `sunburst`, quality `high`, aspect `4:5` (rule 3 applies: the reply must s
   to the page's told-or-sold world when it fits. Examples of the level (never reuse these):
   "Everyone wants honest advice. Until they get it." / "They sold you the dream. You're still
   making the payments."
+- **Then vs Now variety (Luke 2026-10-16: they were too similar):** "made to last vs made to break / repairable vs disposable" is only ONE of many themes and may be used at most 1 in 5 then-vs-now posts (check the last 5 headlines in INDEX first). Rotate the theme: owning vs subscribing, shrinking portions/prices, free vs "free", skills done by hand vs apps, time (waiting vs instant but busier), community vs screens, repair vs replace, advertising, work and money, food, houses, travel, school. Never reuse a headline pattern ("X THEN. Y NOW.") twice in a row: vary it ("WHAT IT COST. WHAT IT COSTS.", "THEY CALLED IT PROGRESS", a short question, etc.). Vary the two props' shapes, the old raven's pose and the setting too.
 - Then vs Now: one everyday thing that got worse while we were told it got better (products made
   to break, smaller portions, subscriptions instead of owning, "free" things that aren't, repairs
   made impossible...). Headline 3 to 8 words (e.g. "BUILT TO LAST. BUILT TO REPLACE."). The THEN and
