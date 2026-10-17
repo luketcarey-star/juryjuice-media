@@ -46,18 +46,6 @@
   "imagesPausedReason": "",
   "maxCarouselsPerDay": 0,
   "formats": {
-    "sold": [
-      [
-        "single",
-        "illus"
-      ]
-    ],
-    "question": [
-      [
-        "single",
-        "illus"
-      ]
-    ],
     "oneliner": [
       [
         "single",
@@ -80,13 +68,13 @@
     "oneliner",
     "thennow"
   ],
-  "typeNote": "Luke 2026-10-11: the note is replaced by two fully AI-drawn types, oneliner (cream poster, Raven Remembers style) and thennow (old raven holding Then vs Now, shrinkflation style). They are MOST posts: both daily posts are new styles, except every other day one post is a told-or-sold or question (about 3 in 4 posts are new styles). No hashtags on the two new types. Luke 2026-10-13: wants MORE one-liners, so dailyWeights gives about 2 one-liners per then vs now among the new-style posts. Luke 2026-10-14: 4 posts a day; every day one slot is told-or-sold/question and the other three are new styles (one-liners weighted 2:1 over then vs now). Luke 2026-10-16: 3 posts a day: one told-or-sold/question and two new styles. Luke 2026-10-16 (later): 4 posts a day: one told-or-sold/question and three new styles.",
-  "newStylesPerDay": 2,
+  "typeNote": "Luke 2026-10-11: the note is replaced by two fully AI-drawn types, oneliner (cream poster, Raven Remembers style) and thennow (old raven holding Then vs Now, shrinkflation style). They are MOST posts: both daily posts are new styles, except every other day one post is a told-or-sold or question (about 3 in 4 posts are new styles). No hashtags on the two new types. Luke 2026-10-13: wants MORE one-liners, so dailyWeights gives about 2 one-liners per then vs now among the new-style posts. Luke 2026-10-14: 4 posts a day; every day one slot is told-or-sold/question and the other three are new styles (one-liners weighted 2:1 over then vs now). Luke 2026-10-16: 3 posts a day: one told-or-sold/question and two new styles. Luke 2026-10-16 (later): 4 posts a day: one told-or-sold/question and three new styles. Luke 2026-10-16 (later): REMOVED the illustrated two-raven types (told-or-sold \"WHO SOLD US...?\" and question) from the pool for good. All 4 posts a day are one-liner or then vs now (one-liners weighted 2:1).",
+  "newStylesPerDay": 4,
   "oldTypeEveryOtherDay": false,
   "dailyWeights": {
     "oneliner": 2,
     "thennow": 1
   },
-  "oldTypePerDay": 1,
+  "oldTypePerDay": 0,
   "scheduleNote": "Luke 2026-10-16: one run a day around 4-5pm makes the WHOLE next day: Jury Juice 5 posts (mostly police), Old Crow 4 posts. Buffer's free plan allows 10 scheduled posts per channel, which is enough (at most ~8 queued on a channel right after a run)."
 }

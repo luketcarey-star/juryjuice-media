@@ -19,6 +19,8 @@ Also read `state/oldcrow/config.json` (mode, Buffer IDs, windows, image settings
 `meta-posting-rules` and `humanizer` skills if they are available.
 
 ## Post types (all single illustrated images with the ravens; Luke's rule)
+**UPDATE (Luke 2026-10-16): the illustrated two-raven types, told-or-sold ("WHO SOLD US...?") and question, are REMOVED from the pool. Never make them. All 4 daily posts are one-liner or then vs now (step 4b); ignore the told-or-sold/question rows and instructions below.**
+
 Every post is about one belief or habit we were **told or sold**, shown through the two ravens and
 one everyday object, so the images feel like stills from the Old Crow videos. Daily: 4 posts. **Always vary the type** (Luke's rule): the planner rotates told or sold,
 question, one-liner and then vs now so the same type never runs twice in a row. **The one-liner and then vs now are most posts (Luke's rule, about 3 in 4):** of the 4 daily posts, 3 are one of these two and 1 is a told-or-sold or question (a different window each day). **Luke (2026-10-13): he wants MORE one-liners** (the cream poster with the old raven), so the planner weights them about 2 to 1 over then vs now; about half of all Old Crow posts are one-liners. Use the types the planner gives.
