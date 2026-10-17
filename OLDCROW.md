@@ -194,7 +194,7 @@ No logos, signatures or watermarks.
 line. Any misspelling, missing or extra word, extra text, a brand logo, or a raven that doesn't
 match the sheet → regenerate once with the same prompt. Still wrong → write a different line and
 try once more; if that fails, skip the post with a skipReason. Never post a misspelled image.
-Save the good image as `posts/oldcrow/<date>/<n>-<type>/slide1.jpg` (convert to JPEG if needed).
+Save the good image as `posts/oldcrow/<date>/<n>-<type>/slide1.jpg` (convert to JPEG if needed) and resize it to exactly 1080x1350 (the AI model returns 1024x1280, same 4:5 shape; use PIL `resize((1080,1350), Image.LANCZOS)`).
 In history save `"line"` (one-liner) or `"headline"`, `"then"`, `"now"` (then vs now).
 
 **Captions for these two types (Luke's rules; NO hashtags on either)**
