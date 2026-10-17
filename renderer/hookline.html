@@ -427,6 +427,7 @@ const RYE = '"Rye", "Newsreader", Georgia, serif';
 const SERIF = '"Newsreader", Georgia, serif';
 const ORANGE = "#FF8A3D";
 const BLUE = "#3DA5FF";
+const BLUE2 = "#1F7AFF";
 const ARCHIVO = '"Archivo Black", "Montserrat", Impact, sans-serif';
 const BANNED = ["game-changer","unlock your potential","delve","let's dive in","dive into","seamless","elevate","it's not X, it's Y","here's the thing","let that sink in","in today's fast-paced world","revolutionize","next level","level up","unleash","harness","navigate the","landscape","journey","tapestry","supercharge","empower"];
 const POLICY = `PLATFORM RULES (Meta policies; always follow)
@@ -884,6 +885,31 @@ function drawPhoto(canvas, i){
   const lh = sz * (blue ? 1.14 : 1.06), blockH = lines.length * lh;
   const bottom = H - 110, textTop = bottom - blockH, labelY = textTop - 48;
 
+  if (blue){
+    // Look B: solid navy panel, blue bar and blue label pill, left-aligned text, key words in a blue marker box
+    const panelTop = textTop - 150;
+    ctx.fillStyle = "#0B1626"; ctx.fillRect(0, panelTop, W, H - panelTop);
+    ctx.fillStyle = BLUE2; ctx.fillRect(0, panelTop, W, 12);
+    const label2 = (p.name || "Jury Juice").toUpperCase();
+    ctx.font = `700 30px ${MONT}`; try { ctx.letterSpacing = "3px"; } catch(e){}
+    const lw2 = ctx.measureText(label2).width + 44, ly = panelTop + 38;
+    ctx.fillStyle = BLUE2; ctx.beginPath(); ctx.roundRect(P, ly, lw2, 54, 27); ctx.fill();
+    ctx.fillStyle = "#FFFFFF"; ctx.textAlign = "left"; ctx.textBaseline = "middle"; ctx.fillText(label2, P + 22, ly + 28);
+    try { ctx.letterSpacing = "0px"; } catch(e){}
+    ctx.textBaseline = "alphabetic";
+    lines.forEach((line, k) => {
+      let x = P; const y = textTop + (k + 1) * lh - lh*0.18;
+      let runStart = null, runEnd = 0;
+      const flush = () => { if (runStart !== null){ ctx.fillStyle = BLUE2; ctx.beginPath(); ctx.roundRect(runStart - 12, y - sz*0.92, runEnd - runStart + 24, sz*1.12, 10); ctx.fill(); runStart = null; } };
+      let xs = x; const pos = [];
+      for (const wd of line){ xs += (pos.length ? wd.lead : 0); pos.push(xs); xs += wd.w; }
+      line.forEach((wd, j) => { if (wd.bold || wd.under){ if (runStart === null) runStart = pos[j]; runEnd = pos[j] + wd.w; } else flush(); });
+      flush();
+      line.forEach((wd, j) => { ctx.font = fontOf(); ctx.fillStyle = "#FFFFFF"; ctx.fillText(wd.t, pos[j], y); });
+    });
+    drawSourceLine(ctx, sp.src, P, H - 44, W - 120, "rgba(255,255,255,0.6)", "left");
+    ctx.restore(); return;
+  }
   const g = ctx.createLinearGradient(0, Math.max(0, labelY - 320), 0, H);
   g.addColorStop(0, "rgba(0,0,0,0)"); g.addColorStop(0.45, "rgba(0,0,0,0.72)"); g.addColorStop(1, "rgba(0,0,0,0.94)");
   ctx.fillStyle = g; ctx.fillRect(0, Math.max(0, labelY - 320), W, H);
