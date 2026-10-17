@@ -119,6 +119,11 @@ Every slide is a realistic photo with short overlay text in big capital letters.
 - scene: one or two sentences describing a realistic, ordinary-looking photo for that moment: who, where, what they are doing, their expression. No visible text, signs, logos or brand names. If a real, named person is involved, describe a generic person who does not resemble them (better: show the object or place instead of a person). For the last slide, an establishing shot such as a courthouse exterior.
 - A single photo post has exactly 1 slide with no "Follow for more"; the caption carries the rest.
 
+**Police photo scenes (Luke 2026-10-16: the best-performing posts show police car lights or an officer):** for police posts, make the photo one of these whenever it fits the story, and vary the setting each time (day or night, rain, quiet street, parking lot, rural road, intersection, driveway):
+- a police car with its emergency lights on (side, rear or three-quarter view, a generic unmarked-looking cruiser, nothing readable on it), or lights glowing on a wet street or house fronts;
+- a generic officer seen from behind, at a distance, in silhouette or cropped at the shoulder (no face, no badge or name tag, no readable patch), standing at a car window, walking up a driveway or on a porch, or holding a flashlight pointed at the ground.
+Keep them calm and ordinary: no weapons, handcuffs, arrests, anyone being touched or held, no injured or frightened people, no crash scenes, no crowds or protests. The officer is never someone who looks like a real officer from the case. Mark each photo post in history with `"sceneTag": "policeLights"`, `"officer"` or `"other"` so the weekly report can check that these really do best.
+
 Photo style for image prompts: Realistic editorial news-style photograph, candid and emotional, natural light, true-to-life colours, sharp focus on the subject with a slightly shallow depth of field. Ordinary real people and everyday places, nothing glamorous or staged.
 
 Image prompt composition line: "Composition: vertical photo. Keep the main subject in the upper two-thirds; the bottom third should be darker and simpler because text will be placed there." Always end prompts with: "Do not include any text, letters, captions, signs, logos or watermarks in the image."

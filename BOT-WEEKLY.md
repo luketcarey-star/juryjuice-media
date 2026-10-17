@@ -2,6 +2,8 @@
 
 Only read this file on a Sunday run. Same rules as the main guide.
 
+**Police-scene check (Luke, 2026-10-16):** compare photo posts by `sceneTag` (`policeLights`, `officer`, `other`; missing = other) on reach and engagement, and say whether police car lights / officer pictures really beat the rest.
+
 **Photo-look test (Luke, 2026-10-16):** compare photo-style posts by `look` (`original` 50%, `blue` 30%, `panel` 20%; missing = original): average engagement rate, comments, shares, clicks, per platform, and how many of each were measured. Say which looks win; once each has 10+ measured posts, recommend a split, but don't change it until Luke says so.
 
 **Caption-style test (Luke, 2026-10-14):** in the weekly report, compare posts with `captionStyle: "payoff"` vs `"classic"` (average engagement rate, comments, shares, clicks, per platform, and how many of each were measured). Say which is winning and by how much; once each style has 10+ measured posts, recommend keeping the winner, but don't change the 50/50 split until Luke says so.

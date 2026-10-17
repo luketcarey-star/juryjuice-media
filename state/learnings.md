@@ -4,6 +4,7 @@ Last updated: 2026-10-09 am (15 measured posts, Oct 5 to 8; numbers still early 
 Engagement rate = (reactions + comments + shares + saves) / reach (FB: impressions).
 
 ## Do more
+- Luke 2026-10-16: the best Jury Juice posts show police car lights or a police officer in the photo. Use those scenes for police posts (see "Police photo scenes" in the brief), kept generic, faceless and calm.
 - Police, HOA and county / city government stories (Luke's rule; police most).
 - Single photo posts: 4 measured averaged ~1,280 FB impressions (Brake Light 3,157; Drug Dog 1,398;
   Venice 304; guinea pigs 276) vs ~200 for 9 tweet-style posts.

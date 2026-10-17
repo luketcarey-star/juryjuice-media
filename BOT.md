@@ -48,7 +48,7 @@ Read these before writing anything:
    county topics (traffic stops, tickets, HOA letters, permits) are fine as long as nobody is hurt. Never ask people to
    comment, vote, like, share or tag.
 3. **No realistic images of real people.** Photo posts about real cases show objects, places or
-   generic anonymous scenes, never someone made to look like the real person.
+   generic anonymous scenes, never someone made to look like the real person. For police posts, prefer the "Police photo scenes" in the brief (police car lights, or a faceless generic officer, calm and ordinary) because those do best, and save `sceneTag` (`policeLights` / `officer` / `other`) on the post in history.
 4. **Never repeat a topic or a title.** Check the INDEX from `history_view.py` before writing: no case, law or
    trial that appeared in any earlier post, and no hook or caption title that matches or closely
    resembles an earlier one (e.g. never reuse "5 lawsuits too bizarre to be real"; vary the angle:
