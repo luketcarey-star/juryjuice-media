@@ -736,7 +736,7 @@
    "headline": "BUILT TO LAST. BUILT TO REPLACE.",
    "then": "sturdy chrome toaster",
    "now": "flimsy cracked plastic toaster",
-   "caption": "When did something you bought last outlive its warranty? \ud83e\udd14\n\nThe old toaster was heavy, plain and built for decades. The new one is light, shiny and cheaper to replace than to fix.\n\nSomewhere along the way, new stopped meaning better.",
+   "caption": "When did something you bought last outlive its warranty? 🤔\n\nThe old toaster was heavy, plain and built for decades. The new one is light, shiny and cheaper to replace than to fix.\n\nSomewhere along the way, new stopped meaning better.",
    "note": "2026-10-11: swapped by hand for Luke's approved new-style test"
   },
   {
@@ -808,7 +808,7 @@
     "slide1"
    ],
    "imageFolder": "posts/oldcrow/2026-10-14/1-thennow",
-   "caption": "Remember when a dead phone battery meant a ten-second fix? \ud83d\udd0b",
+   "caption": "Remember when a dead phone battery meant a ten-second fix? 🔋",
    "facebook": {
     "postId": "6ace9f6063a12fa737242f38",
     "plannedAt": "2026-10-14T09:04:00-04:00"
@@ -941,7 +941,7 @@
    "status": "sent",
    "metrics": {},
    "metaCheck": "passed",
-   "caption": "Do you still own any movies, or just access to them? \ud83e\udd14\n\nA shelf of discs stayed yours for as long as you kept them. A streaming library can lose a title overnight, and there is nothing to hold on to when it goes.\n\nSome things are only yours while someone allows it.",
+   "caption": "Do you still own any movies, or just access to them? 🤔\n\nA shelf of discs stayed yours for as long as you kept them. A streaming library can lose a title overnight, and there is nothing to hold on to when it goes.\n\nSome things are only yours while someone allows it.",
    "headline": "OWNED THEN. RENTED NOW. / stack of boxed discs -> phone with padlock",
    "note": "Replaced the told-or-sold style question post on 2026-10-16 (Luke removed that style)."
   },
@@ -1046,7 +1046,7 @@
    "metrics": {},
    "metaCheck": "passed",
    "headline": "BIG BAG. MOSTLY AIR. / small full paper bag -> puffed foil bag with few chips",
-   "caption": "When did you last open a snack bag and find it half empty? \ud83d\ude0f\n\nThe bag keeps getting bigger on the shelf while the amount inside quietly shrinks. A good share of what you pay for is air.\n\nSome packaging is built to be looked at, not filled."
+   "caption": "When did you last open a snack bag and find it half empty? 😏\n\nThe bag keeps getting bigger on the shelf while the amount inside quietly shrinks. A good share of what you pay for is air.\n\nSome packaging is built to be looked at, not filled."
   },
   {
    "date": "2026-10-18",
@@ -1119,9 +1119,10 @@
     "postId": "6ad3dd49ae173d6e00d1c0a7",
     "plannedAt": "2026-10-18T16:42:00-04:00"
    },
-   "status": "scheduled",
+   "status": "deleted-by-luke",
    "metaCheck": "passed",
-   "metrics": {}
+   "metrics": {},
+   "note": "removed at Luke's request when Old Crow dropped to 3 posts a day"
   },
   {
    "date": "2026-10-18",
