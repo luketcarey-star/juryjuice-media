@@ -918,7 +918,7 @@
     "postId": "6ad2144cb948bf9e9d935669",
     "plannedAt": "2026-10-17T09:45:00-04:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metrics": {},
    "metaCheck": "passed",
    "caption": "The clock disagrees.",
@@ -938,7 +938,7 @@
     "postId": "6ad2144e25d13dd62ee595f5",
     "plannedAt": "2026-10-17T12:58:00-04:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metrics": {},
    "metaCheck": "passed",
    "caption": "Do you still own any movies, or just access to them? \ud83e\udd14\n\nA shelf of discs stayed yours for as long as you kept them. A streaming library can lose a title overnight, and there is nothing to hold on to when it goes.\n\nSome things are only yours while someone allows it.",
@@ -959,7 +959,7 @@
     "postId": "6ad21450f24c5797a23ad62c",
     "plannedAt": "2026-10-17T15:42:00-04:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metrics": {},
    "metaCheck": "passed",
    "caption": "Great deal, technically.",
@@ -979,7 +979,7 @@
     "postId": "6ad2154f63c879f95857ffc5",
     "plannedAt": "2026-10-16T10:12:00-04:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metrics": {},
    "metaCheck": "passed",
    "sources": [
@@ -1000,7 +1000,7 @@
     "postId": "6ad2152fb948bf9e9d9395b1",
     "plannedAt": "2026-10-16T13:02:00-04:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metrics": {},
    "metaCheck": "passed",
    "headline": "MENDED THEN. TOSSED NOW.",
@@ -1022,7 +1022,7 @@
     "postId": "6ad2152c1ffe4709802c1918",
     "plannedAt": "2026-10-16T16:03:00-04:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metrics": {},
    "metaCheck": "passed",
    "line": "Everyone wants a quiet life. Until the wifi goes down.",
@@ -1066,7 +1066,7 @@
    "sources": [],
    "imageFolder": "posts/oldcrow/2026-10-18/1-oneliner",
    "facebook": {
-    "postId": null,
+    "postId": "6ad3dd44938409f1d0a0b41b",
     "plannedAt": "2026-10-18T10:08:00-04:00"
    },
    "status": "scheduled",
@@ -1091,7 +1091,7 @@
    "sources": [],
    "imageFolder": "posts/oldcrow/2026-10-18/2-oneliner",
    "facebook": {
-    "postId": null,
+    "postId": "6ad3dd46ae173d6e00d1c03a",
     "plannedAt": "2026-10-18T13:14:00-04:00"
    },
    "status": "scheduled",
@@ -1116,7 +1116,7 @@
    "sources": [],
    "imageFolder": "posts/oldcrow/2026-10-18/3-oneliner",
    "facebook": {
-    "postId": null,
+    "postId": "6ad3dd49ae173d6e00d1c0a7",
     "plannedAt": "2026-10-18T16:42:00-04:00"
    },
    "status": "scheduled",
@@ -1141,7 +1141,7 @@
    "sources": [],
    "imageFolder": "posts/oldcrow/2026-10-18/4-oneliner",
    "facebook": {
-    "postId": null,
+    "postId": "6ad3dd4b0b0d72757af319f1",
     "plannedAt": "2026-10-18T20:24:00-04:00"
    },
    "status": "scheduled",
