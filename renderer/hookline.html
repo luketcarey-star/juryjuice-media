@@ -877,17 +877,17 @@ function drawPhoto(canvas, i){
   const blue = d.look === "blue";  // look B: heavy wide font (Archivo Black) with blue highlights
   const text = smart(sp.body.replace(/\n\s*\n/g, "\n"));
   const P = 70, maxW = W - P*2;
-  let sz = Math.round((blue ? 78 : 104)*scale), lines;
+  let sz = Math.round((blue ? 62 : 104)*scale), lines;
   const fontOf = () => blue ? `400 ${sz}px ${ARCHIVO}` : `400 ${sz}px ${BEBAS}`;
   const one = d.slides.length === 1;
-  for (; sz >= (blue ? 40 : 52); sz -= 2){ lines = wrapWith(ctx, text, maxW, fontOf, true); if (lines.length <= (one ? 6 : 4) && lines.length * sz * (blue ? 1.14 : 1.06) <= H*(one ? 0.36 : 0.30) && lines.every(l => lineWidth(l) <= maxW)) break; }
+  for (; sz >= (blue ? 40 : 52); sz -= 2){ lines = wrapWith(ctx, text, maxW, fontOf, true); if (lines.length <= (one ? 6 : 4) && lines.length * sz * (blue ? 1.14 : 1.06) <= H*(blue ? 0.26 : one ? 0.34 : 0.30) && lines.every(l => lineWidth(l) <= maxW)) break; }
   lines = wrapWith(ctx, text, maxW, fontOf, true);
   const lh = sz * (blue ? 1.14 : 1.06), blockH = lines.length * lh;
   const bottom = H - 110, textTop = bottom - blockH, labelY = textTop - 48;
 
   if (blue){
     // Look B: solid navy panel, blue bar and blue label pill, left-aligned text, key words in a blue marker box
-    const panelTop = textTop - 150;
+    const panelTop = textTop - 140;
     ctx.fillStyle = "#0B1626"; ctx.fillRect(0, panelTop, W, H - panelTop);
     ctx.fillStyle = BLUE2; ctx.fillRect(0, panelTop, W, 12);
     const label2 = (p.name || "Jury Juice").toUpperCase();
