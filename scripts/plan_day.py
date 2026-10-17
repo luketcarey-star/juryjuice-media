@@ -245,6 +245,12 @@ for s in enforce_carousel_caps(plan_slots(n)):
         # "classic" = image tells the whole story, one short teasing caption line. Keep them 50/50.
         styles = [p.get("captionStyle") for p in hist["posts"] if p.get("captionStyle")] + [x.get("captionStyle") for x in out if x.get("captionStyle")]
         s = dict(s, captionStyle="payoff" if styles.count("payoff") <= styles.count("classic") else "classic")
+    if PAGE == "jury" and s.get("style") == "photo":
+        # Photo-post look test (Luke, 2026-10-16): original 50%, "blue" (heavy font + blue highlight, same layout) 30%,
+        # "panel" (navy text panel, blue label pill, left-aligned) 20%. Pick whichever is furthest below its share.
+        TARGET = {"original": 0.5, "blue": 0.3, "panel": 0.2}
+        seen = [(p.get("look") or "original") for p in hist["posts"] if p.get("style") == "photo" and p.get("date", "") >= "2026-10-17" and p.get("status") not in ("skipped", "deleted-by-luke")] + [x.get("look") for x in out if x.get("look")]
+        s = dict(s, look=max(TARGET, key=lambda k: TARGET[k] * (len(seen) + 1) - seen.count(k)))
     out.append(dict(s, facebookAt=fb.isoformat(), instagramAt=ig.isoformat() if "instagram" in cfg.get("platforms", ["facebook", "instagram"]) else None))
 print(json.dumps({"page": PAGE, "date": day.isoformat(), "run": run, "bufferQueued": queued,
                   "limitedByBuffer": limited_by_buffer, "mode": cfg["mode"],

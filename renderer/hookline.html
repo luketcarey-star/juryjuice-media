@@ -874,7 +874,7 @@ function drawPhoto(canvas, i){
   ctx.save();
   if (!coverImage(ctx, s)) placeholder(ctx, "#1A1C20", "#8A9099", "Image not generated yet");
   const sp = splitSource(s.text);
-  const blue = d.look === "blue";  // look B: heavy wide font (Archivo Black) with blue highlights
+  const panelLook = d.look === "panel", blue = d.look === "blue" || panelLook;  // "blue": heavy wide font + blue highlight, same layout; "panel": also the navy text panel layout
   const text = smart(sp.body.replace(/\n\s*\n/g, "\n"));
   const P = 70, maxW = W - P*2;
   let sz = Math.round((blue ? 62 : 104)*scale), lines;
@@ -885,8 +885,8 @@ function drawPhoto(canvas, i){
   const lh = sz * (blue ? 1.14 : 1.06), blockH = lines.length * lh;
   const bottom = H - 110, textTop = bottom - blockH, labelY = textTop - 48;
 
-  if (blue){
-    // Look B: solid navy panel, blue bar and blue label pill, left-aligned text, key words in a blue marker box
+  if (panelLook){
+    // Look "panel": solid navy panel, blue bar and blue label pill, left-aligned text, key words in a blue marker box
     const panelTop = textTop - 140;
     ctx.fillStyle = "#0B1626"; ctx.fillRect(0, panelTop, W, H - panelTop);
     ctx.fillStyle = BLUE2; ctx.fillRect(0, panelTop, W, 12);

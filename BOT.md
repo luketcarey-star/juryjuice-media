@@ -174,6 +174,7 @@ Read these before writing anything:
 - **The photo must match the text.** If the slide says man, woman, he, she, a couple, etc., the person in the photo must match (state the gender and number of people in the scene prompt), or show no person at all (objects, hands, a doorway). Look at the generated photo for this before rendering; regenerate if it doesn't match.
 - Write a spec file and render:
   `{"page":"jury","style":"tweet"|"photo","caption":"...","slides":[{"text":"...","image":"img1.jpg"}]}`
+  **Photo look test (Luke, 2026-10-16):** every photo-style post gets a `look` from the planner: `original` (50%), `blue` (30%: heavy wide font, blue highlight, same layout) or `panel` (20%: navy text panel under the photo, blue label pill, left-aligned text, blue marker highlight). Put it in the spec as `"look":"blue"` or `"look":"panel"` (leave it out for `original`) and save `"look"` on the post in history. Photo prompts are unchanged, but for `panel` keep the main subject in the upper half of the picture because the panel covers the bottom 45%. Tweet posts have no look.
   Tweet-style posts: add `"theme"` from the plan (`black`, `light` = white with black text, `dim` =
   classic Twitter navy). The planner rotates them so tweet posts cycle through all three; save
   `theme` in history for every tweet post so the rotation continues.
