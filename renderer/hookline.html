@@ -8,6 +8,7 @@
 @font-face{font-family:"Inter";src:url("../fonts/Inter-Italic.ttf") format("truetype");font-weight:100 900;font-style:italic}
 @font-face{font-family:"Montserrat";src:url("../fonts/Montserrat.ttf") format("truetype");font-weight:100 900;font-style:normal}
 @font-face{font-family:"Montserrat";src:url("../fonts/Montserrat-Italic.ttf") format("truetype");font-weight:100 900;font-style:italic}
+@font-face{font-family:"Archivo Black";src:url("../fonts/ArchivoBlack-Regular.ttf") format("truetype");font-weight:400;font-style:normal}
 @font-face{font-family:"Bebas Neue";src:url("../fonts/BebasNeue.ttf") format("truetype");font-weight:400;font-style:normal}
 </style>
 <style>
@@ -425,6 +426,8 @@ const MONT = '"Montserrat", "Figtree", system-ui, sans-serif';
 const RYE = '"Rye", "Newsreader", Georgia, serif';
 const SERIF = '"Newsreader", Georgia, serif';
 const ORANGE = "#FF8A3D";
+const BLUE = "#3DA5FF";
+const ARCHIVO = '"Archivo Black", "Montserrat", Impact, sans-serif';
 const BANNED = ["game-changer","unlock your potential","delve","let's dive in","dive into","seamless","elevate","it's not X, it's Y","here's the thing","let that sink in","in today's fast-paced world","revolutionize","next level","level up","unleash","harness","navigate the","landscape","journey","tapestry","supercharge","empower"];
 const POLICY = `PLATFORM RULES (Meta policies; always follow)
 - Never tell people to comment, vote, like, share or tag (no "comment X", "vote", "type GUILTY", "share if", "tag a friend"). Open questions like "Was this fair?" or "What would you have decided?" are fine, and "Follow for more" is fine.
@@ -870,14 +873,15 @@ function drawPhoto(canvas, i){
   ctx.save();
   if (!coverImage(ctx, s)) placeholder(ctx, "#1A1C20", "#8A9099", "Image not generated yet");
   const sp = splitSource(s.text);
+  const blue = d.look === "blue";  // look B: heavy wide font (Archivo Black) with blue highlights
   const text = smart(sp.body.replace(/\n\s*\n/g, "\n"));
   const P = 70, maxW = W - P*2;
-  let sz = Math.round(104*scale), lines;
-  const fontOf = () => `400 ${sz}px ${BEBAS}`;
+  let sz = Math.round((blue ? 78 : 104)*scale), lines;
+  const fontOf = () => blue ? `400 ${sz}px ${ARCHIVO}` : `400 ${sz}px ${BEBAS}`;
   const one = d.slides.length === 1;
-  for (; sz >= 52; sz -= 2){ lines = wrapWith(ctx, text, maxW, fontOf, true); if (lines.length <= (one ? 5 : 4) && lines.length * sz * 1.06 <= H*(one ? 0.34 : 0.30) && lines.every(l => lineWidth(l) <= maxW)) break; }
+  for (; sz >= (blue ? 40 : 52); sz -= 2){ lines = wrapWith(ctx, text, maxW, fontOf, true); if (lines.length <= (one ? 6 : 4) && lines.length * sz * (blue ? 1.14 : 1.06) <= H*(one ? 0.36 : 0.30) && lines.every(l => lineWidth(l) <= maxW)) break; }
   lines = wrapWith(ctx, text, maxW, fontOf, true);
-  const lh = sz * 1.06, blockH = lines.length * lh;
+  const lh = sz * (blue ? 1.14 : 1.06), blockH = lines.length * lh;
   const bottom = H - 110, textTop = bottom - blockH, labelY = textTop - 48;
 
   const g = ctx.createLinearGradient(0, Math.max(0, labelY - 320), 0, H);
@@ -900,7 +904,7 @@ function drawPhoto(canvas, i){
     const y = textTop + (k + 1) * lh - lh*0.16;
     for (const wd of line){
       x += wd.lead;
-      ctx.font = fontOf(); ctx.fillStyle = (wd.bold || wd.under) ? ORANGE : "#FFFFFF";
+      ctx.font = fontOf(); ctx.fillStyle = (wd.bold || wd.under) ? (blue ? BLUE : ORANGE) : "#FFFFFF";
       ctx.fillText(wd.t, x, y); x += wd.w;
     }
   });
@@ -1719,11 +1723,12 @@ if (window.claude && claude.use){
 // ---- Bot hooks (added only to the bot's renderer copy) ----
 // Render: spec = {page, style, format?, theme?(black|light|dim), caption?, slides:[{text, scene?, image?(data URL)}]} -> JPEG data URLs
 window.hooklineRender = async (spec) => {
-  await Promise.all(['400 56px "Inter"','700 56px "Inter"','400 80px "Bebas Neue"','500 44px "Montserrat"','700 44px "Montserrat"','800 100px "Montserrat"','italic 500 44px "Montserrat"'].map(f => document.fonts.load(f)));
+  await Promise.all(['400 56px "Inter"','700 56px "Inter"','400 80px "Bebas Neue"','400 80px "Archivo Black"','500 44px "Montserrat"','700 44px "Montserrat"','800 100px "Montserrat"','italic 500 44px "Montserrat"'].map(f => document.fonts.load(f)));
   switchTo(spec.page);
   const d = decks[spec.page];
   d.style = spec.style; d.example = false; d.idx = 0; d.caption = spec.caption || "";
   if (spec.format) d.format = spec.format;
+  d.look = spec.look || "";
   d.slides = spec.slides.map(s => mkSlide(s.text, s.scene || ""));
   if (spec.theme && THEMES[spec.theme]) prefs[spec.page].theme = spec.theme;
   for (let k = 0; k < spec.slides.length; k++){
