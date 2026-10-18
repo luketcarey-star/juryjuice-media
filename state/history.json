@@ -53,19 +53,19 @@
      "clicks": 4,
      "engagementRate_buffer": 2.19,
      "engagementRate": 0.44,
-     "measuredAt": "2026-10-09T06:55-04:00"
+     "measuredAt": "2026-10-18T16:20-04:00"
     },
     "instagram": {
      "reactions": 0,
      "comments": 0,
-     "views": 124,
+     "views": 164,
      "shares": 0,
      "saves": 0,
      "follows": 0,
-     "reach": 52,
+     "reach": 69,
      "engagementRate_buffer": 0,
      "engagementRate": 0.0,
-     "measuredAt": "2026-10-09T06:55-04:00"
+     "measuredAt": "2026-10-18T16:20-04:00"
     }
    },
    "note": "Posted immediately at Luke's request; use sentAt (not plannedAt) for time-of-day learning.",
@@ -139,12 +139,12 @@
     "facebook": {
      "reactions": 1,
      "comments": 2,
-     "impressions": 353,
+     "impressions": 368,
      "shares": 0,
      "clicks": 6,
-     "engagementRate_buffer": 2.55,
-     "engagementRate": 0.85,
-     "measuredAt": "2026-10-09T06:55-04:00"
+     "engagementRate_buffer": 2.45,
+     "engagementRate": 0.82,
+     "measuredAt": "2026-10-18T16:20-04:00"
     }
    }
   },
@@ -176,24 +176,24 @@
     "facebook": {
      "reactions": 0,
      "comments": 0,
-     "impressions": 276,
+     "impressions": 299,
      "shares": 0,
      "clicks": 2,
-     "engagementRate_buffer": 0.72,
+     "engagementRate_buffer": 0.67,
      "engagementRate": 0.0,
-     "measuredAt": "2026-10-09T06:55-04:00"
+     "measuredAt": "2026-10-18T16:20-04:00"
     },
     "instagram": {
      "reactions": 1,
      "comments": 0,
-     "views": 83,
+     "views": 132,
      "shares": 0,
      "saves": 0,
      "follows": 0,
-     "reach": 62,
-     "engagementRate_buffer": 1.61,
-     "engagementRate": 1.61,
-     "measuredAt": "2026-10-09T06:55-04:00"
+     "reach": 98,
+     "engagementRate_buffer": 1.02,
+     "engagementRate": 1.02,
+     "measuredAt": "2026-10-18T16:20-04:00"
     }
    }
   },
@@ -232,24 +232,24 @@
     "facebook": {
      "reactions": 0,
      "comments": 0,
-     "impressions": 304,
+     "impressions": 313,
      "shares": 0,
      "clicks": 4,
-     "engagementRate_buffer": 1.32,
+     "engagementRate_buffer": 1.28,
      "engagementRate": 0.0,
-     "measuredAt": "2026-10-09T06:55-04:00"
+     "measuredAt": "2026-10-18T16:20-04:00"
     },
     "instagram": {
      "reactions": 0,
      "comments": 0,
-     "views": 152,
+     "views": 196,
      "shares": 0,
      "saves": 0,
      "follows": 0,
-     "reach": 98,
+     "reach": 130,
      "engagementRate_buffer": 0,
      "engagementRate": 0.0,
-     "measuredAt": "2026-10-09T06:55-04:00"
+     "measuredAt": "2026-10-18T16:20-04:00"
     }
    },
    "note": "Extra post made by hand at Luke's request because the morning carousel reused an old title."
@@ -279,24 +279,24 @@
     "facebook": {
      "reactions": 0,
      "comments": 0,
-     "impressions": 158,
+     "impressions": 166,
      "shares": 0,
      "clicks": 1,
-     "engagementRate_buffer": 0.63,
+     "engagementRate_buffer": 0.6,
      "engagementRate": 0.0,
-     "measuredAt": "2026-10-09T06:55-04:00"
+     "measuredAt": "2026-10-18T16:20-04:00"
     },
     "instagram": {
      "reactions": 0,
      "comments": 0,
-     "views": 71,
+     "views": 104,
      "shares": 0,
      "saves": 0,
      "follows": 0,
-     "reach": 52,
+     "reach": 80,
      "engagementRate_buffer": 0,
      "engagementRate": 0.0,
-     "measuredAt": "2026-10-09T06:55-04:00"
+     "measuredAt": "2026-10-18T16:20-04:00"
     }
    }
   },
@@ -341,24 +341,24 @@
     "facebook": {
      "reactions": 0,
      "comments": 0,
-     "impressions": 134,
+     "impressions": 170,
      "shares": 0,
      "clicks": 1,
-     "engagementRate_buffer": 0.75,
+     "engagementRate_buffer": 0.59,
      "engagementRate": 0.0,
-     "measuredAt": "2026-10-09T06:55-04:00"
+     "measuredAt": "2026-10-18T16:20-04:00"
     },
     "instagram": {
      "reactions": 0,
      "comments": 0,
-     "views": 127,
+     "views": 183,
      "shares": 0,
      "saves": 0,
      "follows": 0,
-     "reach": 60,
+     "reach": 86,
      "engagementRate_buffer": 0,
      "engagementRate": 0.0,
-     "measuredAt": "2026-10-09T06:55-04:00"
+     "measuredAt": "2026-10-18T16:20-04:00"
     }
    }
   },
@@ -392,24 +392,24 @@
     "facebook": {
      "reactions": 0,
      "comments": 0,
-     "impressions": 201,
+     "impressions": 228,
      "shares": 0,
      "clicks": 0,
      "engagementRate_buffer": 0,
      "engagementRate": 0.0,
-     "measuredAt": "2026-10-09T06:55-04:00"
+     "measuredAt": "2026-10-18T16:20-04:00"
     },
     "instagram": {
      "reactions": 0,
      "comments": 0,
-     "views": 100,
+     "views": 157,
      "shares": 0,
      "saves": 0,
      "follows": 0,
-     "reach": 67,
+     "reach": 104,
      "engagementRate_buffer": 0,
      "engagementRate": 0.0,
-     "measuredAt": "2026-10-09T06:55-04:00"
+     "measuredAt": "2026-10-18T16:20-04:00"
     }
    }
   },
@@ -439,24 +439,24 @@
     "facebook": {
      "reactions": 1,
      "comments": 1,
-     "impressions": 196,
+     "impressions": 246,
      "shares": 0,
      "clicks": 5,
-     "engagementRate_buffer": 3.57,
-     "engagementRate": 1.02,
-     "measuredAt": "2026-10-09T06:55-04:00"
+     "engagementRate_buffer": 2.85,
+     "engagementRate": 0.81,
+     "measuredAt": "2026-10-18T16:20-04:00"
     },
     "instagram": {
      "reactions": 0,
      "comments": 0,
-     "views": 67,
+     "views": 105,
      "shares": 0,
      "saves": 0,
      "follows": 0,
-     "reach": 49,
+     "reach": 81,
      "engagementRate_buffer": 0,
      "engagementRate": 0.0,
-     "measuredAt": "2026-10-09T06:55-04:00"
+     "measuredAt": "2026-10-18T16:20-04:00"
     }
    }
   },
@@ -490,24 +490,24 @@
     "facebook": {
      "reactions": 0,
      "comments": 0,
-     "impressions": 323,
+     "impressions": 353,
      "shares": 0,
      "clicks": 2,
-     "engagementRate_buffer": 0.62,
+     "engagementRate_buffer": 0.57,
      "engagementRate": 0.0,
-     "measuredAt": "2026-10-09T06:55-04:00"
+     "measuredAt": "2026-10-18T16:20-04:00"
     },
     "instagram": {
      "reactions": 0,
      "comments": 0,
-     "views": 175,
+     "views": 257,
      "shares": 0,
      "saves": 0,
      "follows": 0,
-     "reach": 115,
+     "reach": 174,
      "engagementRate_buffer": 0,
      "engagementRate": 0.0,
-     "measuredAt": "2026-10-09T06:55-04:00"
+     "measuredAt": "2026-10-18T16:20-04:00"
     }
    }
   },
@@ -540,24 +540,24 @@
     "facebook": {
      "reactions": 0,
      "comments": 0,
-     "impressions": 70,
+     "impressions": 110,
      "shares": 0,
      "clicks": 1,
-     "engagementRate_buffer": 1.43,
+     "engagementRate_buffer": 0.91,
      "engagementRate": 0.0,
-     "measuredAt": "2026-10-09T06:55-04:00"
+     "measuredAt": "2026-10-18T16:20-04:00"
     },
     "instagram": {
      "reactions": 0,
      "comments": 0,
-     "views": 86,
+     "views": 179,
      "shares": 0,
      "saves": 0,
      "follows": 0,
-     "reach": 43,
+     "reach": 81,
      "engagementRate_buffer": 0,
      "engagementRate": 0.0,
-     "measuredAt": "2026-10-09T06:55-04:00"
+     "measuredAt": "2026-10-18T16:20-04:00"
     }
    }
   },
@@ -647,26 +647,26 @@
    "note": "made by hand after the queue was cleared",
    "metrics": {
     "facebook": {
-     "reactions": 9,
-     "comments": 20,
-     "impressions": 3157,
-     "shares": 2,
-     "clicks": 160,
-     "engagementRate_buffer": 5.92,
-     "engagementRate": 0.98,
-     "measuredAt": "2026-10-09T06:55-04:00"
+     "reactions": 33,
+     "comments": 75,
+     "impressions": 17376,
+     "shares": 4,
+     "clicks": 1207,
+     "engagementRate_buffer": 7.36,
+     "engagementRate": 0.64,
+     "measuredAt": "2026-10-18T16:20-04:00"
     },
     "instagram": {
-     "reactions": 0,
+     "reactions": 1,
      "comments": 0,
-     "views": 233,
+     "views": 470,
      "shares": 0,
      "saves": 0,
      "follows": 0,
-     "reach": 174,
-     "engagementRate_buffer": 0,
-     "engagementRate": 0.0,
-     "measuredAt": "2026-10-09T06:55-04:00"
+     "reach": 327,
+     "engagementRate_buffer": 0.31,
+     "engagementRate": 0.31,
+     "measuredAt": "2026-10-18T16:20-04:00"
     }
    },
    "topicGroup": "police",
@@ -704,26 +704,26 @@
    "metaCheck": "passed",
    "metrics": {
     "facebook": {
-     "reactions": 20,
-     "comments": 1,
-     "impressions": 1398,
-     "shares": 2,
-     "clicks": 30,
-     "engagementRate_buffer": 3.79,
-     "engagementRate": 1.65,
-     "measuredAt": "2026-10-09T06:55-04:00"
+     "reactions": 92,
+     "comments": 18,
+     "impressions": 4576,
+     "shares": 8,
+     "clicks": 189,
+     "engagementRate_buffer": 6.6,
+     "engagementRate": 2.58,
+     "measuredAt": "2026-10-18T16:20-04:00"
     },
     "instagram": {
-     "reactions": 2,
+     "reactions": 3,
      "comments": 0,
-     "views": 169,
+     "views": 343,
      "shares": 0,
      "saves": 0,
      "follows": 0,
-     "reach": 107,
-     "engagementRate_buffer": 1.87,
-     "engagementRate": 1.87,
-     "measuredAt": "2026-10-09T06:55-04:00"
+     "reach": 239,
+     "engagementRate_buffer": 1.26,
+     "engagementRate": 1.26,
+     "measuredAt": "2026-10-18T16:20-04:00"
     }
    },
    "subtopic": "traffic stop, drug dog"
@@ -758,24 +758,24 @@
     "facebook": {
      "reactions": 0,
      "comments": 0,
-     "impressions": 102,
+     "impressions": 184,
      "shares": 0,
      "clicks": 0,
      "engagementRate_buffer": 0,
      "engagementRate": 0.0,
-     "measuredAt": "2026-10-09T06:55-04:00"
+     "measuredAt": "2026-10-18T16:20-04:00"
     },
     "instagram": {
      "reactions": 0,
      "comments": 0,
-     "views": 34,
+     "views": 111,
      "shares": 0,
      "saves": 0,
      "follows": 0,
-     "reach": 22,
+     "reach": 79,
      "engagementRate_buffer": 0,
      "engagementRate": 0.0,
-     "measuredAt": "2026-10-09T06:55-04:00"
+     "measuredAt": "2026-10-18T16:20-04:00"
     }
    },
    "subtopic": "HOA letters"
@@ -822,12 +822,24 @@
     "facebook": {
      "reactions": 0,
      "comments": 0,
-     "impressions": 244,
+     "impressions": 602,
      "shares": 0,
-     "clicks": 0,
+     "clicks": 5,
+     "engagementRate_buffer": 0.83,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 158,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 121,
      "engagementRate_buffer": 0,
      "engagementRate": 0.0,
-     "measuredAt": "2026-10-09T06:55-04:00"
+     "measuredAt": "2026-10-18T16:20-04:00"
     }
    },
    "subtopic": "eminent domain"
@@ -872,7 +884,30 @@
    },
    "status": "sent",
    "metaCheck": "passed (soldier not named on slide or caption; no violence; settlement stated as settlement)",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 11,
+     "comments": 8,
+     "impressions": 1419,
+     "shares": 0,
+     "clicks": 66,
+     "engagementRate_buffer": 6.06,
+     "engagementRate": 1.34,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 417,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 303,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    }
+   },
    "note": "switched from tweet to photo by hand (Luke asked; image tool had been off for the am run)",
    "subtopic": "HOA dues foreclosure"
   },
@@ -906,7 +941,30 @@
    },
    "status": "sent",
    "metaCheck": "passed",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 1,
+     "comments": 1,
+     "impressions": 397,
+     "shares": 0,
+     "clicks": 3,
+     "engagementRate_buffer": 1.26,
+     "engagementRate": 0.5,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    },
+    "instagram": {
+     "reactions": 1,
+     "comments": 1,
+     "views": 122,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 83,
+     "engagementRate_buffer": 2.41,
+     "engagementRate": 2.41,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    }
+   },
    "subtopic": "traffic tickets"
   },
   {
@@ -938,7 +996,30 @@
    },
    "status": "sent",
    "metaCheck": "passed",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 393,
+     "shares": 0,
+     "clicks": 2,
+     "engagementRate_buffer": 0.51,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 127,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 88,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    }
+   },
    "subtopic": "parking tickets"
   },
   {
@@ -974,14 +1055,60 @@
    },
    "status": "sent",
    "metaCheck": "passed",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 3,
+     "comments": 0,
+     "impressions": 877,
+     "shares": 1,
+     "clicks": 4,
+     "engagementRate_buffer": 0.91,
+     "engagementRate": 0.46,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    },
+    "instagram": {
+     "reactions": 6,
+     "comments": 0,
+     "views": 324,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 230,
+     "engagementRate_buffer": 2.61,
+     "engagementRate": 2.61,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    }
+   },
    "note": "switched back to photo by hand after the image tool came back",
    "subtopic": "HOA colour rules"
   },
   {
    "date": "2026-10-11",
    "format": "single",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 2,
+     "impressions": 502,
+     "shares": 0,
+     "clicks": 8,
+     "engagementRate_buffer": 1.99,
+     "engagementRate": 0.4,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 102,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 78,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    }
+   },
    "metaCheck": "passed",
    "status": "sent",
    "n": 1,
@@ -1009,7 +1136,30 @@
   {
    "date": "2026-10-11",
    "format": "single",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 406,
+     "comments": 922,
+     "impressions": 269353,
+     "shares": 20,
+     "clicks": 34031,
+     "engagementRate_buffer": 12.86,
+     "engagementRate": 0.5,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    },
+    "instagram": {
+     "reactions": 3,
+     "comments": 0,
+     "views": 552,
+     "shares": 0,
+     "saves": 1,
+     "follows": 0,
+     "reach": 369,
+     "engagementRate_buffer": 1.08,
+     "engagementRate": 1.08,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    }
+   },
    "metaCheck": "passed",
    "status": "sent",
    "n": 2,
@@ -1064,7 +1214,30 @@
    },
    "status": "sent",
    "metaCheck": "passed",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 337,
+     "shares": 0,
+     "clicks": 0,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 87,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 69,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    }
+   },
    "subtopic": "city permits",
    "image": "posts/2026-10-12/1-engage/slide1-v2.jpg"
   },
@@ -1096,14 +1269,60 @@
    },
    "status": "sent",
    "metaCheck": "passed",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 4,
+     "comments": 0,
+     "impressions": 1172,
+     "shares": 0,
+     "clicks": 15,
+     "engagementRate_buffer": 1.62,
+     "engagementRate": 0.34,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    },
+    "instagram": {
+     "reactions": 3,
+     "comments": 0,
+     "views": 407,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 271,
+     "engagementRate_buffer": 1.11,
+     "engagementRate": 1.11,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    }
+   },
    "subtopic": "front-yard gardens",
    "image": "posts/2026-10-12/2-laws-photo/slide1-v3.jpg",
    "note": "2026-10-11: place name removed (Luke's rule), caption varied"
   },
   {
    "date": "2026-10-13",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 0,
+     "shares": 0,
+     "clicks": 0,
+     "engagementRate_buffer": 0,
+     "engagementRate": null,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    },
+    "instagram": {
+     "reactions": 4,
+     "comments": 0,
+     "views": 339,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 251,
+     "engagementRate_buffer": 1.59,
+     "engagementRate": 1.59,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    }
+   },
    "metaCheck": "passed",
    "n": 1,
    "type": "list",
@@ -1136,7 +1355,30 @@
   },
   {
    "date": "2026-10-13",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 375,
+     "shares": 0,
+     "clicks": 1,
+     "engagementRate_buffer": 0.27,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 130,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 96,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    }
+   },
    "metaCheck": "passed",
    "n": 2,
    "type": "engage",
@@ -1198,9 +1440,32 @@
     "postId": "6ace9a01b5699de5d709b4db",
     "plannedAt": "2026-10-14T10:20:00-04:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed (replaced car image that showed a badge)",
-   "metrics": {}
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 710,
+     "shares": 0,
+     "clicks": 5,
+     "engagementRate_buffer": 0.7,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 275,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 141,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    }
+   }
   },
   {
    "date": "2026-10-14",
@@ -1226,9 +1491,32 @@
     "postId": "6ace9a04ffa44ef4f99b5442",
     "plannedAt": "2026-10-14T18:39:00-04:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
-   "metrics": {}
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 1,
+     "impressions": 395,
+     "shares": 0,
+     "clicks": 2,
+     "engagementRate_buffer": 0.76,
+     "engagementRate": 0.25,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 107,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 70,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    }
+   }
   },
   {
    "date": "2026-10-15",
@@ -1256,9 +1544,32 @@
     "postId": "6acfeb6d384901ac0840683f",
     "plannedAt": "2026-10-15T11:37:00-04:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 26,
+     "comments": 3,
+     "impressions": 1849,
+     "shares": 8,
+     "clicks": 37,
+     "engagementRate_buffer": 3.95,
+     "engagementRate": 2.0,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    },
+    "instagram": {
+     "reactions": 8,
+     "comments": 0,
+     "views": 428,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 299,
+     "engagementRate_buffer": 2.68,
+     "engagementRate": 2.68,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    }
+   },
    "imageFile": "slide1-v2.jpg",
    "note": "Image regenerated 2026-10-14: the first photo showed a woman, post says a man"
   },
@@ -1295,9 +1606,32 @@
     "postId": "6acfeb75ad454aea56cdc863",
     "plannedAt": "2026-10-15T20:21:00-04:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
-   "metrics": {}
+   "metrics": {
+    "facebook": {
+     "reactions": 1,
+     "comments": 0,
+     "impressions": 900,
+     "shares": 0,
+     "clicks": 5,
+     "engagementRate_buffer": 0.67,
+     "engagementRate": 0.11,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 204,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 109,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    }
+   }
   },
   {
    "date": "2026-10-16",
@@ -1327,9 +1661,32 @@
     "postId": "6ad214bcb948bf9e9d937a43",
     "plannedAt": "2026-10-16T09:56:00-04:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 931,
+     "shares": 0,
+     "clicks": 12,
+     "engagementRate_buffer": 1.29,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 262,
+     "shares": 0,
+     "saves": 1,
+     "follows": 0,
+     "reach": 197,
+     "engagementRate_buffer": 0.51,
+     "engagementRate": 0.51,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    }
+   },
    "note": "Made by the 2026-10-16 morning special run for 10-17, moved to 10-16 at Luke's request (images stay in posts/2026-10-17/)."
   },
   {
@@ -1365,9 +1722,32 @@
     "postId": "6ad214c2b948bf9e9d937b57",
     "plannedAt": "2026-10-16T12:50:00-04:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 1209,
+     "shares": 0,
+     "clicks": 11,
+     "engagementRate_buffer": 0.91,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 162,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 74,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    }
+   },
    "facebookFormat": "single (lawn slide, fb/slide1.jpg)",
    "note": "Made by the 2026-10-16 morning special run for 10-17, moved to 10-16 at Luke's request (images stay in posts/2026-10-17/)."
   },
@@ -1396,9 +1776,32 @@
     "postId": "6ad214c8f24c5797a23af8dd",
     "plannedAt": "2026-10-16T15:40:00-04:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 289,
+     "shares": 0,
+     "clicks": 0,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 87,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 65,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    }
+   },
    "theme": "light",
    "note": "Made by the 2026-10-16 morning special run for 10-17, moved to 10-16 at Luke's request (images stay in posts/2026-10-17/)."
   },
@@ -1429,9 +1832,32 @@
     "postId": "6ad305a21694d771d51f1a5a",
     "plannedAt": "2026-10-17T08:43:00-04:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 2,
+     "comments": 2,
+     "impressions": 1344,
+     "shares": 0,
+     "clicks": 47,
+     "engagementRate_buffer": 3.79,
+     "engagementRate": 0.3,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 281,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 197,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    }
+   },
    "look": "original",
    "sceneTag": "policeLights"
   },
@@ -1468,9 +1894,32 @@
     "postId": "6ad305a852adf2bfae77f482",
     "plannedAt": "2026-10-17T11:45:00-04:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 9,
+     "comments": 3,
+     "impressions": 986,
+     "shares": 0,
+     "clicks": 21,
+     "engagementRate_buffer": 3.35,
+     "engagementRate": 1.22,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    },
+    "instagram": {
+     "reactions": 2,
+     "comments": 0,
+     "views": 197,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 107,
+     "engagementRate_buffer": 1.87,
+     "engagementRate": 1.87,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    }
+   },
    "facebookFormat": "single (case 1 slide, fb/slide1.jpg)",
    "look": "blue",
    "sceneTag": "other"
@@ -1500,9 +1949,32 @@
     "postId": "6ad305adc34368e4b0aa7532",
     "plannedAt": "2026-10-17T13:40:00-04:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 1,
+     "impressions": 222,
+     "shares": 0,
+     "clicks": 6,
+     "engagementRate_buffer": 3.15,
+     "engagementRate": 0.45,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    },
+    "instagram": {
+     "reactions": 2,
+     "comments": 0,
+     "views": 100,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 66,
+     "engagementRate_buffer": 3.03,
+     "engagementRate": 3.03,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    }
+   },
    "theme": "dim"
   },
   {
@@ -1532,9 +2004,32 @@
     "postId": "6ad305b1c34368e4b0aa7582",
     "plannedAt": "2026-10-17T17:52:00-04:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 219,
+     "shares": 0,
+     "clicks": 1,
+     "engagementRate_buffer": 0.46,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 143,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 109,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    }
+   },
    "look": "panel",
    "sceneTag": "other"
   },
@@ -1565,9 +2060,32 @@
     "postId": "6ad305b687c4935770b12db5",
     "plannedAt": "2026-10-17T20:29:00-04:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 27,
+     "shares": 0,
+     "clicks": 1,
+     "engagementRate_buffer": 3.7,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    },
+    "instagram": {
+     "reactions": 4,
+     "comments": 0,
+     "views": 195,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 149,
+     "engagementRate_buffer": 2.68,
+     "engagementRate": 2.68,
+     "measuredAt": "2026-10-18T16:20-04:00"
+    }
+   },
    "look": "original",
    "sceneTag": "policeLights"
   },
@@ -1597,7 +2115,7 @@
     "plannedAt": "2026-10-18T08:48:00-04:00",
     "format": "single"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metrics": {},
    "metaCheck": "passed",
    "captionStyle": "payoff",
@@ -1629,7 +2147,7 @@
     "plannedAt": "2026-10-18T11:00:00-04:00",
     "format": "single"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metrics": {},
    "metaCheck": "passed",
    "captionStyle": "classic",
@@ -1661,7 +2179,7 @@
     "plannedAt": "2026-10-18T13:35:00-04:00",
     "format": "single"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metrics": {},
    "metaCheck": "passed",
    "captionStyle": "payoff",
@@ -1731,5 +2249,18 @@
    "look": "panel"
   }
  ],
- "ideas": []
+ "ideas": [
+  {
+   "added": "2026-10-18",
+   "idea": "Another everyday-driver stop ruling told as one story (e.g. stopped for a dangling air freshener or tinted windows, how the court ruled), no drug angle"
+  },
+  {
+   "added": "2026-10-18",
+   "idea": "Police impound/tow fee stories: owner charged storage fees for a car that was stolen from them"
+  },
+  {
+   "added": "2026-10-18",
+   "idea": "Recording-at-a-traffic-stop follow-up: a driver ticketed after filming from their own car, how it ended"
+  }
+ ]
 }
