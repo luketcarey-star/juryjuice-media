@@ -1367,6 +1367,89 @@
       "status": "scheduled",
       "metaCheck": "passed",
       "metrics": {}
+    },
+    {
+      "date": "2026-10-19",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "sources": [],
+      "status": "scheduled",
+      "metrics": {},
+      "metaCheck": "passed",
+      "n": 1,
+      "type": "oneliner",
+      "title": "Your phone knows where you are. You don't know where your evening went.",
+      "line": "Your phone knows where you are. You don't know where your evening went.",
+      "topic": "Phones eating the evening",
+      "object": "glowing phone and floor lamp",
+      "caption": "Location services: on.",
+      "slides": [
+        {
+          "text": "Your phone knows where you are. You don't know where your evening went."
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-19/1-oneliner",
+      "facebook": {
+        "postId": "6ad52ee5ae173d6e00192dc1",
+        "plannedAt": "2026-10-19T10:04:00-04:00"
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "sources": [],
+      "status": "scheduled",
+      "metrics": {},
+      "metaCheck": "passed",
+      "n": 2,
+      "type": "thennow",
+      "title": "More photos than ever. Seen any?",
+      "headline": "MORE PHOTOS THAN EVER. SEEN ANY?",
+      "then": "worn leather photo album with a few printed snapshots",
+      "now": "phone crammed with hundreds of tiny photo thumbnails",
+      "topic": "Photo albums vs thousands of unseen phone photos",
+      "caption": "When did you last scroll back to a photo from five years ago? 🤔\n\nA family once filled an album and pulled it off the shelf when people came over. Now one phone holds thousands of pictures, and most of them just sit there.\n\nTaking a picture was never the same as keeping it.",
+      "slides": [
+        {
+          "text": "MORE PHOTOS THAN EVER. SEEN ANY?"
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-19/2-thennow",
+      "experiment": "Then vs Now on a non-product theme (photos/memory)",
+      "facebook": {
+        "postId": "6ad52ee8769b457934db9454",
+        "plannedAt": "2026-10-19T12:52:00-04:00"
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "sources": [],
+      "status": "scheduled",
+      "metrics": {},
+      "metaCheck": "passed",
+      "n": 3,
+      "type": "oneliner",
+      "title": "Buy now, pay later. Later always shows up.",
+      "line": "Buy now, pay later. Later always shows up.",
+      "topic": "Buy now, pay later catching up",
+      "object": "shopping bag and stack of envelopes at the front door",
+      "caption": "Right on schedule.",
+      "slides": [
+        {
+          "text": "Buy now, pay later. Later always shows up."
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-19/3-oneliner",
+      "facebook": {
+        "postId": "6ad52eec0a208cb3237ec24a",
+        "plannedAt": "2026-10-19T19:37:00-04:00"
+      }
     }
   ],
   "ideas": [
