@@ -2247,6 +2247,178 @@
    "metaCheck": "passed",
    "captionStyle": "classic",
    "look": "panel"
+  },
+  {
+   "date": "2026-10-19",
+   "n": 1,
+   "type": "engage",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "tweet",
+   "title": "Lost wallet handed to police",
+   "topic": "Question: ever handed a lost wallet to an officer, did it get back to its owner",
+   "subtopic": "lost and found",
+   "slides": [
+    "Have you ever handed a lost wallet to an officer, and did it make it back to its owner?"
+   ],
+   "caption": "Some wallets come home with every dollar still inside.\n\n#JuryJuice #LostWallet #PoliceStories",
+   "sources": [],
+   "imageFolder": "posts/2026-10-19/1-engage",
+   "facebook": {
+    "postId": "6ad5284e938409f1d0e63667",
+    "plannedAt": "2026-10-19T09:05:00-04:00",
+    "format": "single"
+   },
+   "instagram": {
+    "postId": "6ad52851938409f1d0e637d1",
+    "plannedAt": "2026-10-19T08:50:00-04:00",
+    "format": "single"
+   },
+   "status": "scheduled",
+   "metrics": {},
+   "metaCheck": "passed",
+   "theme": "light",
+   "captionStyle": "n/a"
+  },
+  {
+   "date": "2026-10-19",
+   "n": 2,
+   "type": "list",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "photo",
+   "title": "Towed for 30 Days Over Someone Else's License",
+   "topic": "Brewster v. Beck (9th Cir. 2017): car lent to brother-in-law with suspended license impounded 30 days; owner showed valid license after 3 days; continued hold is a seizure needing justification",
+   "subtopic": "30-day impound",
+   "slides": [
+    "She lent her car to family. His license was suspended, so police towed it and told her she'd wait **30 days** to get it back."
+   ],
+   "caption": "Three days later she walked in with her own valid license and offered to pay the fees. They still kept the car. Federal appeals judges said once she proved it was hers, there was no reason left to hold it. Should a car pay for the driver's mistake?\n\n#JuryJuice #Towing #PoliceStories\n\nSource: Brewster v. Beck (2017)",
+   "sources": [
+    "Brewster v. Beck, 9th Cir. No. 15-55479 (June 21, 2017), cases.justia.com"
+   ],
+   "imageFolder": "posts/2026-10-19/2-list",
+   "facebook": {
+    "postId": "6ad528540b0d72757a392899",
+    "plannedAt": "2026-10-19T11:41:00-04:00",
+    "format": "single"
+   },
+   "instagram": {
+    "postId": "6ad528570a208cb3237d8d2f",
+    "plannedAt": "2026-10-19T11:20:00-04:00",
+    "format": "single"
+   },
+   "status": "scheduled",
+   "metrics": {},
+   "metaCheck": "passed",
+   "sceneTag": "policeLights",
+   "look": "blue",
+   "captionStyle": "payoff"
+  },
+  {
+   "date": "2026-10-19",
+   "n": 3,
+   "type": "history",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "photo",
+   "title": "The Bugged Phone Booth",
+   "topic": "Katz v. United States (1967): FBI device on outside of public phone booth recorded betting calls; 7-1, warrantless recording was a search, conviction overturned",
+   "subtopic": "phone booth wiretap",
+   "slides": [
+    "The FBI taped a mic to the outside of a phone booth to catch his bets. The nation's top court **tossed his conviction**."
+   ],
+   "caption": "A glass box on a busy street, and the justices called it private. Does that still hold up now that everyone carries a phone?\n\n#JuryJuice #SupremeCourt #Privacy\n\nSource: Katz v. United States (1967)",
+   "sources": [
+    "Katz v. United States, 389 U.S. 347 (1967), Wikipedia / Cornell LII"
+   ],
+   "imageFolder": "posts/2026-10-19/3-history",
+   "facebook": {
+    "postId": "6ad5285a0b0d72757a39292a",
+    "plannedAt": "2026-10-19T14:02:00-04:00",
+    "format": "single"
+   },
+   "instagram": {
+    "postId": "6ad5285da48c8f8371b1b454",
+    "plannedAt": "2026-10-19T13:34:00-04:00",
+    "format": "single"
+   },
+   "status": "scheduled",
+   "metrics": {},
+   "metaCheck": "passed",
+   "sceneTag": "other",
+   "look": "original",
+   "captionStyle": "classic"
+  },
+  {
+   "date": "2026-10-19",
+   "n": 4,
+   "type": "laws",
+   "topicGroup": "county",
+   "format": "single",
+   "style": "photo",
+   "title": "The County Kept the Change",
+   "topic": "Tyler v. Hennepin County (2023): ~$15,000 tax debt with penalties, condo sold for $40,000, county kept all; unanimous, surplus taking; she was 94",
+   "subtopic": "tax foreclosure surplus",
+   "slides": [
+    "She owed about **$15,000** in taxes and penalties. The county took her condo, sold it for $40,000 and kept every dollar."
+   ],
+   "caption": "All nine justices took her side. The county could collect what she owed, but the extra $25,000 was never its money to keep. She was 94 when it ended. Who should get the leftover cash when a home is sold for back taxes?\n\n#JuryJuice #PropertyTax #Homeowner\n\nSource: Tyler v. Hennepin County (2023)",
+   "sources": [
+    "Tyler v. Hennepin County (2023), AP via click2houston.com, May 25 2023"
+   ],
+   "imageFolder": "posts/2026-10-19/4-laws",
+   "facebook": {
+    "postId": "6ad528610b0d72757a392b15",
+    "plannedAt": "2026-10-19T17:37:00-04:00",
+    "format": "single"
+   },
+   "instagram": {
+    "postId": "6ad528640a208cb3237d8f78",
+    "plannedAt": "2026-10-19T18:05:00-04:00",
+    "format": "single"
+   },
+   "status": "scheduled",
+   "metrics": {},
+   "metaCheck": "passed",
+   "sceneTag": "other",
+   "look": "original",
+   "captionStyle": "payoff"
+  },
+  {
+   "date": "2026-10-19",
+   "n": 5,
+   "type": "laws",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "photo",
+   "title": "Jaywalking Tickets Mostly Ended",
+   "topic": "Freedom to Walk Act AB 2147 (eff. Jan 1 2023): no jaywalking stop unless immediate danger of collision; tickets were just under $200 with fees",
+   "subtopic": "jaywalking tickets",
+   "slides": [
+    "Crossing mid-block used to cost walkers close to **$200** in one state. Now police can only ticket if a crash is about to happen."
+   ],
+   "caption": "Fewer tickets for people on foot, same busy streets. Smart change or bad idea?\n\n#JuryJuice #Jaywalking #Pedestrians\n\nSource: Freedom to Walk Act, AB 2147 (2022)",
+   "sources": [
+    "KPBS, Oct 5 2022: what the Freedom to Walk Act does"
+   ],
+   "imageFolder": "posts/2026-10-19/5-laws",
+   "facebook": {
+    "postId": "6ad52867769b457934da5186",
+    "plannedAt": "2026-10-19T20:02:00-04:00",
+    "format": "single"
+   },
+   "instagram": {
+    "postId": "6ad5286a0b0d72757a392c12",
+    "plannedAt": "2026-10-19T20:07:00-04:00",
+    "format": "single"
+   },
+   "status": "scheduled",
+   "metrics": {},
+   "metaCheck": "passed",
+   "sceneTag": "policeLights",
+   "look": "blue",
+   "captionStyle": "classic"
   }
  ],
  "ideas": [
