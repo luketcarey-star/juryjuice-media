@@ -1364,7 +1364,7 @@
         "postId": "6ad3dd4b0b0d72757af319f1",
         "plannedAt": "2026-10-18T20:24:00-04:00"
       },
-      "status": "scheduled",
+      "status": "sent",
       "metaCheck": "passed",
       "metrics": {}
     },
@@ -1374,7 +1374,7 @@
       "style": "ai",
       "theme": null,
       "sources": [],
-      "status": "scheduled",
+      "status": "sent",
       "metrics": {},
       "metaCheck": "passed",
       "n": 1,
@@ -1401,7 +1401,7 @@
       "style": "ai",
       "theme": null,
       "sources": [],
-      "status": "scheduled",
+      "status": "sent",
       "metrics": {},
       "metaCheck": "passed",
       "n": 2,
@@ -1449,6 +1449,90 @@
       "facebook": {
         "postId": "6ad52eec0a208cb3237ec24a",
         "plannedAt": "2026-10-19T19:37:00-04:00"
+      }
+    },
+    {
+      "date": "2026-10-20",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "sources": [],
+      "status": "scheduled",
+      "metrics": {},
+      "metaCheck": "passed",
+      "n": 1,
+      "type": "thennow",
+      "title": "Who borrows sugar anymore?",
+      "headline": "WHO BORROWS SUGAR ANYMORE?",
+      "then": "floral china teacup heaped with sugar",
+      "now": "phone showing a delivery scooter on a map",
+      "topic": "Borrowing from neighbours vs delivery apps (community)",
+      "caption": "When did you last knock on a neighbour's door to borrow something? 👀\n\nA cup of sugar used to come with a chat on the porch. Now it arrives on a scooter, and you rarely learn anyone's name.\n\nSome errands were never really about the sugar.",
+      "slides": [
+        {
+          "text": "WHO BORROWS SUGAR ANYMORE?"
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-20/1-thennow",
+      "experiment": "Then vs Now on a community theme (non-product), short-question headline",
+      "facebook": {
+        "postId": "6ad6808bc20ac6530890b5e8",
+        "plannedAt": "2026-10-20T09:50:00-04:00"
+      }
+    },
+    {
+      "date": "2026-10-20",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "sources": [],
+      "status": "scheduled",
+      "metrics": {},
+      "metaCheck": "passed",
+      "n": 2,
+      "type": "oneliner",
+      "title": "Self-checkout. Congratulations, you work here now.",
+      "line": "Self-checkout. Congratulations, you work here now.",
+      "topic": "Self-checkout turns shoppers into unpaid cashiers",
+      "object": "self-checkout scanner, loaf of bread and receipt",
+      "caption": "No employee discount.",
+      "slides": [
+        {
+          "text": "Self-checkout. Congratulations, you work here now."
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-20/2-oneliner",
+      "facebook": {
+        "postId": "6ad6808f614166e4ec344349",
+        "plannedAt": "2026-10-20T13:25:00-04:00"
+      },
+      "metaCheckNote": "passed; image regenerated once after a 502 gateway error"
+    },
+    {
+      "date": "2026-10-20",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "sources": [],
+      "status": "scheduled",
+      "metrics": {},
+      "metaCheck": "passed",
+      "n": 3,
+      "type": "oneliner",
+      "title": "A thousand friends online. Nobody to help you move.",
+      "line": "A thousand friends online. Nobody to help you move.",
+      "topic": "Online friends vs real help",
+      "object": "cardboard moving box and packing tape",
+      "caption": "Bring your own boxes.",
+      "slides": [
+        {
+          "text": "A thousand friends online. Nobody to help you move."
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-20/3-oneliner",
+      "facebook": {
+        "postId": "6ad68091651afa7ffa113b7b",
+        "plannedAt": "2026-10-20T20:04:00-04:00"
       }
     }
   ],
