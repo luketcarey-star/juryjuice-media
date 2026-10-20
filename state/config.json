@@ -83,7 +83,7 @@
       }
     }
   },
-  "lastRun": "2026-10-19T16:15:00-04:00",
+  "lastRun": "2026-10-20T16:10:00-04:00",
   "maxCarouselsPerDay": 1,
   "maxCarouselsPerWeek": 4,
   "carouselsOnlyOn": [
@@ -97,5 +97,5 @@
   "bufferLimit": 10,
   "bufferLimitNote": "Buffer's free plan allows 10 scheduled posts PER CHANNEL (Jury Juice Facebook, Jury Juice Instagram and Old Crow Facebook each have their own 10; Luke 2026-10-16). If Luke upgrades Buffer, raise this number; the planner never queues more than this on any one channel.",
   "scheduleNote": "Luke 2026-10-16: one run a day around 4-5pm makes the WHOLE next day: Jury Juice 5 posts (mostly police), Old Crow 4 posts. Buffer's free plan allows 10 scheduled posts per channel, which is enough (at most ~8 queued on a channel right after a run).",
-  "lastMetricsAt": "2026-10-18T16:20:00-04:00"
+  "lastMetricsAt": "2026-10-20T16:10-04:00"
 }
