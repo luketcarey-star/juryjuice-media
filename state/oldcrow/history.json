@@ -1607,7 +1607,7 @@
       "style": "ai",
       "theme": null,
       "sources": [],
-      "status": "pending",
+      "status": "scheduled",
       "metrics": {},
       "metaCheck": "passed",
       "n": 1,
@@ -1624,7 +1624,7 @@
       ],
       "imageFolder": "posts/oldcrow/2026-10-21/1-oneliner",
       "facebook": {
-        "postId": null,
+        "postId": "6ad7d1e03a9ca84966b4b6b7",
         "plannedAt": "2026-10-21T09:39:00-04:00"
       }
     },
@@ -1634,7 +1634,7 @@
       "style": "ai",
       "theme": null,
       "sources": [],
-      "status": "pending",
+      "status": "scheduled",
       "metrics": {},
       "metaCheck": "passed",
       "n": 2,
@@ -1652,7 +1652,7 @@
       ],
       "imageFolder": "posts/oldcrow/2026-10-21/2-oneliner",
       "facebook": {
-        "postId": null,
+        "postId": "6ad7d1ec65cedd57fee597dd",
         "plannedAt": "2026-10-21T13:17:00-04:00"
       }
     },
@@ -1662,7 +1662,7 @@
       "style": "ai",
       "theme": null,
       "sources": [],
-      "status": "pending",
+      "status": "scheduled",
       "metrics": {},
       "metaCheck": "passed",
       "n": 3,
@@ -1680,7 +1680,7 @@
       ],
       "imageFolder": "posts/oldcrow/2026-10-21/3-thennow",
       "facebook": {
-        "postId": null,
+        "postId": "6ad7d1ee3a9ca84966b4b8cd",
         "plannedAt": "2026-10-21T20:10:00-04:00"
       }
     }
