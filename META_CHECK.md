@@ -25,6 +25,7 @@ check again; if it can't be fixed, replace the post with a different topic. Neve
       No invented cases, quotes or laws. No general legal advice ("your rights are...").
 
 ## Monetization policies (could lose monetization)
+- [ ] Jury police posts stay in the careful lane (Luke 2026-10-20): no arrest, jail, criminal charge or crime in the story; no searches, pat-downs, surveillance; no refusing ID or anything about avoiding, resisting or confronting police; no recording-police confrontations; no misconduct or false-arrest lawsuits; nobody real made fun of. Worst thing anyone did is ticket-level. If it fails, pick a different story.
 - [ ] No engagement bait: no "comment / vote / like / share / tag / type X". An open question is fine.
 - [ ] No clickbait: no "you won't believe", no all-caps sentences, no "!!!", the hook matches the post.
 - [ ] Calm, factual tone. Not sensational, not shocking, not ragebait or outrage-farming.
