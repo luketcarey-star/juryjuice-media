@@ -2824,6 +2824,188 @@
       "captionStyle": "classic",
       "look": "blue",
       "sceneTag": "policeLights"
+    },
+    {
+      "date": "2026-10-21",
+      "n": 1,
+      "type": "laws",
+      "topicGroup": "county",
+      "format": "carousel",
+      "style": "photo",
+      "title": "The $23,420 Fee for One Small Home",
+      "topic": "Sheetz v. County of El Dorado (2024): county required $23,420 traffic impact fee for permit to place a manufactured home on his lot; he paid under protest and sued; unanimous Supreme Court (Barrett) said legislated permit fees still face Nollan/Dolan test; on remand (Cal. 3d DCA, 2025) the fee was upheld",
+      "subtopic": "permit impact fee",
+      "slides": [
+        "He wanted to put a small home on land he owned.",
+        "Before the permit, the county wanted a **$23,420 traffic fee**.",
+        "He paid it under protest, then sued. One house, he said, doesn't jam the roads.",
+        "The county's reply: the fee was written into its rules, so **no judge could second-guess the amount**.",
+        "Follow for more"
+      ],
+      "caption": "In 2024 the Supreme Court told the county, without a single dissent, that wasn't how it works. Rules written for everyone still have to fit the one house being built. Then the twist: back in state court in 2025, judges went through the numbers and let the $23,420 stand. Was that fee worth fighting all the way up?\n\n#JuryJuice #BuildingPermit #PropertyRights\n\nSource: Sheetz v. County of El Dorado (2024)",
+      "sources": [
+        "Sheetz v. County of El Dorado, 601 U.S. ___ (2024), en.wikipedia.org/wiki/Sheetz_v._County_of_El_Dorado",
+        "pacificlegal.org/sheetz-supreme-court (paid under protest)",
+        "bhfs.com/insight/sheetz-and-takings-law-revisited (2025 remand: fee upheld)"
+      ],
+      "imageFolder": "posts/2026-10-21/1-laws",
+      "facebook": {
+        "postId": "6ad7cba2ed28fb758abbc854",
+        "plannedAt": "2026-10-21T09:13:00-04:00",
+        "format": "single"
+      },
+      "instagram": {
+        "postId": "6ad7cba8ad4f0ba79c52e2ab",
+        "plannedAt": "2026-10-21T09:21:00-04:00",
+        "format": "carousel"
+      },
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "metrics": {},
+      "captionStyle": "payoff",
+      "look": "original",
+      "sceneTag": "other",
+      "metaCheckNote": "passed; FB got single-slide version (fb/slide1.jpg, setup only, no outcome)"
+    },
+    {
+      "date": "2026-10-21",
+      "n": 2,
+      "type": "list",
+      "topicGroup": "police",
+      "format": "single",
+      "style": "photo",
+      "title": "Fined $45 for Not Giving His Name",
+      "topic": "Brown v. Texas (1979): two officers stopped him in an alley because he 'looked suspicious'; refused to identify himself; convicted, fined $45 plus costs; unanimous Supreme Court reversed (no reasonable suspicion). Drug-area context deliberately left out.",
+      "subtopic": "ID and do I have to answer",
+      "slides": [
+        "Police stopped him in an alley because he \"looked suspicious.\" He wouldn't give his name, got fined $45, and **the Supreme Court wiped it out.**"
+      ],
+      "caption": "Looking out of place wasn't a crime, every justice agreed. Ever been asked for ID when you weren't doing anything?\n\n#JuryJuice #SupremeCourt #PoliceStop\n\nSource: Brown v. Texas (1979)",
+      "sources": [
+        "Brown v. Texas, 443 U.S. 47 (1979), supreme.justia.com"
+      ],
+      "imageFolder": "posts/2026-10-21/2-list",
+      "facebook": {
+        "postId": "6ad7cbabf5dcb31b88de89dd",
+        "plannedAt": "2026-10-21T11:14:00-04:00",
+        "format": "single"
+      },
+      "instagram": {
+        "postId": "6ad7cbaead4f0ba79c52e3c2",
+        "plannedAt": "2026-10-21T11:49:00-04:00",
+        "format": "single"
+      },
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "metrics": {},
+      "captionStyle": "classic",
+      "look": "panel",
+      "sceneTag": "policeLights",
+      "experiment": "closing question invites personal experience ('Ever been asked for ID...')",
+      "metaCheckNote": "passed; blurred a small car-brand emblem on the patrol car grille"
+    },
+    {
+      "date": "2026-10-21",
+      "n": 3,
+      "type": "history",
+      "topicGroup": "police",
+      "format": "single",
+      "style": "photo",
+      "title": "Arrested for Taping a Roadside Stop",
+      "topic": "Devenpeck v. Alford (2004): stopped to help a stranded car; wig-wag headlights; officers suspected police impersonation; arrested under state Privacy Act for recording them; charge dropped (recording a stop not illegal); Supreme Court 8-0 reversed 9th Cir: arrest valid if probable cause for any offense",
+      "subtopic": "recording officers",
+      "slides": [
+        "He pulled over to help a stranded driver. Police ended up arresting him for **taping their conversation.**"
+      ],
+      "caption": "Taping that stop wasn't even illegal there, so the charge got dropped. He then sued the officers, and in 2004 the Supreme Court went against him 8 to 0. His car had flashing wig-wag headlights that made officers think he was posing as police, and a real reason like that could keep the arrest standing. Does that seem fair?\n\n#JuryJuice #PoliceStop #FilmingPolice\n\nSource: Devenpeck v. Alford (2004)",
+      "sources": [
+        "Devenpeck v. Alford, 543 U.S. 146 (2004), en.wikipedia.org/wiki/Devenpeck_v._Alford; law.cornell.edu"
+      ],
+      "imageFolder": "posts/2026-10-21/3-history",
+      "facebook": {
+        "postId": "6ad7cbb2028de2f3133f13df",
+        "plannedAt": "2026-10-21T13:59:00-04:00",
+        "format": "single"
+      },
+      "instagram": {
+        "postId": "6ad7cbb5ed28fb758abbcc70",
+        "plannedAt": "2026-10-21T13:31:00-04:00",
+        "format": "single"
+      },
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "metrics": {},
+      "captionStyle": "payoff",
+      "look": "blue",
+      "sceneTag": "policeLights",
+      "metaCheckNote": "passed; blurred tiny car emblems"
+    },
+    {
+      "date": "2026-10-21",
+      "n": 4,
+      "type": "engage",
+      "topicGroup": "police",
+      "format": "single",
+      "style": "tweet",
+      "title": "Cyclists and stop-sign tickets",
+      "topic": "Question: should cyclists get the same ticket as drivers for rolling a stop sign",
+      "subtopic": "bike and scooter tickets",
+      "slides": [
+        "Should cyclists get the same ticket as drivers for rolling through a stop sign?"
+      ],
+      "caption": "Two wheels or four, it's the same red octagon.\n\n#JuryJuice #Cycling #TrafficTickets",
+      "sources": [],
+      "imageFolder": "posts/2026-10-21/4-engage",
+      "facebook": {
+        "postId": "6ad7cbb8f5dcb31b88de8c21",
+        "plannedAt": "2026-10-21T18:00:00-04:00",
+        "format": "single"
+      },
+      "instagram": {
+        "postId": "6ad7cbba401eb284ae7a3b5c",
+        "plannedAt": "2026-10-21T18:14:00-04:00",
+        "format": "single"
+      },
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "metrics": {},
+      "theme": "black"
+    },
+    {
+      "date": "2026-10-21",
+      "n": 5,
+      "type": "list",
+      "topicGroup": "hoa",
+      "format": "single",
+      "style": "photo",
+      "title": "Jailed Over a Brown Lawn",
+      "topic": "2008: 66-year-old homeowner held in contempt and jailed after his neighborhood (civic) association won a court order to re-sod his brown lawn; on a fixed income; strangers led by a handyman laid new sod for free; released after the association told the judge it was satisfied (not named in post)",
+      "subtopic": "brown lawn contempt",
+      "slides": [
+        "His neighborhood association took him to court over a brown lawn, and a judge jailed him. **Strangers laid new sod for free**, and he went home."
+      ],
+      "caption": "He was 66 and money was tight. Would you have helped a neighbor out?\n\n#JuryJuice #HOA #LawnCare\n\nSource: ABA Journal (2008)",
+      "sources": [
+        "ABA Journal, 'Jailed Over Brown Lawn, 66-Year-Old Returns Home to Beautiful Yard' (2008)",
+        "jonathanturley.org 2008-10-12 and 2008-10-15"
+      ],
+      "imageFolder": "posts/2026-10-21/5-list",
+      "facebook": {
+        "postId": "6ad7cbbd028de2f3133f1566",
+        "plannedAt": "2026-10-21T20:19:00-04:00",
+        "format": "single"
+      },
+      "instagram": {
+        "postId": "6ad7cbc0028de2f3133f1631",
+        "plannedAt": "2026-10-21T20:47:00-04:00",
+        "format": "single"
+      },
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "metrics": {},
+      "captionStyle": "classic",
+      "look": "original",
+      "sceneTag": "other"
     }
   ],
   "ideas": [
