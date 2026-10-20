@@ -1290,7 +1290,18 @@
       },
       "status": "sent",
       "metaCheck": "passed",
-      "metrics": {}
+      "metrics": {
+        "facebook": {
+          "reactions": 213,
+          "comments": 5,
+          "impressions": 36431,
+          "shares": 19,
+          "clicks": 1158,
+          "engagementRate": 0.0065,
+          "bufferEngagementRatePct": 3.83,
+          "measuredAt": "2026-10-20T05:37:53.453Z"
+        }
+      }
     },
     {
       "date": "2026-10-18",
@@ -1315,7 +1326,18 @@
       },
       "status": "sent",
       "metaCheck": "passed",
-      "metrics": {}
+      "metrics": {
+        "facebook": {
+          "reactions": 39,
+          "comments": 2,
+          "impressions": 2838,
+          "shares": 8,
+          "clicks": 28,
+          "engagementRate": 0.0173,
+          "bufferEngagementRatePct": 2.71,
+          "measuredAt": "2026-10-20T05:37:53.453Z"
+        }
+      }
     },
     {
       "date": "2026-10-18",
@@ -1366,7 +1388,18 @@
       },
       "status": "sent",
       "metaCheck": "passed",
-      "metrics": {}
+      "metrics": {
+        "facebook": {
+          "reactions": 12,
+          "comments": 0,
+          "impressions": 2289,
+          "shares": 1,
+          "clicks": 23,
+          "engagementRate": 0.0057,
+          "bufferEngagementRatePct": 1.57,
+          "measuredAt": "2026-10-20T05:37:53.453Z"
+        }
+      }
     },
     {
       "date": "2026-10-19",
@@ -1375,7 +1408,18 @@
       "theme": null,
       "sources": [],
       "status": "sent",
-      "metrics": {},
+      "metrics": {
+        "facebook": {
+          "reactions": 7,
+          "comments": 0,
+          "impressions": 1079,
+          "shares": 0,
+          "clicks": 10,
+          "engagementRate": 0.0065,
+          "bufferEngagementRatePct": 1.58,
+          "measuredAt": "2026-10-20T05:37:53.453Z"
+        }
+      },
       "metaCheck": "passed",
       "n": 1,
       "type": "oneliner",
@@ -1402,7 +1446,18 @@
       "theme": null,
       "sources": [],
       "status": "sent",
-      "metrics": {},
+      "metrics": {
+        "facebook": {
+          "reactions": 2,
+          "comments": 0,
+          "impressions": 395,
+          "shares": 2,
+          "clicks": 6,
+          "engagementRate": 0.0101,
+          "bufferEngagementRatePct": 2.53,
+          "measuredAt": "2026-10-20T05:37:53.453Z"
+        }
+      },
       "metaCheck": "passed",
       "n": 2,
       "type": "thennow",
@@ -1430,8 +1485,19 @@
       "style": "ai",
       "theme": null,
       "sources": [],
-      "status": "scheduled",
-      "metrics": {},
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 2,
+          "comments": 0,
+          "impressions": 155,
+          "shares": 1,
+          "clicks": 4,
+          "engagementRate": 0.0194,
+          "bufferEngagementRatePct": 4.52,
+          "measuredAt": "2026-10-20T05:37:53.453Z"
+        }
+      },
       "metaCheck": "passed",
       "n": 3,
       "type": "oneliner",
@@ -1457,7 +1523,7 @@
       "style": "ai",
       "theme": null,
       "sources": [],
-      "status": "scheduled",
+      "status": "sent",
       "metrics": {},
       "metaCheck": "passed",
       "n": 1,
@@ -1486,7 +1552,7 @@
       "style": "ai",
       "theme": null,
       "sources": [],
-      "status": "scheduled",
+      "status": "sent",
       "metrics": {},
       "metaCheck": "passed",
       "n": 2,
@@ -1533,6 +1599,89 @@
       "facebook": {
         "postId": "6ad68091651afa7ffa113b7b",
         "plannedAt": "2026-10-20T20:04:00-04:00"
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "sources": [],
+      "status": "pending",
+      "metrics": {},
+      "metaCheck": "passed",
+      "n": 1,
+      "type": "oneliner",
+      "title": "Forty pages of terms. One tiny box that says I agree.",
+      "line": "Forty pages of terms. One tiny box that says I agree.",
+      "topic": "Agreeing to terms nobody reads",
+      "object": "endless paper scroll, fountain pen and tiny checkbox",
+      "caption": "Signed, sealed, unread.",
+      "slides": [
+        {
+          "text": "Forty pages of terms. One tiny box that says I agree."
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-21/1-oneliner",
+      "facebook": {
+        "postId": null,
+        "plannedAt": "2026-10-21T09:39:00-04:00"
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "sources": [],
+      "status": "pending",
+      "metrics": {},
+      "metaCheck": "passed",
+      "n": 2,
+      "type": "oneliner",
+      "title": "We all plan to arrive on time. We just never plan to leave.",
+      "line": "We all plan to arrive on time. We just never plan to leave.",
+      "topic": "Long goodbyes at the door (shared everyday moment)",
+      "object": "overcoat half on at an open front door, hat on a hook",
+      "caption": "Coat on. Still talking.",
+      "experiment": "shared everyday moment one-liner to invite natural comments (learnings Test next)",
+      "slides": [
+        {
+          "text": "We all plan to arrive on time. We just never plan to leave."
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-21/2-oneliner",
+      "facebook": {
+        "postId": null,
+        "plannedAt": "2026-10-21T13:17:00-04:00"
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "sources": [],
+      "status": "pending",
+      "metrics": {},
+      "metaCheck": "passed",
+      "n": 3,
+      "type": "thennow",
+      "title": "We used to know the way.",
+      "headline": "WE USED TO KNOW THE WAY.",
+      "then": "worn paper road map with a red-pencil route",
+      "now": "phone showing only a blue GPS arrow",
+      "topic": "Paper maps vs turn-by-turn GPS (skills by hand vs apps)",
+      "caption": "Could you still get across town if your phone died halfway there?\n\nPeople once unfolded a map at the kitchen table, picked a route and mostly remembered it. Now a calm voice calls out every turn, and we stop noticing the streets we pass.\n\nThe roads haven't changed. We just stopped looking at them.",
+      "slides": [
+        {
+          "text": "We used to know the way."
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-21/3-thennow",
+      "facebook": {
+        "postId": null,
+        "plannedAt": "2026-10-21T20:10:00-04:00"
       }
     }
   ],
