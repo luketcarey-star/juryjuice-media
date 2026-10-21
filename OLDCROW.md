@@ -1,10 +1,10 @@
 # Old Crow daily posting bot
 
 You are running Luke's Old Crow posting bot. It runs **once a day** (about 16:36) and makes the next day's
-**3 posts a day** on the **Old Crow Facebook page only** (no Instagram yet), saved to Buffer.
+**5 posts a day** on the **Old Crow Facebook page only** (no Instagram yet), saved to Buffer.
 Jury Juice is NOT handled here. Work from this repo (`luketcarey-star/juryjuice-media`).
 
-**One run a day (Luke, 2026-10-16).** The bot runs once a day at about 16:36 and makes the **whole next day**: posting day = TOMORROW (`TZ=America/Toronto date -d tomorrow +%F`), 3 posts (o1 09:30–10:30, o2 12:30–13:30, o3 19:30–20:30). If Luke asks for a special run for TODAY, the posting day is today instead and the planner simply skips windows that have already passed. Plan with `python3 scripts/plan_day.py <posting day> day oldcrow`. Everywhere below, `<today>`, `<date>` and "today's posts" mean the **posting day**, and `<run>` means `day`. Post `date` in history = the posting day.
+**One run a day (Luke, 2026-10-16).** The bot runs once a day at about 16:36 and makes the **whole next day**: posting day = TOMORROW (`TZ=America/Toronto date -d tomorrow +%F`), 5 posts (o1 07:30–08:30, o2 10:30–11:30, o3 13:30–14:30, o4 17:30–18:30, o5 21:00–22:00). If Luke asks for a special run for TODAY, the posting day is today instead and the planner simply skips windows that have already passed. Plan with `python3 scripts/plan_day.py <posting day> day oldcrow`. Everywhere below, `<today>`, `<date>` and "today's posts" mean the **posting day**, and `<run>` means `day`. Post `date` in history = the posting day.
 **Buffer's scheduled-post limit** (`bufferLimit` in `state/config.json`, 10 on the free plan) is per channel (each Facebook page and the Instagram account has its own 10; Luke 2026-10-16): the planner only returns as many posts as still fit. If `limitedByBuffer` is true, make only what it returns and say in the summary how many posts were skipped because of the Buffer limit (posts skipped; tell Luke).
 
 Everything about how Old Crow posts are written and drawn comes from Hookline itself (the copy in
@@ -19,10 +19,10 @@ Also read `state/oldcrow/config.json` (mode, Buffer IDs, windows, image settings
 `meta-posting-rules` and `humanizer` skills if they are available.
 
 ## Post types (all single illustrated images with the ravens; Luke's rule)
-**UPDATE (Luke 2026-10-16): the illustrated two-raven types, told-or-sold ("WHO SOLD US...?") and question, are REMOVED from the pool. Never make them. All 3 daily posts are one-liner or then vs now (step 4b); ignore the told-or-sold/question rows and instructions below.**
+**UPDATE (Luke 2026-10-16): the illustrated two-raven types, told-or-sold ("WHO SOLD US...?") and question, are REMOVED from the pool. Never make them. All 5 daily posts are one-liner or then vs now (step 4b); ignore the told-or-sold/question rows and instructions below.**
 
 Every post is about one belief or habit we were **told or sold**, shown through the two ravens and
-one everyday object, so the images feel like stills from the Old Crow videos. Daily: 3 posts. **Always vary the type** (Luke's rule): the planner rotates told or sold,
+one everyday object, so the images feel like stills from the Old Crow videos. Daily: 5 posts. **Always vary the type** (Luke's rule): the planner rotates told or sold,
 question, one-liner and then vs now so the same type never runs twice in a row. **The one-liner and then vs now are most posts (Luke's rule, about 3 in 4):** of the 4 daily posts, 3 are one of these two and 1 is a told-or-sold or question (a different window each day). **Luke (2026-10-13): he wants MORE one-liners** (the cream poster with the old raven), so the planner weights them about 2 to 1 over then vs now; about half of all Old Crow posts are one-liners. Use the types the planner gives.
 | id | what | format | images |
 |---|---|---|---|
@@ -111,7 +111,7 @@ No price-in-hours posts, no tweet-style posts, no carousels, no animal flashback
 
 ### 3. Plan
 - `python3 scripts/plan_day.py <date> <run> oldcrow` (`<run>` = `day`). It returns this run's posts (type,
-  format, planned `facebookAt`), counting today's earlier posts (max 3 a day; **no carousels at all**, Luke's rule:
+  format, planned `facebookAt`), counting today's earlier posts (max 5 a day; **no carousels at all**, Luke's rule:
   carousels do badly on Facebook) and keeping posts well spaced (one per window, 90+ minutes apart). Use them as given. No posts returned = day is full.
 - The planner also keeps Buffer under its 10-scheduled-posts limit across BOTH pages (it counts
   future posts in `state/history.json` and `state/oldcrow/history.json`). If `limitedByBuffer` is
