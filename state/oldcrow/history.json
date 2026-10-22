@@ -437,12 +437,12 @@
     "facebook": {
      "reactions": 3,
      "comments": 0,
-     "engagementRate": 0.0082,
      "impressions": 366,
      "shares": 0,
      "clicks": 8,
+     "engagementRate": 0.0082,
      "bufferEngagementRatePct": 3.01,
-     "measuredAt": "2026-10-14T11:36:39.340Z"
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    }
   },
@@ -470,12 +470,12 @@
     "facebook": {
      "reactions": 10,
      "comments": 1,
-     "engagementRate": 0.0093,
      "impressions": 1187,
      "shares": 0,
      "clicks": 32,
+     "engagementRate": 0.0093,
      "bufferEngagementRatePct": 3.62,
-     "measuredAt": "2026-10-15T10:36:50.107Z"
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    }
   },
@@ -513,12 +513,12 @@
     "facebook": {
      "reactions": 6,
      "comments": 0,
-     "engagementRate": 0.0126,
      "impressions": 554,
      "shares": 1,
      "clicks": 11,
+     "engagementRate": 0.0126,
      "bufferEngagementRatePct": 3.25,
-     "measuredAt": "2026-10-15T10:36:50.107Z"
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    }
   },
@@ -539,12 +539,12 @@
     "facebook": {
      "reactions": 7,
      "comments": 0,
-     "engagementRate": 0.0071,
      "impressions": 1274,
      "shares": 2,
      "clicks": 41,
+     "engagementRate": 0.0071,
      "bufferEngagementRatePct": 3.92,
-     "measuredAt": "2026-10-16T09:37:01.590Z"
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    },
    "slides": [
@@ -577,12 +577,12 @@
     "facebook": {
      "reactions": 13,
      "comments": 0,
-     "engagementRate": 0.0106,
      "impressions": 1320,
      "shares": 1,
      "clicks": 24,
+     "engagementRate": 0.0106,
      "bufferEngagementRatePct": 2.88,
-     "measuredAt": "2026-10-16T09:37:01.590Z"
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    },
    "slides": [
@@ -617,12 +617,12 @@
     "facebook": {
      "reactions": 7,
      "comments": 0,
-     "engagementRate": 0.0074,
      "impressions": 946,
      "shares": 0,
      "clicks": 27,
+     "engagementRate": 0.0074,
      "bufferEngagementRatePct": 3.59,
-     "measuredAt": "2026-10-17T08:37:09.837Z"
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    }
   },
@@ -655,12 +655,12 @@
     "facebook": {
      "reactions": 5,
      "comments": 0,
-     "engagementRate": 0.0051,
      "impressions": 985,
      "shares": 0,
      "clicks": 23,
+     "engagementRate": 0.0051,
      "bufferEngagementRatePct": 2.84,
-     "measuredAt": "2026-10-17T08:37:09.837Z"
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    }
   },
@@ -687,12 +687,12 @@
     "facebook": {
      "reactions": 3,
      "comments": 0,
-     "engagementRate": 0.007,
      "impressions": 430,
      "shares": 0,
      "clicks": 2,
+     "engagementRate": 0.007,
      "bufferEngagementRatePct": 1.16,
-     "measuredAt": "2026-10-17T08:37:09.837Z"
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    }
   },
@@ -719,12 +719,12 @@
     "facebook": {
      "reactions": 191,
      "comments": 4,
-     "engagementRate": 0.0133,
      "impressions": 18289,
      "shares": 49,
      "clicks": 301,
+     "engagementRate": 0.0133,
      "bufferEngagementRatePct": 2.98,
-     "measuredAt": "2026-10-18T07:37:21.577Z"
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    },
    "replaced": {
@@ -758,12 +758,12 @@
     "facebook": {
      "reactions": 13,
      "comments": 1,
-     "engagementRate": 0.0106,
      "impressions": 1508,
      "shares": 2,
      "clicks": 23,
+     "engagementRate": 0.0106,
      "bufferEngagementRatePct": 2.59,
-     "measuredAt": "2026-10-18T07:37:21.577Z"
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    },
    "replaced": {
@@ -797,12 +797,12 @@
     "facebook": {
      "reactions": 135,
      "comments": 5,
-     "engagementRate": 0.0065,
      "impressions": 25054,
      "shares": 23,
      "clicks": 602,
+     "engagementRate": 0.0065,
      "bufferEngagementRatePct": 3.05,
-     "measuredAt": "2026-10-18T07:37:21.577Z"
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    },
    "replaced": {
@@ -838,12 +838,12 @@
     "facebook": {
      "reactions": 10,
      "comments": 0,
-     "engagementRate": 0.0097,
      "impressions": 1233,
      "shares": 2,
      "clicks": 8,
+     "engagementRate": 0.0097,
      "bufferEngagementRatePct": 1.62,
-     "measuredAt": "2026-10-18T07:37:21.577Z"
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    },
    "line": "Free shipping, they said. You bought three things you didn't need.",
@@ -876,12 +876,12 @@
     "facebook": {
      "reactions": 1,
      "comments": 0,
-     "engagementRate": 0.0028,
-     "impressions": 712,
+     "impressions": 740,
      "shares": 1,
      "clicks": 13,
-     "bufferEngagementRatePct": 2.11,
-     "measuredAt": "2026-10-18T07:37:21.577Z"
+     "engagementRate": 0.0027,
+     "bufferEngagementRatePct": 2.03,
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    },
    "caption": "Your phone gives a little cheer when you reach 10,000 steps. Have you ever wondered who picked that number?\n\nThe goal may trace back to 1965, when a pedometer was sold under the name manpo-kei. In English that's roughly \"10,000 steps meter.\" A catchy number on a gadget, long before anyone had tested it.\n\nDecades later, a Harvard-led study followed more than 16,000 older women wearing step counters. Their risk of death kept falling as daily steps rose, then levelled off around 7,500. It was one study of one group of women, so it's no rule for anyone. Still, it shows how a round number can settle into our heads and stay there.\n\nThe old raven keeps a little step counter on his desk and looks at it fondly. A number can be a friendly nudge. It just helps to know where it came from.\n\nWhich number do you chase most days, and who gave it to you?\n\n#OldCrow #Walking #DailySteps"
@@ -895,14 +895,14 @@
    "status": "sent",
    "metrics": {
     "facebook": {
-     "reactions": 45,
-     "comments": 1,
-     "engagementRate": 0.0061,
-     "impressions": 8298,
-     "shares": 5,
-     "clicks": 182,
-     "bufferEngagementRatePct": 2.81,
-     "measuredAt": "2026-10-18T07:37:21.577Z"
+     "reactions": 55,
+     "comments": 2,
+     "impressions": 10563,
+     "shares": 8,
+     "clicks": 241,
+     "engagementRate": 0.0062,
+     "bufferEngagementRatePct": 2.89,
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    },
    "metaCheck": "passed",
@@ -934,12 +934,12 @@
     "facebook": {
      "reactions": 19,
      "comments": 0,
-     "engagementRate": 0.0109,
-     "impressions": 1932,
+     "impressions": 2023,
      "shares": 2,
-     "clicks": 25,
-     "bufferEngagementRatePct": 2.38,
-     "measuredAt": "2026-10-18T07:37:21.577Z"
+     "clicks": 27,
+     "engagementRate": 0.0104,
+     "bufferEngagementRatePct": 2.37,
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    },
    "metaCheck": "passed",
@@ -992,14 +992,14 @@
    "metaCheck": "passed",
    "metrics": {
     "facebook": {
-     "reactions": 12,
+     "reactions": 13,
      "comments": 0,
-     "engagementRate": 0.0137,
-     "impressions": 1172,
+     "impressions": 1283,
      "shares": 4,
-     "clicks": 46,
-     "bufferEngagementRatePct": 5.29,
-     "measuredAt": "2026-10-18T07:37:21.577Z"
+     "clicks": 47,
+     "engagementRate": 0.0133,
+     "bufferEngagementRatePct": 4.99,
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    },
    "postIds": {
@@ -1031,14 +1031,14 @@
    "metaCheck": "passed",
    "metrics": {
     "facebook": {
-     "reactions": 115,
+     "reactions": 135,
      "comments": 7,
-     "engagementRate": 0.015,
-     "impressions": 10901,
-     "shares": 42,
-     "clicks": 182,
-     "bufferEngagementRatePct": 3.17,
-     "measuredAt": "2026-10-18T07:37:21.577Z"
+     "impressions": 13722,
+     "shares": 49,
+     "clicks": 223,
+     "engagementRate": 0.0139,
+     "bufferEngagementRatePct": 3.02,
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    },
    "line": "Work hard, they said. Your reward: more work.",
@@ -1063,14 +1063,14 @@
    "status": "sent",
    "metrics": {
     "facebook": {
-     "reactions": 5,
+     "reactions": 10,
      "comments": 0,
-     "engagementRate": 0.0125,
-     "impressions": 639,
+     "impressions": 1287,
      "shares": 3,
-     "clicks": 9,
-     "bufferEngagementRatePct": 2.66,
-     "measuredAt": "2026-10-18T07:37:21.576Z"
+     "clicks": 14,
+     "engagementRate": 0.0101,
+     "bufferEngagementRatePct": 2.1,
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    },
    "metaCheck": "passed",
@@ -1094,14 +1094,14 @@
    "status": "sent",
    "metrics": {
     "facebook": {
-     "reactions": 4,
+     "reactions": 23,
      "comments": 0,
-     "engagementRate": 0.0083,
-     "impressions": 721,
-     "shares": 2,
-     "clicks": 17,
-     "bufferEngagementRatePct": 3.19,
-     "measuredAt": "2026-10-18T07:37:21.576Z"
+     "impressions": 2875,
+     "shares": 8,
+     "clicks": 51,
+     "engagementRate": 0.0108,
+     "bufferEngagementRatePct": 2.85,
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    },
    "metaCheck": "passed",
@@ -1126,14 +1126,14 @@
    "status": "sent",
    "metrics": {
     "facebook": {
-     "reactions": 9,
-     "comments": 0,
-     "engagementRate": 0.02,
-     "impressions": 549,
-     "shares": 2,
-     "clicks": 5,
-     "bufferEngagementRatePct": 2.91,
-     "measuredAt": "2026-10-18T07:37:21.576Z"
+     "reactions": 69,
+     "comments": 1,
+     "impressions": 7610,
+     "shares": 13,
+     "clicks": 161,
+     "engagementRate": 0.0109,
+     "bufferEngagementRatePct": 3.21,
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    },
    "metaCheck": "passed",
@@ -1159,12 +1159,12 @@
     "facebook": {
      "reactions": 2,
      "comments": 0,
-     "engagementRate": 0.0087,
-     "impressions": 231,
+     "impressions": 368,
      "shares": 0,
      "clicks": 4,
-     "bufferEngagementRatePct": 2.6,
-     "measuredAt": "2026-10-18T07:37:21.577Z"
+     "engagementRate": 0.0054,
+     "bufferEngagementRatePct": 1.63,
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    },
    "metaCheck": "passed",
@@ -1189,14 +1189,14 @@
    "status": "sent",
    "metrics": {
     "facebook": {
-     "reactions": 31,
-     "comments": 0,
-     "engagementRate": 0.0077,
-     "impressions": 5053,
-     "shares": 8,
-     "clicks": 99,
-     "bufferEngagementRatePct": 2.73,
-     "measuredAt": "2026-10-18T07:37:21.576Z"
+     "reactions": 69,
+     "comments": 3,
+     "impressions": 16734,
+     "shares": 10,
+     "clicks": 346,
+     "engagementRate": 0.0049,
+     "bufferEngagementRatePct": 2.56,
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    },
    "metaCheck": "passed",
@@ -1222,14 +1222,14 @@
    "status": "sent",
    "metrics": {
     "facebook": {
-     "reactions": 42,
+     "reactions": 62,
      "comments": 0,
-     "engagementRate": 0.0164,
-     "impressions": 3044,
-     "shares": 8,
-     "clicks": 33,
-     "bufferEngagementRatePct": 2.73,
-     "measuredAt": "2026-10-18T07:37:21.576Z"
+     "impressions": 5396,
+     "shares": 12,
+     "clicks": 51,
+     "engagementRate": 0.0137,
+     "bufferEngagementRatePct": 2.32,
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    },
    "metaCheck": "passed",
@@ -1253,14 +1253,14 @@
    "status": "sent",
    "metrics": {
     "facebook": {
-     "reactions": 6,
-     "comments": 0,
-     "engagementRate": 0.0119,
-     "impressions": 504,
-     "shares": 0,
-     "clicks": 15,
-     "bufferEngagementRatePct": 4.17,
-     "measuredAt": "2026-10-18T07:37:21.576Z"
+     "reactions": 261,
+     "comments": 9,
+     "impressions": 34609,
+     "shares": 62,
+     "clicks": 831,
+     "engagementRate": 0.0096,
+     "bufferEngagementRatePct": 3.35,
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    },
    "metaCheck": "passed",
@@ -1292,14 +1292,14 @@
    "metaCheck": "passed",
    "metrics": {
     "facebook": {
-     "reactions": 213,
-     "comments": 5,
-     "impressions": 36431,
-     "shares": 19,
-     "clicks": 1158,
-     "engagementRate": 0.0065,
-     "bufferEngagementRatePct": 3.83,
-     "measuredAt": "2026-10-20T05:37:53.453Z"
+     "reactions": 272,
+     "comments": 6,
+     "impressions": 49098,
+     "shares": 21,
+     "clicks": 1552,
+     "engagementRate": 0.0061,
+     "bufferEngagementRatePct": 3.77,
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    }
   },
@@ -1328,14 +1328,14 @@
    "metaCheck": "passed",
    "metrics": {
     "facebook": {
-     "reactions": 39,
+     "reactions": 56,
      "comments": 2,
-     "impressions": 2838,
-     "shares": 8,
-     "clicks": 28,
-     "engagementRate": 0.0173,
-     "bufferEngagementRatePct": 2.71,
-     "measuredAt": "2026-10-20T05:37:53.453Z"
+     "impressions": 5079,
+     "shares": 10,
+     "clicks": 72,
+     "engagementRate": 0.0134,
+     "bufferEngagementRatePct": 2.76,
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    }
   },
@@ -1390,14 +1390,14 @@
    "metaCheck": "passed",
    "metrics": {
     "facebook": {
-     "reactions": 12,
+     "reactions": 14,
      "comments": 0,
-     "impressions": 2289,
+     "impressions": 3220,
      "shares": 1,
-     "clicks": 23,
-     "engagementRate": 0.0057,
-     "bufferEngagementRatePct": 1.57,
-     "measuredAt": "2026-10-20T05:37:53.453Z"
+     "clicks": 34,
+     "engagementRate": 0.0047,
+     "bufferEngagementRatePct": 1.52,
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    }
   },
@@ -1410,14 +1410,14 @@
    "status": "sent",
    "metrics": {
     "facebook": {
-     "reactions": 7,
-     "comments": 0,
-     "impressions": 1079,
-     "shares": 0,
-     "clicks": 10,
-     "engagementRate": 0.0065,
-     "bufferEngagementRatePct": 1.58,
-     "measuredAt": "2026-10-20T05:37:53.453Z"
+     "reactions": 15,
+     "comments": 1,
+     "impressions": 2175,
+     "shares": 1,
+     "clicks": 28,
+     "engagementRate": 0.0078,
+     "bufferEngagementRatePct": 2.07,
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    },
    "metaCheck": "passed",
@@ -1448,14 +1448,14 @@
    "status": "sent",
    "metrics": {
     "facebook": {
-     "reactions": 2,
+     "reactions": 7,
      "comments": 0,
-     "impressions": 395,
+     "impressions": 1087,
      "shares": 2,
-     "clicks": 6,
-     "engagementRate": 0.0101,
-     "bufferEngagementRatePct": 2.53,
-     "measuredAt": "2026-10-20T05:37:53.453Z"
+     "clicks": 13,
+     "engagementRate": 0.0083,
+     "bufferEngagementRatePct": 2.02,
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    },
    "metaCheck": "passed",
@@ -1488,14 +1488,14 @@
    "status": "sent",
    "metrics": {
     "facebook": {
-     "reactions": 2,
+     "reactions": 7,
      "comments": 0,
-     "impressions": 155,
-     "shares": 1,
-     "clicks": 4,
-     "engagementRate": 0.0194,
-     "bufferEngagementRatePct": 4.52,
-     "measuredAt": "2026-10-20T05:37:53.453Z"
+     "impressions": 720,
+     "shares": 4,
+     "clicks": 7,
+     "engagementRate": 0.0153,
+     "bufferEngagementRatePct": 2.5,
+     "measuredAt": "2026-10-22T20:38:21Z"
     }
    },
    "metaCheck": "passed",
@@ -1524,7 +1524,18 @@
    "theme": null,
    "sources": [],
    "status": "sent",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 7,
+     "comments": 0,
+     "impressions": 838,
+     "shares": 0,
+     "clicks": 8,
+     "engagementRate": 0.0084,
+     "bufferEngagementRatePct": 1.79,
+     "measuredAt": "2026-10-22T20:38:21Z"
+    }
+   },
    "metaCheck": "passed",
    "n": 1,
    "type": "thennow",
@@ -1553,7 +1564,18 @@
    "theme": null,
    "sources": [],
    "status": "sent",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 19,
+     "comments": 0,
+     "impressions": 1819,
+     "shares": 9,
+     "clicks": 32,
+     "engagementRate": 0.0154,
+     "bufferEngagementRatePct": 3.3,
+     "measuredAt": "2026-10-22T20:38:21Z"
+    }
+   },
    "metaCheck": "passed",
    "n": 2,
    "type": "oneliner",
@@ -1581,7 +1603,18 @@
    "theme": null,
    "sources": [],
    "status": "sent",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 71,
+     "comments": 4,
+     "impressions": 4838,
+     "shares": 13,
+     "clicks": 82,
+     "engagementRate": 0.0182,
+     "bufferEngagementRatePct": 3.51,
+     "measuredAt": "2026-10-22T20:38:21Z"
+    }
+   },
    "metaCheck": "passed",
    "n": 3,
    "type": "oneliner",
@@ -1608,7 +1641,18 @@
    "theme": null,
    "sources": [],
    "status": "sent",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 5,
+     "comments": 1,
+     "impressions": 616,
+     "shares": 0,
+     "clicks": 12,
+     "engagementRate": 0.0097,
+     "bufferEngagementRatePct": 2.92,
+     "measuredAt": "2026-10-22T20:38:21Z"
+    }
+   },
    "metaCheck": "passed",
    "n": 1,
    "type": "oneliner",
@@ -1635,7 +1679,18 @@
    "theme": null,
    "sources": [],
    "status": "sent",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 5,
+     "comments": 0,
+     "impressions": 690,
+     "shares": 1,
+     "clicks": 17,
+     "engagementRate": 0.0087,
+     "bufferEngagementRatePct": 3.33,
+     "measuredAt": "2026-10-22T20:38:21Z"
+    }
+   },
    "metaCheck": "passed",
    "n": 2,
    "type": "oneliner",
@@ -1662,8 +1717,19 @@
    "style": "ai",
    "theme": null,
    "sources": [],
-   "status": "scheduled",
-   "metrics": {},
+   "status": "sent",
+   "metrics": {
+    "facebook": {
+     "reactions": 1,
+     "comments": 0,
+     "impressions": 76,
+     "shares": 0,
+     "clicks": 1,
+     "engagementRate": 0.0132,
+     "bufferEngagementRatePct": 2.63,
+     "measuredAt": "2026-10-22T20:38:21Z"
+    }
+   },
    "metaCheck": "passed",
    "n": 3,
    "type": "thennow",
@@ -1692,8 +1758,19 @@
    "style": "ai",
    "theme": null,
    "sources": [],
-   "status": "scheduled",
-   "metrics": {},
+   "status": "sent",
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 0,
+     "shares": 0,
+     "clicks": 0,
+     "engagementRate": null,
+     "bufferEngagementRatePct": 0,
+     "measuredAt": "2026-10-22T20:38:21Z"
+    }
+   },
    "metaCheck": "passed",
    "title": "Five more minutes, I said. Five times.",
    "topic": "Hitting snooze again and again",
@@ -1719,8 +1796,19 @@
    "style": "ai",
    "theme": null,
    "sources": [],
-   "status": "scheduled",
-   "metrics": {},
+   "status": "sent",
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 0,
+     "shares": 0,
+     "clicks": 0,
+     "engagementRate": null,
+     "bufferEngagementRatePct": 0,
+     "measuredAt": "2026-10-22T20:38:21Z"
+    }
+   },
    "metaCheck": "passed",
    "title": "Patience used to come by mail.",
    "topic": "Waiting for letters vs impatience over text replies (time: waiting vs instant)",
@@ -1748,8 +1836,19 @@
    "style": "ai",
    "theme": null,
    "sources": [],
-   "status": "scheduled",
-   "metrics": {},
+   "status": "sent",
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 0,
+     "shares": 0,
+     "clicks": 0,
+     "engagementRate": null,
+     "bufferEngagementRatePct": 0,
+     "measuredAt": "2026-10-22T20:38:21Z"
+    }
+   },
    "metaCheck": "passed",
    "title": "Everyone has a quick question. None of them are quick.",
    "topic": "Quick questions at work that never are",
