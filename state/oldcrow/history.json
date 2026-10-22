@@ -1920,6 +1920,151 @@
     "plannedAt": "2026-10-22T21:33:00-04:00"
    },
    "line": "Early night tonight, I said. At midnight."
+  },
+  {
+   "date": "2026-10-23",
+   "n": 1,
+   "type": "oneliner",
+   "format": "single",
+   "style": "ai",
+   "theme": null,
+   "status": "scheduled",
+   "metrics": {},
+   "metaCheck": "passed (first image had a whiskey-like glass; regenerated with tea)",
+   "imageFolder": "posts/oldcrow/2026-10-23/1-oneliner",
+   "title": "Your call is very important to us. Just not right now.",
+   "line": "Your call is very important to us. Just not right now.",
+   "topic": "Endless hold times with customer service",
+   "object": "cream rotary telephone, teacup, side table",
+   "caption": "Still on hold.",
+   "sources": [],
+   "facebook": {
+    "postId": "6ada75d6793513d242f2f162",
+    "plannedAt": "2026-10-23T07:48:00-04:00"
+   },
+   "slides": [
+    {
+     "text": "Your call is very important to us. Just not right now."
+    }
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "n": 2,
+   "type": "thennow",
+   "format": "single",
+   "style": "ai",
+   "theme": null,
+   "status": "scheduled",
+   "metrics": {},
+   "metaCheck": "passed",
+   "imageFolder": "posts/oldcrow/2026-10-23/2-thennow",
+   "title": "Front porch. Front camera.",
+   "headline": "FRONT PORCH. FRONT CAMERA.",
+   "then": "glass pitcher of lemonade",
+   "now": "doorbell camera with blue ring",
+   "topic": "Porch chats with neighbours vs doorbell cameras (community)",
+   "object": "lemonade pitcher -> doorbell camera",
+   "caption": "When did you last sit on the porch long enough to wave at a neighbour? 👀\n\nPorches used to be where the street said hello, with a cold drink and a spare chair for whoever walked by. Now plenty of front doors have a little camera that sees everyone and greets no one.\n\nWe can watch the whole street. We just don't know it anymore.",
+   "sources": [
+    "https://petapixel.com/2026/04/21/39-of-americans-now-have-a-video-doorbell-at-home/"
+   ],
+   "experiment": "Then vs Now on a non-product theme (community)",
+   "facebook": {
+    "postId": "6ada75d7a05ab31b93762b1f",
+    "plannedAt": "2026-10-23T10:35:00-04:00"
+   },
+   "slides": [
+    {
+     "text": "FRONT PORCH. FRONT CAMERA."
+    }
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "n": 3,
+   "type": "oneliner",
+   "format": "single",
+   "style": "ai",
+   "theme": null,
+   "status": "scheduled",
+   "metrics": {},
+   "metaCheck": "passed",
+   "imageFolder": "posts/oldcrow/2026-10-23/3-oneliner",
+   "title": "Everyone's an expert online. Until something needs fixing.",
+   "line": "Everyone's an expert online. Until something needs fixing.",
+   "topic": "Online experts vs real fixing skills",
+   "object": "adjustable wrench at a spraying kitchen tap",
+   "caption": "Called a plumber anyway.",
+   "sources": [],
+   "facebook": {
+    "postId": "6ada75d8f2eceac4373a5461",
+    "plannedAt": "2026-10-23T13:49:00-04:00"
+   },
+   "slides": [
+    {
+     "text": "Everyone's an expert online. Until something needs fixing."
+    }
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "n": 4,
+   "type": "thennow",
+   "format": "single",
+   "style": "ai",
+   "theme": null,
+   "status": "scheduled",
+   "metrics": {},
+   "metaCheck": "passed",
+   "imageFolder": "posts/oldcrow/2026-10-23/4-thennow",
+   "title": "The office never closes.",
+   "headline": "THE OFFICE NEVER CLOSES.",
+   "then": "latched metal lunch pail",
+   "now": "buzzing phone with red notification dot",
+   "topic": "Workday ending at the door vs work messages at home (work and money)",
+   "object": "lunch pail -> buzzing phone",
+   "caption": "Do you check work messages after dinner, even when nothing's on fire? 🤔\n\nThe workday once ended when the lunch pail snapped shut and the door closed behind you. Now the office fits in a pocket and buzzes at the dinner table.\n\nWe got the freedom to work from anywhere. Anywhere turned out to include home.",
+   "sources": [
+    "https://www.cbc.ca/1.6484990"
+   ],
+   "facebook": {
+    "postId": "6ada75d971bf6df473a90a16",
+    "plannedAt": "2026-10-23T17:42:00-04:00"
+   },
+   "slides": [
+    {
+     "text": "THE OFFICE NEVER CLOSES."
+    }
+   ]
+  },
+  {
+   "date": "2026-10-23",
+   "n": 5,
+   "type": "oneliner",
+   "format": "single",
+   "style": "ai",
+   "theme": null,
+   "status": "scheduled",
+   "metrics": {},
+   "metaCheck": "passed",
+   "imageFolder": "posts/oldcrow/2026-10-23/5-oneliner",
+   "title": "The recipe said thirty minutes. The recipe has never met me.",
+   "line": "The recipe said thirty minutes. The recipe has never met me.",
+   "topic": "Recipes that take far longer than promised (shared everyday moment)",
+   "object": "flour-dusted apron, mixing bowl of lumpy batter, eggshells",
+   "caption": "Dinner at nine.",
+   "sources": [],
+   "experiment": "One-liner about a shared everyday moment in the evening slot",
+   "facebook": {
+    "postId": "6ada75daf2eceac4373a54e4",
+    "plannedAt": "2026-10-23T21:20:00-04:00"
+   },
+   "slides": [
+    {
+     "text": "The recipe said thirty minutes. The recipe has never met me."
+    }
+   ]
   }
  ],
  "ideas": [
