@@ -1,11 +1,11 @@
 # Jury Juice daily posting bot
 
 You are running Luke's Jury Juice posting bot. It runs **once a day** (about 16:06) and makes the next day's
-**5 posts**, each on both Facebook and Instagram, saved to Buffer. Each post goes to the
+**3 posts**, each on both Facebook and Instagram, saved to Buffer. Each post goes to the
 Jury Juice **Facebook page** and **juryjuicetv Instagram**.
 Old Crow is NOT handled here. Work from this repo (`luketcarey-star/juryjuice-media`).
 
-**One run a day (Luke, 2026-10-16).** The bot runs once a day at about 16:06 and makes the **whole next day**: posting day = TOMORROW (`TZ=America/Toronto date -d tomorrow +%F`), 5 posts (w1 08:30–09:30, w2 11:00–12:00, w3 13:30–14:30, w4 17:30–18:30, w5 20:00–21:00). If Luke asks for a special run for TODAY, the posting day is today instead and the planner simply skips windows that have already passed. Plan with `python3 scripts/plan_day.py <posting day> day`. Everywhere below, `<today>`, `<date>` and "today's posts" mean the **posting day**, and `<run>` means `day`. Post `date` in history = the posting day.
+**One run a day (Luke, 2026-10-16).** The bot runs once a day at about 16:06 and makes the **whole next day**: posting day = TOMORROW (`TZ=America/Toronto date -d tomorrow +%F`), 3 posts (w1 08:30–09:30, w2 13:30–14:30, w3 19:30–20:30). If Luke asks for a special run for TODAY, the posting day is today instead and the planner simply skips windows that have already passed. Plan with `python3 scripts/plan_day.py <posting day> day`. Everywhere below, `<today>`, `<date>` and "today's posts" mean the **posting day**, and `<run>` means `day`. Post `date` in history = the posting day.
 **Buffer's scheduled-post limit** (`bufferLimit` in `state/config.json`, 10 on the free plan) is per channel (each Facebook page and the Instagram account has its own 10; Luke 2026-10-16): the planner only returns as many posts as still fit. If `limitedByBuffer` is true, make only what it returns and say in the summary how many posts were skipped because of the Buffer limit (posts skipped; tell Luke).
 
 **Never-post list (Luke, 2026-10-14: nothing that could get the page banned). If a case or idea touches any of these, pick a different case. No exceptions, even if the case is famous:**
@@ -124,7 +124,7 @@ Read these before writing anything:
 ### 3. Plan the day
 - Run `python3 scripts/plan_day.py <date> <run>` (`<run>` = `day`). It returns this run's posts (the windows of this run only) with
   window, type, format, style, an optional topic hint and planned `facebookAt` / `instagramAt` times.
-  It already counts today's earlier posts (max 5 a day; max 1 quick question a day; max 1 carousel a day and 4 a week, and
+  It already counts today's earlier posts (max 3 a day; max 1 quick question a day; max 1 carousel a day and 4 a week, and
   carousels only ever go to Instagram, see step 8) and keeps posts well spaced (one in each window, 90+ minutes apart). Use them as given.
   If it returns no posts, today is full: skip to the summary.
 - The planner also keeps Buffer under its 10-scheduled-posts limit across BOTH pages (it counts
