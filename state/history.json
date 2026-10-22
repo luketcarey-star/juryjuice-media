@@ -3413,6 +3413,118 @@
    "metrics": {},
    "metaCheck": "passed",
    "plannedAt": "2026-10-22T20:19:00-04:00"
+  },
+  {
+   "n": 1,
+   "type": "list",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "photo",
+   "look": "original",
+   "captionStyle": "payoff",
+   "sceneTag": "other",
+   "title": "Fined $500 for Doing the Math",
+   "topic": "Järlström v. Aldridge: after wife's red-light camera ticket (2013) he studied yellow-light timing; state engineering board fined him $500 for calling himself an engineer; state admitted First Amendment violation and offered refund (2017); judge ruled board's rules overbroad (Dec 28 2018)",
+   "subtopic": "red-light camera timing",
+   "slides": [
+    "He did the math on his wife's red-light camera ticket. Then the state fined him $500 **for calling himself an engineer.**"
+   ],
+   "caption": "So he sued the board in federal court. The state admitted it had violated his free-speech rights and offered his $500 back. In 2018 a judge went further and said the rules on who gets to use the word engineer reached way too far. It all began with a tenth of a second at a yellow light. Ever timed one yourself?\n\n#JuryJuice #RedLightCamera #TrafficLights\n\nSource: Järlström v. Aldridge (2018)",
+   "sources": [
+    "Reason (2017) https://reason.com/2017/06/02/oregon-man-who-was-fined-for-doing-math/",
+    "IEEE Spectrum (2019) ruling Dec 28 2018",
+    "Techdirt (2017) state admits violation, $500 refund offered"
+   ],
+   "imageFolder": "posts/2026-10-23/1-list",
+   "date": "2026-10-23",
+   "facebook": {
+    "postId": "6ada6ed5e374ecc98224027a",
+    "plannedAt": "2026-10-23T09:28:00-04:00",
+    "format": "single"
+   },
+   "instagram": {
+    "postId": "6ada6ed69a872e8621a0341a",
+    "plannedAt": "2026-10-23T09:01:00-04:00",
+    "format": "single"
+   },
+   "status": "scheduled",
+   "metrics": {},
+   "metaCheck": "passed",
+   "plannedAt": "2026-10-23T09:28:00-04:00"
+  },
+  {
+   "n": 2,
+   "type": "laws",
+   "topicGroup": "county",
+   "format": "single",
+   "style": "photo",
+   "look": "blue",
+   "captionStyle": "classic",
+   "sceneTag": "other",
+   "title": "Fined for a Couch on the Porch",
+   "topic": "College-town ban on indoor upholstered furniture on porches; fines up to $1,000 (Ann Arbor, Sept 2010, fire safety); similar Boulder rule BRC 5-4",
+   "subtopic": "porch couch ban",
+   "slides": [
+    "One college town bans old indoor couches on porches. **Leave one out and you could owe up to $1,000.**"
+   ],
+   "caption": "The city says porch couches catch fire too easily. Enough of a reason to outlaw the one on your porch?\n\n#JuryJuice #WeirdLaws #CollegeLife\n\nSource: Ann Arbor couch ordinance (2010)",
+   "sources": [
+    "Ann Arbor Chronicle (Sept 2010) couch ban, fines up to $1,000, fire safety",
+    "CU Boulder off-campus housing: Boulder Revised Code 5-4 upholstered furniture ban"
+   ],
+   "imageFolder": "posts/2026-10-23/2-laws",
+   "date": "2026-10-23",
+   "facebook": {
+    "postId": "6ada6ed643a2d9ebee177f0c",
+    "plannedAt": "2026-10-23T13:49:00-04:00",
+    "format": "single"
+   },
+   "instagram": {
+    "postId": "6ada6ed72f4faf5f796621ed",
+    "plannedAt": "2026-10-23T13:40:00-04:00",
+    "format": "single"
+   },
+   "status": "scheduled",
+   "metrics": {},
+   "metaCheck": "passed",
+   "plannedAt": "2026-10-23T13:49:00-04:00"
+  },
+  {
+   "n": 3,
+   "type": "history",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "photo",
+   "look": "original",
+   "captionStyle": "payoff",
+   "sceneTag": "policeLights",
+   "title": "His Carpool Passenger Was Paperwork",
+   "topic": "Jonathan Frieman (not named), stopped Oct 2 2012 alone in carpool lane, said incorporation papers were a passenger; $481 ticket; judge Frank Drago ruled against him Jan 2013 (papers do not relieve congestion)",
+   "subtopic": "carpool lane ticket",
+   "slides": [
+    "Caught driving alone in the carpool lane, he told the officer his passenger was **the company papers on the seat.**"
+   ],
+   "caption": "The judge didn't buy it. Carpool lanes are there to get people sharing cars, he said, and a pile of papers doesn't take anyone off the road. The $481 ticket stood. Ever heard a better carpool excuse?\n\n#JuryJuice #CarpoolLane #TrafficTicket\n\nSource: NBC News (2013)",
+   "sources": [
+    "NBC News (Jan 2013): $481 ticket, judge rejects corporation as passenger",
+    "ABA Journal (Jan 2013)"
+   ],
+   "imageFolder": "posts/2026-10-23/3-history",
+   "date": "2026-10-23",
+   "facebook": {
+    "postId": "6ada6ed780b62e657504979f",
+    "plannedAt": "2026-10-23T20:23:00-04:00",
+    "format": "single"
+   },
+   "instagram": {
+    "postId": "6ada6ed82f4faf5f79662247",
+    "plannedAt": "2026-10-23T20:23:00-04:00",
+    "format": "single"
+   },
+   "status": "scheduled",
+   "metrics": {},
+   "metaCheck": "passed (blurred small car badges in photo)",
+   "plannedAt": "2026-10-23T20:23:00-04:00"
   }
  ],
  "ideas": [
