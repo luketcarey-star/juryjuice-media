@@ -3371,7 +3371,7 @@
     "plannedAt": "2026-10-22T18:27:00-04:00",
     "format": "single"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metrics": {},
    "metaCheck": "passed (left out the 1896 arrest and bicycle chase to stay in the careful lane)",
    "plannedAt": "2026-10-22T18:02:00-04:00"
@@ -3409,7 +3409,7 @@
     "plannedAt": "2026-10-22T20:06:00-04:00",
     "format": "single"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metrics": {},
    "metaCheck": "passed",
    "plannedAt": "2026-10-22T20:19:00-04:00"
@@ -3447,7 +3447,7 @@
     "plannedAt": "2026-10-23T09:01:00-04:00",
     "format": "single"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metrics": {},
    "metaCheck": "passed",
    "plannedAt": "2026-10-23T09:28:00-04:00"
@@ -3484,7 +3484,7 @@
     "plannedAt": "2026-10-23T13:40:00-04:00",
     "format": "single"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metrics": {},
    "metaCheck": "passed",
    "plannedAt": "2026-10-23T13:49:00-04:00"
@@ -3525,6 +3525,131 @@
    "metrics": {},
    "metaCheck": "passed (blurred small car badges in photo)",
    "plannedAt": "2026-10-23T20:23:00-04:00"
+  },
+  {
+   "date": "2026-10-24",
+   "n": 1,
+   "run": "day",
+   "window": "w1",
+   "type": "history",
+   "topicGroup": "police",
+   "format": "carousel",
+   "style": "photo",
+   "look": "panel",
+   "captionStyle": "classic",
+   "sceneTag": "other",
+   "title": "$18,000 Hidden in a Plane Wing",
+   "subtopic": "lost-and-found money",
+   "topic": "Benjamin v. Lindner Aviation (Iowa 1995): mechanic found ~$18,000 (mostly 1950s bills) behind a wing panel during a 1992 inspection; money turned over to police; no owner claimed it in 12 months; mechanic, repair shop and bank (plane's owner) all claimed; mislaid property, all to the bank; trial court's 10% finder's fee reversed. Mechanic's first attempt to split the cash left out on purpose.",
+   "slides": [
+    "A mechanic opened up a plane's wing and found **$18,000 in old cash**.",
+    "The bills were decades old, tucked behind a panel held on by **rusty screws**.",
+    "The cash was turned over to the police. A year later, **nobody had claimed it**.",
+    "Now the mechanic, the repair shop and the bank that owned the plane all wanted it.",
+    "The highest court in the state gave every dollar to the plane's owner. **The mechanic got nothing.**",
+    "Follow for more"
+   ],
+   "caption": "Finders keepers lost this one. If you found cash inside something you were fixing, whose money would it be?\n\n#JuryJuice #LostAndFound #FoundMoney\n\nSource: Benjamin v. Lindner Aviation (1995)",
+   "sources": [
+    {
+     "item": "Benjamin v. Lindner Aviation, 534 N.W.2d 400 (Iowa 1995)",
+     "source": "https://opencasebook.org/casebooks/2484/resources/3.2.2/"
+    }
+   ],
+   "imageFolder": "posts/2026-10-24/1-history",
+   "facebook": {
+    "format": "single",
+    "postId": "6adbc00c8b3d437ddc848fee",
+    "plannedAt": "2026-10-24T08:59:00-04:00"
+   },
+   "instagram": {
+    "format": "carousel",
+    "postId": "6adbc00bbd33ce99c3ebaba3",
+    "plannedAt": "2026-10-24T09:03:00-04:00"
+   },
+   "plannedAt": "2026-10-24T08:59:00-04:00",
+   "status": "scheduled",
+   "metaCheck": "passed (blurred a car-brand emblem on slide 3)",
+   "metrics": {}
+  },
+  {
+   "date": "2026-10-24",
+   "n": 2,
+   "run": "day",
+   "window": "w2",
+   "type": "list",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "photo",
+   "look": "blue",
+   "captionStyle": "payoff",
+   "sceneTag": "policeLights",
+   "title": "Radar Clocked the Trees at 86 mph",
+   "subtopic": "radar gun reliability",
+   "topic": "1979 Dade County radar hearings: WTVJ series showed radar clocking a stand of trees at 86 mph and a house at 28 mph (UPI); ~4,000 radar speeding cases postponed; Judge Alfred Nesbitt (not named) ruled radar alone too unreliable to convict; 80 radar cases dismissed",
+   "slides": [
+    "A TV crew aimed a police radar gun at a row of trees. It read **86 mph**. Drivers fighting speeding tickets took that to a judge."
+   ],
+   "caption": "He agreed with them. In 1979 he decided a radar reading alone wasn't reliable enough to prove anyone was speeding, and 80 radar cases were dismissed. About 4,000 more had been put on hold waiting for his answer. Do you trust the number on those roadside speed signs?\n\n#JuryJuice #SpeedingTicket #RadarGun\n\nSources: UPI (1979); University Daily Kansan",
+   "sources": [
+    {
+     "item": "UPI via The Battalion, Apr 19 1979 (trees 86 mph, house 28 mph, 4,000 cases postponed)",
+     "source": "https://newspaper.library.tamu.edu/lccn/sn86088544/1979-04-19/ed-1/seq-9.pdf"
+    },
+    {
+     "item": "University Daily Kansan (Nesbitt ruling, 80 cases dismissed)",
+     "source": "https://digital.lib.ku.edu/islandora/object/ku-udk%3A38497/datastream/OCR/download"
+    }
+   ],
+   "imageFolder": "posts/2026-10-24/2-list",
+   "facebook": {
+    "format": "single",
+    "postId": "6adbc00d0b5343d0704b7ce0",
+    "plannedAt": "2026-10-24T13:36:00-04:00"
+   },
+   "instagram": {
+    "format": "single",
+    "postId": "6adbc00d8b3d437ddc84902d",
+    "plannedAt": "2026-10-24T13:48:00-04:00"
+   },
+   "plannedAt": "2026-10-24T13:36:00-04:00",
+   "status": "scheduled",
+   "metaCheck": "passed (blurred a car-brand emblem)",
+   "metrics": {}
+  },
+  {
+   "date": "2026-10-24",
+   "n": 3,
+   "run": "day",
+   "window": "w3",
+   "type": "engage",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "tweet",
+   "theme": "dim",
+   "title": "Paying to get a towed car back",
+   "subtopic": "impounds and tows",
+   "topic": "Question: most you have ever paid to get a towed car back",
+   "slides": [
+    "What's the most you've ever had to pay to get a towed car back?"
+   ],
+   "caption": "Sometimes the storage fee stings more than the tow.\n\n#JuryJuice #Towing #ParkingTicket",
+   "sources": [],
+   "imageFolder": "posts/2026-10-24/3-engage",
+   "facebook": {
+    "format": "single",
+    "postId": "6adbc00e8b3d437ddc849058",
+    "plannedAt": "2026-10-24T20:22:00-04:00"
+   },
+   "instagram": {
+    "format": "single",
+    "postId": "6adbc00e0b5343d0704b7d13",
+    "plannedAt": "2026-10-24T20:02:00-04:00"
+   },
+   "plannedAt": "2026-10-24T20:02:00-04:00",
+   "status": "scheduled",
+   "metaCheck": "passed",
+   "metrics": {}
   }
  ],
  "ideas": [
