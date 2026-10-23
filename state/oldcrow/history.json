@@ -1,2090 +1,2227 @@
 {
- "posts": [
-  {
-   "date": "2026-10-06",
-   "n": 1,
-   "type": "price",
-   "format": "single",
-   "style": "illus",
-   "title": "A Year of College in Hours of Work",
-   "topic": "A year of college in hours of work",
-   "slides": [
-    "1975 | 260 hours | $540\n2023 | 1,360 hours | $9,870"
-   ],
-   "sources": [
+  "posts": [
     {
-     "item": "Public 4-year tuition and fees 1975-76 $542 and 2023-24 $9,872",
-     "source": "NCES Digest of Education Statistics Table 330.10"
+      "date": "2026-10-06",
+      "n": 1,
+      "type": "price",
+      "format": "single",
+      "style": "illus",
+      "title": "A Year of College in Hours of Work",
+      "topic": "A year of college in hours of work",
+      "slides": [
+        "1975 | 260 hours | $540\n2023 | 1,360 hours | $9,870"
+      ],
+      "sources": [
+        {
+          "item": "Public 4-year tuition and fees 1975-76 $542 and 2023-24 $9,872",
+          "source": "NCES Digest of Education Statistics Table 330.10"
+        },
+        {
+          "item": "Federal minimum wage $2.10 (1975), $7.25 (2009 onward)",
+          "source": "U.S. Department of Labor"
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-06/1-price",
+      "facebook": {
+        "postId": "6ac5567b9b4b7d7d77d6cba6",
+        "plannedAt": "2026-10-06T16:33:00-04:00"
+      },
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0.0,
+          "impressions": 142,
+          "shares": 0,
+          "clicks": 2,
+          "bufferEngagementRatePct": 1.41,
+          "measuredAt": "2026-10-11T14:36:09.618Z"
+        }
+      }
     },
     {
-     "item": "Federal minimum wage $2.10 (1975), $7.25 (2009 onward)",
-     "source": "U.S. Department of Labor"
-    }
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-06/1-price",
-   "facebook": {
-    "postId": "6ac5567b9b4b7d7d77d6cba6",
-    "plannedAt": "2026-10-06T16:33:00-04:00"
-   },
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 0,
-     "comments": 0,
-     "engagementRate": 0.0,
-     "impressions": 142,
-     "shares": 0,
-     "clicks": 2,
-     "bufferEngagementRatePct": 1.41,
-     "measuredAt": "2026-10-11T14:36:09.618Z"
-    }
-   }
-  },
-  {
-   "date": "2026-10-06",
-   "n": 2,
-   "type": "sold",
-   "format": "carousel",
-   "style": "illus",
-   "title": "Why a Diamond Ring?",
-   "topic": "Why a diamond ring",
-   "slides": [
-    "WHY A DIAMOND RING?",
-    "Young: \"Every proposal I've heard about comes with a diamond ring. Has it always been that way?\"",
-    "Old: \"In the 1930s, only about one in ten engagement rings held a diamond. Sales were slow, so in 1938 the diamond company De Beers hired an ad agency, N.W. Ayer.\"",
-    "Old: \"In 1947, a copywriter named Frances Gerety wrote a line for them: 'A Diamond Is Forever.' It ran in De Beers ads from 1948.\"",
-    "Old: \"The line kept running. By the century's end, about eight in ten engagement rings held a diamond, and in 1999 Advertising Age named it the slogan of the century.\"",
-    "Old: \"Today the same line still helps sellers of natural diamonds stand apart from lab-grown ones. Whoever sells the ring benefits from the story that comes with it.\"",
-    "Which of your own traditions do you think began as a slogan?\n\nFollow for more."
-   ],
-   "sources": [
-    {
-     "item": "De Beers, N.W. Ayer 1938, slogan 1947, ads from 1948, 10% to 80% diamond share, Advertising Age 1999",
-     "source": "The Marketing Society; The Drum; Sotheby's"
-    }
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-06/2-sold",
-   "facebook": {
-    "postId": "6ac5568138b9e9d5545ed27e",
-    "plannedAt": "2026-10-06T22:06:00-04:00"
-   },
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 0,
-     "comments": 0,
-     "engagementRate": 0.0176,
-     "impressions": 170,
-     "shares": 3,
-     "clicks": 7,
-     "bufferEngagementRatePct": 5.88,
-     "measuredAt": "2026-10-12T13:36:20.472Z"
-    }
-   }
-  },
-  {
-   "date": "2026-10-06",
-   "n": 3,
-   "type": "note",
-   "format": "carousel",
-   "style": "illus",
-   "title": "Why So Busy?",
-   "topic": "A calendar with every square filled in",
-   "slides": [
-    "WHY SO BUSY?",
-    "I once kept a calendar with every square filled in. Each square had a reason, yet I couldn't tell you what the whole month was for.",
-    "Somewhere along the way, we learned to answer \"How are you?\" with \"Busy.\" It sounds like an achievement, so we keep saying it.",
-    "Ask who gains when your days are full. A packed calendar leaves little time to wonder what you would choose if the squares were empty.",
-    "Tomorrow, try leaving one square empty on purpose. Notice what you reach for when nothing is expected of you.",
-    "What would you put in an empty square?\n\nFollow for more."
-   ],
-   "sources": [],
-   "imageFolder": "posts/oldcrow/2026-10-06/3-note",
-   "facebook": {
-    "postId": "6ac5568538b9e9d5545ed2fa",
-    "plannedAt": "2026-10-06T21:05:00-04:00"
-   },
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 4,
-     "comments": 0,
-     "engagementRate": 0.0184,
-     "impressions": 217,
-     "shares": 0,
-     "clicks": 9,
-     "bufferEngagementRatePct": 5.99,
-     "measuredAt": "2026-10-12T13:36:20.472Z"
-    }
-   }
-  },
-  {
-   "date": "2026-10-06",
-   "n": 4,
-   "type": "thennow",
-   "format": "single",
-   "style": "illus",
-   "title": "Then vs. Now: The Cast Iron Skillet",
-   "topic": "Vintage vs modern cast iron skillet",
-   "slides": [
-    "The cast iron skillet"
-   ],
-   "sources": [
-    {
-     "item": "Vintage vs modern cast iron finish and weight",
-     "source": "Field Company; Tasting Table"
-    }
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-06/4-thennow",
-   "facebook": {
-    "postId": "6ac556f49b4b7d7d77d6df74",
-    "plannedAt": "2026-10-06T17:07:00-04:00"
-   },
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 0,
-     "comments": 0,
-     "engagementRate": 0.0167,
-     "impressions": 120,
-     "shares": 2,
-     "clicks": 1,
-     "bufferEngagementRatePct": 2.5,
-     "measuredAt": "2026-10-11T14:36:09.618Z"
-    }
-   }
-  },
-  {
-   "date": "2026-10-06",
-   "n": 5,
-   "type": "question",
-   "format": "single",
-   "style": "illus",
-   "title": "How many chargers in your drawer fit something you still own?",
-   "topic": "A drawer of old chargers that fit nothing you own",
-   "slides": [
-    {
-     "text": "How many chargers in your drawer fit something you still own?",
-     "scene": "Medium close-up of the old raven alone at a wooden kitchen counter in warm late-afternoon light, an open kitchen drawer in front of him spilling a tangle of old, mismatched charging cables and plugs. He holds up one coiled cable in his wing, studying it with a calm, thoughtful, slightly amused expression. No text, no brand logos."
-    }
-   ],
-   "sources": [],
-   "imageFolder": "posts/oldcrow/2026-10-06/5-question",
-   "facebook": {
-    "postId": "6ac55e58544ff8353dfafc2c",
-    "plannedAt": "2026-10-06T17:38:00-04:00"
-   },
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 1,
-     "comments": 0,
-     "engagementRate": 0.0039,
-     "impressions": 255,
-     "shares": 0,
-     "clicks": 2,
-     "bufferEngagementRatePct": 1.18,
-     "measuredAt": "2026-10-11T14:36:09.618Z"
-    }
-   }
-  },
-  {
-   "date": "2026-10-07",
-   "n": 2,
-   "type": "question",
-   "format": "single",
-   "style": "tweet",
-   "theme": "black",
-   "title": "Who decided your lawn had to be just grass?",
-   "topic": "Why lawns are just short grass",
-   "slides": [
-    {
-     "text": "Who decided **your lawn** had to be just grass?",
-     "scene": ""
-    }
-   ],
-   "sources": [],
-   "caption": "Somewhere along the way, a short green lawn became the polite thing to own. What would you grow there if nobody was watching?\n\n#OldCrow #LawnCare #Gardening",
-   "imageFolder": "posts/oldcrow/2026-10-07/2-question",
-   "facebook": {
-    "postId": "6ac62aad86b36af245de4cc6",
-    "plannedAt": "2026-10-07T10:51:00-04:00"
-   },
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 1,
-     "comments": 0,
-     "engagementRate": 0.0083,
-     "impressions": 121,
-     "shares": 0,
-     "clicks": 1,
-     "bufferEngagementRatePct": 1.65,
-     "measuredAt": "2026-10-13T12:36:34.316Z"
-    }
-   },
-   "note": "switched illus->tweet: image connector missing"
-  },
-  {
-   "date": "2026-10-07",
-   "n": 3,
-   "type": "thennow",
-   "format": "single",
-   "style": "illus",
-   "title": "The Kitchen Chair",
-   "topic": "Kitchen chair: solid wood joinery vs particleboard flat-pack",
-   "slides": [
-    "THE KITCHEN CHAIR"
-   ],
-   "caption": "A kitchen chair used to be solid wood, joined to last a lifetime. Many today are pressed board held together with screws. How long do you expect a chair to last?\n\n#OldCrow #Furniture #VintageFurniture",
-   "sources": [
-    {
-     "item": "Older chairs: solid wood with mortise-and-tenon joints; many modern ones particleboard with cam-lock screws",
-     "source": "Furniture construction references (Studio Matrx: materials and manufacture; furniture joinery)"
-    }
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-07/3-thennow",
-   "facebook": {
-    "postId": "6ac63cec825ce6f477e8afed",
-    "plannedAt": "2026-10-07T09:55:00-04:00"
-   },
-   "status": "sent",
-   "note": "made up by hand after am run skipped it (image tool not loaded)",
-   "metrics": {
-    "facebook": {
-     "reactions": 2,
-     "comments": 0,
-     "engagementRate": 0.0145,
-     "impressions": 207,
-     "shares": 1,
-     "clicks": 2,
-     "bufferEngagementRatePct": 2.42,
-     "measuredAt": "2026-10-13T12:36:34.316Z"
-    }
-   }
-  },
-  {
-   "date": "2026-10-07",
-   "n": 4,
-   "type": "price",
-   "format": "single",
-   "style": "illus",
-   "title": "A New House in Years of Work",
-   "topic": "A new house in years of work",
-   "slides": [
-    "1970 | 3.3 years | $23,400\n2025 | 6.4 years | $417,400"
-   ],
-   "caption": "In 1970 a new house cost about three years of an average worker's pay. Today it takes more than six. What would you do with those extra years?\n\n#OldCrow #HousingMarket #RealEstate",
-   "sources": [
-    {
-     "item": "Median sales price of new houses sold: $23,400 (1970), $417,400 (2025)",
-     "source": "U.S. Census Bureau via FRED MSPNHSUSA"
+      "date": "2026-10-06",
+      "n": 2,
+      "type": "sold",
+      "format": "carousel",
+      "style": "illus",
+      "title": "Why a Diamond Ring?",
+      "topic": "Why a diamond ring",
+      "slides": [
+        "WHY A DIAMOND RING?",
+        "Young: \"Every proposal I've heard about comes with a diamond ring. Has it always been that way?\"",
+        "Old: \"In the 1930s, only about one in ten engagement rings held a diamond. Sales were slow, so in 1938 the diamond company De Beers hired an ad agency, N.W. Ayer.\"",
+        "Old: \"In 1947, a copywriter named Frances Gerety wrote a line for them: 'A Diamond Is Forever.' It ran in De Beers ads from 1948.\"",
+        "Old: \"The line kept running. By the century's end, about eight in ten engagement rings held a diamond, and in 1999 Advertising Age named it the slogan of the century.\"",
+        "Old: \"Today the same line still helps sellers of natural diamonds stand apart from lab-grown ones. Whoever sells the ring benefits from the story that comes with it.\"",
+        "Which of your own traditions do you think began as a slogan?\n\nFollow for more."
+      ],
+      "sources": [
+        {
+          "item": "De Beers, N.W. Ayer 1938, slogan 1947, ads from 1948, 10% to 80% diamond share, Advertising Age 1999",
+          "source": "The Marketing Society; The Drum; Sotheby's"
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-06/2-sold",
+      "facebook": {
+        "postId": "6ac5568138b9e9d5545ed27e",
+        "plannedAt": "2026-10-06T22:06:00-04:00"
+      },
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0.0176,
+          "impressions": 170,
+          "shares": 3,
+          "clicks": 7,
+          "bufferEngagementRatePct": 5.88,
+          "measuredAt": "2026-10-12T13:36:20.472Z"
+        }
+      }
     },
     {
-     "item": "Avg hourly earnings, production & nonsupervisory: ~$3.40 (1970), ~$31.37 (2025); x2,080 h",
-     "source": "BLS CES via FRED CEU0500000008"
-    }
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-07/4-price",
-   "facebook": {
-    "postId": "6ac63cef8c3015cd3eae459c",
-    "plannedAt": "2026-10-07T13:53:00-04:00"
-   },
-   "status": "sent",
-   "note": "made up by hand after am run skipped it (image tool not loaded)",
-   "metrics": {
-    "facebook": {
-     "reactions": 0,
-     "comments": 0,
-     "engagementRate": 0.0,
-     "impressions": 113,
-     "shares": 0,
-     "clicks": 0,
-     "bufferEngagementRatePct": 0,
-     "measuredAt": "2026-10-13T12:36:34.316Z"
-    }
-   }
-  },
-  {
-   "date": "2026-10-07",
-   "n": 5,
-   "type": "question",
-   "format": "single",
-   "style": "tweet",
-   "theme": "light",
-   "title": "When did you last eat lunch away from your desk?",
-   "topic": "Eating lunch at your desk",
-   "slides": [
-    "When did you last eat lunch away from your desk?"
-   ],
-   "caption": "A sandwich over the keyboard has started to feel normal. Where would you eat if the whole hour were yours?\n\n#OldCrow #WorkLifeBalance",
-   "sources": [],
-   "imageFolder": "posts/oldcrow/2026-10-07/5-question",
-   "facebook": {
-    "postId": "6ac69ad2819a4d01246b9f48",
-    "plannedAt": "2026-10-07T18:21:00-04:00"
-   },
-   "status": "deleted-by-luke",
-   "metrics": {},
-   "note": "Luke deleted this from Buffer on purpose (Oct 7 evening). Not a problem."
-  },
-  {
-   "date": "2026-10-07",
-   "n": 6,
-   "type": "thennow",
-   "format": "single",
-   "style": "illus",
-   "theme": null,
-   "title": "The Glass Baking Dish",
-   "topic": "Glass baking dish: borosilicate vs tempered soda-lime",
-   "object": "glass baking dish",
-   "slides": [
-    "The glass baking dish"
-   ],
-   "caption": "The first glass baking dishes were borosilicate, made to take sudden heat. Many sold today are cheaper soda-lime glass that handles it less well. Would you move yours from fridge to oven?\n\n#OldCrow #Baking #Cookware",
-   "sources": [
-    {
-     "item": "Pyrex sold from 1915 in borosilicate glass; US consumer Pyrex moved to cheaper tempered soda-lime (from 1950s, almost all by 1998); borosilicate resists thermal shock about 3x better; soda-lime stronger when dropped; Consumer Reports Jan 2011 tests",
-     "source": "Wikipedia: Pyrex (citing Consumer Reports 2011, Bradt & Martens, Carter & Norton)"
+      "date": "2026-10-06",
+      "n": 3,
+      "type": "note",
+      "format": "carousel",
+      "style": "illus",
+      "title": "Why So Busy?",
+      "topic": "A calendar with every square filled in",
+      "slides": [
+        "WHY SO BUSY?",
+        "I once kept a calendar with every square filled in. Each square had a reason, yet I couldn't tell you what the whole month was for.",
+        "Somewhere along the way, we learned to answer \"How are you?\" with \"Busy.\" It sounds like an achievement, so we keep saying it.",
+        "Ask who gains when your days are full. A packed calendar leaves little time to wonder what you would choose if the squares were empty.",
+        "Tomorrow, try leaving one square empty on purpose. Notice what you reach for when nothing is expected of you.",
+        "What would you put in an empty square?\n\nFollow for more."
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-06/3-note",
+      "facebook": {
+        "postId": "6ac5568538b9e9d5545ed2fa",
+        "plannedAt": "2026-10-06T21:05:00-04:00"
+      },
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 4,
+          "comments": 0,
+          "engagementRate": 0.0184,
+          "impressions": 217,
+          "shares": 0,
+          "clicks": 9,
+          "bufferEngagementRatePct": 5.99,
+          "measuredAt": "2026-10-12T13:36:20.472Z"
+        }
+      }
     },
     {
-     "item": "World Kitchen changed US kitchenware to less expensive tempered soda-lime after 1998; soda-lime handles heat less well",
-     "source": "Iowa State University Extension AnswerLine, 'Glass Kitchenware Cautions' (2019)"
-    }
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-07/6-thennow",
-   "facebook": {
-    "postId": "6ac69ad405769b096e3f70f1",
-    "plannedAt": "2026-10-07T18:55:00-04:00"
-   },
-   "status": "deleted-by-luke",
-   "metrics": {},
-   "note": "Luke deleted this from Buffer on purpose (Oct 7 evening). Not a problem."
-  },
-  {
-   "date": "2026-10-07",
-   "n": 7,
-   "type": "sold",
-   "format": "single",
-   "style": "illus",
-   "title": "Who Made Breakfast So Important?",
-   "topic": "Breakfast as the most important meal of the day",
-   "slides": [
-    "WHO MADE BREAKFAST SO IMPORTANT?"
-   ],
-   "caption": "(see Buffer post)",
-   "sources": [
-    {
-     "item": "1917 Good Health article by Lenna Cooper; magazine edited by John Harvey Kellogg",
-     "source": "HuffPost Canada, 2014"
+      "date": "2026-10-06",
+      "n": 4,
+      "type": "thennow",
+      "format": "single",
+      "style": "illus",
+      "title": "Then vs. Now: The Cast Iron Skillet",
+      "topic": "Vintage vs modern cast iron skillet",
+      "slides": [
+        "The cast iron skillet"
+      ],
+      "sources": [
+        {
+          "item": "Vintage vs modern cast iron finish and weight",
+          "source": "Field Company; Tasting Table"
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-06/4-thennow",
+      "facebook": {
+        "postId": "6ac556f49b4b7d7d77d6df74",
+        "plannedAt": "2026-10-06T17:07:00-04:00"
+      },
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0.0167,
+          "impressions": 120,
+          "shares": 2,
+          "clicks": 1,
+          "bufferEngagementRatePct": 2.5,
+          "measuredAt": "2026-10-11T14:36:09.618Z"
+        }
+      }
     },
     {
-     "item": "Edward Bernays bacon-and-eggs breakfast campaign",
-     "source": "HuffPost Canada, 2014"
-    }
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-07/7-sold",
-   "facebook": {
-    "postId": "6ac6c5682977c961bdb958e4",
-    "plannedAt": "2026-10-07T20:25:00-04:00"
-   },
-   "status": "sent",
-   "metaCheck": "passed",
-   "note": "made by hand after the queue was cleared",
-   "metrics": {
-    "facebook": {
-     "reactions": 3,
-     "comments": 0,
-     "engagementRate": 0.0102,
-     "impressions": 294,
-     "shares": 0,
-     "clicks": 6,
-     "bufferEngagementRatePct": 3.06,
-     "measuredAt": "2026-10-14T11:36:39.340Z"
-    }
-   }
-  },
-  {
-   "date": "2026-10-08",
-   "n": 1,
-   "type": "sold",
-   "format": "single",
-   "style": "illus",
-   "theme": null,
-   "title": "Who Made Bad Breath a Problem?",
-   "topic": "Listerine and the halitosis campaign",
-   "slides": [
-    "WHO MADE BAD BREATH A PROBLEM?"
-   ],
-   "sources": [
-    {
-     "item": "Listerine 1879 antiseptic, floor cleaner",
-     "source": "Wikipedia Listerine; FOHBC Bridesmaid & Listerine 2007"
+      "date": "2026-10-06",
+      "n": 5,
+      "type": "question",
+      "format": "single",
+      "style": "illus",
+      "title": "How many chargers in your drawer fit something you still own?",
+      "topic": "A drawer of old chargers that fit nothing you own",
+      "slides": [
+        {
+          "text": "How many chargers in your drawer fit something you still own?",
+          "scene": "Medium close-up of the old raven alone at a wooden kitchen counter in warm late-afternoon light, an open kitchen drawer in front of him spilling a tangle of old, mismatched charging cables and plugs. He holds up one coiled cable in his wing, studying it with a calm, thoughtful, slightly amused expression. No text, no brand logos."
+        }
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-06/5-question",
+      "facebook": {
+        "postId": "6ac55e58544ff8353dfafc2c",
+        "plannedAt": "2026-10-06T17:38:00-04:00"
+      },
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 0.0039,
+          "impressions": 255,
+          "shares": 0,
+          "clicks": 2,
+          "bufferEngagementRatePct": 1.18,
+          "measuredAt": "2026-10-11T14:36:09.618Z"
+        }
+      }
     },
     {
-     "item": "Halitosis campaign, Edna, $115,000 to $8 million in seven years",
-     "source": "FOHBC article citing James Twitchell; Smithsonian Magazine"
-    }
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-08/1-sold",
-   "facebook": {
-    "postId": "6ac78050e63932e2c59d6ed8",
-    "plannedAt": "2026-10-08T09:50:00-04:00"
-   },
-   "status": "sent",
-   "metaCheck": "passed (softened an unsupported line in caption)",
-   "metrics": {
-    "facebook": {
-     "reactions": 3,
-     "comments": 0,
-     "impressions": 366,
-     "shares": 0,
-     "clicks": 8,
-     "engagementRate": 0.0082,
-     "bufferEngagementRatePct": 3.01,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   }
-  },
-  {
-   "date": "2026-10-08",
-   "n": 2,
-   "type": "note",
-   "format": "single",
-   "style": "illus",
-   "title": "A Bigger House",
-   "topic": "A bigger house as something we're sold",
-   "slides": [
-    "A bigger house gave us more rooms to fill and more to pay for."
-   ],
-   "sources": [],
-   "imageFolder": "posts/oldcrow/2026-10-08/2-note",
-   "facebook": {
-    "postId": "6ac7a173e63932e2c5a4841b",
-    "plannedAt": "2026-10-08T13:05:00-04:00"
-   },
-   "status": "sent",
-   "metaCheck": "passed",
-   "note": "made by hand: the am run planned it but didn't finish it",
-   "metrics": {
-    "facebook": {
-     "reactions": 10,
-     "comments": 1,
-     "impressions": 1187,
-     "shares": 0,
-     "clicks": 32,
-     "engagementRate": 0.0093,
-     "bufferEngagementRatePct": 3.62,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   }
-  },
-  {
-   "date": "2026-10-08",
-   "n": 3,
-   "type": "question",
-   "format": "single",
-   "style": "illus",
-   "theme": null,
-   "title": "Who taught you the date on the carton is the day it spoils?",
-   "topic": "Best-before dates on food as a spoil date",
-   "object": "yogurt cup",
-   "slides": [
-    {
-     "text": "Who taught you the date on the carton is the day it spoils?",
-     "scene": "Medium shot of the old raven alone in a warm, lamp-lit home kitchen at evening, standing at an open refrigerator. He holds a small plain unbranded yogurt carton close, tilting it to study the small printed date on the lid with a calm, curious, slightly amused expression. Fridge shelves behind him hold plain unlabeled jars and vegetables. Warm golden light. No readable text, no logos.",
-     "image": "img1.jpg"
-    }
-   ],
-   "caption": "There's a moment most of us know: the yogurt says yesterday, and it goes in the bin before anyone looks inside.\n\nMost of those dates were never about safety. In the US, the only date food law requires is the one on infant formula. A \"best if used by\" date is the maker's or the store's estimate of when the food tastes its best. Canada works much the same way: best-before dates are about quality, and true expiration dates are kept for a short list of things like meal replacements and nutritional supplements.\n\nThe FDA estimates that confusion over these labels accounts for about a fifth of the food thrown away at home. That's groceries someone worked hours to pay for.\n\nThe old raven still respects his fridge. Food that's been stored well should stay good past a best-before date, and food that has spoiled goes out, whatever the label says. He just likes to know what a number means before he lets it decide for him.\n\nWhat's the last thing you threw out only because of the date?\n\n#OldCrow #FoodWaste #ZeroWaste",
-   "sources": [
-    "https://www.fda.gov/news-events/fda-voices-perspectives-fda-leadership-and-experts/working-food-industry-reduce-confusion-over-date-labels/",
-    "https://www.usda.gov/sites/default/files/guidance-documents/FSIS.%20Food%20Product%20Dating.pdf",
-    "https://recalls-rappels.canada.ca/en/node/61386/revisions/3584375/view"
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-08/3-question",
-   "facebook": {
-    "postId": "6ac7ed215b76911addde801e",
-    "plannedAt": "2026-10-08T19:56:00-04:00"
-   },
-   "status": "sent",
-   "metaCheck": "passed (avoided implying smell is a safety test, per CFIA)",
-   "metrics": {
-    "facebook": {
-     "reactions": 6,
-     "comments": 0,
-     "impressions": 554,
-     "shares": 1,
-     "clicks": 11,
-     "engagementRate": 0.0126,
-     "bufferEngagementRatePct": 3.25,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   }
-  },
-  {
-   "date": "2026-10-09",
-   "n": 1,
-   "type": "sold",
-   "format": "single",
-   "style": "illus",
-   "title": "Who Said 8 Glasses a Day?",
-   "topic": "Eight glasses of water a day",
-   "facebook": {
-    "postId": "6ac8eb9ba831a551439dfbe4",
-    "plannedAt": "2026-10-09T10:25:00-04:00"
-   },
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 7,
-     "comments": 0,
-     "impressions": 1274,
-     "shares": 2,
-     "clicks": 41,
-     "engagementRate": 0.0071,
-     "bufferEngagementRatePct": 3.92,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "slides": [
-    "WHO SAID 8 GLASSES A DAY?"
-   ],
-   "sources": [
-    {
-     "item": "1945 Food and Nutrition Board: 2.5 L/day for adults; most contained in prepared foods",
-     "source": "Inverse, citing Vincent Ho"
-    }
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-09/1-sold",
-   "metaCheck": "passed",
-   "note": "made by hand: the am run skipped it because the image tool was switched off for scheduled tasks"
-  },
-  {
-   "date": "2026-10-09",
-   "n": 2,
-   "type": "note",
-   "format": "single",
-   "style": "illus",
-   "title": "The Old Phone",
-   "topic": "Phone upgrades we're invited to",
-   "facebook": {
-    "postId": "6ac8eb9fa831a551439dfc83",
-    "plannedAt": "2026-10-09T12:34:00-04:00"
-   },
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 13,
-     "comments": 0,
-     "impressions": 1320,
-     "shares": 1,
-     "clicks": 24,
-     "engagementRate": 0.0106,
-     "bufferEngagementRatePct": 2.88,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "slides": [
-    "Nobody asked if the old phone still worked. They asked if we'd seen the new one."
-   ],
-   "sources": [],
-   "imageFolder": "posts/oldcrow/2026-10-09/2-note",
-   "metaCheck": "passed",
-   "note": "made by hand: the am run skipped it because the image tool was switched off for scheduled tasks"
-  },
-  {
-   "date": "2026-10-10",
-   "n": 1,
-   "type": "question",
-   "format": "single",
-   "style": "illus",
-   "title": "Who told you a gift means more if it costs more?",
-   "topic": "Expensive gifts vs meaningful ones",
-   "slides": [
-    "Who told you a gift means more if it costs more?"
-   ],
-   "sources": [],
-   "imageFolder": "posts/oldcrow/2026-10-10/1-question",
-   "facebook": {
-    "postId": "6aca49babba9419ccb055b05",
-    "plannedAt": "2026-10-10T11:29:00-04:00"
-   },
-   "status": "sent",
-   "metaCheck": "passed",
-   "note": "made by hand: morning run had no image tool",
-   "metrics": {
-    "facebook": {
-     "reactions": 7,
-     "comments": 0,
-     "impressions": 946,
-     "shares": 0,
-     "clicks": 27,
-     "engagementRate": 0.0074,
-     "bufferEngagementRatePct": 3.59,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   }
-  },
-  {
-   "date": "2026-10-10",
-   "n": 2,
-   "type": "sold",
-   "format": "single",
-   "style": "illus",
-   "title": "Why Do Light Bulbs Burn Out?",
-   "topic": "Phoebus cartel and the 1,000-hour light bulb",
-   "slides": [
-    "WHY DO LIGHT BULBS BURN OUT?"
-   ],
-   "sources": [
-    {
-     "item": "Phoebus cartel formed Dec 1924; 1,000-hour limit; fines; dissolved 1940; earlier bulbs up to 2,500 h",
-     "source": "Today I Found Out, 2020"
-    }
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-10/2-sold",
-   "facebook": {
-    "postId": "6aca49beed92ed8fa5cfac0c",
-    "plannedAt": "2026-10-10T19:35:00-04:00"
-   },
-   "status": "sent",
-   "metaCheck": "passed",
-   "note": "made by hand: morning run had no image tool",
-   "metrics": {
-    "facebook": {
-     "reactions": 5,
-     "comments": 0,
-     "impressions": 985,
-     "shares": 0,
-     "clicks": 23,
-     "engagementRate": 0.0051,
-     "bufferEngagementRatePct": 2.84,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   }
-  },
-  {
-   "date": "2026-10-11",
-   "n": 1,
-   "type": "note",
-   "format": "single",
-   "style": "illus",
-   "title": "The sale always ends soon",
-   "topic": "Sale deadlines and urgency",
-   "slides": [
-    "The sale always ends soon. Have you noticed another one always starts?"
-   ],
-   "sources": [],
-   "imageFolder": "posts/oldcrow/2026-10-11/1-note",
-   "facebook": {
-    "postId": "6acaab37d9cab260a7d95a73",
-    "plannedAt": "2026-10-11T11:10:00-04:00"
-   },
-   "status": "sent",
-   "metaCheck": "passed (regenerated note image: first version showed a red circle resembling a national flag)",
-   "metrics": {
-    "facebook": {
-     "reactions": 3,
-     "comments": 0,
-     "impressions": 430,
-     "shares": 0,
-     "clicks": 2,
-     "engagementRate": 0.007,
-     "bufferEngagementRatePct": 1.16,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   }
-  },
-  {
-   "date": "2026-10-11",
-   "n": 2,
-   "type": "oneliner",
-   "format": "single",
-   "style": "ai",
-   "title": "Everyone wants honest advice. Until they get it.",
-   "topic": "Saving the good dishes for a special occasion",
-   "slides": [
-    "EVERYONE WANTS HONEST ADVICE. UNTIL THEY GET IT."
-   ],
-   "sources": [],
-   "imageFolder": "posts/oldcrow/2026-10-11/2-oneliner",
-   "facebook": {
-    "postId": "6acaab39bba9419ccb16500f",
-    "plannedAt": "2026-10-11T20:39:00-04:00"
-   },
-   "status": "sent",
-   "metaCheck": "passed",
-   "metrics": {
-    "facebook": {
-     "reactions": 191,
-     "comments": 4,
-     "impressions": 18289,
-     "shares": 49,
-     "clicks": 301,
-     "engagementRate": 0.0133,
-     "bufferEngagementRatePct": 2.98,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "replaced": {
-    "type": "question",
-    "title": "What are you saving the good dishes for?"
-   },
-   "line": "Everyone wants honest advice. Until they get it.",
-   "caption": "Ask me how I know.",
-   "note": "2026-10-11: swapped by hand for Luke's approved new-style test"
-  },
-  {
-   "date": "2026-10-12",
-   "n": 1,
-   "type": "oneliner",
-   "format": "single",
-   "style": "ai",
-   "title": "They sold you the dream. You're still making the payments.",
-   "topic": "White wedding dress and Queen Victoria 1840",
-   "slides": [
-    "THEY SOLD YOU THE DREAM. YOU'RE STILL MAKING THE PAYMENTS."
-   ],
-   "sources": [],
-   "imageFolder": "posts/oldcrow/2026-10-12/1-oneliner",
-   "facebook": {
-    "postId": "6acbfca27db619a2914a48ff",
-    "plannedAt": "2026-10-12T10:20:00-04:00"
-   },
-   "status": "sent",
-   "metaCheck": "passed",
-   "metrics": {
-    "facebook": {
-     "reactions": 13,
-     "comments": 1,
-     "impressions": 1508,
-     "shares": 2,
-     "clicks": 23,
-     "engagementRate": 0.0106,
-     "bufferEngagementRatePct": 2.59,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "replaced": {
-    "type": "sold",
-    "title": "Why a White Wedding Dress?"
-   },
-   "line": "They sold you the dream. You're still making the payments.",
-   "caption": "Still paying.",
-   "note": "2026-10-11: swapped by hand for Luke's approved new-style test"
-  },
-  {
-   "date": "2026-10-12",
-   "n": 2,
-   "type": "thennow",
-   "format": "single",
-   "style": "ai",
-   "title": "Built to last. Built to replace.",
-   "topic": "Early rising as a sign of success",
-   "slides": [
-    "BUILT TO LAST. BUILT TO REPLACE."
-   ],
-   "sources": [],
-   "imageFolder": "posts/oldcrow/2026-10-12/2-thennow",
-   "facebook": {
-    "postId": "6acbfca4ea568e911a403782",
-    "plannedAt": "2026-10-12T20:58:00-04:00"
-   },
-   "status": "sent",
-   "metaCheck": "passed",
-   "metrics": {
-    "facebook": {
-     "reactions": 135,
-     "comments": 5,
-     "impressions": 25054,
-     "shares": 23,
-     "clicks": 602,
-     "engagementRate": 0.0065,
-     "bufferEngagementRatePct": 3.05,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "replaced": {
-    "type": "note",
-    "title": "The alarm says five. Who decided early means better?"
-   },
-   "headline": "BUILT TO LAST. BUILT TO REPLACE.",
-   "then": "sturdy chrome toaster",
-   "now": "flimsy cracked plastic toaster",
-   "caption": "When did something you bought last outlive its warranty? 🤔\n\nThe old toaster was heavy, plain and built for decades. The new one is light, shiny and cheaper to replace than to fix.\n\nSomewhere along the way, new stopped meaning better.",
-   "note": "2026-10-11: swapped by hand for Luke's approved new-style test"
-  },
-  {
-   "date": "2026-10-13",
-   "n": 1,
-   "type": "oneliner",
-   "format": "single",
-   "style": "ai",
-   "title": "Free shipping, they said. You bought three things you didn't need.",
-   "topic": "Free-shipping thresholds make us buy more",
-   "slides": [
-    "Free shipping, they said. You bought three things you didn't need."
-   ],
-   "sources": [],
-   "imageFolder": "posts/oldcrow/2026-10-13/1-oneliner",
-   "facebook": {
-    "postId": "6acd4e36a36dd851812ff620",
-    "plannedAt": "2026-10-13T09:00:00-04:00"
-   },
-   "status": "sent",
-   "metaCheck": "passed",
-   "metrics": {
-    "facebook": {
-     "reactions": 10,
-     "comments": 0,
-     "impressions": 1233,
-     "shares": 2,
-     "clicks": 8,
-     "engagementRate": 0.0097,
-     "bufferEngagementRatePct": 1.62,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "line": "Free shipping, they said. You bought three things you didn't need.",
-   "caption": "Saved nothing, spent plenty."
-  },
-  {
-   "date": "2026-10-13",
-   "n": 2,
-   "type": "question",
-   "format": "single",
-   "style": "illus",
-   "title": "Who picked 10,000 steps?",
-   "topic": "The 10,000 steps daily goal and the manpo-kei pedometer",
-   "object": "clip-on step counter",
-   "slides": [
-    "WHO PICKED 10,000 STEPS?"
-   ],
-   "sources": [
-    "https://www.wbur.org/news/2019/05/29/10000-steps-longevity-older-women-study",
-    "https://news.harvard.edu/gazette/story/2019/06/for-older-women-just-7500-steps-a-day-lowers-mortality"
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-13/2-question",
-   "facebook": {
-    "postId": "6acd4e395562ebe80f6ce0e0",
-    "plannedAt": "2026-10-13T19:12:00-04:00"
-   },
-   "status": "sent",
-   "metaCheck": "passed",
-   "metrics": {
-    "facebook": {
-     "reactions": 1,
-     "comments": 0,
-     "impressions": 740,
-     "shares": 1,
-     "clicks": 13,
-     "engagementRate": 0.0027,
-     "bufferEngagementRatePct": 2.03,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "caption": "Your phone gives a little cheer when you reach 10,000 steps. Have you ever wondered who picked that number?\n\nThe goal may trace back to 1965, when a pedometer was sold under the name manpo-kei. In English that's roughly \"10,000 steps meter.\" A catchy number on a gadget, long before anyone had tested it.\n\nDecades later, a Harvard-led study followed more than 16,000 older women wearing step counters. Their risk of death kept falling as daily steps rose, then levelled off around 7,500. It was one study of one group of women, so it's no rule for anyone. Still, it shows how a round number can settle into our heads and stay there.\n\nThe old raven keeps a little step counter on his desk and looks at it fondly. A number can be a friendly nudge. It just helps to know where it came from.\n\nWhich number do you chase most days, and who gave it to you?\n\n#OldCrow #Walking #DailySteps"
-  },
-  {
-   "date": "2026-10-14",
-   "format": "single",
-   "style": "ai",
-   "theme": null,
-   "sources": [],
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 55,
-     "comments": 2,
-     "impressions": 10563,
-     "shares": 8,
-     "clicks": 241,
-     "engagementRate": 0.0062,
-     "bufferEngagementRatePct": 2.89,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "metaCheck": "passed",
-   "n": 1,
-   "type": "thennow",
-   "title": "Repairable then. Disposable now.",
-   "topic": "Phone repairability: removable battery vs sealed slab",
-   "headline": "REPAIRABLE THEN. DISPOSABLE NOW.",
-   "then": "flip phone with removable battery",
-   "now": "sealed cracked glass slab phone",
-   "slides": [
-    "slide1"
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-14/1-thennow",
-   "caption": "Remember when a dead phone battery meant a ten-second fix? 🔋",
-   "facebook": {
-    "postId": "6ace9f6063a12fa737242f38",
-    "plannedAt": "2026-10-14T09:04:00-04:00"
-   }
-  },
-  {
-   "date": "2026-10-14",
-   "format": "single",
-   "style": "ai",
-   "theme": null,
-   "sources": [],
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 19,
-     "comments": 0,
-     "impressions": 2023,
-     "shares": 2,
-     "clicks": 27,
-     "engagementRate": 0.0104,
-     "bufferEngagementRatePct": 2.37,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "metaCheck": "passed",
-   "n": 2,
-   "type": "oneliner",
-   "title": "Nobody sells things anymore. Everything is a monthly plan.",
-   "topic": "Subscriptions replacing ownership",
-   "line": "Nobody sells things anymore. Everything is a monthly plan.",
-   "slides": [
-    "slide1"
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-14/2-oneliner",
-   "caption": "Cancel anytime. Allegedly.",
-   "facebook": {
-    "postId": "6ace9f62bd46a7db7a0295d4",
-    "plannedAt": "2026-10-14T20:02:00-04:00"
-   }
-  },
-  {
-   "date": "2026-10-15",
-   "n": 1,
-   "type": "sold",
-   "format": "single",
-   "style": "illus",
-   "theme": null,
-   "title": "Who Said Carrots Help You See?",
-   "topic": "Carrots and night vision: WWII British Ministry of Food campaign",
-   "slides": [
-    {
-     "text": "Who Said Carrots Help You See?"
-    }
-   ],
-   "sources": [
-    {
-     "item": "WWII British carrot campaign, slogan, surplus",
-     "source": "Smithsonian Magazine; Today I Found Out"
+      "date": "2026-10-07",
+      "n": 2,
+      "type": "question",
+      "format": "single",
+      "style": "tweet",
+      "theme": "black",
+      "title": "Who decided your lawn had to be just grass?",
+      "topic": "Why lawns are just short grass",
+      "slides": [
+        {
+          "text": "Who decided **your lawn** had to be just grass?",
+          "scene": ""
+        }
+      ],
+      "sources": [],
+      "caption": "Somewhere along the way, a short green lawn became the polite thing to own. What would you grow there if nobody was watching?\n\n#OldCrow #LawnCare #Gardening",
+      "imageFolder": "posts/oldcrow/2026-10-07/2-question",
+      "facebook": {
+        "postId": "6ac62aad86b36af245de4cc6",
+        "plannedAt": "2026-10-07T10:51:00-04:00"
+      },
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 1,
+          "comments": 0,
+          "engagementRate": 0.0083,
+          "impressions": 121,
+          "shares": 0,
+          "clicks": 1,
+          "bufferEngagementRatePct": 1.65,
+          "measuredAt": "2026-10-13T12:36:34.316Z"
+        }
+      },
+      "note": "switched illus->tweet: image connector missing"
     },
     {
-     "item": "Vitamin A deficiency causes night blindness; extra carrots don't improve healthy vision",
-     "source": "Scientific American; Today I Found Out"
-    }
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-15/1-sold",
-   "facebook": {
-    "postId": "6acff13cd7ed7764890b9015",
-    "plannedAt": "2026-10-15T09:25:00-04:00"
-   },
-   "status": "sent",
-   "caption": "Britain's wartime posters told people that carrots help you see in the blackout. Have you ever wondered where the idea that carrots give you sharp eyes came from?\n\nIn the early 1940s, Britain was dealing with blackouts at night and food shortages from the war at sea. The Ministry of Food leaned hard on home-grown vegetables, and carrots grew well and plentifully. Posters, cartoon characters like Dr. Carrot and radio recipes all pushed them, with a promise that they would help you see in the dark. By 1942 there was a carrot surplus to get through.\n\nThere is a grain of truth in it. Vitamin A matters for vision, and a lack of it can cause night blindness. But eating extra carrots does not give an otherwise healthy person sharper night sight. The idea stuck anyway, and it is still handed to children at dinner tables today.\n\nThe old raven likes a good carrot, mostly for the crunch. A kind story can travel a very long way when it is told over a good meal.\n\nWhat food were you told as a child would do something special for you?\n\n#OldCrow #Carrots #WWII",
-   "metaCheck": "passed",
-   "metrics": {
-    "facebook": {
-     "reactions": 13,
-     "comments": 0,
-     "impressions": 1283,
-     "shares": 4,
-     "clicks": 47,
-     "engagementRate": 0.0133,
-     "bufferEngagementRatePct": 4.99,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "postIds": {
-    "facebook": "6acff13cd7ed7764890b9015"
-   }
-  },
-  {
-   "date": "2026-10-15",
-   "n": 2,
-   "type": "oneliner",
-   "format": "single",
-   "style": "ai",
-   "theme": null,
-   "title": "Work hard, they said. Your reward: more work.",
-   "topic": "Working hard just earns more work",
-   "slides": [
+      "date": "2026-10-07",
+      "n": 3,
+      "type": "thennow",
+      "format": "single",
+      "style": "illus",
+      "title": "The Kitchen Chair",
+      "topic": "Kitchen chair: solid wood joinery vs particleboard flat-pack",
+      "slides": [
+        "THE KITCHEN CHAIR"
+      ],
+      "caption": "A kitchen chair used to be solid wood, joined to last a lifetime. Many today are pressed board held together with screws. How long do you expect a chair to last?\n\n#OldCrow #Furniture #VintageFurniture",
+      "sources": [
+        {
+          "item": "Older chairs: solid wood with mortise-and-tenon joints; many modern ones particleboard with cam-lock screws",
+          "source": "Furniture construction references (Studio Matrx: materials and manufacture; furniture joinery)"
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-07/3-thennow",
+      "facebook": {
+        "postId": "6ac63cec825ce6f477e8afed",
+        "plannedAt": "2026-10-07T09:55:00-04:00"
+      },
+      "status": "sent",
+      "note": "made up by hand after am run skipped it (image tool not loaded)",
+      "metrics": {
+        "facebook": {
+          "reactions": 2,
+          "comments": 0,
+          "engagementRate": 0.0145,
+          "impressions": 207,
+          "shares": 1,
+          "clicks": 2,
+          "bufferEngagementRatePct": 2.42,
+          "measuredAt": "2026-10-13T12:36:34.316Z"
+        }
+      }
+    },
     {
-     "text": "Work hard, they said. Your reward: more work."
-    }
-   ],
-   "sources": [],
-   "imageFolder": "posts/oldcrow/2026-10-15/2-oneliner",
-   "facebook": {
-    "postId": "6acff13dad454aea56cf0dfa",
-    "plannedAt": "2026-10-15T19:43:00-04:00"
-   },
-   "status": "sent",
-   "caption": "Efficiency, apparently.",
-   "metaCheck": "passed",
-   "metrics": {
-    "facebook": {
-     "reactions": 135,
-     "comments": 7,
-     "impressions": 13722,
-     "shares": 49,
-     "clicks": 223,
-     "engagementRate": 0.0139,
-     "bufferEngagementRatePct": 3.02,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "line": "Work hard, they said. Your reward: more work.",
-   "postIds": {
-    "facebook": "6acff13dad454aea56cf0dfa"
-   }
-  },
-  {
-   "date": "2026-10-17",
-   "n": 1,
-   "type": "oneliner",
-   "format": "single",
-   "style": "ai",
-   "title": "Time-saving gadgets everywhere. Somehow nobody has any time.",
-   "topic": "Saving time, technology and busyness",
-   "slides": 1,
-   "imageFolder": "posts/oldcrow/2026-10-17/1-oneliner",
-   "facebook": {
-    "postId": "6ad2144cb948bf9e9d935669",
-    "plannedAt": "2026-10-17T09:45:00-04:00"
-   },
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 10,
-     "comments": 0,
-     "impressions": 1287,
-     "shares": 3,
-     "clicks": 14,
-     "engagementRate": 0.0101,
-     "bufferEngagementRatePct": 2.1,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "metaCheck": "passed",
-   "caption": "The clock disagrees.",
-   "line": "Time-saving gadgets everywhere. Somehow nobody has any time."
-  },
-  {
-   "date": "2026-10-17",
-   "n": 2,
-   "type": "thennow",
-   "format": "single",
-   "style": "ai",
-   "title": "Owned then. Rented now.",
-   "topic": "Owning movies vs streaming access",
-   "slides": 1,
-   "imageFolder": "posts/oldcrow/2026-10-17/2-thennow",
-   "facebook": {
-    "postId": "6ad2144e25d13dd62ee595f5",
-    "plannedAt": "2026-10-17T12:58:00-04:00"
-   },
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 23,
-     "comments": 0,
-     "impressions": 2875,
-     "shares": 8,
-     "clicks": 51,
-     "engagementRate": 0.0108,
-     "bufferEngagementRatePct": 2.85,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "metaCheck": "passed",
-   "caption": "Do you still own any movies, or just access to them? 🤔\n\nA shelf of discs stayed yours for as long as you kept them. A streaming library can lose a title overnight, and there is nothing to hold on to when it goes.\n\nSome things are only yours while someone allows it.",
-   "headline": "OWNED THEN. RENTED NOW. / stack of boxed discs -> phone with padlock",
-   "note": "Replaced the told-or-sold style question post on 2026-10-16 (Luke removed that style)."
-  },
-  {
-   "date": "2026-10-17",
-   "n": 3,
-   "type": "oneliner",
-   "format": "single",
-   "style": "ai",
-   "title": "You saved fifty dollars. By spending two hundred.",
-   "topic": "Sale savings that make us spend more",
-   "slides": 1,
-   "imageFolder": "posts/oldcrow/2026-10-17/3-oneliner",
-   "facebook": {
-    "postId": "6ad21450f24c5797a23ad62c",
-    "plannedAt": "2026-10-17T15:42:00-04:00"
-   },
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 69,
-     "comments": 1,
-     "impressions": 7610,
-     "shares": 13,
-     "clicks": 161,
-     "engagementRate": 0.0109,
-     "bufferEngagementRatePct": 3.21,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "metaCheck": "passed",
-   "caption": "Great deal, technically.",
-   "line": "You saved fifty dollars. By spending two hundred."
-  },
-  {
-   "date": "2026-10-16",
-   "n": 1,
-   "type": "sold",
-   "format": "single",
-   "style": "illus",
-   "title": "Who Sold Us Mother's Day?",
-   "topic": "Anna Jarvis and the commercialization of Mother's Day",
-   "slides": 1,
-   "imageFolder": "posts/oldcrow/2026-10-16/1-sold",
-   "facebook": {
-    "postId": "6ad2154f63c879f95857ffc5",
-    "plannedAt": "2026-10-16T10:12:00-04:00"
-   },
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 2,
-     "comments": 0,
-     "impressions": 368,
-     "shares": 0,
-     "clicks": 4,
-     "engagementRate": 0.0054,
-     "bufferEngagementRatePct": 1.63,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "metaCheck": "passed",
-   "sources": [
-    "history.com: why the founder of Mother's Day turned against it"
-   ]
-  },
-  {
-   "date": "2026-10-16",
-   "n": 2,
-   "type": "thennow",
-   "format": "single",
-   "style": "ai",
-   "title": "Mended then. Tossed now.",
-   "topic": "Darned wool sock vs thin disposable sock",
-   "slides": 1,
-   "imageFolder": "posts/oldcrow/2026-10-16/2-thennow",
-   "facebook": {
-    "postId": "6ad2152fb948bf9e9d9395b1",
-    "plannedAt": "2026-10-16T13:02:00-04:00"
-   },
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 69,
-     "comments": 3,
-     "impressions": 16734,
-     "shares": 10,
-     "clicks": 346,
-     "engagementRate": 0.0049,
-     "bufferEngagementRatePct": 2.56,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "metaCheck": "passed",
-   "headline": "MENDED THEN. TOSSED NOW.",
-   "then": "darned wool sock",
-   "now": "worn-through thin sock",
-   "caption": "When did you last darn a sock instead of tossing it?"
-  },
-  {
-   "date": "2026-10-16",
-   "n": 3,
-   "type": "oneliner",
-   "format": "single",
-   "style": "ai",
-   "title": "Everyone wants a quiet life. Until the wifi goes down.",
-   "topic": "Quiet life vs constant connectivity",
-   "slides": 1,
-   "imageFolder": "posts/oldcrow/2026-10-16/3-oneliner",
-   "facebook": {
-    "postId": "6ad2152c1ffe4709802c1918",
-    "plannedAt": "2026-10-16T16:03:00-04:00"
-   },
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 62,
-     "comments": 0,
-     "impressions": 5396,
-     "shares": 12,
-     "clicks": 51,
-     "engagementRate": 0.0137,
-     "bufferEngagementRatePct": 2.32,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "metaCheck": "passed",
-   "line": "Everyone wants a quiet life. Until the wifi goes down.",
-   "caption": "Peace is overrated."
-  },
-  {
-   "date": "2026-10-17",
-   "n": 4,
-   "type": "thennow",
-   "format": "single",
-   "style": "ai",
-   "title": "Big bag. Mostly air.",
-   "topic": "Snack bags that are mostly air",
-   "slides": 1,
-   "imageFolder": "posts/oldcrow/2026-10-17/4-thennow",
-   "facebook": {
-    "postId": "6ad28b3ec19525fddd399891",
-    "plannedAt": "2026-10-17T20:27:00-04:00"
-   },
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 261,
-     "comments": 9,
-     "impressions": 34609,
-     "shares": 62,
-     "clicks": 831,
-     "engagementRate": 0.0096,
-     "bufferEngagementRatePct": 3.35,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "metaCheck": "passed",
-   "headline": "BIG BAG. MOSTLY AIR. / small full paper bag -> puffed foil bag with few chips",
-   "caption": "When did you last open a snack bag and find it half empty? 😏\n\nThe bag keeps getting bigger on the shelf while the amount inside quietly shrinks. A good share of what you pay for is air.\n\nSome packaging is built to be looked at, not filled."
-  },
-  {
-   "date": "2026-10-18",
-   "n": 1,
-   "type": "oneliner",
-   "format": "single",
-   "style": "ai",
-   "title": "Nobody remembers the meeting. Everybody remembers who helped stack the chairs.",
-   "topic": "Helping others is what people remember",
-   "line": "Nobody remembers the meeting. Everybody remembers who helped stack the chairs.",
-   "caption": "Stack the chairs.",
-   "slides": [
+      "date": "2026-10-07",
+      "n": 4,
+      "type": "price",
+      "format": "single",
+      "style": "illus",
+      "title": "A New House in Years of Work",
+      "topic": "A new house in years of work",
+      "slides": [
+        "1970 | 3.3 years | $23,400\n2025 | 6.4 years | $417,400"
+      ],
+      "caption": "In 1970 a new house cost about three years of an average worker's pay. Today it takes more than six. What would you do with those extra years?\n\n#OldCrow #HousingMarket #RealEstate",
+      "sources": [
+        {
+          "item": "Median sales price of new houses sold: $23,400 (1970), $417,400 (2025)",
+          "source": "U.S. Census Bureau via FRED MSPNHSUSA"
+        },
+        {
+          "item": "Avg hourly earnings, production & nonsupervisory: ~$3.40 (1970), ~$31.37 (2025); x2,080 h",
+          "source": "BLS CES via FRED CEU0500000008"
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-07/4-price",
+      "facebook": {
+        "postId": "6ac63cef8c3015cd3eae459c",
+        "plannedAt": "2026-10-07T13:53:00-04:00"
+      },
+      "status": "sent",
+      "note": "made up by hand after am run skipped it (image tool not loaded)",
+      "metrics": {
+        "facebook": {
+          "reactions": 0,
+          "comments": 0,
+          "engagementRate": 0.0,
+          "impressions": 113,
+          "shares": 0,
+          "clicks": 0,
+          "bufferEngagementRatePct": 0,
+          "measuredAt": "2026-10-13T12:36:34.316Z"
+        }
+      }
+    },
     {
-     "text": "Nobody remembers the meeting. Everybody remembers who helped stack the chairs."
-    }
-   ],
-   "sources": [],
-   "imageFolder": "posts/oldcrow/2026-10-18/1-oneliner",
-   "facebook": {
-    "postId": "6ad3dd44938409f1d0a0b41b",
-    "plannedAt": "2026-10-18T10:08:00-04:00"
-   },
-   "status": "sent",
-   "metaCheck": "passed",
-   "metrics": {
-    "facebook": {
-     "reactions": 272,
-     "comments": 6,
-     "impressions": 49098,
-     "shares": 21,
-     "clicks": 1552,
-     "engagementRate": 0.0061,
-     "bufferEngagementRatePct": 3.77,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   }
-  },
-  {
-   "date": "2026-10-18",
-   "n": 2,
-   "type": "oneliner",
-   "format": "single",
-   "style": "ai",
-   "title": "Just a small fee, they said. Then another small fee.",
-   "topic": "Small fees that add up",
-   "line": "Just a small fee, they said. Then another small fee.",
-   "caption": "Itemized, of course.",
-   "slides": [
+      "date": "2026-10-07",
+      "n": 5,
+      "type": "question",
+      "format": "single",
+      "style": "tweet",
+      "theme": "light",
+      "title": "When did you last eat lunch away from your desk?",
+      "topic": "Eating lunch at your desk",
+      "slides": [
+        "When did you last eat lunch away from your desk?"
+      ],
+      "caption": "A sandwich over the keyboard has started to feel normal. Where would you eat if the whole hour were yours?\n\n#OldCrow #WorkLifeBalance",
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-07/5-question",
+      "facebook": {
+        "postId": "6ac69ad2819a4d01246b9f48",
+        "plannedAt": "2026-10-07T18:21:00-04:00"
+      },
+      "status": "deleted-by-luke",
+      "metrics": {},
+      "note": "Luke deleted this from Buffer on purpose (Oct 7 evening). Not a problem."
+    },
     {
-     "text": "Just a small fee, they said. Then another small fee."
-    }
-   ],
-   "sources": [],
-   "imageFolder": "posts/oldcrow/2026-10-18/2-oneliner",
-   "facebook": {
-    "postId": "6ad3dd46ae173d6e00d1c03a",
-    "plannedAt": "2026-10-18T13:14:00-04:00"
-   },
-   "status": "sent",
-   "metaCheck": "passed",
-   "metrics": {
-    "facebook": {
-     "reactions": 56,
-     "comments": 2,
-     "impressions": 5079,
-     "shares": 10,
-     "clicks": 72,
-     "engagementRate": 0.0134,
-     "bufferEngagementRatePct": 2.76,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   }
-  },
-  {
-   "date": "2026-10-18",
-   "n": 3,
-   "type": "oneliner",
-   "format": "single",
-   "style": "ai",
-   "title": "Meetings that could have been emails. Emails that could have been silence.",
-   "topic": "Too many meetings and emails",
-   "line": "Meetings that could have been emails. Emails that could have been silence.",
-   "caption": "Reply all.",
-   "slides": [
+      "date": "2026-10-07",
+      "n": 6,
+      "type": "thennow",
+      "format": "single",
+      "style": "illus",
+      "theme": null,
+      "title": "The Glass Baking Dish",
+      "topic": "Glass baking dish: borosilicate vs tempered soda-lime",
+      "object": "glass baking dish",
+      "slides": [
+        "The glass baking dish"
+      ],
+      "caption": "The first glass baking dishes were borosilicate, made to take sudden heat. Many sold today are cheaper soda-lime glass that handles it less well. Would you move yours from fridge to oven?\n\n#OldCrow #Baking #Cookware",
+      "sources": [
+        {
+          "item": "Pyrex sold from 1915 in borosilicate glass; US consumer Pyrex moved to cheaper tempered soda-lime (from 1950s, almost all by 1998); borosilicate resists thermal shock about 3x better; soda-lime stronger when dropped; Consumer Reports Jan 2011 tests",
+          "source": "Wikipedia: Pyrex (citing Consumer Reports 2011, Bradt & Martens, Carter & Norton)"
+        },
+        {
+          "item": "World Kitchen changed US kitchenware to less expensive tempered soda-lime after 1998; soda-lime handles heat less well",
+          "source": "Iowa State University Extension AnswerLine, 'Glass Kitchenware Cautions' (2019)"
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-07/6-thennow",
+      "facebook": {
+        "postId": "6ac69ad405769b096e3f70f1",
+        "plannedAt": "2026-10-07T18:55:00-04:00"
+      },
+      "status": "deleted-by-luke",
+      "metrics": {},
+      "note": "Luke deleted this from Buffer on purpose (Oct 7 evening). Not a problem."
+    },
     {
-     "text": "Meetings that could have been emails. Emails that could have been silence."
-    }
-   ],
-   "sources": [],
-   "imageFolder": "posts/oldcrow/2026-10-18/3-oneliner",
-   "facebook": {
-    "postId": "6ad3dd49ae173d6e00d1c0a7",
-    "plannedAt": "2026-10-18T16:42:00-04:00"
-   },
-   "status": "deleted-by-luke",
-   "metaCheck": "passed",
-   "metrics": {},
-   "note": "removed at Luke's request when Old Crow dropped to 3 posts a day"
-  },
-  {
-   "date": "2026-10-18",
-   "n": 4,
-   "type": "oneliner",
-   "format": "single",
-   "style": "ai",
-   "title": "Tomorrow I'll start. Tomorrow is very busy.",
-   "topic": "Putting off good habits",
-   "line": "Tomorrow I'll start. Tomorrow is very busy.",
-   "caption": "Tomorrow, probably.",
-   "slides": [
+      "date": "2026-10-07",
+      "n": 7,
+      "type": "sold",
+      "format": "single",
+      "style": "illus",
+      "title": "Who Made Breakfast So Important?",
+      "topic": "Breakfast as the most important meal of the day",
+      "slides": [
+        "WHO MADE BREAKFAST SO IMPORTANT?"
+      ],
+      "caption": "(see Buffer post)",
+      "sources": [
+        {
+          "item": "1917 Good Health article by Lenna Cooper; magazine edited by John Harvey Kellogg",
+          "source": "HuffPost Canada, 2014"
+        },
+        {
+          "item": "Edward Bernays bacon-and-eggs breakfast campaign",
+          "source": "HuffPost Canada, 2014"
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-07/7-sold",
+      "facebook": {
+        "postId": "6ac6c5682977c961bdb958e4",
+        "plannedAt": "2026-10-07T20:25:00-04:00"
+      },
+      "status": "sent",
+      "metaCheck": "passed",
+      "note": "made by hand after the queue was cleared",
+      "metrics": {
+        "facebook": {
+          "reactions": 3,
+          "comments": 0,
+          "engagementRate": 0.0102,
+          "impressions": 294,
+          "shares": 0,
+          "clicks": 6,
+          "bufferEngagementRatePct": 3.06,
+          "measuredAt": "2026-10-14T11:36:39.340Z"
+        }
+      }
+    },
     {
-     "text": "Tomorrow I'll start. Tomorrow is very busy."
-    }
-   ],
-   "sources": [],
-   "imageFolder": "posts/oldcrow/2026-10-18/4-oneliner",
-   "facebook": {
-    "postId": "6ad3dd4b0b0d72757af319f1",
-    "plannedAt": "2026-10-18T20:24:00-04:00"
-   },
-   "status": "sent",
-   "metaCheck": "passed",
-   "metrics": {
-    "facebook": {
-     "reactions": 14,
-     "comments": 0,
-     "impressions": 3220,
-     "shares": 1,
-     "clicks": 34,
-     "engagementRate": 0.0047,
-     "bufferEngagementRatePct": 1.52,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   }
-  },
-  {
-   "date": "2026-10-19",
-   "format": "single",
-   "style": "ai",
-   "theme": null,
-   "sources": [],
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 15,
-     "comments": 1,
-     "impressions": 2175,
-     "shares": 1,
-     "clicks": 28,
-     "engagementRate": 0.0078,
-     "bufferEngagementRatePct": 2.07,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "metaCheck": "passed",
-   "n": 1,
-   "type": "oneliner",
-   "title": "Your phone knows where you are. You don't know where your evening went.",
-   "line": "Your phone knows where you are. You don't know where your evening went.",
-   "topic": "Phones eating the evening",
-   "object": "glowing phone and floor lamp",
-   "caption": "Location services: on.",
-   "slides": [
+      "date": "2026-10-08",
+      "n": 1,
+      "type": "sold",
+      "format": "single",
+      "style": "illus",
+      "theme": null,
+      "title": "Who Made Bad Breath a Problem?",
+      "topic": "Listerine and the halitosis campaign",
+      "slides": [
+        "WHO MADE BAD BREATH A PROBLEM?"
+      ],
+      "sources": [
+        {
+          "item": "Listerine 1879 antiseptic, floor cleaner",
+          "source": "Wikipedia Listerine; FOHBC Bridesmaid & Listerine 2007"
+        },
+        {
+          "item": "Halitosis campaign, Edna, $115,000 to $8 million in seven years",
+          "source": "FOHBC article citing James Twitchell; Smithsonian Magazine"
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-08/1-sold",
+      "facebook": {
+        "postId": "6ac78050e63932e2c59d6ed8",
+        "plannedAt": "2026-10-08T09:50:00-04:00"
+      },
+      "status": "sent",
+      "metaCheck": "passed (softened an unsupported line in caption)",
+      "metrics": {
+        "facebook": {
+          "reactions": 3,
+          "comments": 0,
+          "impressions": 366,
+          "shares": 0,
+          "clicks": 8,
+          "engagementRate": 0.0082,
+          "bufferEngagementRatePct": 3.01,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      }
+    },
     {
-     "text": "Your phone knows where you are. You don't know where your evening went."
-    }
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-19/1-oneliner",
-   "facebook": {
-    "postId": "6ad52ee5ae173d6e00192dc1",
-    "plannedAt": "2026-10-19T10:04:00-04:00"
-   }
-  },
-  {
-   "date": "2026-10-19",
-   "format": "single",
-   "style": "ai",
-   "theme": null,
-   "sources": [],
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 7,
-     "comments": 0,
-     "impressions": 1087,
-     "shares": 2,
-     "clicks": 13,
-     "engagementRate": 0.0083,
-     "bufferEngagementRatePct": 2.02,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "metaCheck": "passed",
-   "n": 2,
-   "type": "thennow",
-   "title": "More photos than ever. Seen any?",
-   "headline": "MORE PHOTOS THAN EVER. SEEN ANY?",
-   "then": "worn leather photo album with a few printed snapshots",
-   "now": "phone crammed with hundreds of tiny photo thumbnails",
-   "topic": "Photo albums vs thousands of unseen phone photos",
-   "caption": "When did you last scroll back to a photo from five years ago? 🤔\n\nA family once filled an album and pulled it off the shelf when people came over. Now one phone holds thousands of pictures, and most of them just sit there.\n\nTaking a picture was never the same as keeping it.",
-   "slides": [
+      "date": "2026-10-08",
+      "n": 2,
+      "type": "note",
+      "format": "single",
+      "style": "illus",
+      "title": "A Bigger House",
+      "topic": "A bigger house as something we're sold",
+      "slides": [
+        "A bigger house gave us more rooms to fill and more to pay for."
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-08/2-note",
+      "facebook": {
+        "postId": "6ac7a173e63932e2c5a4841b",
+        "plannedAt": "2026-10-08T13:05:00-04:00"
+      },
+      "status": "sent",
+      "metaCheck": "passed",
+      "note": "made by hand: the am run planned it but didn't finish it",
+      "metrics": {
+        "facebook": {
+          "reactions": 10,
+          "comments": 1,
+          "impressions": 1187,
+          "shares": 0,
+          "clicks": 32,
+          "engagementRate": 0.0093,
+          "bufferEngagementRatePct": 3.62,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      }
+    },
     {
-     "text": "MORE PHOTOS THAN EVER. SEEN ANY?"
-    }
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-19/2-thennow",
-   "experiment": "Then vs Now on a non-product theme (photos/memory)",
-   "facebook": {
-    "postId": "6ad52ee8769b457934db9454",
-    "plannedAt": "2026-10-19T12:52:00-04:00"
-   }
-  },
-  {
-   "date": "2026-10-19",
-   "format": "single",
-   "style": "ai",
-   "theme": null,
-   "sources": [],
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 7,
-     "comments": 0,
-     "impressions": 720,
-     "shares": 4,
-     "clicks": 7,
-     "engagementRate": 0.0153,
-     "bufferEngagementRatePct": 2.5,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "metaCheck": "passed",
-   "n": 3,
-   "type": "oneliner",
-   "title": "Buy now, pay later. Later always shows up.",
-   "line": "Buy now, pay later. Later always shows up.",
-   "topic": "Buy now, pay later catching up",
-   "object": "shopping bag and stack of envelopes at the front door",
-   "caption": "Right on schedule.",
-   "slides": [
+      "date": "2026-10-08",
+      "n": 3,
+      "type": "question",
+      "format": "single",
+      "style": "illus",
+      "theme": null,
+      "title": "Who taught you the date on the carton is the day it spoils?",
+      "topic": "Best-before dates on food as a spoil date",
+      "object": "yogurt cup",
+      "slides": [
+        {
+          "text": "Who taught you the date on the carton is the day it spoils?",
+          "scene": "Medium shot of the old raven alone in a warm, lamp-lit home kitchen at evening, standing at an open refrigerator. He holds a small plain unbranded yogurt carton close, tilting it to study the small printed date on the lid with a calm, curious, slightly amused expression. Fridge shelves behind him hold plain unlabeled jars and vegetables. Warm golden light. No readable text, no logos.",
+          "image": "img1.jpg"
+        }
+      ],
+      "caption": "There's a moment most of us know: the yogurt says yesterday, and it goes in the bin before anyone looks inside.\n\nMost of those dates were never about safety. In the US, the only date food law requires is the one on infant formula. A \"best if used by\" date is the maker's or the store's estimate of when the food tastes its best. Canada works much the same way: best-before dates are about quality, and true expiration dates are kept for a short list of things like meal replacements and nutritional supplements.\n\nThe FDA estimates that confusion over these labels accounts for about a fifth of the food thrown away at home. That's groceries someone worked hours to pay for.\n\nThe old raven still respects his fridge. Food that's been stored well should stay good past a best-before date, and food that has spoiled goes out, whatever the label says. He just likes to know what a number means before he lets it decide for him.\n\nWhat's the last thing you threw out only because of the date?\n\n#OldCrow #FoodWaste #ZeroWaste",
+      "sources": [
+        "https://www.fda.gov/news-events/fda-voices-perspectives-fda-leadership-and-experts/working-food-industry-reduce-confusion-over-date-labels/",
+        "https://www.usda.gov/sites/default/files/guidance-documents/FSIS.%20Food%20Product%20Dating.pdf",
+        "https://recalls-rappels.canada.ca/en/node/61386/revisions/3584375/view"
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-08/3-question",
+      "facebook": {
+        "postId": "6ac7ed215b76911addde801e",
+        "plannedAt": "2026-10-08T19:56:00-04:00"
+      },
+      "status": "sent",
+      "metaCheck": "passed (avoided implying smell is a safety test, per CFIA)",
+      "metrics": {
+        "facebook": {
+          "reactions": 6,
+          "comments": 0,
+          "impressions": 554,
+          "shares": 1,
+          "clicks": 11,
+          "engagementRate": 0.0126,
+          "bufferEngagementRatePct": 3.25,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      }
+    },
     {
-     "text": "Buy now, pay later. Later always shows up."
-    }
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-19/3-oneliner",
-   "facebook": {
-    "postId": "6ad52eec0a208cb3237ec24a",
-    "plannedAt": "2026-10-19T19:37:00-04:00"
-   }
-  },
-  {
-   "date": "2026-10-20",
-   "format": "single",
-   "style": "ai",
-   "theme": null,
-   "sources": [],
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 7,
-     "comments": 0,
-     "impressions": 838,
-     "shares": 0,
-     "clicks": 8,
-     "engagementRate": 0.0084,
-     "bufferEngagementRatePct": 1.79,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "metaCheck": "passed",
-   "n": 1,
-   "type": "thennow",
-   "title": "Who borrows sugar anymore?",
-   "headline": "WHO BORROWS SUGAR ANYMORE?",
-   "then": "floral china teacup heaped with sugar",
-   "now": "phone showing a delivery scooter on a map",
-   "topic": "Borrowing from neighbours vs delivery apps (community)",
-   "caption": "When did you last knock on a neighbour's door to borrow something? 👀\n\nA cup of sugar used to come with a chat on the porch. Now it arrives on a scooter, and you rarely learn anyone's name.\n\nSome errands were never really about the sugar.",
-   "slides": [
+      "date": "2026-10-09",
+      "n": 1,
+      "type": "sold",
+      "format": "single",
+      "style": "illus",
+      "title": "Who Said 8 Glasses a Day?",
+      "topic": "Eight glasses of water a day",
+      "facebook": {
+        "postId": "6ac8eb9ba831a551439dfbe4",
+        "plannedAt": "2026-10-09T10:25:00-04:00"
+      },
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 7,
+          "comments": 0,
+          "impressions": 1274,
+          "shares": 2,
+          "clicks": 41,
+          "engagementRate": 0.0071,
+          "bufferEngagementRatePct": 3.92,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "slides": [
+        "WHO SAID 8 GLASSES A DAY?"
+      ],
+      "sources": [
+        {
+          "item": "1945 Food and Nutrition Board: 2.5 L/day for adults; most contained in prepared foods",
+          "source": "Inverse, citing Vincent Ho"
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-09/1-sold",
+      "metaCheck": "passed",
+      "note": "made by hand: the am run skipped it because the image tool was switched off for scheduled tasks"
+    },
     {
-     "text": "WHO BORROWS SUGAR ANYMORE?"
-    }
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-20/1-thennow",
-   "experiment": "Then vs Now on a community theme (non-product), short-question headline",
-   "facebook": {
-    "postId": "6ad6808bc20ac6530890b5e8",
-    "plannedAt": "2026-10-20T09:50:00-04:00"
-   }
-  },
-  {
-   "date": "2026-10-20",
-   "format": "single",
-   "style": "ai",
-   "theme": null,
-   "sources": [],
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 19,
-     "comments": 0,
-     "impressions": 1819,
-     "shares": 9,
-     "clicks": 32,
-     "engagementRate": 0.0154,
-     "bufferEngagementRatePct": 3.3,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "metaCheck": "passed",
-   "n": 2,
-   "type": "oneliner",
-   "title": "Self-checkout. Congratulations, you work here now.",
-   "line": "Self-checkout. Congratulations, you work here now.",
-   "topic": "Self-checkout turns shoppers into unpaid cashiers",
-   "object": "self-checkout scanner, loaf of bread and receipt",
-   "caption": "No employee discount.",
-   "slides": [
+      "date": "2026-10-09",
+      "n": 2,
+      "type": "note",
+      "format": "single",
+      "style": "illus",
+      "title": "The Old Phone",
+      "topic": "Phone upgrades we're invited to",
+      "facebook": {
+        "postId": "6ac8eb9fa831a551439dfc83",
+        "plannedAt": "2026-10-09T12:34:00-04:00"
+      },
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 13,
+          "comments": 0,
+          "impressions": 1320,
+          "shares": 1,
+          "clicks": 24,
+          "engagementRate": 0.0106,
+          "bufferEngagementRatePct": 2.88,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "slides": [
+        "Nobody asked if the old phone still worked. They asked if we'd seen the new one."
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-09/2-note",
+      "metaCheck": "passed",
+      "note": "made by hand: the am run skipped it because the image tool was switched off for scheduled tasks"
+    },
     {
-     "text": "Self-checkout. Congratulations, you work here now."
-    }
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-20/2-oneliner",
-   "facebook": {
-    "postId": "6ad6808f614166e4ec344349",
-    "plannedAt": "2026-10-20T13:25:00-04:00"
-   },
-   "metaCheckNote": "passed; image regenerated once after a 502 gateway error"
-  },
-  {
-   "date": "2026-10-20",
-   "format": "single",
-   "style": "ai",
-   "theme": null,
-   "sources": [],
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 71,
-     "comments": 4,
-     "impressions": 4838,
-     "shares": 13,
-     "clicks": 82,
-     "engagementRate": 0.0182,
-     "bufferEngagementRatePct": 3.51,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "metaCheck": "passed",
-   "n": 3,
-   "type": "oneliner",
-   "title": "A thousand friends online. Nobody to help you move.",
-   "line": "A thousand friends online. Nobody to help you move.",
-   "topic": "Online friends vs real help",
-   "object": "cardboard moving box and packing tape",
-   "caption": "Bring your own boxes.",
-   "slides": [
+      "date": "2026-10-10",
+      "n": 1,
+      "type": "question",
+      "format": "single",
+      "style": "illus",
+      "title": "Who told you a gift means more if it costs more?",
+      "topic": "Expensive gifts vs meaningful ones",
+      "slides": [
+        "Who told you a gift means more if it costs more?"
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-10/1-question",
+      "facebook": {
+        "postId": "6aca49babba9419ccb055b05",
+        "plannedAt": "2026-10-10T11:29:00-04:00"
+      },
+      "status": "sent",
+      "metaCheck": "passed",
+      "note": "made by hand: morning run had no image tool",
+      "metrics": {
+        "facebook": {
+          "reactions": 7,
+          "comments": 0,
+          "impressions": 946,
+          "shares": 0,
+          "clicks": 27,
+          "engagementRate": 0.0074,
+          "bufferEngagementRatePct": 3.59,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      }
+    },
     {
-     "text": "A thousand friends online. Nobody to help you move."
-    }
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-20/3-oneliner",
-   "facebook": {
-    "postId": "6ad68091651afa7ffa113b7b",
-    "plannedAt": "2026-10-20T20:04:00-04:00"
-   }
-  },
-  {
-   "date": "2026-10-21",
-   "format": "single",
-   "style": "ai",
-   "theme": null,
-   "sources": [],
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 5,
-     "comments": 1,
-     "impressions": 616,
-     "shares": 0,
-     "clicks": 12,
-     "engagementRate": 0.0097,
-     "bufferEngagementRatePct": 2.92,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "metaCheck": "passed",
-   "n": 1,
-   "type": "oneliner",
-   "title": "Forty pages of terms. One tiny box that says I agree.",
-   "line": "Forty pages of terms. One tiny box that says I agree.",
-   "topic": "Agreeing to terms nobody reads",
-   "object": "endless paper scroll, fountain pen and tiny checkbox",
-   "caption": "Signed, sealed, unread.",
-   "slides": [
+      "date": "2026-10-10",
+      "n": 2,
+      "type": "sold",
+      "format": "single",
+      "style": "illus",
+      "title": "Why Do Light Bulbs Burn Out?",
+      "topic": "Phoebus cartel and the 1,000-hour light bulb",
+      "slides": [
+        "WHY DO LIGHT BULBS BURN OUT?"
+      ],
+      "sources": [
+        {
+          "item": "Phoebus cartel formed Dec 1924; 1,000-hour limit; fines; dissolved 1940; earlier bulbs up to 2,500 h",
+          "source": "Today I Found Out, 2020"
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-10/2-sold",
+      "facebook": {
+        "postId": "6aca49beed92ed8fa5cfac0c",
+        "plannedAt": "2026-10-10T19:35:00-04:00"
+      },
+      "status": "sent",
+      "metaCheck": "passed",
+      "note": "made by hand: morning run had no image tool",
+      "metrics": {
+        "facebook": {
+          "reactions": 5,
+          "comments": 0,
+          "impressions": 985,
+          "shares": 0,
+          "clicks": 23,
+          "engagementRate": 0.0051,
+          "bufferEngagementRatePct": 2.84,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      }
+    },
     {
-     "text": "Forty pages of terms. One tiny box that says I agree."
-    }
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-21/1-oneliner",
-   "facebook": {
-    "postId": "6ad7d1e03a9ca84966b4b6b7",
-    "plannedAt": "2026-10-21T09:39:00-04:00"
-   }
-  },
-  {
-   "date": "2026-10-21",
-   "format": "single",
-   "style": "ai",
-   "theme": null,
-   "sources": [],
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 5,
-     "comments": 0,
-     "impressions": 690,
-     "shares": 1,
-     "clicks": 17,
-     "engagementRate": 0.0087,
-     "bufferEngagementRatePct": 3.33,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "metaCheck": "passed",
-   "n": 2,
-   "type": "oneliner",
-   "title": "We all plan to arrive on time. We just never plan to leave.",
-   "line": "We all plan to arrive on time. We just never plan to leave.",
-   "topic": "Long goodbyes at the door (shared everyday moment)",
-   "object": "overcoat half on at an open front door, hat on a hook",
-   "caption": "Coat on. Still talking.",
-   "experiment": "shared everyday moment one-liner to invite natural comments (learnings Test next)",
-   "slides": [
+      "date": "2026-10-11",
+      "n": 1,
+      "type": "note",
+      "format": "single",
+      "style": "illus",
+      "title": "The sale always ends soon",
+      "topic": "Sale deadlines and urgency",
+      "slides": [
+        "The sale always ends soon. Have you noticed another one always starts?"
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-11/1-note",
+      "facebook": {
+        "postId": "6acaab37d9cab260a7d95a73",
+        "plannedAt": "2026-10-11T11:10:00-04:00"
+      },
+      "status": "sent",
+      "metaCheck": "passed (regenerated note image: first version showed a red circle resembling a national flag)",
+      "metrics": {
+        "facebook": {
+          "reactions": 3,
+          "comments": 0,
+          "impressions": 430,
+          "shares": 0,
+          "clicks": 2,
+          "engagementRate": 0.007,
+          "bufferEngagementRatePct": 1.16,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      }
+    },
     {
-     "text": "We all plan to arrive on time. We just never plan to leave."
-    }
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-21/2-oneliner",
-   "facebook": {
-    "postId": "6ad7d1ec65cedd57fee597dd",
-    "plannedAt": "2026-10-21T13:17:00-04:00"
-   }
-  },
-  {
-   "date": "2026-10-21",
-   "format": "single",
-   "style": "ai",
-   "theme": null,
-   "sources": [],
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 1,
-     "comments": 0,
-     "impressions": 76,
-     "shares": 0,
-     "clicks": 1,
-     "engagementRate": 0.0132,
-     "bufferEngagementRatePct": 2.63,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "metaCheck": "passed",
-   "n": 3,
-   "type": "thennow",
-   "title": "We used to know the way.",
-   "headline": "WE USED TO KNOW THE WAY.",
-   "then": "worn paper road map with a red-pencil route",
-   "now": "phone showing only a blue GPS arrow",
-   "topic": "Paper maps vs turn-by-turn GPS (skills by hand vs apps)",
-   "caption": "Could you still get across town if your phone died halfway there?\n\nPeople once unfolded a map at the kitchen table, picked a route and mostly remembered it. Now a calm voice calls out every turn, and we stop noticing the streets we pass.\n\nThe roads haven't changed. We just stopped looking at them.",
-   "slides": [
+      "date": "2026-10-11",
+      "n": 2,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "title": "Everyone wants honest advice. Until they get it.",
+      "topic": "Saving the good dishes for a special occasion",
+      "slides": [
+        "EVERYONE WANTS HONEST ADVICE. UNTIL THEY GET IT."
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-11/2-oneliner",
+      "facebook": {
+        "postId": "6acaab39bba9419ccb16500f",
+        "plannedAt": "2026-10-11T20:39:00-04:00"
+      },
+      "status": "sent",
+      "metaCheck": "passed",
+      "metrics": {
+        "facebook": {
+          "reactions": 191,
+          "comments": 4,
+          "impressions": 18289,
+          "shares": 49,
+          "clicks": 301,
+          "engagementRate": 0.0133,
+          "bufferEngagementRatePct": 2.98,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "replaced": {
+        "type": "question",
+        "title": "What are you saving the good dishes for?"
+      },
+      "line": "Everyone wants honest advice. Until they get it.",
+      "caption": "Ask me how I know.",
+      "note": "2026-10-11: swapped by hand for Luke's approved new-style test"
+    },
     {
-     "text": "We used to know the way."
-    }
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-21/3-thennow",
-   "facebook": {
-    "postId": "6ad7d1ee3a9ca84966b4b8cd",
-    "plannedAt": "2026-10-21T20:10:00-04:00"
-   }
-  },
-  {
-   "date": "2026-10-22",
-   "n": 1,
-   "type": "oneliner",
-   "format": "single",
-   "style": "ai",
-   "theme": null,
-   "sources": [],
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 0,
-     "comments": 0,
-     "impressions": 0,
-     "shares": 0,
-     "clicks": 0,
-     "engagementRate": null,
-     "bufferEngagementRatePct": 0,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "metaCheck": "passed",
-   "title": "Five more minutes, I said. Five times.",
-   "topic": "Hitting snooze again and again",
-   "object": "brass twin-bell alarm clock, sitting up in bed under a quilt",
-   "caption": "Up, technically.",
-   "slides": [
+      "date": "2026-10-12",
+      "n": 1,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "title": "They sold you the dream. You're still making the payments.",
+      "topic": "White wedding dress and Queen Victoria 1840",
+      "slides": [
+        "THEY SOLD YOU THE DREAM. YOU'RE STILL MAKING THE PAYMENTS."
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-12/1-oneliner",
+      "facebook": {
+        "postId": "6acbfca27db619a2914a48ff",
+        "plannedAt": "2026-10-12T10:20:00-04:00"
+      },
+      "status": "sent",
+      "metaCheck": "passed",
+      "metrics": {
+        "facebook": {
+          "reactions": 13,
+          "comments": 1,
+          "impressions": 1508,
+          "shares": 2,
+          "clicks": 23,
+          "engagementRate": 0.0106,
+          "bufferEngagementRatePct": 2.59,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "replaced": {
+        "type": "sold",
+        "title": "Why a White Wedding Dress?"
+      },
+      "line": "They sold you the dream. You're still making the payments.",
+      "caption": "Still paying.",
+      "note": "2026-10-11: swapped by hand for Luke's approved new-style test"
+    },
     {
-     "text": "Five more minutes, I said. Five times."
-    }
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-22/1-oneliner",
-   "facebook": {
-    "postId": "6ad9238fcecd7a6cc163bad2",
-    "plannedAt": "2026-10-22T07:35:00-04:00"
-   },
-   "line": "Five more minutes, I said. Five times."
-  },
-  {
-   "date": "2026-10-22",
-   "n": 2,
-   "type": "thennow",
-   "format": "single",
-   "style": "ai",
-   "theme": null,
-   "sources": [],
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 0,
-     "comments": 0,
-     "impressions": 0,
-     "shares": 0,
-     "clicks": 0,
-     "engagementRate": null,
-     "bufferEngagementRatePct": 0,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "metaCheck": "passed",
-   "title": "Patience used to come by mail.",
-   "topic": "Waiting for letters vs impatience over text replies (time: waiting vs instant)",
-   "object": "wax-sealed letter -> phone with typing bubble",
-   "caption": "How long can you wait for a reply before checking your phone again? 😏\n\nPeople once waited days for a letter and read it twice when it finally came. Now a reply that takes ten minutes can feel like a snub.\n\nThe messages got faster. The waiting got harder.",
-   "slides": [
+      "date": "2026-10-12",
+      "n": 2,
+      "type": "thennow",
+      "format": "single",
+      "style": "ai",
+      "title": "Built to last. Built to replace.",
+      "topic": "Early rising as a sign of success",
+      "slides": [
+        "BUILT TO LAST. BUILT TO REPLACE."
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-12/2-thennow",
+      "facebook": {
+        "postId": "6acbfca4ea568e911a403782",
+        "plannedAt": "2026-10-12T20:58:00-04:00"
+      },
+      "status": "sent",
+      "metaCheck": "passed",
+      "metrics": {
+        "facebook": {
+          "reactions": 135,
+          "comments": 5,
+          "impressions": 25054,
+          "shares": 23,
+          "clicks": 602,
+          "engagementRate": 0.0065,
+          "bufferEngagementRatePct": 3.05,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "replaced": {
+        "type": "note",
+        "title": "The alarm says five. Who decided early means better?"
+      },
+      "headline": "BUILT TO LAST. BUILT TO REPLACE.",
+      "then": "sturdy chrome toaster",
+      "now": "flimsy cracked plastic toaster",
+      "caption": "When did something you bought last outlive its warranty? 🤔\n\nThe old toaster was heavy, plain and built for decades. The new one is light, shiny and cheaper to replace than to fix.\n\nSomewhere along the way, new stopped meaning better.",
+      "note": "2026-10-11: swapped by hand for Luke's approved new-style test"
+    },
     {
-     "text": "Patience used to come by mail."
-    }
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-22/2-thennow",
-   "facebook": {
-    "postId": "6ad92392498426ee69060cf8",
-    "plannedAt": "2026-10-22T11:15:00-04:00"
-   },
-   "headline": "PATIENCE USED TO COME BY MAIL.",
-   "then": "thick envelope tied with string and a red wax seal",
-   "now": "phone showing only a grey typing bubble"
-  },
-  {
-   "date": "2026-10-22",
-   "n": 3,
-   "type": "oneliner",
-   "format": "single",
-   "style": "ai",
-   "theme": null,
-   "sources": [],
-   "status": "sent",
-   "metrics": {
-    "facebook": {
-     "reactions": 0,
-     "comments": 0,
-     "impressions": 0,
-     "shares": 0,
-     "clicks": 0,
-     "engagementRate": null,
-     "bufferEngagementRatePct": 0,
-     "measuredAt": "2026-10-22T20:38:21Z"
-    }
-   },
-   "metaCheck": "passed",
-   "title": "Everyone has a quick question. None of them are quick.",
-   "topic": "Quick questions at work that never are",
-   "object": "hourglass, old desk telephone and stack of folders",
-   "caption": "Forty minutes later.",
-   "slides": [
+      "date": "2026-10-13",
+      "n": 1,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "title": "Free shipping, they said. You bought three things you didn't need.",
+      "topic": "Free-shipping thresholds make us buy more",
+      "slides": [
+        "Free shipping, they said. You bought three things you didn't need."
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-13/1-oneliner",
+      "facebook": {
+        "postId": "6acd4e36a36dd851812ff620",
+        "plannedAt": "2026-10-13T09:00:00-04:00"
+      },
+      "status": "sent",
+      "metaCheck": "passed",
+      "metrics": {
+        "facebook": {
+          "reactions": 10,
+          "comments": 0,
+          "impressions": 1233,
+          "shares": 2,
+          "clicks": 8,
+          "engagementRate": 0.0097,
+          "bufferEngagementRatePct": 1.62,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "line": "Free shipping, they said. You bought three things you didn't need.",
+      "caption": "Saved nothing, spent plenty."
+    },
     {
-     "text": "Everyone has a quick question. None of them are quick."
-    }
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-22/3-oneliner",
-   "facebook": {
-    "postId": "6ad92394e7a121c462de1372",
-    "plannedAt": "2026-10-22T13:51:00-04:00"
-   },
-   "line": "Everyone has a quick question. None of them are quick.",
-   "experiment": "shared everyday work moment people relate to (Test next: comments)"
-  },
-  {
-   "date": "2026-10-22",
-   "n": 4,
-   "type": "oneliner",
-   "format": "single",
-   "style": "ai",
-   "theme": null,
-   "sources": [],
-   "status": "scheduled",
-   "metrics": {},
-   "metaCheck": "passed",
-   "title": "Let's grab coffee sometime. Sometime never comes.",
-   "topic": "Plans with friends that never happen",
-   "object": "cafe table with two coffees and an empty chair",
-   "caption": "Maybe next month.",
-   "slides": [
+      "date": "2026-10-13",
+      "n": 2,
+      "type": "question",
+      "format": "single",
+      "style": "illus",
+      "title": "Who picked 10,000 steps?",
+      "topic": "The 10,000 steps daily goal and the manpo-kei pedometer",
+      "object": "clip-on step counter",
+      "slides": [
+        "WHO PICKED 10,000 STEPS?"
+      ],
+      "sources": [
+        "https://www.wbur.org/news/2019/05/29/10000-steps-longevity-older-women-study",
+        "https://news.harvard.edu/gazette/story/2019/06/for-older-women-just-7500-steps-a-day-lowers-mortality"
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-13/2-question",
+      "facebook": {
+        "postId": "6acd4e395562ebe80f6ce0e0",
+        "plannedAt": "2026-10-13T19:12:00-04:00"
+      },
+      "status": "sent",
+      "metaCheck": "passed",
+      "metrics": {
+        "facebook": {
+          "reactions": 1,
+          "comments": 0,
+          "impressions": 740,
+          "shares": 1,
+          "clicks": 13,
+          "engagementRate": 0.0027,
+          "bufferEngagementRatePct": 2.03,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "caption": "Your phone gives a little cheer when you reach 10,000 steps. Have you ever wondered who picked that number?\n\nThe goal may trace back to 1965, when a pedometer was sold under the name manpo-kei. In English that's roughly \"10,000 steps meter.\" A catchy number on a gadget, long before anyone had tested it.\n\nDecades later, a Harvard-led study followed more than 16,000 older women wearing step counters. Their risk of death kept falling as daily steps rose, then levelled off around 7,500. It was one study of one group of women, so it's no rule for anyone. Still, it shows how a round number can settle into our heads and stay there.\n\nThe old raven keeps a little step counter on his desk and looks at it fondly. A number can be a friendly nudge. It just helps to know where it came from.\n\nWhich number do you chase most days, and who gave it to you?\n\n#OldCrow #Walking #DailySteps"
+    },
     {
-     "text": "Let's grab coffee sometime. Sometime never comes."
-    }
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-22/4-oneliner",
-   "facebook": {
-    "postId": "6ad92397498426ee69060de4",
-    "plannedAt": "2026-10-22T17:57:00-04:00"
-   },
-   "line": "Let's grab coffee sometime. Sometime never comes."
-  },
-  {
-   "date": "2026-10-22",
-   "n": 5,
-   "type": "oneliner",
-   "format": "single",
-   "style": "ai",
-   "theme": null,
-   "sources": [],
-   "status": "scheduled",
-   "metrics": {},
-   "metaCheck": "passed",
-   "title": "Early night tonight, I said. At midnight.",
-   "topic": "Promising an early night and staying up late",
-   "object": "candlestick, open book and wall clock at twelve in a dim hallway",
-   "caption": "Just one more chapter.",
-   "slides": [
+      "date": "2026-10-14",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "sources": [],
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 55,
+          "comments": 2,
+          "impressions": 10563,
+          "shares": 8,
+          "clicks": 241,
+          "engagementRate": 0.0062,
+          "bufferEngagementRatePct": 2.89,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "metaCheck": "passed",
+      "n": 1,
+      "type": "thennow",
+      "title": "Repairable then. Disposable now.",
+      "topic": "Phone repairability: removable battery vs sealed slab",
+      "headline": "REPAIRABLE THEN. DISPOSABLE NOW.",
+      "then": "flip phone with removable battery",
+      "now": "sealed cracked glass slab phone",
+      "slides": [
+        "slide1"
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-14/1-thennow",
+      "caption": "Remember when a dead phone battery meant a ten-second fix? 🔋",
+      "facebook": {
+        "postId": "6ace9f6063a12fa737242f38",
+        "plannedAt": "2026-10-14T09:04:00-04:00"
+      }
+    },
     {
-     "text": "Early night tonight, I said. At midnight."
-    }
-   ],
-   "imageFolder": "posts/oldcrow/2026-10-22/5-oneliner",
-   "facebook": {
-    "postId": "6ad9239a498426ee69060e35",
-    "plannedAt": "2026-10-22T21:33:00-04:00"
-   },
-   "line": "Early night tonight, I said. At midnight."
-  },
-  {
-   "date": "2026-10-23",
-   "n": 1,
-   "type": "oneliner",
-   "format": "single",
-   "style": "ai",
-   "theme": null,
-   "status": "scheduled",
-   "metrics": {},
-   "metaCheck": "passed (first image had a whiskey-like glass; regenerated with tea)",
-   "imageFolder": "posts/oldcrow/2026-10-23/1-oneliner",
-   "title": "Your call is very important to us. Just not right now.",
-   "line": "Your call is very important to us. Just not right now.",
-   "topic": "Endless hold times with customer service",
-   "object": "cream rotary telephone, teacup, side table",
-   "caption": "Still on hold.",
-   "sources": [],
-   "facebook": {
-    "postId": "6ada75d6793513d242f2f162",
-    "plannedAt": "2026-10-23T07:48:00-04:00"
-   },
-   "slides": [
+      "date": "2026-10-14",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "sources": [],
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 19,
+          "comments": 0,
+          "impressions": 2023,
+          "shares": 2,
+          "clicks": 27,
+          "engagementRate": 0.0104,
+          "bufferEngagementRatePct": 2.37,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "metaCheck": "passed",
+      "n": 2,
+      "type": "oneliner",
+      "title": "Nobody sells things anymore. Everything is a monthly plan.",
+      "topic": "Subscriptions replacing ownership",
+      "line": "Nobody sells things anymore. Everything is a monthly plan.",
+      "slides": [
+        "slide1"
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-14/2-oneliner",
+      "caption": "Cancel anytime. Allegedly.",
+      "facebook": {
+        "postId": "6ace9f62bd46a7db7a0295d4",
+        "plannedAt": "2026-10-14T20:02:00-04:00"
+      }
+    },
     {
-     "text": "Your call is very important to us. Just not right now."
-    }
-   ]
-  },
-  {
-   "date": "2026-10-23",
-   "n": 2,
-   "type": "thennow",
-   "format": "single",
-   "style": "ai",
-   "theme": null,
-   "status": "scheduled",
-   "metrics": {},
-   "metaCheck": "passed",
-   "imageFolder": "posts/oldcrow/2026-10-23/2-thennow",
-   "title": "Front porch. Front camera.",
-   "headline": "FRONT PORCH. FRONT CAMERA.",
-   "then": "glass pitcher of lemonade",
-   "now": "doorbell camera with blue ring",
-   "topic": "Porch chats with neighbours vs doorbell cameras (community)",
-   "object": "lemonade pitcher -> doorbell camera",
-   "caption": "When did you last sit on the porch long enough to wave at a neighbour? 👀\n\nPorches used to be where the street said hello, with a cold drink and a spare chair for whoever walked by. Now plenty of front doors have a little camera that sees everyone and greets no one.\n\nWe can watch the whole street. We just don't know it anymore.",
-   "sources": [
-    "https://petapixel.com/2026/04/21/39-of-americans-now-have-a-video-doorbell-at-home/"
-   ],
-   "experiment": "Then vs Now on a non-product theme (community)",
-   "facebook": {
-    "postId": "6ada75d7a05ab31b93762b1f",
-    "plannedAt": "2026-10-23T10:35:00-04:00"
-   },
-   "slides": [
+      "date": "2026-10-15",
+      "n": 1,
+      "type": "sold",
+      "format": "single",
+      "style": "illus",
+      "theme": null,
+      "title": "Who Said Carrots Help You See?",
+      "topic": "Carrots and night vision: WWII British Ministry of Food campaign",
+      "slides": [
+        {
+          "text": "Who Said Carrots Help You See?"
+        }
+      ],
+      "sources": [
+        {
+          "item": "WWII British carrot campaign, slogan, surplus",
+          "source": "Smithsonian Magazine; Today I Found Out"
+        },
+        {
+          "item": "Vitamin A deficiency causes night blindness; extra carrots don't improve healthy vision",
+          "source": "Scientific American; Today I Found Out"
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-15/1-sold",
+      "facebook": {
+        "postId": "6acff13cd7ed7764890b9015",
+        "plannedAt": "2026-10-15T09:25:00-04:00"
+      },
+      "status": "sent",
+      "caption": "Britain's wartime posters told people that carrots help you see in the blackout. Have you ever wondered where the idea that carrots give you sharp eyes came from?\n\nIn the early 1940s, Britain was dealing with blackouts at night and food shortages from the war at sea. The Ministry of Food leaned hard on home-grown vegetables, and carrots grew well and plentifully. Posters, cartoon characters like Dr. Carrot and radio recipes all pushed them, with a promise that they would help you see in the dark. By 1942 there was a carrot surplus to get through.\n\nThere is a grain of truth in it. Vitamin A matters for vision, and a lack of it can cause night blindness. But eating extra carrots does not give an otherwise healthy person sharper night sight. The idea stuck anyway, and it is still handed to children at dinner tables today.\n\nThe old raven likes a good carrot, mostly for the crunch. A kind story can travel a very long way when it is told over a good meal.\n\nWhat food were you told as a child would do something special for you?\n\n#OldCrow #Carrots #WWII",
+      "metaCheck": "passed",
+      "metrics": {
+        "facebook": {
+          "reactions": 13,
+          "comments": 0,
+          "impressions": 1283,
+          "shares": 4,
+          "clicks": 47,
+          "engagementRate": 0.0133,
+          "bufferEngagementRatePct": 4.99,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "postIds": {
+        "facebook": "6acff13cd7ed7764890b9015"
+      }
+    },
     {
-     "text": "FRONT PORCH. FRONT CAMERA."
-    }
-   ]
-  },
-  {
-   "date": "2026-10-23",
-   "n": 3,
-   "type": "oneliner",
-   "format": "single",
-   "style": "ai",
-   "theme": null,
-   "status": "scheduled",
-   "metrics": {},
-   "metaCheck": "passed",
-   "imageFolder": "posts/oldcrow/2026-10-23/3-oneliner",
-   "title": "Everyone's an expert online. Until something needs fixing.",
-   "line": "Everyone's an expert online. Until something needs fixing.",
-   "topic": "Online experts vs real fixing skills",
-   "object": "adjustable wrench at a spraying kitchen tap",
-   "caption": "Called a plumber anyway.",
-   "sources": [],
-   "facebook": {
-    "postId": "6ada75d8f2eceac4373a5461",
-    "plannedAt": "2026-10-23T13:49:00-04:00"
-   },
-   "slides": [
+      "date": "2026-10-15",
+      "n": 2,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "title": "Work hard, they said. Your reward: more work.",
+      "topic": "Working hard just earns more work",
+      "slides": [
+        {
+          "text": "Work hard, they said. Your reward: more work."
+        }
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-15/2-oneliner",
+      "facebook": {
+        "postId": "6acff13dad454aea56cf0dfa",
+        "plannedAt": "2026-10-15T19:43:00-04:00"
+      },
+      "status": "sent",
+      "caption": "Efficiency, apparently.",
+      "metaCheck": "passed",
+      "metrics": {
+        "facebook": {
+          "reactions": 135,
+          "comments": 7,
+          "impressions": 13722,
+          "shares": 49,
+          "clicks": 223,
+          "engagementRate": 0.0139,
+          "bufferEngagementRatePct": 3.02,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "line": "Work hard, they said. Your reward: more work.",
+      "postIds": {
+        "facebook": "6acff13dad454aea56cf0dfa"
+      }
+    },
     {
-     "text": "Everyone's an expert online. Until something needs fixing."
-    }
-   ]
-  },
-  {
-   "date": "2026-10-23",
-   "n": 4,
-   "type": "thennow",
-   "format": "single",
-   "style": "ai",
-   "theme": null,
-   "status": "scheduled",
-   "metrics": {},
-   "metaCheck": "passed",
-   "imageFolder": "posts/oldcrow/2026-10-23/4-thennow",
-   "title": "The office never closes.",
-   "headline": "THE OFFICE NEVER CLOSES.",
-   "then": "latched metal lunch pail",
-   "now": "buzzing phone with red notification dot",
-   "topic": "Workday ending at the door vs work messages at home (work and money)",
-   "object": "lunch pail -> buzzing phone",
-   "caption": "Do you check work messages after dinner, even when nothing's on fire? 🤔\n\nThe workday once ended when the lunch pail snapped shut and the door closed behind you. Now the office fits in a pocket and buzzes at the dinner table.\n\nWe got the freedom to work from anywhere. Anywhere turned out to include home.",
-   "sources": [
-    "https://www.cbc.ca/1.6484990"
-   ],
-   "facebook": {
-    "postId": "6ada75d971bf6df473a90a16",
-    "plannedAt": "2026-10-23T17:42:00-04:00"
-   },
-   "slides": [
+      "date": "2026-10-17",
+      "n": 1,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "title": "Time-saving gadgets everywhere. Somehow nobody has any time.",
+      "topic": "Saving time, technology and busyness",
+      "slides": 1,
+      "imageFolder": "posts/oldcrow/2026-10-17/1-oneliner",
+      "facebook": {
+        "postId": "6ad2144cb948bf9e9d935669",
+        "plannedAt": "2026-10-17T09:45:00-04:00"
+      },
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 10,
+          "comments": 0,
+          "impressions": 1287,
+          "shares": 3,
+          "clicks": 14,
+          "engagementRate": 0.0101,
+          "bufferEngagementRatePct": 2.1,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "metaCheck": "passed",
+      "caption": "The clock disagrees.",
+      "line": "Time-saving gadgets everywhere. Somehow nobody has any time."
+    },
     {
-     "text": "THE OFFICE NEVER CLOSES."
-    }
-   ]
-  },
-  {
-   "date": "2026-10-23",
-   "n": 5,
-   "type": "oneliner",
-   "format": "single",
-   "style": "ai",
-   "theme": null,
-   "status": "scheduled",
-   "metrics": {},
-   "metaCheck": "passed",
-   "imageFolder": "posts/oldcrow/2026-10-23/5-oneliner",
-   "title": "The recipe said thirty minutes. The recipe has never met me.",
-   "line": "The recipe said thirty minutes. The recipe has never met me.",
-   "topic": "Recipes that take far longer than promised (shared everyday moment)",
-   "object": "flour-dusted apron, mixing bowl of lumpy batter, eggshells",
-   "caption": "Dinner at nine.",
-   "sources": [],
-   "experiment": "One-liner about a shared everyday moment in the evening slot",
-   "facebook": {
-    "postId": "6ada75daf2eceac4373a54e4",
-    "plannedAt": "2026-10-23T21:20:00-04:00"
-   },
-   "slides": [
+      "date": "2026-10-17",
+      "n": 2,
+      "type": "thennow",
+      "format": "single",
+      "style": "ai",
+      "title": "Owned then. Rented now.",
+      "topic": "Owning movies vs streaming access",
+      "slides": 1,
+      "imageFolder": "posts/oldcrow/2026-10-17/2-thennow",
+      "facebook": {
+        "postId": "6ad2144e25d13dd62ee595f5",
+        "plannedAt": "2026-10-17T12:58:00-04:00"
+      },
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 23,
+          "comments": 0,
+          "impressions": 2875,
+          "shares": 8,
+          "clicks": 51,
+          "engagementRate": 0.0108,
+          "bufferEngagementRatePct": 2.85,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "metaCheck": "passed",
+      "caption": "Do you still own any movies, or just access to them? 🤔\n\nA shelf of discs stayed yours for as long as you kept them. A streaming library can lose a title overnight, and there is nothing to hold on to when it goes.\n\nSome things are only yours while someone allows it.",
+      "headline": "OWNED THEN. RENTED NOW. / stack of boxed discs -> phone with padlock",
+      "note": "Replaced the told-or-sold style question post on 2026-10-16 (Luke removed that style)."
+    },
     {
-     "text": "The recipe said thirty minutes. The recipe has never met me."
+      "date": "2026-10-17",
+      "n": 3,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "title": "You saved fifty dollars. By spending two hundred.",
+      "topic": "Sale savings that make us spend more",
+      "slides": 1,
+      "imageFolder": "posts/oldcrow/2026-10-17/3-oneliner",
+      "facebook": {
+        "postId": "6ad21450f24c5797a23ad62c",
+        "plannedAt": "2026-10-17T15:42:00-04:00"
+      },
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 69,
+          "comments": 1,
+          "impressions": 7610,
+          "shares": 13,
+          "clicks": 161,
+          "engagementRate": 0.0109,
+          "bufferEngagementRatePct": 3.21,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "metaCheck": "passed",
+      "caption": "Great deal, technically.",
+      "line": "You saved fifty dollars. By spending two hundred."
+    },
+    {
+      "date": "2026-10-16",
+      "n": 1,
+      "type": "sold",
+      "format": "single",
+      "style": "illus",
+      "title": "Who Sold Us Mother's Day?",
+      "topic": "Anna Jarvis and the commercialization of Mother's Day",
+      "slides": 1,
+      "imageFolder": "posts/oldcrow/2026-10-16/1-sold",
+      "facebook": {
+        "postId": "6ad2154f63c879f95857ffc5",
+        "plannedAt": "2026-10-16T10:12:00-04:00"
+      },
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 2,
+          "comments": 0,
+          "impressions": 368,
+          "shares": 0,
+          "clicks": 4,
+          "engagementRate": 0.0054,
+          "bufferEngagementRatePct": 1.63,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "metaCheck": "passed",
+      "sources": [
+        "history.com: why the founder of Mother's Day turned against it"
+      ]
+    },
+    {
+      "date": "2026-10-16",
+      "n": 2,
+      "type": "thennow",
+      "format": "single",
+      "style": "ai",
+      "title": "Mended then. Tossed now.",
+      "topic": "Darned wool sock vs thin disposable sock",
+      "slides": 1,
+      "imageFolder": "posts/oldcrow/2026-10-16/2-thennow",
+      "facebook": {
+        "postId": "6ad2152fb948bf9e9d9395b1",
+        "plannedAt": "2026-10-16T13:02:00-04:00"
+      },
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 69,
+          "comments": 3,
+          "impressions": 16734,
+          "shares": 10,
+          "clicks": 346,
+          "engagementRate": 0.0049,
+          "bufferEngagementRatePct": 2.56,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "metaCheck": "passed",
+      "headline": "MENDED THEN. TOSSED NOW.",
+      "then": "darned wool sock",
+      "now": "worn-through thin sock",
+      "caption": "When did you last darn a sock instead of tossing it?"
+    },
+    {
+      "date": "2026-10-16",
+      "n": 3,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "title": "Everyone wants a quiet life. Until the wifi goes down.",
+      "topic": "Quiet life vs constant connectivity",
+      "slides": 1,
+      "imageFolder": "posts/oldcrow/2026-10-16/3-oneliner",
+      "facebook": {
+        "postId": "6ad2152c1ffe4709802c1918",
+        "plannedAt": "2026-10-16T16:03:00-04:00"
+      },
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 62,
+          "comments": 0,
+          "impressions": 5396,
+          "shares": 12,
+          "clicks": 51,
+          "engagementRate": 0.0137,
+          "bufferEngagementRatePct": 2.32,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "metaCheck": "passed",
+      "line": "Everyone wants a quiet life. Until the wifi goes down.",
+      "caption": "Peace is overrated."
+    },
+    {
+      "date": "2026-10-17",
+      "n": 4,
+      "type": "thennow",
+      "format": "single",
+      "style": "ai",
+      "title": "Big bag. Mostly air.",
+      "topic": "Snack bags that are mostly air",
+      "slides": 1,
+      "imageFolder": "posts/oldcrow/2026-10-17/4-thennow",
+      "facebook": {
+        "postId": "6ad28b3ec19525fddd399891",
+        "plannedAt": "2026-10-17T20:27:00-04:00"
+      },
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 261,
+          "comments": 9,
+          "impressions": 34609,
+          "shares": 62,
+          "clicks": 831,
+          "engagementRate": 0.0096,
+          "bufferEngagementRatePct": 3.35,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "metaCheck": "passed",
+      "headline": "BIG BAG. MOSTLY AIR. / small full paper bag -> puffed foil bag with few chips",
+      "caption": "When did you last open a snack bag and find it half empty? 😏\n\nThe bag keeps getting bigger on the shelf while the amount inside quietly shrinks. A good share of what you pay for is air.\n\nSome packaging is built to be looked at, not filled."
+    },
+    {
+      "date": "2026-10-18",
+      "n": 1,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "title": "Nobody remembers the meeting. Everybody remembers who helped stack the chairs.",
+      "topic": "Helping others is what people remember",
+      "line": "Nobody remembers the meeting. Everybody remembers who helped stack the chairs.",
+      "caption": "Stack the chairs.",
+      "slides": [
+        {
+          "text": "Nobody remembers the meeting. Everybody remembers who helped stack the chairs."
+        }
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-18/1-oneliner",
+      "facebook": {
+        "postId": "6ad3dd44938409f1d0a0b41b",
+        "plannedAt": "2026-10-18T10:08:00-04:00"
+      },
+      "status": "sent",
+      "metaCheck": "passed",
+      "metrics": {
+        "facebook": {
+          "reactions": 272,
+          "comments": 6,
+          "impressions": 49098,
+          "shares": 21,
+          "clicks": 1552,
+          "engagementRate": 0.0061,
+          "bufferEngagementRatePct": 3.77,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "n": 2,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "title": "Just a small fee, they said. Then another small fee.",
+      "topic": "Small fees that add up",
+      "line": "Just a small fee, they said. Then another small fee.",
+      "caption": "Itemized, of course.",
+      "slides": [
+        {
+          "text": "Just a small fee, they said. Then another small fee."
+        }
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-18/2-oneliner",
+      "facebook": {
+        "postId": "6ad3dd46ae173d6e00d1c03a",
+        "plannedAt": "2026-10-18T13:14:00-04:00"
+      },
+      "status": "sent",
+      "metaCheck": "passed",
+      "metrics": {
+        "facebook": {
+          "reactions": 56,
+          "comments": 2,
+          "impressions": 5079,
+          "shares": 10,
+          "clicks": 72,
+          "engagementRate": 0.0134,
+          "bufferEngagementRatePct": 2.76,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "n": 3,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "title": "Meetings that could have been emails. Emails that could have been silence.",
+      "topic": "Too many meetings and emails",
+      "line": "Meetings that could have been emails. Emails that could have been silence.",
+      "caption": "Reply all.",
+      "slides": [
+        {
+          "text": "Meetings that could have been emails. Emails that could have been silence."
+        }
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-18/3-oneliner",
+      "facebook": {
+        "postId": "6ad3dd49ae173d6e00d1c0a7",
+        "plannedAt": "2026-10-18T16:42:00-04:00"
+      },
+      "status": "deleted-by-luke",
+      "metaCheck": "passed",
+      "metrics": {},
+      "note": "removed at Luke's request when Old Crow dropped to 3 posts a day"
+    },
+    {
+      "date": "2026-10-18",
+      "n": 4,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "title": "Tomorrow I'll start. Tomorrow is very busy.",
+      "topic": "Putting off good habits",
+      "line": "Tomorrow I'll start. Tomorrow is very busy.",
+      "caption": "Tomorrow, probably.",
+      "slides": [
+        {
+          "text": "Tomorrow I'll start. Tomorrow is very busy."
+        }
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-18/4-oneliner",
+      "facebook": {
+        "postId": "6ad3dd4b0b0d72757af319f1",
+        "plannedAt": "2026-10-18T20:24:00-04:00"
+      },
+      "status": "sent",
+      "metaCheck": "passed",
+      "metrics": {
+        "facebook": {
+          "reactions": 14,
+          "comments": 0,
+          "impressions": 3220,
+          "shares": 1,
+          "clicks": 34,
+          "engagementRate": 0.0047,
+          "bufferEngagementRatePct": 1.52,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "sources": [],
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 15,
+          "comments": 1,
+          "impressions": 2175,
+          "shares": 1,
+          "clicks": 28,
+          "engagementRate": 0.0078,
+          "bufferEngagementRatePct": 2.07,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "metaCheck": "passed",
+      "n": 1,
+      "type": "oneliner",
+      "title": "Your phone knows where you are. You don't know where your evening went.",
+      "line": "Your phone knows where you are. You don't know where your evening went.",
+      "topic": "Phones eating the evening",
+      "object": "glowing phone and floor lamp",
+      "caption": "Location services: on.",
+      "slides": [
+        {
+          "text": "Your phone knows where you are. You don't know where your evening went."
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-19/1-oneliner",
+      "facebook": {
+        "postId": "6ad52ee5ae173d6e00192dc1",
+        "plannedAt": "2026-10-19T10:04:00-04:00"
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "sources": [],
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 7,
+          "comments": 0,
+          "impressions": 1087,
+          "shares": 2,
+          "clicks": 13,
+          "engagementRate": 0.0083,
+          "bufferEngagementRatePct": 2.02,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "metaCheck": "passed",
+      "n": 2,
+      "type": "thennow",
+      "title": "More photos than ever. Seen any?",
+      "headline": "MORE PHOTOS THAN EVER. SEEN ANY?",
+      "then": "worn leather photo album with a few printed snapshots",
+      "now": "phone crammed with hundreds of tiny photo thumbnails",
+      "topic": "Photo albums vs thousands of unseen phone photos",
+      "caption": "When did you last scroll back to a photo from five years ago? 🤔\n\nA family once filled an album and pulled it off the shelf when people came over. Now one phone holds thousands of pictures, and most of them just sit there.\n\nTaking a picture was never the same as keeping it.",
+      "slides": [
+        {
+          "text": "MORE PHOTOS THAN EVER. SEEN ANY?"
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-19/2-thennow",
+      "experiment": "Then vs Now on a non-product theme (photos/memory)",
+      "facebook": {
+        "postId": "6ad52ee8769b457934db9454",
+        "plannedAt": "2026-10-19T12:52:00-04:00"
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "sources": [],
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 7,
+          "comments": 0,
+          "impressions": 720,
+          "shares": 4,
+          "clicks": 7,
+          "engagementRate": 0.0153,
+          "bufferEngagementRatePct": 2.5,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "metaCheck": "passed",
+      "n": 3,
+      "type": "oneliner",
+      "title": "Buy now, pay later. Later always shows up.",
+      "line": "Buy now, pay later. Later always shows up.",
+      "topic": "Buy now, pay later catching up",
+      "object": "shopping bag and stack of envelopes at the front door",
+      "caption": "Right on schedule.",
+      "slides": [
+        {
+          "text": "Buy now, pay later. Later always shows up."
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-19/3-oneliner",
+      "facebook": {
+        "postId": "6ad52eec0a208cb3237ec24a",
+        "plannedAt": "2026-10-19T19:37:00-04:00"
+      }
+    },
+    {
+      "date": "2026-10-20",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "sources": [],
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 7,
+          "comments": 0,
+          "impressions": 838,
+          "shares": 0,
+          "clicks": 8,
+          "engagementRate": 0.0084,
+          "bufferEngagementRatePct": 1.79,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "metaCheck": "passed",
+      "n": 1,
+      "type": "thennow",
+      "title": "Who borrows sugar anymore?",
+      "headline": "WHO BORROWS SUGAR ANYMORE?",
+      "then": "floral china teacup heaped with sugar",
+      "now": "phone showing a delivery scooter on a map",
+      "topic": "Borrowing from neighbours vs delivery apps (community)",
+      "caption": "When did you last knock on a neighbour's door to borrow something? 👀\n\nA cup of sugar used to come with a chat on the porch. Now it arrives on a scooter, and you rarely learn anyone's name.\n\nSome errands were never really about the sugar.",
+      "slides": [
+        {
+          "text": "WHO BORROWS SUGAR ANYMORE?"
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-20/1-thennow",
+      "experiment": "Then vs Now on a community theme (non-product), short-question headline",
+      "facebook": {
+        "postId": "6ad6808bc20ac6530890b5e8",
+        "plannedAt": "2026-10-20T09:50:00-04:00"
+      }
+    },
+    {
+      "date": "2026-10-20",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "sources": [],
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 19,
+          "comments": 0,
+          "impressions": 1819,
+          "shares": 9,
+          "clicks": 32,
+          "engagementRate": 0.0154,
+          "bufferEngagementRatePct": 3.3,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "metaCheck": "passed",
+      "n": 2,
+      "type": "oneliner",
+      "title": "Self-checkout. Congratulations, you work here now.",
+      "line": "Self-checkout. Congratulations, you work here now.",
+      "topic": "Self-checkout turns shoppers into unpaid cashiers",
+      "object": "self-checkout scanner, loaf of bread and receipt",
+      "caption": "No employee discount.",
+      "slides": [
+        {
+          "text": "Self-checkout. Congratulations, you work here now."
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-20/2-oneliner",
+      "facebook": {
+        "postId": "6ad6808f614166e4ec344349",
+        "plannedAt": "2026-10-20T13:25:00-04:00"
+      },
+      "metaCheckNote": "passed; image regenerated once after a 502 gateway error"
+    },
+    {
+      "date": "2026-10-20",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "sources": [],
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 71,
+          "comments": 4,
+          "impressions": 4838,
+          "shares": 13,
+          "clicks": 82,
+          "engagementRate": 0.0182,
+          "bufferEngagementRatePct": 3.51,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "metaCheck": "passed",
+      "n": 3,
+      "type": "oneliner",
+      "title": "A thousand friends online. Nobody to help you move.",
+      "line": "A thousand friends online. Nobody to help you move.",
+      "topic": "Online friends vs real help",
+      "object": "cardboard moving box and packing tape",
+      "caption": "Bring your own boxes.",
+      "slides": [
+        {
+          "text": "A thousand friends online. Nobody to help you move."
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-20/3-oneliner",
+      "facebook": {
+        "postId": "6ad68091651afa7ffa113b7b",
+        "plannedAt": "2026-10-20T20:04:00-04:00"
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "sources": [],
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 5,
+          "comments": 1,
+          "impressions": 616,
+          "shares": 0,
+          "clicks": 12,
+          "engagementRate": 0.0097,
+          "bufferEngagementRatePct": 2.92,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "metaCheck": "passed",
+      "n": 1,
+      "type": "oneliner",
+      "title": "Forty pages of terms. One tiny box that says I agree.",
+      "line": "Forty pages of terms. One tiny box that says I agree.",
+      "topic": "Agreeing to terms nobody reads",
+      "object": "endless paper scroll, fountain pen and tiny checkbox",
+      "caption": "Signed, sealed, unread.",
+      "slides": [
+        {
+          "text": "Forty pages of terms. One tiny box that says I agree."
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-21/1-oneliner",
+      "facebook": {
+        "postId": "6ad7d1e03a9ca84966b4b6b7",
+        "plannedAt": "2026-10-21T09:39:00-04:00"
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "sources": [],
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 5,
+          "comments": 0,
+          "impressions": 690,
+          "shares": 1,
+          "clicks": 17,
+          "engagementRate": 0.0087,
+          "bufferEngagementRatePct": 3.33,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "metaCheck": "passed",
+      "n": 2,
+      "type": "oneliner",
+      "title": "We all plan to arrive on time. We just never plan to leave.",
+      "line": "We all plan to arrive on time. We just never plan to leave.",
+      "topic": "Long goodbyes at the door (shared everyday moment)",
+      "object": "overcoat half on at an open front door, hat on a hook",
+      "caption": "Coat on. Still talking.",
+      "experiment": "shared everyday moment one-liner to invite natural comments (learnings Test next)",
+      "slides": [
+        {
+          "text": "We all plan to arrive on time. We just never plan to leave."
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-21/2-oneliner",
+      "facebook": {
+        "postId": "6ad7d1ec65cedd57fee597dd",
+        "plannedAt": "2026-10-21T13:17:00-04:00"
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "sources": [],
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 1,
+          "comments": 0,
+          "impressions": 76,
+          "shares": 0,
+          "clicks": 1,
+          "engagementRate": 0.0132,
+          "bufferEngagementRatePct": 2.63,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "metaCheck": "passed",
+      "n": 3,
+      "type": "thennow",
+      "title": "We used to know the way.",
+      "headline": "WE USED TO KNOW THE WAY.",
+      "then": "worn paper road map with a red-pencil route",
+      "now": "phone showing only a blue GPS arrow",
+      "topic": "Paper maps vs turn-by-turn GPS (skills by hand vs apps)",
+      "caption": "Could you still get across town if your phone died halfway there?\n\nPeople once unfolded a map at the kitchen table, picked a route and mostly remembered it. Now a calm voice calls out every turn, and we stop noticing the streets we pass.\n\nThe roads haven't changed. We just stopped looking at them.",
+      "slides": [
+        {
+          "text": "We used to know the way."
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-21/3-thennow",
+      "facebook": {
+        "postId": "6ad7d1ee3a9ca84966b4b8cd",
+        "plannedAt": "2026-10-21T20:10:00-04:00"
+      }
+    },
+    {
+      "date": "2026-10-22",
+      "n": 1,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "sources": [],
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 0,
+          "comments": 0,
+          "impressions": 0,
+          "shares": 0,
+          "clicks": 0,
+          "engagementRate": null,
+          "bufferEngagementRatePct": 0,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "metaCheck": "passed",
+      "title": "Five more minutes, I said. Five times.",
+      "topic": "Hitting snooze again and again",
+      "object": "brass twin-bell alarm clock, sitting up in bed under a quilt",
+      "caption": "Up, technically.",
+      "slides": [
+        {
+          "text": "Five more minutes, I said. Five times."
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-22/1-oneliner",
+      "facebook": {
+        "postId": "6ad9238fcecd7a6cc163bad2",
+        "plannedAt": "2026-10-22T07:35:00-04:00"
+      },
+      "line": "Five more minutes, I said. Five times."
+    },
+    {
+      "date": "2026-10-22",
+      "n": 2,
+      "type": "thennow",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "sources": [],
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 0,
+          "comments": 0,
+          "impressions": 0,
+          "shares": 0,
+          "clicks": 0,
+          "engagementRate": null,
+          "bufferEngagementRatePct": 0,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "metaCheck": "passed",
+      "title": "Patience used to come by mail.",
+      "topic": "Waiting for letters vs impatience over text replies (time: waiting vs instant)",
+      "object": "wax-sealed letter -> phone with typing bubble",
+      "caption": "How long can you wait for a reply before checking your phone again? 😏\n\nPeople once waited days for a letter and read it twice when it finally came. Now a reply that takes ten minutes can feel like a snub.\n\nThe messages got faster. The waiting got harder.",
+      "slides": [
+        {
+          "text": "Patience used to come by mail."
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-22/2-thennow",
+      "facebook": {
+        "postId": "6ad92392498426ee69060cf8",
+        "plannedAt": "2026-10-22T11:15:00-04:00"
+      },
+      "headline": "PATIENCE USED TO COME BY MAIL.",
+      "then": "thick envelope tied with string and a red wax seal",
+      "now": "phone showing only a grey typing bubble"
+    },
+    {
+      "date": "2026-10-22",
+      "n": 3,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "sources": [],
+      "status": "sent",
+      "metrics": {
+        "facebook": {
+          "reactions": 0,
+          "comments": 0,
+          "impressions": 0,
+          "shares": 0,
+          "clicks": 0,
+          "engagementRate": null,
+          "bufferEngagementRatePct": 0,
+          "measuredAt": "2026-10-22T20:38:21Z"
+        }
+      },
+      "metaCheck": "passed",
+      "title": "Everyone has a quick question. None of them are quick.",
+      "topic": "Quick questions at work that never are",
+      "object": "hourglass, old desk telephone and stack of folders",
+      "caption": "Forty minutes later.",
+      "slides": [
+        {
+          "text": "Everyone has a quick question. None of them are quick."
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-22/3-oneliner",
+      "facebook": {
+        "postId": "6ad92394e7a121c462de1372",
+        "plannedAt": "2026-10-22T13:51:00-04:00"
+      },
+      "line": "Everyone has a quick question. None of them are quick.",
+      "experiment": "shared everyday work moment people relate to (Test next: comments)"
+    },
+    {
+      "date": "2026-10-22",
+      "n": 4,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "sources": [],
+      "status": "sent",
+      "metrics": {},
+      "metaCheck": "passed",
+      "title": "Let's grab coffee sometime. Sometime never comes.",
+      "topic": "Plans with friends that never happen",
+      "object": "cafe table with two coffees and an empty chair",
+      "caption": "Maybe next month.",
+      "slides": [
+        {
+          "text": "Let's grab coffee sometime. Sometime never comes."
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-22/4-oneliner",
+      "facebook": {
+        "postId": "6ad92397498426ee69060de4",
+        "plannedAt": "2026-10-22T17:57:00-04:00"
+      },
+      "line": "Let's grab coffee sometime. Sometime never comes."
+    },
+    {
+      "date": "2026-10-22",
+      "n": 5,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "sources": [],
+      "status": "sent",
+      "metrics": {},
+      "metaCheck": "passed",
+      "title": "Early night tonight, I said. At midnight.",
+      "topic": "Promising an early night and staying up late",
+      "object": "candlestick, open book and wall clock at twelve in a dim hallway",
+      "caption": "Just one more chapter.",
+      "slides": [
+        {
+          "text": "Early night tonight, I said. At midnight."
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-22/5-oneliner",
+      "facebook": {
+        "postId": "6ad9239a498426ee69060e35",
+        "plannedAt": "2026-10-22T21:33:00-04:00"
+      },
+      "line": "Early night tonight, I said. At midnight."
+    },
+    {
+      "date": "2026-10-23",
+      "n": 1,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "status": "sent",
+      "metrics": {},
+      "metaCheck": "passed (first image had a whiskey-like glass; regenerated with tea)",
+      "imageFolder": "posts/oldcrow/2026-10-23/1-oneliner",
+      "title": "Your call is very important to us. Just not right now.",
+      "line": "Your call is very important to us. Just not right now.",
+      "topic": "Endless hold times with customer service",
+      "object": "cream rotary telephone, teacup, side table",
+      "caption": "Still on hold.",
+      "sources": [],
+      "facebook": {
+        "postId": "6ada75d6793513d242f2f162",
+        "plannedAt": "2026-10-23T07:48:00-04:00"
+      },
+      "slides": [
+        {
+          "text": "Your call is very important to us. Just not right now."
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "n": 2,
+      "type": "thennow",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "status": "sent",
+      "metrics": {},
+      "metaCheck": "passed",
+      "imageFolder": "posts/oldcrow/2026-10-23/2-thennow",
+      "title": "Front porch. Front camera.",
+      "headline": "FRONT PORCH. FRONT CAMERA.",
+      "then": "glass pitcher of lemonade",
+      "now": "doorbell camera with blue ring",
+      "topic": "Porch chats with neighbours vs doorbell cameras (community)",
+      "object": "lemonade pitcher -> doorbell camera",
+      "caption": "When did you last sit on the porch long enough to wave at a neighbour? 👀\n\nPorches used to be where the street said hello, with a cold drink and a spare chair for whoever walked by. Now plenty of front doors have a little camera that sees everyone and greets no one.\n\nWe can watch the whole street. We just don't know it anymore.",
+      "sources": [
+        "https://petapixel.com/2026/04/21/39-of-americans-now-have-a-video-doorbell-at-home/"
+      ],
+      "experiment": "Then vs Now on a non-product theme (community)",
+      "facebook": {
+        "postId": "6ada75d7a05ab31b93762b1f",
+        "plannedAt": "2026-10-23T10:35:00-04:00"
+      },
+      "slides": [
+        {
+          "text": "FRONT PORCH. FRONT CAMERA."
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "n": 3,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "status": "sent",
+      "metrics": {},
+      "metaCheck": "passed",
+      "imageFolder": "posts/oldcrow/2026-10-23/3-oneliner",
+      "title": "Everyone's an expert online. Until something needs fixing.",
+      "line": "Everyone's an expert online. Until something needs fixing.",
+      "topic": "Online experts vs real fixing skills",
+      "object": "adjustable wrench at a spraying kitchen tap",
+      "caption": "Called a plumber anyway.",
+      "sources": [],
+      "facebook": {
+        "postId": "6ada75d8f2eceac4373a5461",
+        "plannedAt": "2026-10-23T13:49:00-04:00"
+      },
+      "slides": [
+        {
+          "text": "Everyone's an expert online. Until something needs fixing."
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "n": 4,
+      "type": "thennow",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "status": "scheduled",
+      "metrics": {},
+      "metaCheck": "passed",
+      "imageFolder": "posts/oldcrow/2026-10-23/4-thennow",
+      "title": "The office never closes.",
+      "headline": "THE OFFICE NEVER CLOSES.",
+      "then": "latched metal lunch pail",
+      "now": "buzzing phone with red notification dot",
+      "topic": "Workday ending at the door vs work messages at home (work and money)",
+      "object": "lunch pail -> buzzing phone",
+      "caption": "Do you check work messages after dinner, even when nothing's on fire? 🤔\n\nThe workday once ended when the lunch pail snapped shut and the door closed behind you. Now the office fits in a pocket and buzzes at the dinner table.\n\nWe got the freedom to work from anywhere. Anywhere turned out to include home.",
+      "sources": [
+        "https://www.cbc.ca/1.6484990"
+      ],
+      "facebook": {
+        "postId": "6ada75d971bf6df473a90a16",
+        "plannedAt": "2026-10-23T17:42:00-04:00"
+      },
+      "slides": [
+        {
+          "text": "THE OFFICE NEVER CLOSES."
+        }
+      ]
+    },
+    {
+      "date": "2026-10-23",
+      "n": 5,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "status": "scheduled",
+      "metrics": {},
+      "metaCheck": "passed",
+      "imageFolder": "posts/oldcrow/2026-10-23/5-oneliner",
+      "title": "The recipe said thirty minutes. The recipe has never met me.",
+      "line": "The recipe said thirty minutes. The recipe has never met me.",
+      "topic": "Recipes that take far longer than promised (shared everyday moment)",
+      "object": "flour-dusted apron, mixing bowl of lumpy batter, eggshells",
+      "caption": "Dinner at nine.",
+      "sources": [],
+      "experiment": "One-liner about a shared everyday moment in the evening slot",
+      "facebook": {
+        "postId": "6ada75daf2eceac4373a54e4",
+        "plannedAt": "2026-10-23T21:20:00-04:00"
+      },
+      "slides": [
+        {
+          "text": "The recipe said thirty minutes. The recipe has never met me."
+        }
+      ]
+    },
+    {
+      "date": "2026-10-24",
+      "n": 1,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "title": "The kettle takes three minutes. Best three minutes of the day.",
+      "topic": "The small quiet pause while the kettle boils (quieter reflective line)",
+      "caption": "Don't rush it.",
+      "slides": [
+        {
+          "text": "The kettle takes three minutes. Best three minutes of the day.",
+          "scene": "enamel stovetop kettle, mug, kitchen counter in morning light"
+        }
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-24/1-oneliner",
+      "facebook": {
+        "postId": "6adbc6cd8b3d437ddc85f060",
+        "plannedAt": "2026-10-24T07:36:00-04:00"
+      },
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "metrics": {},
+      "objects": "enamel stovetop kettle, mug, kitchen counter in morning light",
+      "line": "The kettle takes three minutes. Best three minutes of the day."
+    },
+    {
+      "date": "2026-10-24",
+      "n": 2,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "title": "The printer works perfectly. Until the one day you need it.",
+      "topic": "Printers that fail exactly when needed",
+      "caption": "Blinking orange again.",
+      "slides": [
+        {
+          "text": "The printer works perfectly. Until the one day you need it.",
+          "scene": "beige office printer with jammed paper, home-office desk"
+        }
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-24/2-oneliner",
+      "facebook": {
+        "postId": "6adbc6cdbd33ce99c3ed14b4",
+        "plannedAt": "2026-10-24T10:32:00-04:00"
+      },
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "metrics": {},
+      "objects": "beige office printer with jammed paper, home-office desk",
+      "line": "The printer works perfectly. Until the one day you need it."
+    },
+    {
+      "date": "2026-10-24",
+      "n": 3,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "title": "It came with a lifetime warranty. The lifetime was eleven months.",
+      "topic": "Lifetime warranties on things that barely last (buying things)",
+      "caption": "Kept the receipt, though.",
+      "slides": [
+        {
+          "text": "It came with a lifetime warranty. The lifetime was eleven months.",
+          "scene": "inside-out broken umbrella in the rain"
+        }
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-24/3-oneliner",
+      "facebook": {
+        "postId": "6adbc6ce8b3d437ddc85f08f",
+        "plannedAt": "2026-10-24T13:31:00-04:00"
+      },
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "metrics": {},
+      "objects": "inside-out broken umbrella in the rain",
+      "line": "It came with a lifetime warranty. The lifetime was eleven months."
+    },
+    {
+      "date": "2026-10-24",
+      "n": 4,
+      "type": "thennow",
+      "format": "single",
+      "style": "ai",
+      "title": "They called it convenience.",
+      "topic": "Sunday roast dinner at one table vs takeout eaten in front of a screen (food)",
+      "caption": "When was the last time a meal took the whole afternoon? 🤔\n\nSunday dinner used to mean a roast in the oven for hours and everyone around one table. Now dinner often arrives in a paper bag and gets eaten in front of a screen.\n\nWe saved the afternoon. Nobody's quite sure what we spent it on.",
+      "slides": [
+        {
+          "text": "They called it convenience.",
+          "scene": "roast chicken platter -> crumpled takeout bag"
+        }
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-24/4-thennow",
+      "facebook": {
+        "postId": "6adbc6cf3d5b27036b4faa39",
+        "plannedAt": "2026-10-24T18:08:00-04:00"
+      },
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "metrics": {},
+      "objects": "roast chicken platter -> crumpled takeout bag",
+      "headline": "THEY CALLED IT CONVENIENCE.",
+      "then": "roast chicken dinner on an oval china platter",
+      "now": "crumpled paper takeout bag with a plastic container"
+    },
+    {
+      "date": "2026-10-24",
+      "n": 5,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "title": "Forty minutes choosing a movie. Asleep in the first ten.",
+      "topic": "Taking ages to pick a movie then falling asleep (shared everyday moment)",
+      "caption": "Great film, apparently.",
+      "slides": [
+        {
+          "text": "Forty minutes choosing a movie. Asleep in the first ten.",
+          "scene": "asleep on velvet sofa, remote, spilled popcorn, knitted blanket"
+        }
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-24/5-oneliner",
+      "facebook": {
+        "postId": "6adbc6cf3d5b27036b4faa6e",
+        "plannedAt": "2026-10-24T21:21:00-04:00"
+      },
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "metrics": {},
+      "objects": "asleep on velvet sofa, remote, spilled popcorn, knitted blanket",
+      "line": "Forty minutes choosing a movie. Asleep in the first ten."
     }
-   ]
-  }
- ],
- "ideas": [
-  {
-   "added": "2026-10-18",
-   "type": "oneliner",
-   "idea": "Advice/people line with a twist, e.g. about everyone saying 'let's catch up soon' and nobody setting a date",
-   "why": "advice and habit one-liners were the top posts this week"
-  },
-  {
-   "added": "2026-10-18",
-   "type": "thennow",
-   "idea": "Waiting then vs now: a letter that took a week vs messages that arrive instantly yet go unanswered",
-   "why": "test a non-product theme for then vs now"
-  },
-  {
-   "added": "2026-10-18",
-   "type": "oneliner",
-   "idea": "Work line in the evening slot: e.g. 'quick call' that lasts an hour",
-   "why": "'Work hard, they said' got 42 shares and 7 comments in the evening"
-  }
- ]
+  ],
+  "ideas": [
+    {
+      "added": "2026-10-18",
+      "type": "oneliner",
+      "idea": "Advice/people line with a twist, e.g. about everyone saying 'let's catch up soon' and nobody setting a date",
+      "why": "advice and habit one-liners were the top posts this week"
+    },
+    {
+      "added": "2026-10-18",
+      "type": "thennow",
+      "idea": "Waiting then vs now: a letter that took a week vs messages that arrive instantly yet go unanswered",
+      "why": "test a non-product theme for then vs now"
+    },
+    {
+      "added": "2026-10-18",
+      "type": "oneliner",
+      "idea": "Work line in the evening slot: e.g. 'quick call' that lasts an hour",
+      "why": "'Work hard, they said' got 42 shares and 7 comments in the evening"
+    }
+  ]
 }
