@@ -2279,6 +2279,147 @@
    "metrics": {},
    "objects": "asleep on velvet sofa, remote, spilled popcorn, knitted blanket",
    "line": "Forty minutes choosing a movie. Asleep in the first ten."
+  },
+  {
+   "date": "2026-10-25",
+   "n": 1,
+   "type": "thennow",
+   "format": "single",
+   "style": "ai",
+   "theme": null,
+   "title": "Your suitcase used to fly free.",
+   "topic": "Checked bags once included in the fare vs paying a bag fee now (travel / free vs \"free\")",
+   "object": "vintage leather suitcase -> tiny stuffed carry-on with blank price tag",
+   "caption": "When did you last squeeze a week of clothes into one small bag just to dodge a fee? 😏\n\nChecked bags used to come with the ticket. Now the fare often covers the seat, and the suitcase pays its own way.\n\nWe all travel lighter now. Not always by choice.",
+   "slides": [
+    {
+     "text": "Your suitcase used to fly free."
+    }
+   ],
+   "sources": [
+    "https://www.farecompare.com/travel-advice/airline-fees-bags-history/",
+    "https://12news.com/article/news/verify/money-verify/airlines-baggage-fees-not-related-september-11/536-d14e1af6-8f8e-48ed-9e2c-56d0171d5524"
+   ],
+   "imageFolder": "posts/oldcrow/2026-10-25/1-thennow",
+   "facebook": {
+    "postId": "6add1820bd33ce99c33f7b16",
+    "plannedAt": "2026-10-25T08:15:00-04:00"
+   },
+   "status": "scheduled",
+   "metrics": {},
+   "metaCheck": "passed",
+   "headline": "YOUR SUITCASE USED TO FLY FREE.",
+   "then": "big vintage leather suitcase with brass corners",
+   "now": "tiny squashed carry-on bag with a blank price tag"
+  },
+  {
+   "date": "2026-10-25",
+   "n": 2,
+   "type": "oneliner",
+   "format": "single",
+   "style": "ai",
+   "theme": null,
+   "title": "I came in here for something. The room isn't telling.",
+   "topic": "Walking into a room and forgetting why (shared everyday moment)",
+   "object": "pantry doorway, finger raised, unlabeled jars",
+   "caption": "Back to the kitchen, then.",
+   "slides": [
+    {
+     "text": "I came in here for something. The room isn't telling."
+    }
+   ],
+   "sources": [],
+   "imageFolder": "posts/oldcrow/2026-10-25/2-oneliner",
+   "facebook": {
+    "postId": "6add18213d5b27036ba0cc11",
+    "plannedAt": "2026-10-25T11:08:00-04:00"
+   },
+   "status": "scheduled",
+   "metrics": {},
+   "metaCheck": "passed",
+   "line": "I came in here for something. The room isn't telling.",
+   "experiment": "shared everyday moment people relate to (Test next: comments)"
+  },
+  {
+   "date": "2026-10-25",
+   "n": 3,
+   "type": "oneliner",
+   "format": "single",
+   "style": "ai",
+   "theme": null,
+   "title": "We bought a bigger fridge. Now we throw out more food.",
+   "topic": "Bigger fridges, more forgotten food (buying things / habits)",
+   "object": "huge open double-door fridge, wilted lettuce",
+   "caption": "The lettuce never stood a chance.",
+   "slides": [
+    {
+     "text": "We bought a bigger fridge. Now we throw out more food."
+    }
+   ],
+   "sources": [],
+   "imageFolder": "posts/oldcrow/2026-10-25/3-oneliner",
+   "facebook": {
+    "postId": "6add18218b3d437ddcd8ec05",
+    "plannedAt": "2026-10-25T13:47:00-04:00"
+   },
+   "status": "scheduled",
+   "metrics": {},
+   "metaCheck": "passed",
+   "line": "We bought a bigger fridge. Now we throw out more food."
+  },
+  {
+   "date": "2026-10-25",
+   "n": 4,
+   "type": "oneliner",
+   "format": "single",
+   "style": "ai",
+   "theme": null,
+   "title": "Follow your passion, they said. Your passion doesn't pay the rent.",
+   "topic": "Follow-your-passion advice vs paying bills (advice / money)",
+   "object": "easel with landscape painting, palette, pinned envelope",
+   "caption": "Landlord wasn't moved.",
+   "slides": [
+    {
+     "text": "Follow your passion, they said. Your passion doesn't pay the rent."
+    }
+   ],
+   "sources": [],
+   "imageFolder": "posts/oldcrow/2026-10-25/4-oneliner",
+   "facebook": {
+    "postId": "6add1822e4be8a4d867866d2",
+    "plannedAt": "2026-10-25T17:38:00-04:00"
+   },
+   "status": "scheduled",
+   "metrics": {},
+   "metaCheck": "passed",
+   "line": "Follow your passion, they said. Your passion doesn't pay the rent."
+  },
+  {
+   "date": "2026-10-25",
+   "n": 5,
+   "type": "oneliner",
+   "format": "single",
+   "style": "ai",
+   "theme": null,
+   "title": "The best things in this house were never bought. They were handed down.",
+   "topic": "Hand-me-down things that outlast anything bought (quieter reflective line)",
+   "object": "old wooden toolbox, patchwork quilt, lamp",
+   "caption": "Still works, too.",
+   "slides": [
+    {
+     "text": "The best things in this house were never bought. They were handed down."
+    }
+   ],
+   "sources": [],
+   "imageFolder": "posts/oldcrow/2026-10-25/5-oneliner",
+   "facebook": {
+    "postId": "6add18236887a2efc1d4c6e4",
+    "plannedAt": "2026-10-25T21:48:00-04:00"
+   },
+   "status": "scheduled",
+   "metrics": {},
+   "metaCheck": "passed",
+   "line": "The best things in this house were never bought. They were handed down."
   }
  ],
  "ideas": [
