@@ -2334,11 +2334,12 @@
     "postId": "6add18213d5b27036ba0cc11",
     "plannedAt": "2026-10-25T11:08:00-04:00"
    },
-   "status": "scheduled",
+   "status": "deleted-by-luke",
    "metrics": {},
    "metaCheck": "passed",
    "line": "I came in here for something. The room isn't telling.",
-   "experiment": "shared everyday moment people relate to (Test next: comments)"
+   "experiment": "shared everyday moment people relate to (Test next: comments)",
+   "note": "removed at Luke's request when Old Crow went back to 3 posts a day"
   },
   {
    "date": "2026-10-25",
@@ -2359,7 +2360,7 @@
    "sources": [],
    "imageFolder": "posts/oldcrow/2026-10-25/3-oneliner",
    "facebook": {
-    "postId": "6add18218b3d437ddcd8ec05",
+    "postId": "6add41a38b3d437ddce210e4",
     "plannedAt": "2026-10-25T13:47:00-04:00"
    },
    "status": "scheduled",
@@ -2389,10 +2390,11 @@
     "postId": "6add1822e4be8a4d867866d2",
     "plannedAt": "2026-10-25T17:38:00-04:00"
    },
-   "status": "scheduled",
+   "status": "deleted-by-luke",
    "metrics": {},
    "metaCheck": "passed",
-   "line": "Follow your passion, they said. Your passion doesn't pay the rent."
+   "line": "Follow your passion, they said. Your passion doesn't pay the rent.",
+   "note": "removed at Luke's request when Old Crow went back to 3 posts a day"
   },
   {
    "date": "2026-10-25",
