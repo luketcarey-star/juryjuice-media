@@ -4070,6 +4070,135 @@
    "status": "scheduled",
    "metaCheck": "passed",
    "metrics": {}
+  },
+  {
+   "date": "2026-10-26",
+   "run": "day",
+   "status": "scheduled",
+   "metrics": {},
+   "n": 1,
+   "window": "w1",
+   "type": "engage",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "tweet",
+   "theme": "light",
+   "captionStyle": "n/a",
+   "title": "Barking dog noise tickets",
+   "subtopic": "barking dog noise tickets",
+   "topic": "Question: should a dog that won't stop barking ever earn its owner a noise ticket",
+   "slides": [
+    "Should a dog that won't stop barking ever earn its owner a noise ticket?"
+   ],
+   "caption": "One bark is nothing. Two hours of it at midnight is a different story.\n\n#JuryJuice #DogOwners #Neighbors",
+   "sources": [],
+   "imageFolder": "posts/2026-10-26/1-engage",
+   "facebook": {
+    "format": "single",
+    "postId": "6ade62c3bd33ce99c38c809b",
+    "plannedAt": "2026-10-26T09:00:00-04:00"
+   },
+   "instagram": {
+    "format": "single",
+    "postId": "6ade62c4e4be8a4d86c578ab",
+    "plannedAt": "2026-10-26T09:02:00-04:00"
+   },
+   "plannedAt": "2026-10-26T09:00:00-04:00",
+   "metaCheck": "passed"
+  },
+  {
+   "date": "2026-10-26",
+   "run": "day",
+   "status": "scheduled",
+   "metrics": {},
+   "n": 2,
+   "window": "w2",
+   "type": "list",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "photo",
+   "look": "blue",
+   "captionStyle": "classic",
+   "sceneTag": "policeLights",
+   "title": "The Chief Who Ticketed Himself",
+   "subtopic": "officer tickets himself",
+   "topic": "April 2017: small-town police chief (Justin Burch, Sperry OK, not named) caught on video going 75-80 mph, wrote himself a speeding ticket for more than $300, apologized on department Facebook, said he might not have written it without the video, will pay in full",
+   "slides": [
+    "A small-town police chief got caught on video going 80 mph. So he **wrote himself a speeding ticket** worth more than $300."
+   ],
+   "caption": "He admitted he might not have written it if nobody had filmed him. Could you write yourself a ticket like that?\n\n#JuryJuice #SpeedingTicket #Police\n\nSource: CBS News (2017)",
+   "sources": [
+    {
+     "item": "CBS News / KOSU / NPR, April 2017",
+     "source": "https://www.kosu.org/local-news/2017-04-18/oklahoma-police-chief-issues-himself-a-speeding-ticket"
+    },
+    {
+     "item": "CBS Sacramento",
+     "source": "https://www.cbsnews.com/amp/sacramento/news/caught-on-video-police-chief-writes-himself-a-300-speeding-ticket"
+    }
+   ],
+   "imageFolder": "posts/2026-10-26/2-list",
+   "facebook": {
+    "format": "single",
+    "postId": "6ade62c5e4be8a4d86c578ec",
+    "plannedAt": "2026-10-26T13:48:00-04:00"
+   },
+   "instagram": {
+    "format": "single",
+    "postId": "6ade62c58b3d437ddc26bdb8",
+    "plannedAt": "2026-10-26T13:51:00-04:00"
+   },
+   "plannedAt": "2026-10-26T13:48:00-04:00",
+   "metaCheck": "passed"
+  },
+  {
+   "date": "2026-10-26",
+   "run": "day",
+   "status": "scheduled",
+   "metrics": {},
+   "n": 3,
+   "window": "w3",
+   "type": "history",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "photo",
+   "look": "panel",
+   "captionStyle": "payoff",
+   "sceneTag": "policeLights",
+   "title": "A Physics Paper vs. a Stop-Sign Ticket",
+   "subtopic": "stop sign ticket",
+   "topic": "2012: physicist Dmitri Krioukov (not named) got a $400 ticket for not stopping at a stop sign; wrote 4-page paper 'The Proof of Innocence'; ticket dismissed; commissioner Karen Riley said decision was not based on physics but on the officer's view (too far from intersection)",
+   "slides": [
+    "An officer said a physicist never fully stopped at the stop sign. He fought the **$400 ticket** in court with a four-page physics paper."
+   ],
+   "caption": "He won, though the court commissioner said later that most of the physics went over her head. She dropped the ticket because the officer had been too far from the corner to see it clearly. Would a paper like that have convinced you?\n\n#JuryJuice #TrafficTicket #Physics\n\nSource: NPR (2012)",
+   "sources": [
+    {
+     "item": "NPR, Apr 16 2012",
+     "source": "https://www.npr.org/sections/thetwo-way/2012/04/16/150732005/math-physics-fancy-language-sneeze-beating-traffic-ticket"
+    },
+    {
+     "item": "KSL/AP, Apr 18 2012 ($400)",
+     "source": "https://www.ksl.com/article/20035542/physicist-beats-traffic-ticket-with-science-paper"
+    },
+    {
+     "item": "Yahoo Autos (commissioner's reason)",
+     "source": "https://autos.yahoo.com/bp/judge-says-she-didn-t-understand-physicist-stop-203622385.html"
+    }
+   ],
+   "imageFolder": "posts/2026-10-26/3-history",
+   "facebook": {
+    "format": "single",
+    "postId": "6ade62c6bd33ce99c38c8233",
+    "plannedAt": "2026-10-26T19:34:00-04:00"
+   },
+   "instagram": {
+    "format": "single",
+    "postId": "6ade62c6bd33ce99c38c829f",
+    "plannedAt": "2026-10-26T20:05:00-04:00"
+   },
+   "plannedAt": "2026-10-26T19:34:00-04:00",
+   "metaCheck": "passed"
   }
  ],
  "ideas": [
@@ -4084,6 +4213,18 @@
   {
    "added": "2026-10-18",
    "idea": "Recording-at-a-traffic-stop follow-up: a driver ticketed after filming from their own car, how it ended"
+  },
+  {
+   "added": "2026-10-25",
+   "idea": "Another single-photo police 'officer held to the same rule' story (an officer or chief who paid his own parking or camera ticket), police-lights photo, blue look"
+  },
+  {
+   "added": "2026-10-25",
+   "idea": "Ticket fought with an odd piece of evidence (a dashcam timestamp, a weather report, a stopwatch), told as one payoff story, no searches"
+  },
+  {
+   "added": "2026-10-25",
+   "idea": "Bike or scooter ticket quick question follow-up (the cycling stop-sign question was the best quick question ever at 1.67% FB / 3.85% IG)"
   }
  ]
 }
