@@ -2422,6 +2422,91 @@
       "metrics": {},
       "metaCheck": "passed",
       "line": "The best things in this house were never bought. They were handed down."
+    },
+    {
+      "date": "2026-10-26",
+      "n": 1,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "title": "Keep the box, just in case. Now the closet is just boxes.",
+      "topic": "Keeping empty boxes just in case (habits / buying things)",
+      "object": "closet crammed with empty cardboard boxes",
+      "caption": "One more won't hurt.",
+      "slides": [
+        {
+          "text": "Keep the box, just in case. Now the closet is just boxes."
+        }
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-26/1-oneliner",
+      "facebook": {
+        "postId": "6ade695de4be8a4d86c6fb6a",
+        "plannedAt": "2026-10-26T07:43:00-04:00"
+      },
+      "status": "scheduled",
+      "metrics": {},
+      "metaCheck": "passed",
+      "line": "Keep the box, just in case. Now the closet is just boxes."
+    },
+    {
+      "date": "2026-10-26",
+      "n": 2,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "title": "There's an app for that. Please update to continue.",
+      "topic": "Apps that need updating right when you need them (technology)",
+      "object": "park bench in autumn, phone with loading bar, umbrella",
+      "caption": "Still at ninety-nine percent.",
+      "slides": [
+        {
+          "text": "There's an app for that. Please update to continue."
+        }
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-26/2-oneliner",
+      "facebook": {
+        "postId": "6ade695e3d5b27036befb8c1",
+        "plannedAt": "2026-10-26T13:53:00-04:00"
+      },
+      "status": "scheduled",
+      "metrics": {},
+      "metaCheck": "passed",
+      "line": "There's an app for that. Please update to continue."
+    },
+    {
+      "date": "2026-10-26",
+      "n": 3,
+      "type": "thennow",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "title": "The ads used to stay put.",
+      "topic": "Ads that stayed on a sign vs retargeting ads that follow you online (advertising)",
+      "object": "painted wooden shoe sign -> phone bursting with pop-up ads",
+      "caption": "Ever look at a pair of shoes once and then see them everywhere for a week? 👀\n\nAds used to stay where they were put: a sign by the road, a page in a magazine. Now one quick look online can follow you from site to site for days.\n\nWe used to go looking for the ads. Now they come looking for us.",
+      "slides": [
+        {
+          "text": "The ads used to stay put."
+        }
+      ],
+      "sources": [
+        "https://www.benton.org/headlines/retargeting-ads-follow-surfers-other-sites (NYT 2010: retargeting ads follow surfers to other sites)"
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-26/3-thennow",
+      "facebook": {
+        "postId": "6ade695f6887a2efc12384a4",
+        "plannedAt": "2026-10-26T21:53:00-04:00"
+      },
+      "status": "scheduled",
+      "metrics": {},
+      "metaCheck": "passed",
+      "headline": "THE ADS USED TO STAY PUT.",
+      "then": "small painted wooden sign board with a shoe picture",
+      "now": "phone bursting with blank pop-up ad windows"
     }
   ],
   "ideas": [
@@ -2442,6 +2527,24 @@
       "type": "oneliner",
       "idea": "Work line in the evening slot: e.g. 'quick call' that lasts an hour",
       "why": "'Work hard, they said' got 42 shares and 7 comments in the evening"
+    },
+    {
+      "added": "2026-10-25",
+      "type": "oneliner",
+      "idea": "Tech-irony line with a sharp twist, e.g. 'Smart fridge. Still can't tell you what's for dinner.'",
+      "why": "Self-checkout (1.54%), Everyone's an expert online (2.37%) and A thousand friends online (1.82%) were the week's top rates"
+    },
+    {
+      "added": "2026-10-25",
+      "type": "thennow",
+      "idea": "Community theme again: one phone number you knew by heart vs a phone full of contacts you never call",
+      "why": "Front porch. Front camera. (community) was the best then vs now this week at 1.76%"
+    },
+    {
+      "added": "2026-10-25",
+      "type": "oneliner",
+      "idea": "Online-vs-real-life line for the evening slot, e.g. 'Five hundred reviews read. Bought the first one anyway.'",
+      "why": "online vs real life lines did best in the evening (A thousand friends online: 4.8k impressions, 13 shares)"
     }
   ]
 }
