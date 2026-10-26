@@ -4067,14 +4067,14 @@
     "format": "single"
    },
    "plannedAt": "2026-10-25T19:52:00-04:00",
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
    "metrics": {}
   },
   {
    "date": "2026-10-26",
    "run": "day",
-   "status": "scheduled",
+   "status": "sent",
    "metrics": {},
    "n": 1,
    "window": "w1",
@@ -4109,7 +4109,7 @@
   {
    "date": "2026-10-26",
    "run": "day",
-   "status": "scheduled",
+   "status": "sent",
    "metrics": {},
    "n": 2,
    "window": "w2",
@@ -4198,6 +4198,141 @@
     "plannedAt": "2026-10-26T20:05:00-04:00"
    },
    "plannedAt": "2026-10-26T19:34:00-04:00",
+   "metaCheck": "passed"
+  },
+  {
+   "date": "2026-10-27",
+   "run": "day",
+   "status": "scheduled",
+   "metrics": {},
+   "n": 1,
+   "window": "w1",
+   "type": "list",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "photo",
+   "look": "original",
+   "captionStyle": "classic",
+   "sceneTag": "policeLights",
+   "title": "The NULL License Plate",
+   "subtopic": "license plate glitch tickets",
+   "topic": "Joseph Tartaro (not named), security researcher, vanity plate NULL; ticket processing system matched tickets with missing plate data to his plate; over $12,000 in other people's citations; processing center canceled the $12,000, ~$6,000 more still showed later; DMV and LAPD told him to change the plate (DEF CON 2019). Framed as a programmer's joke, not as a way to dodge tickets.",
+   "slides": [
+    "His license plate said NULL, a programmer's joke. Computers mailed him **$12,000 in strangers' tickets** before that bill got canceled."
+   ],
+   "caption": "The fix both the DMV and police offered was simple: change the plate. Could you give up a plate like that?\n\n#JuryJuice #ParkingTicket #LicensePlate\n\nSource: The Drive (2019)",
+   "sources": [
+    {
+     "item": "The Drive, Aug 2019",
+     "source": "https://www.thedrive.com/news/29388/california-mans-plot-to-avoid-tickets-with-null-vanity-plate-nets-him-12k-in-fines"
+    }
+   ],
+   "imageFolder": "posts/2026-10-27/1-list",
+   "facebook": {
+    "format": "single",
+    "postId": "6adfb4ad0988d5affea10451",
+    "plannedAt": "2026-10-27T09:22:00-04:00"
+   },
+   "instagram": {
+    "format": "single",
+    "postId": "6adfb4ae902d20af4cd194d3",
+    "plannedAt": "2026-10-27T09:02:00-04:00"
+   },
+   "plannedAt": "2026-10-27T09:02:00-04:00",
+   "metaCheck": "passed"
+  },
+  {
+   "date": "2026-10-27",
+   "run": "day",
+   "status": "scheduled",
+   "metrics": {},
+   "n": 2,
+   "window": "w2",
+   "type": "history",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "photo",
+   "look": "original",
+   "captionStyle": "payoff",
+   "sceneTag": "policeLights",
+   "title": "Ticketed for Smart Glasses at the Wheel",
+   "subtopic": "smart glasses ticket",
+   "topic": "Cecilia Abadie (not named), stopped by CHP Oct 29 2013, cited for 'driving with monitor visible to driver (Google Glass)'; Jan 16 2014 commissioner John Blair found her not guilty, no proof the device was on; he said Glass falls within the statute (VC 27602). Speeding part left out on purpose.",
+   "slides": [
+    "A driver got pulled over and ticketed for wearing **smart glasses** at the wheel. She said the little screen wasn't even on."
+   ],
+   "caption": "She walked out not guilty. Nobody could prove the screen was running when she got stopped. The commissioner on her case still warned that the rule against screens a driver can see could cover glasses like hers. Should smart glasses count the same as a phone in your hand?\n\n#JuryJuice #TrafficTicket #SmartGlasses\n\nSource: NBC San Diego (2014)",
+   "sources": [
+    {
+     "item": "NBC San Diego, Jan 2014",
+     "source": "https://nbcsandiego.com/news/local/google-glass-traffic-ticket-san-diego-temecula-cecilia-abadie/69490"
+    },
+    {
+     "item": "Christian Science Monitor, Jan 2014",
+     "source": "https://csmonitor.com/layout/set/amphtml/Technology/2014/0117/Google-Glass-driver-wins-in-California-court"
+    }
+   ],
+   "imageFolder": "posts/2026-10-27/2-history",
+   "facebook": {
+    "format": "single",
+    "postId": "6adfb4ae2f2faff70b78bfaf",
+    "plannedAt": "2026-10-27T13:35:00-04:00"
+   },
+   "instagram": {
+    "format": "single",
+    "postId": "6adfb4af902d20af4cd1952c",
+    "plannedAt": "2026-10-27T13:59:00-04:00"
+   },
+   "plannedAt": "2026-10-27T13:35:00-04:00",
+   "metaCheck": "passed"
+  },
+  {
+   "date": "2026-10-27",
+   "run": "day",
+   "status": "scheduled",
+   "metrics": {},
+   "n": 3,
+   "window": "w3",
+   "type": "laws",
+   "topicGroup": "county",
+   "format": "single",
+   "style": "photo",
+   "look": "blue",
+   "captionStyle": "classic",
+   "sceneTag": "other",
+   "title": "The $30,000 Beach Treehouse",
+   "subtopic": "treehouse permit fight",
+   "topic": "Holmes Beach FL (not named): Lynn Tran and Richard Hazen (not named) built treehouse ~2011 for ~$30,000 (Fox News; Tran said $28,000); 2013 anonymous complaint; city said permit needed and it sat in setback zone; $50/day fines; US Supreme Court declined 2018; torn down late Aug/early Sept 2024 after 10+ years; they said an official told them no permit needed.",
+   "slides": [
+    "A couple spent about $30,000 on a beach treehouse. After **more than 10 years** fighting the city over a permit, they tore it down."
+   ],
+   "caption": "According to them, a city official had said early on that a permit wasn't needed. How long could you stick with a fight like that?\n\n#JuryJuice #Treehouse #PropertyRights\n\nSource: Fox 13 News (2024)",
+   "sources": [
+    {
+     "item": "Fox 13 News, Aug 2024",
+     "source": "https://www.fox13news.com/news/anna-maria-island-treehouse-torn-down-after-long-court-fight"
+    },
+    {
+     "item": "Fox News, Jan 2018",
+     "source": "https://www.foxnews.com/us/florida-couples-getaway-treehouse-must-come-down-after-supreme-court-declines-to-hear-case"
+    },
+    {
+     "item": "WWSB, Sept 2024",
+     "source": "https://www.mysuncoast.com/2024/09/03/treehouse-completely-removed-after-decade-long-legal-battle"
+    }
+   ],
+   "imageFolder": "posts/2026-10-27/3-laws",
+   "facebook": {
+    "format": "single",
+    "postId": "6adfb4b03c00530d93a4d83a",
+    "plannedAt": "2026-10-27T20:28:00-04:00"
+   },
+   "instagram": {
+    "format": "single",
+    "postId": "6adfb4b03c00530d93a4d8a0",
+    "plannedAt": "2026-10-27T20:02:00-04:00"
+   },
+   "plannedAt": "2026-10-27T20:02:00-04:00",
    "metaCheck": "passed"
   }
  ],
