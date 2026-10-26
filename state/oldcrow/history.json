@@ -2617,6 +2617,95 @@
       "headline": "THE ADS USED TO STAY PUT.",
       "then": "small painted wooden sign board with a shoe picture",
       "now": "phone bursting with blank pop-up ad windows"
+    },
+    {
+      "date": "2026-10-27",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "status": "scheduled",
+      "metrics": {},
+      "sources": [],
+      "n": 1,
+      "type": "oneliner",
+      "title": "Your password must be stronger. Now nobody can get in. Including you.",
+      "line": "Your password must be stronger. Now nobody can get in. Including you.",
+      "topic": "Stronger password rules that lock you out of your own accounts (technology getting in the way)",
+      "object": "huge ring of brass keys, laptop with padlock at a writing desk",
+      "caption": "Third reset this week.",
+      "slides": [
+        {
+          "text": "Your password must be stronger. Now nobody can get in. Including you."
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-27/1-oneliner",
+      "facebook": {
+        "postId": "6adfbabdca308c8a2323e239",
+        "plannedAt": "2026-10-27T07:38:00-04:00"
+      },
+      "metaCheck": "passed",
+      "experiment": "Test next: one-liner about technology getting in the way (passwords); caption 4 words"
+    },
+    {
+      "date": "2026-10-27",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "status": "scheduled",
+      "metrics": {},
+      "sources": [
+        "https://www.probuilder.com/construction/article/55217418/single-family-lot-sizes-drop-to-record-low (NAHB: new single-family lot sizes at record low)",
+        "https://eyeonhousing.org/2025/07/shrinking-lots-spec-building-new-norm/ (NAHB 2025: shrinking lots)",
+        "https://www.columbian.com/news/2014/jun/08/new-us-homes-are-bigger-than-ever/ (Census: new homes much bigger than 1970s)"
+      ],
+      "n": 2,
+      "type": "thennow",
+      "title": "Bigger house. Smaller yard.",
+      "headline": "BIGGER HOUSE. SMALLER YARD.",
+      "then": "small cottage on a big lawn with a tree and tire swing",
+      "now": "huge three-storey house filling a tiny lot with a double garage",
+      "topic": "New homes much bigger than in the 1970s while lot sizes hit record lows (houses)",
+      "object": "cottage on big lawn -> huge house on tiny lot",
+      "caption": "Remember when the backyard was big enough for a whole game of tag? 🤔\n\nNew houses have grown a lot bigger since the 1970s, while the lots they're built on have shrunk to record lows. More rooms inside, less grass outside.\n\nPlenty of space now. Just not for the tire swing.",
+      "slides": [
+        {
+          "text": "Bigger house. Smaller yard."
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-27/2-thennow",
+      "facebook": {
+        "postId": "6adfbabe465475d28773ace7",
+        "plannedAt": "2026-10-27T13:50:00-04:00"
+      },
+      "metaCheck": "passed",
+      "experiment": "Test next: Then vs Now on houses theme"
+    },
+    {
+      "date": "2026-10-27",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "status": "scheduled",
+      "metrics": {},
+      "sources": [],
+      "n": 3,
+      "type": "oneliner",
+      "title": "Unlimited vacation, they said. Somehow it added up to zero days.",
+      "line": "Unlimited vacation, they said. Somehow it added up to zero days.",
+      "topic": "Unlimited vacation policies where nobody takes time off (work)",
+      "object": "straw sun hat, deflating beach ball, desk buried in folders",
+      "caption": "Maybe next year.",
+      "slides": [
+        {
+          "text": "Unlimited vacation, they said. Somehow it added up to zero days."
+        }
+      ],
+      "imageFolder": "posts/oldcrow/2026-10-27/3-oneliner",
+      "facebook": {
+        "postId": "6adfbabe7a32883de8ceba06",
+        "plannedAt": "2026-10-27T21:53:00-04:00"
+      },
+      "metaCheck": "passed"
     }
   ],
   "ideas": [
