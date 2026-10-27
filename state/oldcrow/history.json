@@ -2611,7 +2611,7 @@
         "postId": "6ade695f6887a2efc12384a4",
         "plannedAt": "2026-10-26T21:53:00-04:00"
       },
-      "status": "scheduled",
+      "status": "sent",
       "metrics": {},
       "metaCheck": "passed",
       "headline": "THE ADS USED TO STAY PUT.",
@@ -2623,7 +2623,7 @@
       "format": "single",
       "style": "ai",
       "theme": null,
-      "status": "scheduled",
+      "status": "sent",
       "metrics": {},
       "sources": [],
       "n": 1,
@@ -2651,7 +2651,7 @@
       "format": "single",
       "style": "ai",
       "theme": null,
-      "status": "scheduled",
+      "status": "sent",
       "metrics": {},
       "sources": [
         "https://www.probuilder.com/construction/article/55217418/single-family-lot-sizes-drop-to-record-low (NAHB: new single-family lot sizes at record low)",
@@ -2706,6 +2706,51 @@
         "plannedAt": "2026-10-27T21:53:00-04:00"
       },
       "metaCheck": "passed"
+    },
+    {
+      "date": "2026-10-28",
+      "n": 1,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "window": "o1",
+      "facebook": {
+        "postId": null,
+        "plannedAt": "2026-10-28T07:54:00-04:00"
+      },
+      "status": "skipped",
+      "skipReason": "image tool unavailable (mcp__Hookline_Images__generate_image not found by ToolSearch after 3 retries ~10 min; Hookline_Images MCP server not connected)",
+      "metrics": {}
+    },
+    {
+      "date": "2026-10-28",
+      "n": 2,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "window": "o2",
+      "facebook": {
+        "postId": null,
+        "plannedAt": "2026-10-28T13:42:00-04:00"
+      },
+      "status": "skipped",
+      "skipReason": "image tool unavailable (mcp__Hookline_Images__generate_image not found by ToolSearch after 3 retries ~10 min; Hookline_Images MCP server not connected)",
+      "metrics": {}
+    },
+    {
+      "date": "2026-10-28",
+      "n": 3,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "window": "o3",
+      "facebook": {
+        "postId": null,
+        "plannedAt": "2026-10-28T21:52:00-04:00"
+      },
+      "status": "skipped",
+      "skipReason": "image tool unavailable (mcp__Hookline_Images__generate_image not found by ToolSearch after 3 retries ~10 min; Hookline_Images MCP server not connected)",
+      "metrics": {}
     }
   ],
   "ideas": [
