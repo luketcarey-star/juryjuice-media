@@ -2728,10 +2728,10 @@
       "sources": [],
       "imageFolder": "posts/oldcrow/2026-10-28/1-oneliner",
       "facebook": {
-        "postId": null,
+        "postId": "6ae10f402f35d654faece0f6",
         "plannedAt": "2026-10-28T07:54:00-04:00"
       },
-      "status": "pending",
+      "status": "scheduled",
       "metrics": {},
       "metaCheck": "passed",
       "experiment": "tech-getting-in-the-way one-liner; caption 6 words"
@@ -2757,10 +2757,10 @@
       "sources": [],
       "imageFolder": "posts/oldcrow/2026-10-28/2-oneliner",
       "facebook": {
-        "postId": null,
+        "postId": "6ae10f402f35d654faece128",
         "plannedAt": "2026-10-28T13:42:00-04:00"
       },
-      "status": "pending",
+      "status": "scheduled",
       "metrics": {},
       "metaCheck": "passed",
       "experiment": "caption 3 words"
@@ -2786,10 +2786,10 @@
       "sources": [],
       "imageFolder": "posts/oldcrow/2026-10-28/3-oneliner",
       "facebook": {
-        "postId": null,
+        "postId": "6ae10f424e914b3cee291e32",
         "plannedAt": "2026-10-28T21:52:00-04:00"
       },
-      "status": "pending",
+      "status": "scheduled",
       "metrics": {},
       "metaCheck": "passed",
       "experiment": "caption 4 words"
