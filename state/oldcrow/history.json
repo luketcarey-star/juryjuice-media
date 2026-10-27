@@ -2713,14 +2713,28 @@
       "type": "oneliner",
       "format": "single",
       "style": "ai",
+      "theme": null,
       "window": "o1",
+      "title": "The smart speaker hears everything. Except what you asked for.",
+      "line": "The smart speaker hears everything. Except what you asked for.",
+      "topic": "Smart speakers that mishear requests (technology getting in the way)",
+      "object": "round fabric smart speaker on a kitchen counter, hand cupped to listen",
+      "caption": "Asked for a timer. Got jazz.",
+      "slides": [
+        {
+          "text": "The smart speaker hears everything. Except what you asked for."
+        }
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-28/1-oneliner",
       "facebook": {
         "postId": null,
         "plannedAt": "2026-10-28T07:54:00-04:00"
       },
-      "status": "skipped",
-      "skipReason": "image tool unavailable (mcp__Hookline_Images__generate_image not found by ToolSearch after 3 retries ~10 min; Hookline_Images MCP server not connected)",
-      "metrics": {}
+      "status": "pending",
+      "metrics": {},
+      "metaCheck": "passed",
+      "experiment": "tech-getting-in-the-way one-liner; caption 6 words"
     },
     {
       "date": "2026-10-28",
@@ -2728,14 +2742,28 @@
       "type": "oneliner",
       "format": "single",
       "style": "ai",
+      "theme": null,
       "window": "o2",
+      "title": "Think outside the box, they said. Then they handed you a cubicle.",
+      "line": "Think outside the box, they said. Then they handed you a cubicle.",
+      "topic": "Creativity advice vs cramped office cubicles (work / advice)",
+      "object": "grey fabric office cubicle, plain coffee mug",
+      "caption": "Wall view included.",
+      "slides": [
+        {
+          "text": "Think outside the box, they said. Then they handed you a cubicle."
+        }
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-28/2-oneliner",
       "facebook": {
         "postId": null,
         "plannedAt": "2026-10-28T13:42:00-04:00"
       },
-      "status": "skipped",
-      "skipReason": "image tool unavailable (mcp__Hookline_Images__generate_image not found by ToolSearch after 3 retries ~10 min; Hookline_Images MCP server not connected)",
-      "metrics": {}
+      "status": "pending",
+      "metrics": {},
+      "metaCheck": "passed",
+      "experiment": "caption 3 words"
     },
     {
       "date": "2026-10-28",
@@ -2743,14 +2771,28 @@
       "type": "oneliner",
       "format": "single",
       "style": "ai",
+      "theme": null,
       "window": "o3",
+      "title": "Your cart misses you, said the email. Your wallet doesn't.",
+      "line": "Your cart misses you, said the email. Your wallet doesn't.",
+      "topic": "Abandoned-cart reminder emails (online shopping / money)",
+      "object": "nearly empty leather wallet with a moth, laptop with cart icon at a writing desk",
+      "caption": "It's not you, cart.",
+      "slides": [
+        {
+          "text": "Your cart misses you, said the email. Your wallet doesn't."
+        }
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-28/3-oneliner",
       "facebook": {
         "postId": null,
         "plannedAt": "2026-10-28T21:52:00-04:00"
       },
-      "status": "skipped",
-      "skipReason": "image tool unavailable (mcp__Hookline_Images__generate_image not found by ToolSearch after 3 retries ~10 min; Hookline_Images MCP server not connected)",
-      "metrics": {}
+      "status": "pending",
+      "metrics": {},
+      "metaCheck": "passed",
+      "experiment": "caption 4 words"
     }
   ],
   "ideas": [
