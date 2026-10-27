@@ -4544,6 +4544,78 @@
    "plannedAt": "2026-10-28T20:09:00-04:00",
    "look": "panel",
    "note": "Redone as photo posts by hand on 2026-10-27 (image tool failed during the run)"
+  },
+  {
+   "date": "2026-10-27",
+   "run": "manual",
+   "type": "text",
+   "kind": "everyday",
+   "window": "extra",
+   "format": "single",
+   "style": "text",
+   "title": "What's the strangest ticket you or someone you know ever got?",
+   "caption": "What's the strangest ticket you or someone you know ever got?",
+   "status": "scheduled",
+   "metaCheck": "passed",
+   "facebook": {
+    "postId": "6ae111d92086adf9c11964c5",
+    "plannedAt": "2026-10-27T18:31:00-04:00"
+   },
+   "metrics": {}
+  },
+  {
+   "date": "2026-10-27",
+   "run": "manual",
+   "type": "text",
+   "kind": "police",
+   "window": "extra",
+   "format": "single",
+   "style": "text",
+   "title": "What's the smallest thing you've ever been pulled over for?",
+   "caption": "What's the smallest thing you've ever been pulled over for?",
+   "status": "scheduled",
+   "metaCheck": "passed",
+   "facebook": {
+    "postId": "6ae111d94e914b3cee2a022d",
+    "plannedAt": "2026-10-27T21:58:00-04:00"
+   },
+   "metrics": {}
+  },
+  {
+   "date": "2026-10-28",
+   "run": "manual",
+   "type": "text",
+   "kind": "everyday",
+   "window": "t1",
+   "format": "single",
+   "style": "text",
+   "title": "What's a local rule where you live that makes no sense?",
+   "caption": "What's a local rule where you live that makes no sense?",
+   "status": "scheduled",
+   "metaCheck": "passed",
+   "facebook": {
+    "postId": "6ae111e5b017df23970b28ed",
+    "plannedAt": "2026-10-28T11:29:00-04:00"
+   },
+   "metrics": {}
+  },
+  {
+   "date": "2026-10-28",
+   "run": "manual",
+   "type": "text",
+   "kind": "police",
+   "window": "t2",
+   "format": "single",
+   "style": "text",
+   "title": "What's the nicest thing a police officer has ever done for you?",
+   "caption": "What's the nicest thing a police officer has ever done for you?",
+   "status": "scheduled",
+   "metaCheck": "passed",
+   "facebook": {
+    "postId": "6ae111e62f35d654faedbb20",
+    "plannedAt": "2026-10-28T16:30:00-04:00"
+   },
+   "metrics": {}
   }
  ],
  "ideas": [

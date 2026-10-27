@@ -86,7 +86,7 @@ for p in posts:
 
 if page != "oldcrow":
     from collections import Counter
-    last = [p.get("topicGroup") or "other" for p in posts[-20:]]
+    last = [p.get("topicGroup") or "other" for p in [q for q in posts if q.get("type") != "text"][-20:]]  # text posts are extra and outside the topic mix
     cnt = Counter(last)
     print("\n=== TOPIC GROUPS of the last %d posts (target: police ~70%%, county ~20%%, hoa ~5%%, other ~5%%) ===" % len(last))
     print(", ".join(f"{g}: {cnt.get(g, 0)}" for g in ("police", "county", "hoa", "other")))

@@ -130,7 +130,7 @@ def plan_slots(n):
         type_scores[p["type"]].append(r)
         combo_scores[(p["type"], p["format"], p["style"])].append(r)
     used = defaultdict(int)
-    for p in today_posts:
+    for p in today_main:
         used[p["type"]] += 1
     slots = []
     for window in names:
@@ -179,7 +179,10 @@ def plan_slots(n):
     return slots
 
 
-n = max(0, min(len(WINDOWS), cfg["postsPerDay"] - len(today_posts)))
+# Text posts (type "text", Facebook only) are extra and never count toward postsPerDay.
+text_today = [p for p in today_posts if p.get("type") == "text"]
+today_main = [p for p in today_posts if p.get("type") != "text"]
+n = max(0, min(len(WINDOWS), cfg["postsPerDay"] - len(today_main)))
 
 # Buffer's free plan holds at most 10 scheduled posts PER CHANNEL (Luke, 2026-10-16: per page/account,
 # not shared). Count what this page has queued for the future on each of its channels and only plan
@@ -252,6 +255,27 @@ for s in enforce_carousel_caps(plan_slots(n)):
         seen = [(p.get("look") or "original") for p in hist["posts"] if p.get("style") == "photo" and p.get("date", "") >= "2026-10-17" and p.get("status") not in ("skipped", "deleted-by-luke")] + [x.get("look") for x in out if x.get("look")]
         s = dict(s, look=max(TARGET, key=lambda k: TARGET[k] * (len(seen) + 1) - seen.count(k)))
     out.append(dict(s, facebookAt=fb.isoformat(), instagramAt=ig.isoformat() if "instagram" in cfg.get("platforms", ["facebook", "instagram"]) else None))
+# Plain text posts (Luke 2026-10-27, Jury Juice): extra Facebook-only question posts in their own windows.
+text_out = []
+tcfg = cfg.get("textPosts")
+if tcfg:
+    tpl = tcfg.get("platform", "facebook")
+    room_t = max(0, BUFFER_LIMIT - queued_by.get(tpl, 0) - sum(1 for x in out if x.get(f"{tpl}At")))
+    done_w = {p.get("window") for p in text_today}
+    for w, (a, b) in tcfg["windows"].items():
+        if len(text_out) >= min(tcfg.get("perDay", 2) - len(text_today), room_t) or w in done_w:
+            continue
+        lo, hi = max(at(a), now + dt.timedelta(minutes=20)), at(b)
+        if lo >= hi:
+            continue
+        t = None
+        for _ in range(60):
+            cand = lo + dt.timedelta(minutes=rng.randrange(max(1, int((hi - lo).total_seconds() // 60))))
+            if all(abs((cand - x).total_seconds()) >= 45 * 60 for x in taken[tpl]):
+                t = cand; break
+        t = t or lo
+        taken[tpl].append(t)
+        text_out.append({"window": w, "type": "text", "kind": tcfg.get("kinds", {}).get(w, "everyday"), "format": "single", "style": "text", f"{tpl}At": t.isoformat()})
 print(json.dumps({"page": PAGE, "date": day.isoformat(), "run": run, "bufferQueued": queued,
                   "limitedByBuffer": limited_by_buffer, "mode": cfg["mode"],
-                  "alreadyToday": len(today_posts), "posts": out}, indent=2))
+                  "alreadyToday": len(today_main), "posts": out, "textPosts": text_out}, indent=2))

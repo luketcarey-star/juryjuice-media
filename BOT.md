@@ -204,6 +204,27 @@ For each post, two `create_post` calls:
   only `saveToDraft: true` and put the planned time in the run summary.
 - Buffer free plan allows only 10 scheduled posts at a time; never queue more than one day ahead.
 
+### 8b. Text posts (Luke 2026-10-27): 2 a day, Facebook only
+The planner's `textPosts` list gives each extra plain text post: its window (`t1` about 11:00, `t2` about 16:30),
+its `kind` and its exact `facebookAt`. These are ON TOP of the 3 regular posts and never replace one.
+- Write ONE question, ONE sentence, ending in "?" (max ~20 words). Nothing else in the post: no second sentence,
+  no hashtags, no source line, no emoji, no image, no "comment below". Plain everyday spoken English.
+- `kind: everyday` = an everyday experience with tickets, fines, towing, parking, traffic lights or odd local rules
+  (e.g. "What's the strangest ticket you or someone you know ever got?").
+- `kind: police` = police, careful lane only: tickets, warnings, traffic stops for small things, slowing down for
+  police cars, kind officers, harmless calls (e.g. "What's the smallest thing you've ever been pulled over for?").
+  Never arrests, searches, jail, crimes, confrontations, refusing ID, or anything negative about a real person.
+- Never repeat or closely reword a text question from the last 30 `type: "text"` posts in history, and don't ask
+  the same thing as that day's quick-question (engage) card. No place names.
+- Meta check: an open question only; no engagement bait ("comment YES", "type", "share", "tag", "vote").
+- Schedule with create_post on the Jury Juice FACEBOOK channel only: text = the question, no assets,
+  `metadata: {"facebook": {"type": "post"}}`, `mode: customScheduled`, `dueAt` = `facebookAt`, `schedulingType: automatic`
+  (or `saveToDraft` in draft mode). Never Instagram.
+- Save each in history: `{"date", "run": "day", "type": "text", "kind", "window", "format": "single", "style": "text",
+  "title": <the question>, "caption": <the question>, "status": "scheduled", "metaCheck": "passed",
+  "facebook": {"postId", "plannedAt"}, "metrics": {}}` (no topicGroup, so they don't count toward the topic mix).
+- In the summary, list the two questions with their times.
+
 ### 9. Record and clean up
 - Append each post to `state/history.json` → `posts`:
   `{date, n, type, topicGroup (police | hoa | county | other), format, style, theme, title, topic, slides, sources, imageFolder,
