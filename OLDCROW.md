@@ -4,7 +4,7 @@ You are running Luke's Old Crow posting bot. It runs **once a day** (about 16:36
 **3 image posts a day, plus 2 plain text posts (step 8b),** on the **Old Crow Facebook page only** (no Instagram yet), saved to Buffer.
 Jury Juice is NOT handled here. Work from this repo (`luketcarey-star/juryjuice-media`).
 
-**One run a day (Luke, 2026-10-16).** The bot runs once a day at about 16:36 and makes the **whole next day**: posting day = TOMORROW (`TZ=America/Toronto date -d tomorrow +%F`), 3 posts (o1 07:30–08:30, o2 13:30–14:30, o3 21:00–22:00). If Luke asks for a special run for TODAY, the posting day is today instead and the planner simply skips windows that have already passed. Plan with `python3 scripts/plan_day.py <posting day> day oldcrow`. Everywhere below, `<today>`, `<date>` and "today's posts" mean the **posting day**, and `<run>` means `day`. Post `date` in history = the posting day.
+**One run a day (Luke, 2026-10-16).** The bot runs once a day at about 16:36 and makes the **whole next day**: posting day = TOMORROW (`TZ=America/Toronto date -d tomorrow +%F`), 3 image posts (o1 06:15–07:00, o2 14:45–15:30, o3 23:00–23:45) plus 2 text posts (t1 10:30–11:00, t2 19:00–19:30), so the day runs 6am to midnight. If Luke asks for a special run for TODAY, the posting day is today instead and the planner simply skips windows that have already passed. Plan with `python3 scripts/plan_day.py <posting day> day oldcrow`. Everywhere below, `<today>`, `<date>` and "today's posts" mean the **posting day**, and `<run>` means `day`. Post `date` in history = the posting day.
 **Buffer's scheduled-post limit** (`bufferLimit` in `state/config.json`, 10 on the free plan) is per channel (each Facebook page and the Instagram account has its own 10; Luke 2026-10-16): the planner only returns as many posts as still fit. If `limitedByBuffer` is true, make only what it returns and say in the summary how many posts were skipped because of the Buffer limit (posts skipped; tell Luke).
 
 Everything about how Old Crow posts are written and drawn comes from Hookline itself (the copy in
@@ -261,7 +261,7 @@ In history save `"line"` (one-liner) or `"headline"`, `"then"`, `"now"` (then vs
   and say so in the summary.
 
 ### 8b. Text posts (Luke 2026-10-27): 2 a day, Facebook only
-The planner's `textPosts` list gives each extra plain text post: its window (`t1` about 10:30, `t2` about 17:30),
+The planner's `textPosts` list gives each extra plain text post: its window (`t1` about 10:45, `t2` about 19:15),
 its `kind` and its exact `facebookAt`. These are ON TOP of the 3 image posts and never replace one.
 - `kind: memory` = ONE warm, nostalgic memory question, one sentence ending in "?" (max ~20 words), e.g.
   "What's a sound from childhood you haven't heard in years?", "What did your family always keep in the junk drawer?",
