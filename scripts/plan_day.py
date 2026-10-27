@@ -31,7 +31,7 @@ rng = random.Random(f"{PAGE}-{day.isoformat()}-{run}")  # same plan if re-run
 EXPLORE = cfg["exploreShare"]
 WINDOWS = cfg["runs"][run]["windows"]          # {name: ["HH:MM", "HH:MM"]}
 now = dt.datetime.now(TZ)
-today_posts = [p for p in hist["posts"] if p.get("date") == day.isoformat()]
+today_posts = [p for p in hist["posts"] if p.get("date") == day.isoformat() and p.get("status") not in ("skipped", "deleted-by-luke")]  # skipped or removed posts free their slot again
 
 
 def at(hhmm):
