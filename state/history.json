@@ -4069,13 +4069,57 @@
    "plannedAt": "2026-10-25T19:52:00-04:00",
    "status": "sent",
    "metaCheck": "passed",
-   "metrics": {}
+   "metrics": {
+    "facebook": {
+     "reactions": 1,
+     "comments": 0,
+     "impressions": 290,
+     "shares": 0,
+     "clicks": 1,
+     "engagementRate": 0.34,
+     "measuredAt": "2026-10-27T16:20-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 96,
+     "reach": 63,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-27T16:20-04:00"
+    }
+   }
   },
   {
    "date": "2026-10-26",
    "run": "day",
    "status": "sent",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 215,
+     "shares": 0,
+     "clicks": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-27T16:20-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 87,
+     "reach": 64,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-27T16:20-04:00"
+    }
+   },
    "n": 1,
    "window": "w1",
    "type": "engage",
@@ -4110,7 +4154,29 @@
    "date": "2026-10-26",
    "run": "day",
    "status": "sent",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 12,
+     "comments": 3,
+     "impressions": 1735,
+     "shares": 4,
+     "clicks": 28,
+     "engagementRate": 1.1,
+     "measuredAt": "2026-10-27T16:20-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 167,
+     "reach": 116,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-27T16:20-04:00"
+    }
+   },
    "n": 2,
    "window": "w2",
    "type": "list",
