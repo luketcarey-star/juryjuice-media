@@ -1,7 +1,7 @@
 # Old Crow daily posting bot
 
 You are running Luke's Old Crow posting bot. It runs **once a day** (about 16:36) and makes the next day's
-**3 posts a day** on the **Old Crow Facebook page only** (no Instagram yet), saved to Buffer.
+**3 image posts a day, plus 2 plain text posts (step 8b),** on the **Old Crow Facebook page only** (no Instagram yet), saved to Buffer.
 Jury Juice is NOT handled here. Work from this repo (`luketcarey-star/juryjuice-media`).
 
 **One run a day (Luke, 2026-10-16).** The bot runs once a day at about 16:36 and makes the **whole next day**: posting day = TOMORROW (`TZ=America/Toronto date -d tomorrow +%F`), 3 posts (o1 07:30–08:30, o2 13:30–14:30, o3 21:00–22:00). If Luke asks for a special run for TODAY, the posting day is today instead and the planner simply skips windows that have already passed. Plan with `python3 scripts/plan_day.py <posting day> day oldcrow`. Everywhere below, `<today>`, `<date>` and "today's posts" mean the **posting day**, and `<run>` means `day`. Post `date` in history = the posting day.
@@ -259,6 +259,24 @@ In history save `"line"` (one-liner) or `"headline"`, `"then"`, `"now"` (then vs
 - Buffer's free plan allows only 10 scheduled posts across all pages at once. If Buffer refuses
   because of that limit, keep the post in history as `"status": "not-scheduled"` with its images
   and say so in the summary.
+
+### 8b. Text posts (Luke 2026-10-27): 2 a day, Facebook only
+The planner's `textPosts` list gives each extra plain text post: its window (`t1` about 10:30, `t2` about 17:30),
+its `kind` and its exact `facebookAt`. These are ON TOP of the 3 image posts and never replace one.
+- `kind: memory` = ONE warm, nostalgic memory question, one sentence ending in "?" (max ~20 words), e.g.
+  "What's a sound from childhood you haven't heard in years?", "What did your family always keep in the junk drawer?",
+  "What's a smell that takes you straight back to your grandmother's kitchen?", "What did you do on a rainy day before screens?"
+- `kind: relatable` = ONE gentle, relatable statement people nod along to, one sentence (max ~20 words). NOT witty,
+  no punchline, no "they said" twist, no sarcasm. Luke's examples of the right feel: "The best conversations still happen
+  around the kitchen table.", "You never realize how much your parents did until you're doing it yourself.",
+  "A handwritten note still means more than a text.", "Some of the best days were the ordinary ones."
+- Nothing else in the post: no hashtags, no emoji, no image, no source, no "comment below". Never repeat or closely reword
+  a text post from the last 30 `type: "text"` posts in history. Meta check: open and kind; no engagement bait.
+- Schedule with create_post on the Old Crow FACEBOOK channel: text only, no assets, `metadata: {"facebook": {"type": "post"}}`,
+  `mode: customScheduled`, `dueAt` = `facebookAt`, `schedulingType: automatic` (or `saveToDraft` in draft mode).
+- Save each in history: `{"date", "run": "day", "type": "text", "kind", "window", "format": "single", "style": "text",
+  "title": <the text>, "caption": <the text>, "status": "scheduled", "metaCheck": "passed", "facebook": {"postId", "plannedAt"}, "metrics": {}}`.
+- In the summary, list the two text posts with their times.
 
 ### 9. Record and clean up
 - Append each post to `state/oldcrow/history.json` → `posts`:

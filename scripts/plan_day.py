@@ -143,7 +143,7 @@ def plan_slots(n):
         t, why = weighted_pick(options, type_scores, cfg["minPostsBeforeLearningType"])
         if cfg.get("rotateTypes"):
             # Always vary: pick the type posted least recently (never the same type twice in a row).
-            done = [p["type"] for p in hist["posts"] if p.get("status") not in ("skipped", "deleted-by-luke")] + [x["type"] for x in slots]
+            done = [p["type"] for p in hist["posts"] if p.get("status") not in ("skipped", "deleted-by-luke") and p.get("type") != "text"] + [x["type"] for x in slots]
             last_seen = {o: max([i for i, ty in enumerate(done) if ty == o], default=-1) for o in options}
             t = min(options, key=lambda o: (last_seen[o], rng.random())); why = "rotation (least recently posted type)"
         daily = [d for d in cfg.get("dailyTypes", []) if d in cfg["formats"]]
@@ -151,7 +151,7 @@ def plan_slots(n):
             # Luke's rule (Old Crow): the new styles (one-liner / then vs now, alternating, least
             # recently posted first) are most posts. Both daily slots are new styles, except every
             # other day one slot (alternating morning/evening) is a told-or-sold or question post.
-            done = [p["type"] for p in hist["posts"] if p.get("status") not in ("skipped", "deleted-by-luke")] + [x["type"] for x in slots]
+            done = [p["type"] for p in hist["posts"] if p.get("status") not in ("skipped", "deleted-by-luke") and p.get("type") != "text"] + [x["type"] for x in slots]
             seen = lambda o: (max([i for i, ty in enumerate(done) if ty == o], default=-1), rng.random())
             rest = [o for o in cfg["formats"] if o not in daily]
             old_slot = None

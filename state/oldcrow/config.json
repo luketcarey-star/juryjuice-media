@@ -73,5 +73,24 @@
   },
   "oldTypePerDay": 0,
   "scheduleNote": "Luke 2026-10-16: one run a day around 4-5pm makes the WHOLE next day: Jury Juice 5 posts (mostly police), Old Crow 4 posts. Buffer's free plan allows 10 scheduled posts per channel, which is enough (at most ~8 queued on a channel right after a run).",
-  "lastMetricsAt": "2026-10-26T16:42:00-04:00"
+  "lastMetricsAt": "2026-10-26T16:42:00-04:00",
+  "textPosts": {
+    "perDay": 2,
+    "platform": "facebook",
+    "windows": {
+      "t1": [
+        "10:30",
+        "11:00"
+      ],
+      "t2": [
+        "17:30",
+        "18:00"
+      ]
+    },
+    "kinds": {
+      "t1": "memory",
+      "t2": "relatable"
+    },
+    "note": "Luke 2026-10-27: 2 plain text posts a day on the Old Crow Facebook page, between the 3 image posts. t1 = a memory question (one sentence), t2 = a gentle, relatable statement (not witty, no punchline). No hashtags, no image."
+  }
 }
