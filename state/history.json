@@ -4400,6 +4400,146 @@
    },
    "plannedAt": "2026-10-27T20:02:00-04:00",
    "metaCheck": "passed"
+  },
+  {
+   "date": "2026-10-28",
+   "run": "day",
+   "status": "scheduled",
+   "metrics": {},
+   "style": "tweet",
+   "metaCheck": "passed",
+   "n": 1,
+   "window": "w1",
+   "type": "list",
+   "topicGroup": "police",
+   "format": "single",
+   "theme": "black",
+   "captionStyle": "payoff",
+   "imageFallback": true,
+   "plannedStyle": "photo",
+   "plannedLook": "original",
+   "sceneTag": "other",
+   "title": "Pulled Over for a Christmas List",
+   "subtopic": "kind officers",
+   "topic": "Dec 2014: small-town police (Lowell MI, not named) pulled drivers over for minor things like dark window tint, asked what was on their holiday list while a production crew listened through officer mics; a team at a nearby store bought the items; officers handed over gifts, no tickets. Sponsor TV channel not named.",
+   "slides": [
+    "Officers pulled drivers over for little things, like window tint that was too dark.\n\nThen, still holding the license, the officer asked one odd question: **what's on your Christmas list?**"
+   ],
+   "caption": "A crew was listening through a mic the officer wore. A team at a store nearby bought whatever the driver named, and the officer walked back to the car with presents. Nobody got a ticket. How would you react if that happened at your window?\n\n#JuryJuice #TrafficStop #Christmas\n\nSource: Christian Science Monitor (2014)",
+   "sources": [
+    {
+     "item": "Christian Science Monitor, Dec 11 2014",
+     "source": "https://www.csmonitor.com/Business/In-Gear/2014/1211/Michigan-police-surprise-drivers-by-helping-with-holiday-shopping"
+    },
+    {
+     "item": "MPR News, Dec 10 2014 (no tickets)",
+     "source": "https://www.mprnews.org/story/2014/12/10/cops-pull-cars-over-give-drivers-presents"
+    }
+   ],
+   "imageFolder": "posts/2026-10-28/1-list",
+   "facebook": {
+    "format": "single",
+    "postId": "6ae1083ddec875ec95897362",
+    "plannedAt": "2026-10-28T09:08:00-04:00"
+   },
+   "instagram": {
+    "format": "single",
+    "postId": "6ae1083ee8126ef61421fc55",
+    "plannedAt": "2026-10-28T09:08:00-04:00"
+   },
+   "plannedAt": "2026-10-28T09:08:00-04:00"
+  },
+  {
+   "date": "2026-10-28",
+   "run": "day",
+   "status": "scheduled",
+   "metrics": {},
+   "style": "tweet",
+   "metaCheck": "passed",
+   "n": 2,
+   "window": "w2",
+   "type": "engage",
+   "topicGroup": "police",
+   "format": "single",
+   "theme": "dim",
+   "title": "Right turn on red everywhere",
+   "subtopic": "right turn on red",
+   "topic": "Question: should turning right on red be allowed at every intersection (pick-a-side road rule)",
+   "slides": [
+    "Should turning right on a red light be allowed at every intersection?"
+   ],
+   "caption": "Some drivers can't imagine sitting through it. Others would ban it tomorrow.\n\n#JuryJuice #RightOnRed #Driving",
+   "sources": [],
+   "imageFolder": "posts/2026-10-28/2-engage",
+   "facebook": {
+    "format": "single",
+    "postId": "6ae1083f0add83c2779057ee",
+    "plannedAt": "2026-10-28T13:34:00-04:00"
+   },
+   "instagram": {
+    "format": "single",
+    "postId": "6ae1083fe8126ef61421fc93",
+    "plannedAt": "2026-10-28T13:47:00-04:00"
+   },
+   "plannedAt": "2026-10-28T13:34:00-04:00"
+  },
+  {
+   "date": "2026-10-28",
+   "run": "day",
+   "status": "scheduled",
+   "metrics": {},
+   "style": "tweet",
+   "metaCheck": "passed",
+   "n": 3,
+   "window": "w3",
+   "type": "history",
+   "topicGroup": "other",
+   "format": "carousel",
+   "theme": "light",
+   "captionStyle": "classic",
+   "imageFallback": true,
+   "plannedStyle": "photo",
+   "plannedLook": "panel",
+   "title": "3 Times the Defendant Was an Object",
+   "subtopic": "objects as defendants",
+   "topic": "In rem cases: US v. One Solid Gold Object in Form of a Rooster (D. Nev. 1962, 206.3 troy oz restaurant statue, Gold Reserve Act 50 oz limit, jury for owner, returned); US v. 95 Barrels Alleged Apple Cider Vinegar (1924, unanimous, dried-apple vinegar misbranded); US v. Approximately 64,695 Pounds of Shark Fins (9th Cir. 2008, KD II not a fishing vessel, fins returned). Casino and nationalities left out on purpose.",
+   "slides": [
+    "3 real court cases where the defendant was an object",
+    "In 1962, **a solid gold rooster** was the defendant.\n\nThe government said its 206 ounces broke a limit on owning gold. A jury ruled for the rooster, so the statue returned to its spot in a restaurant.",
+    "**95 barrels of vinegar** made it to the nation's top court.\n\nThe label said apple cider vinegar, but it came from dried apples soaked in water. In 1924, not one justice took the seller's side: the label misled buyers.",
+    "The government took **32 tons of shark fins** off one ship.\n\nIt called the boat a fishing vessel. In 2008 an appeals court said the ship only bought fins at sea, so the owners got them back.",
+    "Follow for more"
+   ],
+   "caption": "A rooster, some vinegar and 32 tons of fins each got their day in court. Which case surprised you most?\n\n#JuryJuice #CourtCases #LawFacts\n\nSources: US v. One Solid Gold Object in Form of a Rooster (1962); US v. 95 Barrels of Vinegar (1924); US v. 64,695 Pounds of Shark Fins (2008)",
+   "sources": [
+    {
+     "item": "Gold rooster case (Wikipedia)",
+     "source": "https://en.wikipedia.org/wiki/United_States_v._One_Solid_Gold_Object_in_Form_of_a_Rooster"
+    },
+    {
+     "item": "95 Barrels of Vinegar, 265 U.S. 438 (1924)",
+     "source": "https://en.wikipedia.org/wiki/United_States_v._Ninety-Five_Barrels_Alleged_Apple_Cider_Vinegar"
+    },
+    {
+     "item": "Shark fins, 520 F.3d 976 (9th Cir. 2008)",
+     "source": "https://en.wikipedia.org/wiki/United_States_v._Approximately_64,695_Pounds_of_Shark_Fins"
+    }
+   ],
+   "imageFolder": "posts/2026-10-28/3-history",
+   "facebook": {
+    "format": "single",
+    "postId": "6ae108402d6ce6e7b6e1dd8d",
+    "plannedAt": "2026-10-28T20:16:00-04:00",
+    "slides": [
+     "In 1962, **a solid gold rooster** was the defendant in a real court case.\n\nThe government said it held too much gold. A jury ruled for the rooster, and the statue went home."
+    ]
+   },
+   "instagram": {
+    "format": "carousel",
+    "postId": "6ae10841dec875ec958973ee",
+    "plannedAt": "2026-10-28T20:09:00-04:00"
+   },
+   "plannedAt": "2026-10-28T20:09:00-04:00"
   }
  ],
  "ideas": [
