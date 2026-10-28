@@ -900,9 +900,9 @@
      "impressions": 10563,
      "shares": 8,
      "clicks": 241,
-     "engagementRate": 0.0062,
      "bufferEngagementRatePct": 2.89,
-     "measuredAt": "2026-10-22T20:38:21Z"
+     "engagementRate": 0.0062,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -937,9 +937,9 @@
      "impressions": 2023,
      "shares": 2,
      "clicks": 27,
-     "engagementRate": 0.0104,
      "bufferEngagementRatePct": 2.37,
-     "measuredAt": "2026-10-22T20:38:21Z"
+     "engagementRate": 0.0104,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -997,9 +997,9 @@
      "impressions": 1283,
      "shares": 4,
      "clicks": 47,
-     "engagementRate": 0.0133,
      "bufferEngagementRatePct": 4.99,
-     "measuredAt": "2026-10-22T20:38:21Z"
+     "engagementRate": 0.0133,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "postIds": {
@@ -1036,9 +1036,9 @@
      "impressions": 13722,
      "shares": 49,
      "clicks": 223,
-     "engagementRate": 0.0139,
      "bufferEngagementRatePct": 3.02,
-     "measuredAt": "2026-10-22T20:38:21Z"
+     "engagementRate": 0.0139,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "line": "Work hard, they said. Your reward: more work.",
@@ -1068,9 +1068,9 @@
      "impressions": 1287,
      "shares": 3,
      "clicks": 14,
-     "engagementRate": 0.0101,
      "bufferEngagementRatePct": 2.1,
-     "measuredAt": "2026-10-22T20:38:21Z"
+     "engagementRate": 0.0101,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -1099,9 +1099,9 @@
      "impressions": 2875,
      "shares": 8,
      "clicks": 51,
-     "engagementRate": 0.0108,
      "bufferEngagementRatePct": 2.85,
-     "measuredAt": "2026-10-22T20:38:21Z"
+     "engagementRate": 0.0108,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -1131,9 +1131,9 @@
      "impressions": 7610,
      "shares": 13,
      "clicks": 161,
-     "engagementRate": 0.0109,
      "bufferEngagementRatePct": 3.21,
-     "measuredAt": "2026-10-22T20:38:21Z"
+     "engagementRate": 0.0109,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -1162,9 +1162,9 @@
      "impressions": 368,
      "shares": 0,
      "clicks": 4,
-     "engagementRate": 0.0054,
      "bufferEngagementRatePct": 1.63,
-     "measuredAt": "2026-10-22T20:38:21Z"
+     "engagementRate": 0.0054,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -1194,9 +1194,9 @@
      "impressions": 16734,
      "shares": 10,
      "clicks": 346,
-     "engagementRate": 0.0049,
      "bufferEngagementRatePct": 2.56,
-     "measuredAt": "2026-10-22T20:38:21Z"
+     "engagementRate": 0.0049,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -1227,9 +1227,9 @@
      "impressions": 5396,
      "shares": 12,
      "clicks": 51,
-     "engagementRate": 0.0137,
      "bufferEngagementRatePct": 2.32,
-     "measuredAt": "2026-10-22T20:38:21Z"
+     "engagementRate": 0.0137,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -1258,9 +1258,9 @@
      "impressions": 34609,
      "shares": 62,
      "clicks": 831,
-     "engagementRate": 0.0096,
      "bufferEngagementRatePct": 3.35,
-     "measuredAt": "2026-10-22T20:38:21Z"
+     "engagementRate": 0.0096,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -1292,14 +1292,14 @@
    "metaCheck": "passed",
    "metrics": {
     "facebook": {
-     "reactions": 272,
+     "reactions": 289,
      "comments": 6,
-     "impressions": 49098,
+     "impressions": 54115,
      "shares": 21,
-     "clicks": 1552,
-     "engagementRate": 0.0061,
-     "bufferEngagementRatePct": 3.77,
-     "measuredAt": "2026-10-22T20:38:21Z"
+     "clicks": 1714,
+     "bufferEngagementRatePct": 3.75,
+     "engagementRate": 0.0058,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    }
   },
@@ -1328,14 +1328,14 @@
    "metaCheck": "passed",
    "metrics": {
     "facebook": {
-     "reactions": 56,
+     "reactions": 60,
      "comments": 2,
-     "impressions": 5079,
+     "impressions": 5735,
      "shares": 10,
-     "clicks": 72,
-     "engagementRate": 0.0134,
-     "bufferEngagementRatePct": 2.76,
-     "measuredAt": "2026-10-22T20:38:21Z"
+     "clicks": 81,
+     "bufferEngagementRatePct": 2.67,
+     "engagementRate": 0.0126,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    }
   },
@@ -1392,12 +1392,12 @@
     "facebook": {
      "reactions": 14,
      "comments": 0,
-     "impressions": 3220,
+     "impressions": 3260,
      "shares": 1,
      "clicks": 34,
-     "engagementRate": 0.0047,
-     "bufferEngagementRatePct": 1.52,
-     "measuredAt": "2026-10-22T20:38:21Z"
+     "bufferEngagementRatePct": 1.5,
+     "engagementRate": 0.0046,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    }
   },
@@ -1417,7 +1417,7 @@
      "clicks": 29,
      "bufferEngagementRatePct": 2.06,
      "engagementRate": 0.0076,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -1455,7 +1455,7 @@
      "clicks": 13,
      "bufferEngagementRatePct": 1.87,
      "engagementRate": 0.0076,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -1495,7 +1495,7 @@
      "clicks": 8,
      "bufferEngagementRatePct": 2.74,
      "engagementRate": 0.0175,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -1533,7 +1533,7 @@
      "clicks": 10,
      "bufferEngagementRatePct": 1.88,
      "engagementRate": 0.0083,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -1573,7 +1573,7 @@
      "clicks": 43,
      "bufferEngagementRatePct": 3.43,
      "engagementRate": 0.0169,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -1612,7 +1612,7 @@
      "clicks": 222,
      "bufferEngagementRatePct": 2.85,
      "engagementRate": 0.013,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -1650,7 +1650,7 @@
      "clicks": 24,
      "bufferEngagementRatePct": 3.2,
      "engagementRate": 0.0137,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -1688,7 +1688,7 @@
      "clicks": 42,
      "bufferEngagementRatePct": 2.22,
      "engagementRate": 0.0071,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -1727,7 +1727,7 @@
      "clicks": 10,
      "bufferEngagementRatePct": 1.84,
      "engagementRate": 0.0061,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -1768,7 +1768,7 @@
      "clicks": 10,
      "bufferEngagementRatePct": 2.11,
      "engagementRate": 0.0105,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -1806,7 +1806,7 @@
      "clicks": 7,
      "bufferEngagementRatePct": 2.22,
      "engagementRate": 0.0081,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -1841,12 +1841,12 @@
     "facebook": {
      "reactions": 8,
      "comments": 0,
-     "impressions": 1162,
+     "impressions": 1185,
      "shares": 3,
      "clicks": 13,
-     "bufferEngagementRatePct": 2.07,
-     "engagementRate": 0.0095,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "bufferEngagementRatePct": 2.03,
+     "engagementRate": 0.0093,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -1880,12 +1880,12 @@
     "facebook": {
      "reactions": 2,
      "comments": 0,
-     "impressions": 409,
+     "impressions": 431,
      "shares": 0,
      "clicks": 4,
-     "bufferEngagementRatePct": 1.47,
-     "engagementRate": 0.0049,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "bufferEngagementRatePct": 1.39,
+     "engagementRate": 0.0046,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -1918,12 +1918,12 @@
     "facebook": {
      "reactions": 4,
      "comments": 0,
-     "impressions": 900,
+     "impressions": 926,
      "shares": 0,
      "clicks": 10,
-     "bufferEngagementRatePct": 1.56,
-     "engagementRate": 0.0044,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "bufferEngagementRatePct": 1.51,
+     "engagementRate": 0.0043,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -1953,14 +1953,14 @@
    "status": "sent",
    "metrics": {
     "facebook": {
-     "reactions": 9,
+     "reactions": 11,
      "comments": 0,
-     "impressions": 1181,
-     "shares": 2,
-     "clicks": 11,
-     "bufferEngagementRatePct": 1.86,
-     "engagementRate": 0.0093,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "impressions": 1410,
+     "shares": 3,
+     "clicks": 12,
+     "bufferEngagementRatePct": 1.84,
+     "engagementRate": 0.0099,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed (first image had a whiskey-like glass; regenerated with tea)",
@@ -1991,14 +1991,14 @@
    "status": "sent",
    "metrics": {
     "facebook": {
-     "reactions": 50,
+     "reactions": 65,
      "comments": 2,
-     "impressions": 14392,
-     "shares": 10,
-     "clicks": 332,
-     "bufferEngagementRatePct": 2.74,
-     "engagementRate": 0.0043,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "impressions": 22094,
+     "shares": 11,
+     "clicks": 506,
+     "bufferEngagementRatePct": 2.64,
+     "engagementRate": 0.0035,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -2034,14 +2034,14 @@
    "status": "sent",
    "metrics": {
     "facebook": {
-     "reactions": 19,
+     "reactions": 23,
      "comments": 1,
-     "impressions": 2198,
-     "shares": 4,
-     "clicks": 30,
-     "bufferEngagementRatePct": 2.46,
-     "engagementRate": 0.0109,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "impressions": 2552,
+     "shares": 6,
+     "clicks": 34,
+     "bufferEngagementRatePct": 2.51,
+     "engagementRate": 0.0118,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -2074,12 +2074,12 @@
     "facebook": {
      "reactions": 1,
      "comments": 0,
-     "impressions": 457,
+     "impressions": 580,
      "shares": 1,
      "clicks": 8,
-     "bufferEngagementRatePct": 2.19,
-     "engagementRate": 0.0044,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "bufferEngagementRatePct": 1.72,
+     "engagementRate": 0.0034,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -2114,14 +2114,14 @@
    "status": "sent",
    "metrics": {
     "facebook": {
-     "reactions": 6,
+     "reactions": 9,
      "comments": 0,
-     "impressions": 947,
+     "impressions": 1140,
      "shares": 1,
-     "clicks": 9,
-     "bufferEngagementRatePct": 1.69,
-     "engagementRate": 0.0074,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "clicks": 12,
+     "bufferEngagementRatePct": 1.93,
+     "engagementRate": 0.0088,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -2168,14 +2168,14 @@
    "metaCheck": "passed",
    "metrics": {
     "facebook": {
-     "reactions": 26,
+     "reactions": 44,
      "comments": 0,
-     "impressions": 3160,
+     "impressions": 6253,
      "shares": 3,
-     "clicks": 40,
-     "bufferEngagementRatePct": 2.18,
-     "engagementRate": 0.0092,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "clicks": 75,
+     "bufferEngagementRatePct": 1.95,
+     "engagementRate": 0.0075,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "objects": "enamel stovetop kettle, mug, kitchen counter in morning light",
@@ -2208,12 +2208,12 @@
     "facebook": {
      "reactions": 2,
      "comments": 0,
-     "impressions": 315,
+     "impressions": 506,
      "shares": 0,
      "clicks": 2,
-     "bufferEngagementRatePct": 1.27,
-     "engagementRate": 0.0063,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "bufferEngagementRatePct": 0.79,
+     "engagementRate": 0.004,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "objects": "beige office printer with jammed paper, home-office desk",
@@ -2244,14 +2244,14 @@
    "metaCheck": "passed",
    "metrics": {
     "facebook": {
-     "reactions": 20,
+     "reactions": 32,
      "comments": 1,
-     "impressions": 1714,
+     "impressions": 2970,
      "shares": 1,
-     "clicks": 26,
-     "bufferEngagementRatePct": 2.8,
-     "engagementRate": 0.0128,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "clicks": 44,
+     "bufferEngagementRatePct": 2.63,
+     "engagementRate": 0.0114,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "objects": "inside-out broken umbrella in the rain",
@@ -2282,14 +2282,14 @@
    "metaCheck": "passed",
    "metrics": {
     "facebook": {
-     "reactions": 14,
+     "reactions": 18,
      "comments": 0,
-     "impressions": 1365,
-     "shares": 2,
-     "clicks": 38,
-     "bufferEngagementRatePct": 3.96,
-     "engagementRate": 0.0117,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "impressions": 2191,
+     "shares": 3,
+     "clicks": 55,
+     "bufferEngagementRatePct": 3.47,
+     "engagementRate": 0.0096,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "objects": "roast chicken platter -> crumpled takeout bag",
@@ -2322,14 +2322,14 @@
    "metaCheck": "passed",
    "metrics": {
     "facebook": {
-     "reactions": 6,
+     "reactions": 13,
      "comments": 0,
-     "impressions": 1091,
-     "shares": 3,
-     "clicks": 14,
-     "bufferEngagementRatePct": 2.11,
-     "engagementRate": 0.0082,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "impressions": 1859,
+     "shares": 6,
+     "clicks": 22,
+     "bufferEngagementRatePct": 2.21,
+     "engagementRate": 0.0102,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "objects": "asleep on velvet sofa, remote, spilled popcorn, knitted blanket",
@@ -2363,14 +2363,14 @@
    "status": "sent",
    "metrics": {
     "facebook": {
-     "reactions": 8,
+     "reactions": 21,
      "comments": 0,
-     "impressions": 862,
+     "impressions": 5153,
      "shares": 1,
-     "clicks": 14,
-     "bufferEngagementRatePct": 2.67,
-     "engagementRate": 0.0104,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "clicks": 72,
+     "bufferEngagementRatePct": 1.82,
+     "engagementRate": 0.0043,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -2432,14 +2432,14 @@
    "status": "sent",
    "metrics": {
     "facebook": {
-     "reactions": 9,
-     "comments": 0,
-     "impressions": 593,
-     "shares": 0,
-     "clicks": 11,
-     "bufferEngagementRatePct": 3.37,
-     "engagementRate": 0.0152,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "reactions": 510,
+     "comments": 10,
+     "impressions": 86009,
+     "shares": 66,
+     "clicks": 1873,
+     "bufferEngagementRatePct": 2.86,
+     "engagementRate": 0.0068,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -2498,14 +2498,14 @@
    "status": "sent",
    "metrics": {
     "facebook": {
-     "reactions": 0,
+     "reactions": 14,
      "comments": 0,
-     "impressions": 0,
-     "shares": 0,
-     "clicks": 0,
-     "bufferEngagementRatePct": 0,
-     "engagementRate": null,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "impressions": 1300,
+     "shares": 1,
+     "clicks": 14,
+     "bufferEngagementRatePct": 2.23,
+     "engagementRate": 0.0115,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -2536,14 +2536,14 @@
    "status": "sent",
    "metrics": {
     "facebook": {
-     "reactions": 0,
+     "reactions": 9,
      "comments": 0,
-     "impressions": 0,
-     "shares": 0,
-     "clicks": 0,
-     "bufferEngagementRatePct": 0,
-     "engagementRate": null,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "impressions": 1945,
+     "shares": 5,
+     "clicks": 28,
+     "bufferEngagementRatePct": 2.16,
+     "engagementRate": 0.0072,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -2574,14 +2574,14 @@
    "status": "sent",
    "metrics": {
     "facebook": {
-     "reactions": 0,
+     "reactions": 3,
      "comments": 0,
-     "impressions": 0,
+     "impressions": 705,
      "shares": 0,
-     "clicks": 0,
-     "bufferEngagementRatePct": 0,
-     "engagementRate": null,
-     "measuredAt": "2026-10-26T20:37:33Z"
+     "clicks": 4,
+     "bufferEngagementRatePct": 0.99,
+     "engagementRate": 0.0043,
+     "measuredAt": "2026-10-28T20:40:07Z"
     }
    },
    "metaCheck": "passed",
@@ -2612,7 +2612,18 @@
     "plannedAt": "2026-10-26T21:53:00-04:00"
    },
    "status": "sent",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 11,
+     "comments": 0,
+     "impressions": 1275,
+     "shares": 0,
+     "clicks": 10,
+     "bufferEngagementRatePct": 1.65,
+     "engagementRate": 0.0086,
+     "measuredAt": "2026-10-28T20:40:07Z"
+    }
+   },
    "metaCheck": "passed",
    "headline": "THE ADS USED TO STAY PUT.",
    "then": "small painted wooden sign board with a shoe picture",
@@ -2624,7 +2635,18 @@
    "style": "ai",
    "theme": null,
    "status": "sent",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 8,
+     "comments": 0,
+     "impressions": 900,
+     "shares": 3,
+     "clicks": 15,
+     "bufferEngagementRatePct": 2.89,
+     "engagementRate": 0.0122,
+     "measuredAt": "2026-10-28T20:40:07Z"
+    }
+   },
    "sources": [],
    "n": 1,
    "type": "oneliner",
@@ -2652,7 +2674,18 @@
    "style": "ai",
    "theme": null,
    "status": "sent",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 12,
+     "comments": 0,
+     "impressions": 1806,
+     "shares": 3,
+     "clicks": 41,
+     "bufferEngagementRatePct": 3.1,
+     "engagementRate": 0.0083,
+     "measuredAt": "2026-10-28T20:40:07Z"
+    }
+   },
    "sources": [
     "https://www.probuilder.com/construction/article/55217418/single-family-lot-sizes-drop-to-record-low (NAHB: new single-family lot sizes at record low)",
     "https://eyeonhousing.org/2025/07/shrinking-lots-spec-building-new-norm/ (NAHB 2025: shrinking lots)",
@@ -2685,8 +2718,19 @@
    "format": "single",
    "style": "ai",
    "theme": null,
-   "status": "scheduled",
-   "metrics": {},
+   "status": "sent",
+   "metrics": {
+    "facebook": {
+     "reactions": 4,
+     "comments": 0,
+     "impressions": 622,
+     "shares": 2,
+     "clicks": 2,
+     "bufferEngagementRatePct": 1.29,
+     "engagementRate": 0.0096,
+     "measuredAt": "2026-10-28T20:40:07Z"
+    }
+   },
    "sources": [],
    "n": 3,
    "type": "oneliner",
@@ -2776,8 +2820,19 @@
     "postId": "6ae10f402f35d654faece0f6",
     "plannedAt": "2026-10-28T07:54:00-04:00"
    },
-   "status": "scheduled",
-   "metrics": {},
+   "status": "sent",
+   "metrics": {
+    "facebook": {
+     "reactions": 1,
+     "comments": 0,
+     "impressions": 228,
+     "shares": 0,
+     "clicks": 0,
+     "bufferEngagementRatePct": 0.44,
+     "engagementRate": 0.0044,
+     "measuredAt": "2026-10-28T20:40:07Z"
+    }
+   },
    "metaCheck": "passed",
    "experiment": "tech-getting-in-the-way one-liner; caption 6 words"
   },
@@ -2805,8 +2860,19 @@
     "postId": "6ae10f402f35d654faece128",
     "plannedAt": "2026-10-28T13:42:00-04:00"
    },
-   "status": "scheduled",
-   "metrics": {},
+   "status": "sent",
+   "metrics": {
+    "facebook": {
+     "reactions": 5,
+     "comments": 0,
+     "impressions": 206,
+     "shares": 0,
+     "clicks": 5,
+     "bufferEngagementRatePct": 4.85,
+     "engagementRate": 0.0243,
+     "measuredAt": "2026-10-28T20:40:07Z"
+    }
+   },
    "metaCheck": "passed",
    "experiment": "caption 3 words"
   },
@@ -2849,13 +2915,24 @@
    "style": "text",
    "title": "What's a sound from childhood you haven't heard in years?",
    "caption": "What's a sound from childhood you haven't heard in years?",
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
    "facebook": {
     "postId": "6ae112bf2f35d654faedfcef",
     "plannedAt": "2026-10-28T10:46:00-04:00"
    },
-   "metrics": {}
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 114,
+     "shares": 0,
+     "clicks": 0,
+     "bufferEngagementRatePct": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-28T20:40:07Z"
+    }
+   }
   },
   {
    "date": "2026-10-28",
