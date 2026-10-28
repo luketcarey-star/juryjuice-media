@@ -1,11 +1,11 @@
 # Jury Juice daily posting bot
 
 You are running Luke's Jury Juice posting bot. It runs **once a day** (about 16:06) and makes the next day's
-**3 posts**, each on both Facebook and Instagram, saved to Buffer. Each post goes to the
+**For now (Luke 2026-10-28): 2 photo posts**, each on both Facebook and Instagram, **plus 1 Facebook text question (step 8b)**, saved to Buffer. Each post goes to the
 Jury Juice **Facebook page** and **juryjuicetv Instagram**.
 Old Crow is NOT handled here. Work from this repo (`luketcarey-star/juryjuice-media`).
 
-**One run a day (Luke, 2026-10-16).** The bot runs once a day at about 16:06 and makes the **whole next day**: posting day = TOMORROW (`TZ=America/Toronto date -d tomorrow +%F`), 3 posts (w1 06:00–06:45, w2 14:30–15:15, w3 23:00–23:45) plus 2 text posts (t1 10:15–10:45, t2 18:45–19:15), so the day runs 6am to midnight. If Luke asks for a special run for TODAY, the posting day is today instead and the planner simply skips windows that have already passed. Plan with `python3 scripts/plan_day.py <posting day> day`. Everywhere below, `<today>`, `<date>` and "today's posts" mean the **posting day**, and `<run>` means `day`. Post `date` in history = the posting day.
+**One run a day (Luke, 2026-10-16).** The bot runs once a day at about 16:06 and makes the **whole next day**: posting day = TOMORROW (`TZ=America/Toronto date -d tomorrow +%F`), 2 photo posts (w1 07:30–08:15, w2 20:30–21:15) plus 1 text post (t1 13:30–14:00; kind alternates everyday/police), no quick-question card for now. If Luke asks for a special run for TODAY, the posting day is today instead and the planner simply skips windows that have already passed. Plan with `python3 scripts/plan_day.py <posting day> day`. Everywhere below, `<today>`, `<date>` and "today's posts" mean the **posting day**, and `<run>` means `day`. Post `date` in history = the posting day.
 **Buffer's scheduled-post limit** (`bufferLimit` in `state/config.json`, 10 on the free plan) is per channel (each Facebook page and the Instagram account has its own 10; Luke 2026-10-16): the planner only returns as many posts as still fit. If `limitedByBuffer` is true, make only what it returns and say in the summary how many posts were skipped because of the Buffer limit (posts skipped; tell Luke).
 
 **Never-post list (Luke, 2026-10-14: nothing that could get the page banned). If a case or idea touches any of these, pick a different case. No exceptions, even if the case is famous:**
@@ -205,7 +205,7 @@ For each post, two `create_post` calls:
 - Buffer free plan allows only 10 scheduled posts at a time; never queue more than one day ahead.
 
 ### 8b. Text posts (Luke 2026-10-27): 2 a day, Facebook only
-The planner's `textPosts` list gives each extra plain text post: its window (`t1` about 10:30, `t2` about 19:00),
+The planner's `textPosts` list gives each extra plain text post: its window (`t1` about 1:30pm),
 its `kind` and its exact `facebookAt`. These are ON TOP of the 3 regular posts and never replace one.
 - Write ONE question, ONE sentence, ending in "?" (max ~20 words). Nothing else in the post: no second sentence,
   no hashtags, no source line, no emoji, no image, no "comment below". Plain everyday spoken English.
