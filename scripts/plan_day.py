@@ -275,7 +275,7 @@ if tcfg:
                 t = cand; break
         t = t or lo
         taken[tpl].append(t)
-        text_out.append({"window": w, "type": "text", "kind": tcfg.get("kinds", {}).get(w, "everyday"), "format": "single", "style": "text", f"{tpl}At": t.isoformat()})
+        text_out.append({"window": w, "type": "text", "kind": (tcfg["kindRotation"][day.toordinal() % len(tcfg["kindRotation"])] if tcfg.get("kindRotation") else tcfg.get("kinds", {}).get(w, "everyday")), "format": "single", "style": "text", f"{tpl}At": t.isoformat()})
 print(json.dumps({"page": PAGE, "date": day.isoformat(), "run": run, "bufferQueued": queued,
                   "limitedByBuffer": limited_by_buffer, "mode": cfg["mode"],
                   "alreadyToday": len(today_main), "posts": out, "textPosts": text_out}, indent=2))
