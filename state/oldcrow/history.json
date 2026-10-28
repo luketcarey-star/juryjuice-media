@@ -2951,6 +2951,83 @@
     "plannedAt": "2026-10-28T17:56:00-04:00"
    },
    "metrics": {}
+  },
+  {
+   "date": "2026-10-29",
+   "run": "day",
+   "n": 1,
+   "window": "o1",
+   "type": "thennow",
+   "format": "single",
+   "style": "ai",
+   "title": "When did the roll get so skinny?",
+   "topic": "Toilet paper rolls quietly shrinking (fewer sheets) at the same price (shrinking portions/prices)",
+   "headline": "WHEN DID THE ROLL GET SO SKINNY?",
+   "then": "big plump fluffy toilet paper roll with tiny core",
+   "now": "skinny roll with a few layers around a huge cardboard core",
+   "object": "toilet paper roll",
+   "slides": [
+    "WHEN DID THE ROLL GET SO SKINNY?"
+   ],
+   "caption": "Noticed the toilet paper running out faster lately? 👀\n\nPlenty of brands have quietly trimmed the sheets on each roll while the price stayed put. The package looks the same. The roll doesn't.\n\nSame shelf. Less roll.",
+   "sources": [
+    {
+     "item": "Toilet paper rolls shrinking in sheet count while prices stay the same (shrinkflation)",
+     "source": "Sinclair/National news 'Spare a square? Toilet paper rolls shrink, but prices stay the same, group says'; AARP products impacted by shrinkflation"
+    }
+   ],
+   "imageFolder": "posts/oldcrow/2026-10-29/1-thennow",
+   "facebook": {
+    "postId": "6ae25e3944c308f29b5545c6",
+    "plannedAt": "2026-10-29T08:09:00-04:00"
+   },
+   "status": "scheduled",
+   "metaCheck": "passed",
+   "metrics": {}
+  },
+  {
+   "date": "2026-10-29",
+   "run": "day",
+   "type": "text",
+   "kind": "memory",
+   "window": "t1",
+   "format": "single",
+   "style": "text",
+   "title": "What was the first record or tape you ever bought with your own money?",
+   "caption": "What was the first record or tape you ever bought with your own money?",
+   "status": "scheduled",
+   "metaCheck": "passed",
+   "facebook": {
+    "postId": "6ae25e3abcf6087bd6eb9e9a",
+    "plannedAt": "2026-10-29T13:53:00-04:00"
+   },
+   "metrics": {}
+  },
+  {
+   "date": "2026-10-29",
+   "run": "day",
+   "n": 2,
+   "window": "o2",
+   "type": "oneliner",
+   "format": "single",
+   "style": "ai",
+   "title": "The group chat has forty people. Nobody can pick a restaurant.",
+   "topic": "Big group chats that can't make a simple decision (technology / people)",
+   "line": "The group chat has forty people. Nobody can pick a restaurant.",
+   "object": "phone overflowing with chat bubbles, closed leather menu, bistro table",
+   "slides": [
+    "The group chat has forty people. Nobody can pick a restaurant."
+   ],
+   "caption": "Someone said pizza. Silence.",
+   "sources": [],
+   "imageFolder": "posts/oldcrow/2026-10-29/2-oneliner",
+   "facebook": {
+    "postId": "6ae25e3b3e779512a886649a",
+    "plannedAt": "2026-10-29T21:24:00-04:00"
+   },
+   "status": "scheduled",
+   "metaCheck": "passed",
+   "metrics": {}
   }
  ],
  "ideas": [
