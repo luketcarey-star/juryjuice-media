@@ -4220,7 +4220,7 @@
   {
    "date": "2026-10-26",
    "run": "day",
-   "status": "scheduled",
+   "status": "sent",
    "metrics": {},
    "n": 3,
    "window": "w3",
@@ -4269,7 +4269,7 @@
   {
    "date": "2026-10-27",
    "run": "day",
-   "status": "scheduled",
+   "status": "sent",
    "metrics": {},
    "n": 1,
    "window": "w1",
@@ -4310,7 +4310,7 @@
   {
    "date": "2026-10-27",
    "run": "day",
-   "status": "scheduled",
+   "status": "sent",
    "metrics": {},
    "n": 2,
    "window": "w2",
@@ -4355,7 +4355,7 @@
   {
    "date": "2026-10-27",
    "run": "day",
-   "status": "scheduled",
+   "status": "sent",
    "metrics": {},
    "n": 3,
    "window": "w3",
@@ -4404,7 +4404,7 @@
   {
    "date": "2026-10-28",
    "run": "day",
-   "status": "scheduled",
+   "status": "sent",
    "metrics": {},
    "style": "photo",
    "metaCheck": "passed",
@@ -4454,7 +4454,7 @@
   {
    "date": "2026-10-28",
    "run": "day",
-   "status": "scheduled",
+   "status": "sent",
    "metrics": {},
    "style": "tweet",
    "metaCheck": "passed",
@@ -4555,7 +4555,7 @@
    "style": "text",
    "title": "What's the strangest ticket you or someone you know ever got?",
    "caption": "What's the strangest ticket you or someone you know ever got?",
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
    "facebook": {
     "postId": "6ae111d92086adf9c11964c5",
@@ -4573,7 +4573,7 @@
    "style": "text",
    "title": "What's the smallest thing you've ever been pulled over for?",
    "caption": "What's the smallest thing you've ever been pulled over for?",
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
    "facebook": {
     "postId": "6ae111d94e914b3cee2a022d",
@@ -4591,7 +4591,7 @@
    "style": "text",
    "title": "What's a local rule where you live that makes no sense?",
    "caption": "What's a local rule where you live that makes no sense?",
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
    "facebook": {
     "postId": "6ae111e5b017df23970b28ed",
@@ -4614,6 +4614,155 @@
    "facebook": {
     "postId": "6ae111e62f35d654faedbb20",
     "plannedAt": "2026-10-28T16:30:00-04:00"
+   },
+   "metrics": {}
+  },
+  {
+   "date": "2026-10-29",
+   "run": "day",
+   "n": 1,
+   "window": "w1",
+   "type": "list",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "photo",
+   "look": "blue",
+   "captionStyle": "payoff",
+   "sceneTag": "policeLights",
+   "title": "A Speeding Ticket Based on His Income",
+   "topic": "Income-based speeding fine: Anders Wiklöf (not named), Åland/Finland (not named), June 2023, 82 km/h in 50 km/h zone, fined 121,000 euros (~$129,000), 10-day license suspension, earlier big fines 2013 and 2018; said he regretted it and hoped money went to healthcare",
+   "subtopic": "income-based speeding fine",
+   "experiment": "non-court ticket story about how a fine is calculated",
+   "slides": [
+    "He was going about 20 mph over the limit. Where he lives, **speeding fines are based on your income**."
+   ],
+   "caption": "His ticket came to 121,000 euros, about $129,000, and he lost his license for 10 days. He's among the wealthiest men in his country and had paid fines like this twice before. He said he regretted it and hoped the money went to healthcare. Should every speeding ticket grow with the driver's paycheck?\n\n#JuryJuice #SpeedingTicket #TrafficFines\n\nSource: Motor1 (2023)",
+   "sources": [
+    "Motor1, June 6 2023: Finland fines driver $129,400 for speeding"
+   ],
+   "imageFolder": "posts/2026-10-29/1-list",
+   "facebook": {
+    "postId": "6ae257d31aa86012f8969586",
+    "plannedAt": "2026-10-29T06:38:00-04:00"
+   },
+   "instagram": {
+    "postId": "6ae257d444c308f29b53a3ed",
+    "plannedAt": "2026-10-29T06:21:00-04:00"
+   },
+   "status": "scheduled",
+   "metaCheck": "passed (blurred car logos in photo)",
+   "metrics": {}
+  },
+  {
+   "date": "2026-10-29",
+   "run": "day",
+   "n": 2,
+   "window": "w2",
+   "type": "history",
+   "topicGroup": "county",
+   "format": "carousel",
+   "style": "photo",
+   "look": "original",
+   "captionStyle": "classic",
+   "sceneTag": "other",
+   "title": "3 Property Fights With the Strangest Endings",
+   "topic": "Lucas v. SC Coastal Council (1992, 6-2; state paid for lots then sold them for development, a home now on one); Loretto v. Teleprompter (1982, 6-3; cable on roof is a taking; NY Court of Appeals upheld $1 compensation on remand); Village of Willowbrook v. Olech (2000; village demanded 33-ft easement vs 15 ft for others; class-of-one claim could proceed)",
+   "subtopic": "property takings oddities",
+   "slides": [
+    "3 property fights with the **strangest endings**",
+    "The state blocked his beach houses, then bought the lots and **resold them for homes**.",
+    "Nine justices heard her fight over cable lines on her roof. She won and **got just $1**.",
+    "Her village wanted 33 feet of land for water. Neighbors gave 15. **She got to sue.**",
+    "Follow for more"
+   ],
+   "caption": "Three wins at the top court, and not one ended the way you'd guess. Which ending is strangest?\n\n#JuryJuice #PropertyRights #SupremeCourt\n\nSources: Lucas v. South Carolina Coastal Council (1992); Loretto v. Teleprompter Manhattan CATV (1982); Village of Willowbrook v. Olech (2000)",
+   "sources": [
+    "Wikipedia: Lucas v. South Carolina Coastal Council (sale for development)",
+    "E&E News: How a 1992 high court ruling eroded regulatory might",
+    "Wikipedia: Loretto v. Teleprompter Manhattan CATV Corp.",
+    "Cornell LII: Village of Willowbrook v. Olech, 528 U.S. 562"
+   ],
+   "imageFolder": "posts/2026-10-29/2-history",
+   "facebook": {
+    "postId": "6ae257d43e779512a884e724",
+    "plannedAt": "2026-10-29T15:10:00-04:00",
+    "format": "single",
+    "slides": [
+     "Cable lines went on her roof without her say. Nine justices heard her case, she won, and her payment was **just $1**."
+    ]
+   },
+   "instagram": {
+    "postId": "6ae257d544c308f29b53a4cf",
+    "plannedAt": "2026-10-29T15:09:00-04:00"
+   },
+   "status": "scheduled",
+   "metaCheck": "passed (no place names on slides; Washington wording removed)",
+   "metrics": {}
+  },
+  {
+   "date": "2026-10-29",
+   "run": "day",
+   "n": 3,
+   "window": "w3",
+   "type": "engage",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "tweet",
+   "theme": "black",
+   "title": "Left-lane tickets",
+   "topic": "Question: should drivers be ticketed for staying in the left lane when not passing (pick-a-side road rule)",
+   "subtopic": "left lane camping",
+   "slides": [
+    "Should drivers get a ticket for staying in the left lane when they aren't passing anyone?"
+   ],
+   "caption": "Some call it lane hogging. Others call it a normal commute.\n\n#JuryJuice #LeftLane #Driving",
+   "sources": [],
+   "imageFolder": "posts/2026-10-29/3-engage",
+   "facebook": {
+    "postId": "6ae257d6a5c5e21e3b061e20",
+    "plannedAt": "2026-10-29T23:41:00-04:00"
+   },
+   "instagram": {
+    "postId": "6ae257d644c308f29b53a5df",
+    "plannedAt": "2026-10-29T23:26:00-04:00"
+   },
+   "status": "scheduled",
+   "metaCheck": "passed",
+   "metrics": {}
+  },
+  {
+   "date": "2026-10-29",
+   "run": "day",
+   "type": "text",
+   "kind": "everyday",
+   "window": "t1",
+   "format": "single",
+   "style": "text",
+   "title": "What's the longest you've ever spent looking for a parking spot?",
+   "caption": "What's the longest you've ever spent looking for a parking spot?",
+   "status": "scheduled",
+   "metaCheck": "passed",
+   "facebook": {
+    "postId": "6ae257d7bcf6087bd6e9e234",
+    "plannedAt": "2026-10-29T10:41:00-04:00"
+   },
+   "metrics": {}
+  },
+  {
+   "date": "2026-10-29",
+   "run": "day",
+   "type": "text",
+   "kind": "police",
+   "window": "t2",
+   "format": "single",
+   "style": "text",
+   "title": "Have you ever been let off with a warning, and what was it for?",
+   "caption": "Have you ever been let off with a warning, and what was it for?",
+   "status": "scheduled",
+   "metaCheck": "passed",
+   "facebook": {
+    "postId": "6ae257d81aa86012f89697b0",
+    "plannedAt": "2026-10-29T18:55:00-04:00"
    },
    "metrics": {}
   }
