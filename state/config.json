@@ -71,7 +71,7 @@
       }
     }
   },
-  "lastRun": "2026-10-28T16:15:42-04:00",
+  "lastRun": "2026-10-29T16:22:00-04:00",
   "maxCarouselsPerDay": 1,
   "maxCarouselsPerWeek": 4,
   "carouselsOnlyOn": [
@@ -85,7 +85,7 @@
   "bufferLimit": 10,
   "bufferLimitNote": "Buffer's free plan allows 10 scheduled posts PER CHANNEL (Jury Juice Facebook, Jury Juice Instagram and Old Crow Facebook each have their own 10; Luke 2026-10-16). If Luke upgrades Buffer, raise this number; the planner never queues more than this on any one channel.",
   "scheduleNote": "Luke 2026-10-16: one run a day around 4-5pm makes the WHOLE next day: Jury Juice 5 posts (mostly police), Old Crow 4 posts. Buffer's free plan allows 10 scheduled posts per channel, which is enough (at most ~8 queued on a channel right after a run). Luke 2026-10-22: Jury Juice reduced to 3 posts a day (windows 08:30-09:30, 13:30-14:30, 19:30-20:30). Luke 2026-10-27: posts spread from 6am to midnight, alternating regular and text posts about every 4 hours (06:00, ~10:30 text, 14:30, ~19:00 text, 23:00). Luke 2026-10-28: for now 3 posts a day: 2 photo posts (morning ~7:30-8:15 and evening ~8:30-9:15, Facebook + Instagram) and 1 Facebook text question (~1:30pm, everyday and police on alternate days). No quick-question cards for now (maxPerDay engage 0).",
-  "lastMetricsAt": "2026-10-27T16:20-04:00",
+  "lastMetricsAt": "2026-10-29T16:22-04:00",
   "textPosts": {
     "perDay": 1,
     "platform": "facebook",
