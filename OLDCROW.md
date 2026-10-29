@@ -87,11 +87,20 @@ No price-in-hours posts, no tweet-style posts, no carousels, no animal flashback
 ## Steps
 
 ### 1. Setup
-- **If the image tool isn't found, wait and retry before giving up.** Run `sleep 180`, then
-  ToolSearch again; do this up to 3 times (about 10 minutes). Only then treat images as unavailable.
-  There is no backup run any more (Luke removed it), so record each post you couldn't make as
-  `"status": "skipped"` with `"skipReason": "image tool unavailable"` (Jury Juice: if you post a
-  text version instead, add `"imageFallback": true`) and put it at the top of the summary so Luke knows to fix it.
+- **If the image tool isn't found, wait, then restart yourself once (Luke 2026-10-29).** The image
+  connector sometimes fails to attach when a scheduled run starts, and a run can't reconnect it, but a
+  fresh run usually can. So: run `sleep 120`, then ToolSearch again, up to 2 times. If it's still missing:
+  1. Make everything that doesn't need images (the text posts) as normal.
+  2. Do NOT post text-only stand-ins for image posts. Record each image post you couldn't make in history
+     as `"status": "skipped"`, `"skipReason": "image tool unavailable"`, then commit and push (the planner
+     ignores skipped posts, so a new run will fill those slots).
+  3. If this run's extra message does NOT start with "RETRY", load `fire_trigger` with ToolSearch
+     (query "fire_trigger") and fire this bot's own scheduled task, trigger_id `trig_01WDn6FFTXUrJDX6dyJimXnw`, with text:
+     "RETRY: the image tool was not connected in the last run. Same posting day <date>. Make only what the
+     planner returns (the skipped image posts)." Then finish with a short summary saying a retry was started.
+  4. If this run IS a retry (its extra message starts with "RETRY") and images are still missing, don't
+     fire again: report it at the top of the summary as a PROBLEM ("image tool still not connected after
+     an automatic retry; Luke may need to reconnect the Hookline Images connector in claude.ai settings").
 - **Load the tools first.** In scheduled runs the Hookline Images and Buffer tools are often
   "deferred": they exist but must be loaded before use. Before deciding a connector is missing,
   call ToolSearch with `select:mcp__Hookline_Images__generate_image` (then a keyword search for
