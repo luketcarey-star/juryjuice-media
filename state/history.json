@@ -4982,20 +4982,26 @@
    "type": "list",
    "topicGroup": "police",
    "format": "single",
-   "style": "tweet",
+   "style": "photo",
    "theme": "light",
    "captionStyle": "payoff",
-   "imageFallback": true,
-   "title": "A Speed Ticket for a Car at a Stoplight",
-   "topic": "2012: city speed camera mailed a driver (a lawyer, not named) a $40 ticket for 38 mph in a 25 zone; the camera's own photos/video showed his car stopped at a red light with brake lights on; city dismissed the citation at his court hearing (Dec 14 2012); 7th inaccurate citation from that city's cameras, first with a stationary car (Baltimore Sun via NPR). City and vendor not named.",
-   "subtopic": "speed camera error",
+   "imageFallback": false,
+   "title": "Pay Your Parking Ticket With Canned Food",
+   "topic": "Lexington KY LEXPARK 'Food for Fines' (city not named): each holiday season since 2014, 10 cans = $15 off any parking citation incl. past-due; food goes to God's Pantry Food Bank. Replaced a repeat of the Oct 17 stopped-car camera case.",
+   "subtopic": "parking tickets paid with food",
    "slides": [
-    "A speed camera mailed a driver a $40 ticket for going 38 in a 25.\n\nThe camera's own photos showed his car **sitting still at the stoplight**, brake lights glowing."
+    "Got a parking ticket? In one city, every holiday season, you can pay it down with **cans of food**."
    ],
-   "caption": "He fought it, and the city let the ticket go at his court hearing. It wasn't the first mistake those cameras had made, but it was the first time one got caught ticketing a car that wasn't moving. How much would you trust a ticket from a camera?\n\n#JuryJuice #SpeedCamera #TrafficTicket\n\nSource: WTOP (2012)",
+   "caption": "Ten cans take $15 off any parking ticket there, even an overdue one, and every can goes to a local food bank. The city has run it each holiday season since 2014. Should more places let people pay off tickets this way?\n\n#JuryJuice #ParkingTicket #FoodDrive\n\nSource: WUKY (2023)",
    "sources": [
-    "WTOP: Baltimore speed cam cites a stopped car (Dec 2012, update: citation dismissed at hearing)",
-    "NPR The Two-Way: Video: Speed camera nabs car sitting at red light (Dec 13 2012)"
+    {
+     "item": "WUKY, Dec 26 2023",
+     "source": "https://www.wuky.org/local-regional-news/2023-12-26/you-still-have-a-few-more-days-to-pay-down-parking-tickets-by-donating-food"
+    },
+    {
+     "item": "Mental Floss (2018, past-due tickets qualify)",
+     "source": "https://mentalfloss.com/article/71246/kentucky-city-letting-residents-pay-parking-tickets-canned-goods"
+    }
    ],
    "imageFolder": "posts/2026-10-30/1-list",
    "facebook": {
@@ -5008,7 +5014,10 @@
    },
    "status": "scheduled",
    "metaCheck": "passed",
-   "metrics": {}
+   "metrics": {},
+   "look": "blue",
+   "sceneTag": "other",
+   "note": "Redone by hand on 2026-10-29: image tool failed in the run; original story repeated an Oct 17 case"
   },
   {
    "date": "2026-10-30",
@@ -5018,18 +5027,18 @@
    "type": "history",
    "topicGroup": "hoa",
    "format": "carousel",
-   "style": "tweet",
+   "style": "photo",
    "theme": "dim",
    "captionStyle": "classic",
-   "imageFallback": true,
+   "imageFallback": false,
    "title": "3 HOA Fights That Went All the Way to Court",
    "topic": "Nahrstedt v. Lakeside Village (Cal. 1994, 6-1): three indoor cats, monthly fines, association won, she moved out; Hidden Harbour Estates v. Basso (Fla. 4th DCA 1981): board denied shallow well, owners drilled Jan 1977, court denied injunction (no salinity/stain harm shown); Estates at Prairie Ridge HOA v. Korth (Neb. 2017): repainted earth-tone house blue ~10 years later, trial court ordered repaint, Supreme Court reversed (covenants don't reach paint colour). Places not named.",
    "subtopic": "HOA court fights",
    "slides": [
     "3 HOA fights that went **all the way to court**",
-    "**Three indoor cats** broke her condo's no-pet rule, and the fines came every month.\n\nShe sued. In 1994 the state's top court voted 6-1 for the association, and she later moved out.",
-    "A couple asked to dig a **shallow well** on their lot. The board said no.\n\nThey dug it anyway in 1977. A court let the well stay, since the board had no proof it caused any harm.",
-    "After 10 years, a couple repainted their earth-tone house **blue**. The HOA took them to court.\n\nA judge ordered a repaint. In 2017 the state's top court let the blue stay: the rules never mentioned paint color.",
+    "**Three indoor cats** broke her condo's no-pet rule. In 1994 the state's top court sided with the association, 6-1.",
+    "The board said no to a **shallow well**. They dug it anyway, and a court let it stay: no proof it hurt anyone.",
+    "A couple repainted their house **blue**. The state's top court let it stay: the rules never mentioned paint color.",
     "Follow for more"
    ],
    "caption": "Two of these homeowners won and one had to move. Which fight would you have taken on?\n\n#JuryJuice #HOA #Homeowners\n\nSources: Nahrstedt v. Lakeside Village (1994); Hidden Harbour Estates v. Basso (1981); Estates at Prairie Ridge v. Korth (2017)",
@@ -5045,7 +5054,7 @@
     "plannedAt": "2026-10-30T20:39:00-04:00",
     "format": "single",
     "slides": [
-     "After 10 years, a couple repainted their earth-tone house **blue**, and their HOA took them to court.\n\nIn 2017 the state's top court let the blue stay, because the rules never mentioned paint color."
+     "After 10 years, a couple repainted their house **blue** and their HOA took them to court. The state's top court let the blue stay."
     ]
    },
    "instagram": {
@@ -5054,7 +5063,9 @@
    },
    "status": "scheduled",
    "metaCheck": "passed",
-   "metrics": {}
+   "metrics": {},
+   "look": "original",
+   "note": "Redone as photo posts by hand on 2026-10-29 (image tool failed in the run)"
   },
   {
    "date": "2026-10-30",
