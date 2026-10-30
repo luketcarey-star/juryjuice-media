@@ -3172,6 +3172,80 @@
           "measuredAt": "2026-10-30T20:39:19Z"
         }
       }
+    },
+    {
+      "date": "2026-10-31",
+      "run": "day",
+      "n": 1,
+      "window": "o1",
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "title": "They priced it at 9.99. Everybody knows it's ten.",
+      "line": "They priced it at 9.99. Everybody knows it's ten.",
+      "topic": "Charm pricing at .99 that fools nobody (buying things / money)",
+      "objects": "blank paper price tag, reading glasses, shop aisle with unlabeled jars",
+      "caption": "Nice try, penny.",
+      "slides": [
+        {
+          "text": "They priced it at 9.99. Everybody knows it's ten."
+        }
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-31/1-oneliner",
+      "facebook": {
+        "postId": "6ae500feb84259308b9e25c0",
+        "plannedAt": "2026-10-31T07:50:00-04:00"
+      },
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "metrics": {}
+    },
+    {
+      "date": "2026-10-31",
+      "run": "day",
+      "type": "text",
+      "kind": "memory",
+      "window": "t1",
+      "format": "single",
+      "style": "text",
+      "title": "What game did you play outside until the streetlights came on?",
+      "caption": "What game did you play outside until the streetlights came on?",
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "facebook": {
+        "postId": "6ae500fe18914720939802ce",
+        "plannedAt": "2026-10-31T14:07:00-04:00"
+      },
+      "metrics": {}
+    },
+    {
+      "date": "2026-10-31",
+      "run": "day",
+      "n": 2,
+      "window": "o2",
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "title": "Every website asks me to accept cookies. Not one has offered any.",
+      "line": "Every website asks me to accept cookies. Not one has offered any.",
+      "topic": "Website cookie banners (technology getting in the way)",
+      "objects": "empty china plate with crumbs, laptop, writing desk",
+      "caption": "Crumbs, at best.",
+      "slides": [
+        {
+          "text": "Every website asks me to accept cookies. Not one has offered any."
+        }
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-10-31/2-oneliner",
+      "facebook": {
+        "postId": "6ae500ffb84259308b9e2608",
+        "plannedAt": "2026-10-31T20:58:00-04:00"
+      },
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "metrics": {}
     }
   ],
   "ideas": [
