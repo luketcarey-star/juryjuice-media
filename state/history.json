@@ -4934,7 +4934,7 @@
     "postId": "6ae257d644c308f29b53a5df",
     "plannedAt": "2026-10-29T23:26:00-04:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
    "metrics": {}
   },
@@ -4966,7 +4966,7 @@
    "style": "text",
    "title": "Have you ever been let off with a warning, and what was it for?",
    "caption": "Have you ever been let off with a warning, and what was it for?",
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
    "facebook": {
     "postId": "6ae257d81aa86012f89697b0",
@@ -5012,7 +5012,7 @@
     "postId": "6ae3aa77f473cae772d9539d",
     "plannedAt": "2026-10-30T08:04:00-04:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
    "metrics": {},
    "look": "blue",
@@ -5077,11 +5077,102 @@
    "style": "text",
    "title": "Have you ever been pulled over just to be told one of your car's lights was out?",
    "caption": "Have you ever been pulled over just to be told one of your car's lights was out?",
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
    "facebook": {
     "postId": "6ae3aa78f1e846b65afbb10b",
     "plannedAt": "2026-10-30T13:47:00-04:00"
+   },
+   "metrics": {}
+  },
+  {
+   "date": "2026-10-31",
+   "run": "day",
+   "n": 1,
+   "window": "w1",
+   "type": "history",
+   "topicGroup": "other",
+   "format": "single",
+   "style": "photo",
+   "theme": null,
+   "captionStyle": "payoff",
+   "look": "panel",
+   "sceneTag": "other",
+   "title": "The House the Court Called Haunted",
+   "topic": "Stambovsky v. Ackley (N.Y. App. Div. 1991, 3-2): seller Helen Ackley (not named) had told Reader's Digest (1977) and local press the house had ghosts; buyer (not named) put $32,500 down on $650,000 house, learned after signing, trial court dismissed, appellate court: seller estopped, 'as a matter of law, the house is haunted', rescission claim reinstated. Halloween tie-in; place not named.",
+   "subtopic": "haunted house sale",
+   "slides": [
+    "After putting $32,500 down on a big old house, he learned the seller had told a magazine it was **haunted**. He wanted out."
+   ],
+   "caption": "The first judge tossed his lawsuit. A higher court then voted 3-2 his way: she'd spent years telling people about her ghosts, so in the judges' words, \"as a matter of law, the house is haunted.\" That reopened his fight to cancel the sale and get his money back. Whose side are you on, the buyer's or the seller's?\n\n#JuryJuice #HauntedHouse #Halloween\n\nSource: Stambovsky v. Ackley (1991)",
+   "sources": [
+    "Stambovsky v. Ackley, 169 A.D.2d 254 (1991) - law.justia.com; Wikipedia"
+   ],
+   "imageFolder": "posts/2026-10-31/1-history",
+   "facebook": {
+    "postId": "6ae4fa48a114574349690c59",
+    "plannedAt": "2026-10-31T08:01:00-04:00"
+   },
+   "instagram": {
+    "postId": "6ae4fa49b84259308b9c2b3f",
+    "plannedAt": "2026-10-31T07:45:00-04:00"
+   },
+   "status": "scheduled",
+   "metaCheck": "passed",
+   "metrics": {},
+   "note": "Halloween; topic group 'other' chosen for the date"
+  },
+  {
+   "date": "2026-10-31",
+   "run": "day",
+   "n": 2,
+   "window": "w2",
+   "type": "list",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "photo",
+   "theme": null,
+   "captionStyle": "classic",
+   "look": "original",
+   "sceneTag": "policeLights",
+   "title": "The Skeleton in the Carpool Lane",
+   "topic": "CHP San Jose, Oct 2024: driver in carpool lane with plastic skeleton in hooded mask buckled in with a seat belt; cited; CHP: decorations in the passenger seat do not qualify to meet carpool requirements (Merced Sun-Star via Police1, Oct 20 2024). Place not named.",
+   "subtopic": "carpool lane decoy ticket",
+   "slides": [
+    "Highway patrol stopped a carpool of one driver and a plastic skeleton, **buckled in with a seat belt**. The driver left with a citation."
+   ],
+   "caption": "Spooky season or not, a decoration doesn't count as a passenger. Should the seat belt have earned some credit?\n\n#JuryJuice #CarpoolLane #Halloween\n\nSource: Merced Sun-Star (2024)",
+   "sources": [
+    "Merced Sun-Star / Police1, Oct 20 2024"
+   ],
+   "imageFolder": "posts/2026-10-31/2-list",
+   "facebook": {
+    "postId": "6ae4fa491891472093960e17",
+    "plannedAt": "2026-10-31T21:12:00-04:00"
+   },
+   "instagram": {
+    "postId": "6ae4fa4a1891472093960e41",
+    "plannedAt": "2026-10-31T20:39:00-04:00"
+   },
+   "status": "scheduled",
+   "metaCheck": "passed",
+   "metrics": {}
+  },
+  {
+   "date": "2026-10-31",
+   "run": "day",
+   "type": "text",
+   "kind": "everyday",
+   "window": "t1",
+   "format": "single",
+   "style": "text",
+   "title": "Has a neighbour, landlord or HOA ever made you take down your Halloween decorations?",
+   "caption": "Has a neighbour, landlord or HOA ever made you take down your Halloween decorations?",
+   "status": "scheduled",
+   "metaCheck": "passed",
+   "facebook": {
+    "postId": "6ae4fa4aa114574349690c9e",
+    "plannedAt": "2026-10-31T13:42:00-04:00"
    },
    "metrics": {}
   }
