@@ -1,17 +1,21 @@
 {
   "page": "oldcrow",
-  "postsPerDay": 1,
-  "postsPerRun": 1,
+  "postsPerDay": 2,
+  "postsPerRun": 2,
   "mode": "queue",
   "modeNote": "queue = schedule posts directly at their planned times (Luke chose auto-posting). draft = save as Buffer drafts. Only Luke changes this.",
   "timezone": "America/Toronto",
   "runs": {
     "day": {
-      "runsAround": "16:36 the day before: makes the whole next day (1 image post + 1 text post)",
+      "runsAround": "16:36 the day before: makes the whole next day (2 image posts + 1 text post)",
       "windows": {
         "o1": [
-          "09:00",
-          "09:45"
+          "07:45",
+          "08:30"
+        ],
+        "o2": [
+          "20:45",
+          "21:30"
         ]
       }
     }
@@ -56,8 +60,8 @@
     "oneliner",
     "thennow"
   ],
-  "typeNote": "Luke 2026-10-11: the note is replaced by two fully AI-drawn types, oneliner (cream poster, Raven Remembers style) and thennow (old raven holding Then vs Now, shrinkflation style). They are MOST posts: both daily posts are new styles, except every other day one post is a told-or-sold or question (about 3 in 4 posts are new styles). No hashtags on the two new types. Luke 2026-10-13: wants MORE one-liners, so dailyWeights gives about 2 one-liners per then vs now among the new-style posts. Luke 2026-10-14: 4 posts a day; every day one slot is told-or-sold/question and the other three are new styles (one-liners weighted 2:1 over then vs now). Luke 2026-10-16: 3 posts a day: one told-or-sold/question and two new styles. Luke 2026-10-16 (later): 4 posts a day: one told-or-sold/question and three new styles. Luke 2026-10-16 (later): REMOVED the illustrated two-raven types (told-or-sold \"WHO SOLD US...?\" and question) from the pool for good. All 4 posts a day are one-liner or then vs now (one-liners weighted 2:1). Luke 2026-10-17: reduced to 3 posts a day (windows 09:30-10:30, 12:30-13:30, 19:30-20:30); all one-liner or then vs now. Luke 2026-10-21: 5 posts a day, from early morning to late night (windows 07:30-08:30, 10:30-11:30, 13:30-14:30, 17:30-18:30, 21:00-22:00); all one-liner or then vs now. Luke 2026-10-24: back to 3 posts a day, keeping the early/late spread (windows 07:30-08:30, 13:30-14:30, 21:00-22:00). Luke 2026-10-27: posts spread from 6am to midnight, alternating image and text posts about every 4 hours (06:15, ~10:30 text, 14:45, ~19:00 text, 23:00). Luke 2026-10-28: for now 3 posts a day: 2 image posts (morning, evening) and 1 text post (early afternoon, memory question and relatable line on alternate days). Luke 2026-10-30: 2 posts a day: 1 image post (morning ~9am) and 1 text post (~6:30pm, memory question and relatable line on alternate days).",
-  "newStylesPerDay": 1,
+  "typeNote": "Luke 2026-10-11: the note is replaced by two fully AI-drawn types, oneliner (cream poster, Raven Remembers style) and thennow (old raven holding Then vs Now, shrinkflation style). They are MOST posts: both daily posts are new styles, except every other day one post is a told-or-sold or question (about 3 in 4 posts are new styles). No hashtags on the two new types. Luke 2026-10-13: wants MORE one-liners, so dailyWeights gives about 2 one-liners per then vs now among the new-style posts. Luke 2026-10-14: 4 posts a day; every day one slot is told-or-sold/question and the other three are new styles (one-liners weighted 2:1 over then vs now). Luke 2026-10-16: 3 posts a day: one told-or-sold/question and two new styles. Luke 2026-10-16 (later): 4 posts a day: one told-or-sold/question and three new styles. Luke 2026-10-16 (later): REMOVED the illustrated two-raven types (told-or-sold \"WHO SOLD US...?\" and question) from the pool for good. All 4 posts a day are one-liner or then vs now (one-liners weighted 2:1). Luke 2026-10-17: reduced to 3 posts a day (windows 09:30-10:30, 12:30-13:30, 19:30-20:30); all one-liner or then vs now. Luke 2026-10-21: 5 posts a day, from early morning to late night (windows 07:30-08:30, 10:30-11:30, 13:30-14:30, 17:30-18:30, 21:00-22:00); all one-liner or then vs now. Luke 2026-10-24: back to 3 posts a day, keeping the early/late spread (windows 07:30-08:30, 13:30-14:30, 21:00-22:00). Luke 2026-10-27: posts spread from 6am to midnight, alternating image and text posts about every 4 hours (06:15, ~10:30 text, 14:45, ~19:00 text, 23:00). Luke 2026-10-28: for now 3 posts a day: 2 image posts (morning, evening) and 1 text post (early afternoon, memory question and relatable line on alternate days).",
+  "newStylesPerDay": 2,
   "oldTypeEveryOtherDay": false,
   "dailyWeights": {
     "oneliner": 2,
@@ -71,8 +75,8 @@
     "platform": "facebook",
     "windows": {
       "t1": [
-        "18:30",
-        "19:00"
+        "13:45",
+        "14:15"
       ]
     },
     "kinds": {
