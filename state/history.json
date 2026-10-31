@@ -4936,7 +4936,30 @@
    },
    "status": "sent",
    "metaCheck": "passed",
-   "metrics": {}
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 188,
+     "shares": 0,
+     "clicks": 1,
+     "engagementRate_buffer": 0.53,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-31T16:30-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 93,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 72,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-31T16:30-04:00"
+    }
+   }
   },
   {
    "date": "2026-10-29",
@@ -4954,7 +4977,18 @@
     "postId": "6ae257d7bcf6087bd6e9e234",
     "plannedAt": "2026-10-29T10:41:00-04:00"
    },
-   "metrics": {}
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 3,
+     "impressions": 414,
+     "shares": 0,
+     "clicks": 7,
+     "engagementRate_buffer": 2.42,
+     "engagementRate": 0.72,
+     "measuredAt": "2026-10-31T16:30-04:00"
+    }
+   }
   },
   {
    "date": "2026-10-29",
@@ -4972,7 +5006,18 @@
     "postId": "6ae257d81aa86012f89697b0",
     "plannedAt": "2026-10-29T18:55:00-04:00"
    },
-   "metrics": {}
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 271,
+     "shares": 0,
+     "clicks": 1,
+     "engagementRate_buffer": 0.37,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-31T16:30-04:00"
+    }
+   }
   },
   {
    "date": "2026-10-30",
@@ -5014,7 +5059,30 @@
    },
    "status": "sent",
    "metaCheck": "passed",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 398,
+     "shares": 0,
+     "clicks": 6,
+     "engagementRate_buffer": 1.51,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-31T16:30-04:00"
+    },
+    "instagram": {
+     "reactions": 1,
+     "comments": 0,
+     "views": 205,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 148,
+     "engagementRate_buffer": 0.68,
+     "engagementRate": 0.68,
+     "measuredAt": "2026-10-31T16:30-04:00"
+    }
+   },
    "look": "blue",
    "sceneTag": "other",
    "note": "Redone by hand on 2026-10-29: image tool failed in the run; original story repeated an Oct 17 case"
@@ -5061,9 +5129,32 @@
     "postId": "6ae3aa783e03e4917a7bc2ce",
     "plannedAt": "2026-10-30T20:49:00-04:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 1,
+     "comments": 1,
+     "impressions": 652,
+     "shares": 0,
+     "clicks": 14,
+     "engagementRate_buffer": 2.45,
+     "engagementRate": 0.31,
+     "measuredAt": "2026-10-31T16:30-04:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 123,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 61,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-31T16:30-04:00"
+    }
+   },
    "look": "original",
    "note": "Redone as photo posts by hand on 2026-10-29 (image tool failed in the run)"
   },
@@ -5083,7 +5174,18 @@
     "postId": "6ae3aa78f1e846b65afbb10b",
     "plannedAt": "2026-10-30T13:47:00-04:00"
    },
-   "metrics": {}
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 465,
+     "shares": 0,
+     "clicks": 1,
+     "engagementRate_buffer": 0.22,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-10-31T16:30-04:00"
+    }
+   }
   },
   {
    "date": "2026-10-31",
@@ -5117,7 +5219,7 @@
     "postId": "6ae4fa49b84259308b9c2b3f",
     "plannedAt": "2026-10-31T07:45:00-04:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
    "metrics": {},
    "note": "Halloween; topic group 'other' chosen for the date"
@@ -5168,7 +5270,7 @@
    "style": "text",
    "title": "Has a neighbour, landlord or HOA ever made you take down your Halloween decorations?",
    "caption": "Has a neighbour, landlord or HOA ever made you take down your Halloween decorations?",
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
    "facebook": {
     "postId": "6ae4fa4aa114574349690c9e",
