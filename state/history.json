@@ -5277,6 +5277,100 @@
     "plannedAt": "2026-10-31T13:42:00-04:00"
    },
    "metrics": {}
+  },
+  {
+   "date": "2026-11-01",
+   "run": "day",
+   "n": 1,
+   "window": "w1",
+   "type": "laws",
+   "topicGroup": "county",
+   "format": "single",
+   "style": "photo",
+   "theme": null,
+   "captionStyle": "payoff",
+   "look": "original",
+   "sceneTag": "other",
+   "title": "The Free Book Box the City Called a Business",
+   "topic": "Shreveport LA (not named), Jan 2015: after one anonymous complaint, the Metropolitan Planning Commission told the Edgertons (not named) their front-yard Little Free Library was a zoning violation (a commercial business in a residential area) and sent a cease letter; they chained it shut; Feb 10 2015 city council unanimously passed Res. 19 letting book boxes stay until the zoning rules were rewritten.",
+   "subtopic": "free book box zoning",
+   "slides": [
+    "One complaint, and the city told a couple their front-yard **free book box** was an illegal business."
+   ],
+   "caption": "They chained the little door shut. Then the neighbours pushed back, and less than two weeks later the city council voted unanimously to let book boxes stay while the zoning rules got rewritten. Should a box of free books ever need a permit?\n\n#JuryJuice #LittleFreeLibrary #Zoning\n\nSources: KSLA (2015); Heliopolis Magazine (2015)",
+   "sources": [
+    "KSLA, Jan 30 2015 (Highland Little Free Library deemed illegal)",
+    "Heliopolis Magazine, Feb 10 2015 (council Res. 19, unanimous)",
+    "Wikipedia: Little Free Library (Jan 29 2015 shutdown; council temporarily legalized the following month)"
+   ],
+   "imageFolder": "posts/2026-11-01/1-laws",
+   "facebook": {
+    "postId": "6ae64bf4f0984eef332bbb7e",
+    "plannedAt": "2026-11-01T08:13:00-05:00"
+   },
+   "instagram": {
+    "postId": "6ae64bf421c807e9d5826ac7",
+    "plannedAt": "2026-11-01T07:36:00-05:00"
+   },
+   "status": "scheduled",
+   "metaCheck": "passed",
+   "metrics": {}
+  },
+  {
+   "date": "2026-11-01",
+   "run": "day",
+   "n": 2,
+   "window": "w2",
+   "type": "list",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "photo",
+   "theme": null,
+   "captionStyle": "classic",
+   "look": "blue",
+   "sceneTag": "policeLights",
+   "title": "A $128 Ticket for Warming Up His Car",
+   "topic": "Roseville MI (not named), Jan 2017: man (Trupiano, not named) left his car running unattended in his own driveway a few minutes to warm it up; police gave a $128 ticket under a local ordinance; April 2017 judge upheld it and ordered him to pay; June 2017 Michigan HB 4215 added a remote-start exception to MCL 257.676. Theft rationale and his child left out on purpose. Car grille logo painted out of the image.",
+   "subtopic": "car warm-up ticket",
+   "slides": [
+    "Warming up his car in his own driveway cost him **$128**. A judge made him pay it."
+   ],
+   "caption": "A few months later, the state made an exception for cars warming up with remote start. Fair rule or overkill?\n\n#JuryJuice #TrafficTicket #WinterDriving\n\nSource: WXYZ (2017)",
+   "sources": [
+    "WXYZ, Jan 2017 ($128 ticket) and Apr 2017 (judge orders him to pay)",
+    "ClickOnDetroit / Fox 2 Detroit, Apr 20 2017",
+    "The Truth About Cars, Jun 29 2017 (HB 4215 signed, remote start exception)"
+   ],
+   "imageFolder": "posts/2026-11-01/2-list",
+   "facebook": {
+    "postId": "6ae64bf5cf3a3112f3bfedd2",
+    "plannedAt": "2026-11-01T21:03:00-05:00"
+   },
+   "instagram": {
+    "postId": "6ae64bf5cf3a3112f3bfee06",
+    "plannedAt": "2026-11-01T20:56:00-05:00"
+   },
+   "status": "scheduled",
+   "metaCheck": "passed (grille logo painted out)",
+   "metrics": {}
+  },
+  {
+   "date": "2026-11-01",
+   "run": "day",
+   "type": "text",
+   "kind": "police",
+   "window": "t1",
+   "format": "single",
+   "style": "text",
+   "title": "Should police be allowed to give speeding tickets based on a plane timing your car from the air?",
+   "caption": "Should police be allowed to give speeding tickets based on a plane timing your car from the air?",
+   "status": "scheduled",
+   "metaCheck": "passed",
+   "facebook": {
+    "postId": "6ae64bf621c807e9d5826b40",
+    "plannedAt": "2026-11-01T13:40:00-05:00"
+   },
+   "metrics": {}
   }
  ],
  "ideas": [
