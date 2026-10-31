@@ -3132,7 +3132,7 @@
       "window": "o2",
       "title": "You deserve it, said the ad. The ad says that to everyone.",
       "topic": "Ads telling everyone they deserve a treat (advertising / buying things)",
-      "status": "scheduled",
+      "status": "sent",
       "facebook": {
         "postId": "6ae3b6e6b598658e652fc32b",
         "plannedAt": "2026-10-30T20:47:00-04:00"
@@ -3197,7 +3197,7 @@
         "postId": "6ae500feb84259308b9e25c0",
         "plannedAt": "2026-10-31T07:50:00-04:00"
       },
-      "status": "scheduled",
+      "status": "sent",
       "metaCheck": "passed",
       "metrics": {}
     },
@@ -3211,7 +3211,7 @@
       "style": "text",
       "title": "What game did you play outside until the streetlights came on?",
       "caption": "What game did you play outside until the streetlights came on?",
-      "status": "scheduled",
+      "status": "sent",
       "metaCheck": "passed",
       "facebook": {
         "postId": "6ae500fe18914720939802ce",
