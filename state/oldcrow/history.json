@@ -3246,6 +3246,85 @@
       "status": "scheduled",
       "metaCheck": "passed",
       "metrics": {}
+    },
+    {
+      "date": "2026-11-01",
+      "run": "day",
+      "n": 1,
+      "window": "o1",
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "title": "The clocks gave us an extra hour. Somehow I'm still late.",
+      "line": "The clocks gave us an extra hour. Somehow I'm still late.",
+      "topic": "Clocks falling back an hour and still running late (time / habits; posted the morning DST ends)",
+      "objects": "wooden mantel clock on a fireplace mantel, furled umbrella, coat half on",
+      "caption": "Every year, same story.",
+      "slides": [
+        {
+          "text": "The clocks gave us an extra hour. Somehow I'm still late."
+        }
+      ],
+      "sources": [
+        "DST ends first Sunday of November (2026-11-01) in Canada/US: fox29.com, timeanddate.com"
+      ],
+      "imageFolder": "posts/oldcrow/2026-11-01/1-oneliner",
+      "facebook": {
+        "postId": "6ae6521dcf3a3112f3c18878",
+        "plannedAt": "2026-11-01T07:46:00-05:00"
+      },
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "metrics": {}
+    },
+    {
+      "date": "2026-11-01",
+      "run": "day",
+      "type": "text",
+      "kind": "relatable",
+      "window": "t1",
+      "format": "single",
+      "style": "text",
+      "title": "A slow Sunday with nowhere to be is still one of life's quiet luxuries.",
+      "caption": "A slow Sunday with nowhere to be is still one of life's quiet luxuries.",
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "facebook": {
+        "postId": "6ae6521ecf3a3112f3c188a3",
+        "plannedAt": "2026-11-01T14:12:00-05:00"
+      },
+      "metrics": {}
+    },
+    {
+      "date": "2026-11-01",
+      "run": "day",
+      "n": 2,
+      "window": "o2",
+      "type": "thennow",
+      "format": "single",
+      "style": "ai",
+      "title": "Mistakes used to rub out.",
+      "headline": "MISTAKES USED TO RUB OUT.",
+      "then": "yellow pencil with a worn pink eraser",
+      "now": "phone with camera flash and rows of saved photo thumbnails",
+      "topic": "Mistakes you could erase vs moments saved and shared forever online (technology / school)",
+      "objects": "pencil with eraser -> phone full of saved photos",
+      "experiment": "Then vs Now on a school/technology theme (learnings Test next)",
+      "caption": "Remember when a mistake could just be erased? 🤔\n\nA pencil and a pink eraser gave you as many tries as you needed. Now one awkward moment can be snapped, saved and passed around for years.\n\nThe eraser never kept a copy.",
+      "slides": [
+        {
+          "text": "MISTAKES USED TO RUB OUT."
+        }
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-11-01/2-thennow",
+      "facebook": {
+        "postId": "6ae6521e37c1acd2a0ccacff",
+        "plannedAt": "2026-11-01T21:27:00-05:00"
+      },
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "metrics": {}
     }
   ],
   "ideas": [
