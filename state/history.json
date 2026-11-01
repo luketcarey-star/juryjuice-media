@@ -4859,7 +4859,30 @@
    },
    "status": "sent",
    "metaCheck": "passed (blurred car logos in photo)",
-   "metrics": {}
+   "metrics": {
+    "facebook": {
+     "reactions": 1,
+     "comments": 3,
+     "shares": 0,
+     "impressions": 3117,
+     "clicks": 61,
+     "engagementRate": 0.13,
+     "engagementRate_buffer": 2.09,
+     "measuredAt": "2026-11-01T16:20-05:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "shares": 0,
+     "saves": 0,
+     "views": 410,
+     "reach": 301,
+     "follows": 0,
+     "engagementRate": 0.0,
+     "engagementRate_buffer": 0,
+     "measuredAt": "2026-11-01T16:20-05:00"
+    }
+   }
   },
   {
    "date": "2026-10-29",
@@ -4905,7 +4928,30 @@
    },
    "status": "sent",
    "metaCheck": "passed (no place names on slides; Washington wording removed)",
-   "metrics": {}
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "shares": 0,
+     "impressions": 1111,
+     "clicks": 28,
+     "engagementRate": 0.0,
+     "engagementRate_buffer": 2.52,
+     "measuredAt": "2026-11-01T16:20-05:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "shares": 0,
+     "saves": 0,
+     "views": 133,
+     "reach": 57,
+     "follows": 0,
+     "engagementRate": 0.0,
+     "engagementRate_buffer": 0,
+     "measuredAt": "2026-11-01T16:20-05:00"
+    }
+   }
   },
   {
    "date": "2026-10-29",
@@ -5221,7 +5267,30 @@
    },
    "status": "sent",
    "metaCheck": "passed",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 1,
+     "comments": 0,
+     "shares": 0,
+     "impressions": 639,
+     "clicks": 6,
+     "engagementRate": 0.16,
+     "engagementRate_buffer": 1.1,
+     "measuredAt": "2026-11-01T16:20-05:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "shares": 0,
+     "saves": 0,
+     "views": 123,
+     "reach": 85,
+     "follows": 0,
+     "engagementRate": 0.0,
+     "engagementRate_buffer": 0,
+     "measuredAt": "2026-11-01T16:20-05:00"
+    }
+   },
    "note": "Halloween; topic group 'other' chosen for the date"
   },
   {
@@ -5256,7 +5325,7 @@
     "postId": "6ae4fa4a1891472093960e41",
     "plannedAt": "2026-10-31T20:39:00-04:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
    "metrics": {}
   },
@@ -5276,7 +5345,18 @@
     "postId": "6ae4fa4aa114574349690c9e",
     "plannedAt": "2026-10-31T13:42:00-04:00"
    },
-   "metrics": {}
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "shares": 0,
+     "impressions": 385,
+     "clicks": 2,
+     "engagementRate": 0.0,
+     "engagementRate_buffer": 0.52,
+     "measuredAt": "2026-11-01T16:20-05:00"
+    }
+   }
   },
   {
    "date": "2026-11-01",
@@ -5312,7 +5392,7 @@
     "postId": "6ae64bf421c807e9d5826ac7",
     "plannedAt": "2026-11-01T07:36:00-05:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
    "metrics": {}
   },
@@ -5364,7 +5444,7 @@
    "style": "text",
    "title": "Should police be allowed to give speeding tickets based on a plane timing your car from the air?",
    "caption": "Should police be allowed to give speeding tickets based on a plane timing your car from the air?",
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
    "facebook": {
     "postId": "6ae64bf621c807e9d5826b40",
