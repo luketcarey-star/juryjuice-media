@@ -5451,6 +5451,97 @@
     "plannedAt": "2026-11-01T13:40:00-05:00"
    },
    "metrics": {}
+  },
+  {
+   "date": "2026-11-02",
+   "run": "day",
+   "n": 1,
+   "window": "w1",
+   "type": "laws",
+   "topicGroup": "county",
+   "format": "single",
+   "style": "photo",
+   "theme": null,
+   "captionStyle": "payoff",
+   "look": "original",
+   "sceneTag": "other",
+   "title": "A Snow Ticket That Arrived in June",
+   "topic": "2013 (city not named): city inspector's notice arrived in June for allegedly putting snow in the street in March at a building a business owner (not named) owns; notice cited code 7-28-390 (dumping refuse in the public way from a moving vehicle), possible fine $600-$2,500 (jail mention left out); he denied it, 'how do you come after somebody for snow in June? The evidence is already gone'; city officials said the citation was a mistake and he was off the hook.",
+   "subtopic": "snow-in-street notice",
+   "slides": [
+    "In June, the city sent him a notice for putting **snow in the street** back in March. The possible fine: up to $2,500."
+   ],
+   "caption": "His answer: he never put any snow in the street, and by June the evidence had melted anyway. The notice even listed a rule about dumping trash from a moving vehicle. Then the city admitted it was a mistake and let him off. What's the best way to prove snow you never shoveled?\n\n#JuryJuice #Snow #CityHall\n\nSource: WBBM Newsradio (2013)",
+   "sources": [
+    "CBS Chicago / WBBM Newsradio, June 12 2013: City Says Chicago Man's Ticket For Dumping Snow In Street Was Mistake"
+   ],
+   "imageFolder": "posts/2026-11-02/1-laws",
+   "facebook": {
+    "postId": "6ae7abc9d016796999ef8b8a",
+    "plannedAt": "2026-11-02T07:39:00-05:00"
+   },
+   "instagram": {
+    "postId": "6ae7abc948ce42a6b4289c82",
+    "plannedAt": "2026-11-02T08:13:00-05:00"
+   },
+   "status": "scheduled",
+   "metaCheck": "passed (jail mention and city name left out)",
+   "metrics": {}
+  },
+  {
+   "date": "2026-11-02",
+   "run": "day",
+   "n": 2,
+   "window": "w2",
+   "type": "list",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "photo",
+   "theme": null,
+   "captionStyle": "classic",
+   "look": "panel",
+   "sceneTag": "other",
+   "title": "A Horse Truck Clocked at 132 mph",
+   "topic": "NZ (not named), Nov 9 2024: police safety camera put a woman's (not named) 2009 horse truck at 213 km/h (~132 mph) in an 80 km/h (~50 mph) zone on a rural road; she said it barely reaches 90-100 km/h; Police Infringement Bureau (Insp. Peter McKennie, not named) said the site's camera has an issue with heavy vehicles and cancelled the notice; affected notices cancelled and fees refunded. Daughter's pony detail left out (minor).",
+   "subtopic": "speed camera glitch",
+   "slides": [
+    "A speed camera clocked her horse truck at **about 132 mph** on a 50 mph country road. Police cancelled the ticket."
+   ],
+   "caption": "She says that truck struggles to reach 60. Would you ever trust that camera again?\n\n#JuryJuice #SpeedCamera #SpeedingTicket\n\nSource: NZ Herald (2024)",
+   "sources": [
+    "NZ Herald, Nov 19 2024: Speeding ticket shock: Horse float driver hit with 213km/h notice, police admit error",
+    "Newstalk ZB, Nov 2024 (same story)"
+   ],
+   "imageFolder": "posts/2026-11-02/2-list",
+   "facebook": {
+    "postId": "6ae7abca902c3fb1deba5167",
+    "plannedAt": "2026-11-02T20:59:00-05:00"
+   },
+   "instagram": {
+    "postId": "6ae7abcb779ee9f13cb6e9ab",
+    "plannedAt": "2026-11-02T21:03:00-05:00"
+   },
+   "status": "scheduled",
+   "metaCheck": "passed (country, driver and child left out)",
+   "metrics": {}
+  },
+  {
+   "date": "2026-11-02",
+   "run": "day",
+   "type": "text",
+   "kind": "everyday",
+   "window": "t1",
+   "format": "single",
+   "style": "text",
+   "title": "Should parking meters be free after 6pm everywhere?",
+   "caption": "Should parking meters be free after 6pm everywhere?",
+   "status": "scheduled",
+   "metaCheck": "passed",
+   "facebook": {
+    "postId": "6ae7abcb01fa08ffbe699442",
+    "plannedAt": "2026-11-02T13:39:00-05:00"
+   },
+   "metrics": {}
   }
  ],
  "ideas": [
@@ -5477,6 +5568,18 @@
   {
    "added": "2026-10-25",
    "idea": "Bike or scooter ticket quick question follow-up (the cycling stop-sign question was the best quick question ever at 1.67% FB / 3.85% IG)"
+  },
+  {
+   "added": "2026-11-01",
+   "idea": "Kind-officer text questions: 'nicest thing an officer did for you' got 12 comments (0.89% FB), the most of any text post; try another warm police question (careful lane)"
+  },
+  {
+   "added": "2026-11-01",
+   "idea": "Another 'officer held to the same rule' single photo story (chief who ticketed himself: 0.81% FB, 4 shares), police-lights photo, blue look"
+  },
+  {
+   "added": "2026-11-01",
+   "idea": "Seasonal winter ticket stories (snow, ice, warm-ups, parking bans during storms) told as one person's ticket with a surprising ending"
   }
  ]
 }
