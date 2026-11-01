@@ -3391,6 +3391,82 @@
       "status": "scheduled",
       "metaCheck": "passed",
       "metrics": {}
+    },
+    {
+      "date": "2026-11-02",
+      "run": "day",
+      "n": 1,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "window": "o1",
+      "title": "Five hundred reviews read. Bought the first one anyway.",
+      "line": "Five hundred reviews read. Bought the first one anyway.",
+      "topic": "Reading endless online reviews then buying the first option (online habits / buying things)",
+      "object": "long scroll of star reviews, new kettle, open cardboard parcel, wooden stool",
+      "caption": "Research complete.",
+      "slides": [
+        {
+          "text": "Five hundred reviews read. Bought the first one anyway."
+        }
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-11-02/1-oneliner",
+      "facebook": {
+        "postId": "6ae7b1992da2578c18833be6",
+        "plannedAt": "2026-11-02T07:45:00-05:00"
+      },
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "metrics": {}
+    },
+    {
+      "date": "2026-11-02",
+      "run": "day",
+      "type": "text",
+      "kind": "memory",
+      "window": "t1",
+      "format": "single",
+      "style": "text",
+      "title": "What did your grandmother always keep in the candy dish?",
+      "caption": "What did your grandmother always keep in the candy dish?",
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "facebook": {
+        "postId": "6ae7b199902c3fb1debbe888",
+        "plannedAt": "2026-11-02T14:02:00-05:00"
+      },
+      "metrics": {}
+    },
+    {
+      "date": "2026-11-02",
+      "run": "day",
+      "n": 2,
+      "type": "thennow",
+      "format": "single",
+      "style": "ai",
+      "window": "o2",
+      "title": "Whose number do you still know?",
+      "headline": "WHOSE NUMBER DO YOU STILL KNOW?",
+      "then": "glossy red rotary telephone with coiled cord",
+      "now": "smartphone with an endless list of blank contact rows",
+      "topic": "Phone numbers known by heart vs hundreds of saved contacts never called (community / memory)",
+      "object": "red rotary telephone -> smartphone contact list",
+      "caption": "Could you still dial your best friend's number without looking? 📞\n\nThere was a time you carried a whole list in your head: home, Grandma, the friend down the street. Now the phone holds hundreds of names, and most of them never get a call.\n\nHandy, right up until the battery dies.",
+      "slides": [
+        {
+          "text": "WHOSE NUMBER DO YOU STILL KNOW?"
+        }
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-11-02/2-thennow",
+      "facebook": {
+        "postId": "6ae7b19a902c3fb1debbe8b3",
+        "plannedAt": "2026-11-02T21:26:00-05:00"
+      },
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "metrics": {}
     }
   ],
   "ideas": [
@@ -3429,6 +3505,24 @@
       "type": "oneliner",
       "idea": "Online-vs-real-life line for the evening slot, e.g. 'Five hundred reviews read. Bought the first one anyway.'",
       "why": "online vs real life lines did best in the evening (A thousand friends online: 4.8k impressions, 13 shares)"
+    },
+    {
+      "added": "2026-11-01",
+      "type": "oneliner",
+      "idea": "Tech-gets-in-the-way line with a hard twist, e.g. about a 'smart' doorbell or a car that needs a software update before it will start",
+      "why": "Your password must be stronger was the week's best rate (1.11%, 4 shares) and tech lines took 4 of the top 5"
+    },
+    {
+      "added": "2026-11-01",
+      "type": "oneliner",
+      "idea": "'They said' advice/work twist for the evening slot, e.g. 'Work smarter, not harder, they said. Now there are two of each.'",
+      "why": "Think outside the box (0.89%) and Unlimited vacation (0.78%, 2 shares) kept the 'they said' format strong"
+    },
+    {
+      "added": "2026-11-01",
+      "type": "thennow",
+      "idea": "Food/shrinkflation theme again: a full chocolate bar vs the same wrapper with fewer squares (keep it general, no brands)",
+      "why": "Grown for taste (2.2k impressions) and the skinny roll did solid reach for then vs now this week"
     }
   ]
 }
