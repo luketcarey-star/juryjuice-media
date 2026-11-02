@@ -5649,9 +5649,17 @@
     }
    ],
    "imageFolder": "posts/2026-11-03/1-list",
-   "status": "pending",
+   "status": "scheduled",
    "metaCheck": "passed",
-   "metrics": {}
+   "metrics": {},
+   "facebook": {
+    "postId": "6ae8fcccb665951ec2fca946",
+    "plannedAt": "2026-11-03T08:14:00-05:00"
+   },
+   "instagram": {
+    "postId": "6ae8fccdb665951ec2fca986",
+    "plannedAt": "2026-11-03T08:07:00-05:00"
+   }
   },
   {
    "date": "2026-11-03",
@@ -5679,8 +5687,34 @@
     }
    ],
    "imageFolder": "posts/2026-11-03/2-laws",
-   "status": "pending",
+   "status": "scheduled",
    "metaCheck": "passed (added 'In one country' so it doesn't read as a rule everywhere)",
+   "metrics": {},
+   "facebook": {
+    "postId": "6ae8fcceb665951ec2fca9be",
+    "plannedAt": "2026-11-03T20:53:00-05:00"
+   },
+   "instagram": {
+    "postId": "6ae8fccec8ee29613130bb91",
+    "plannedAt": "2026-11-03T20:52:00-05:00"
+   }
+  },
+  {
+   "date": "2026-11-03",
+   "run": "day",
+   "type": "text",
+   "kind": "police",
+   "window": "t1",
+   "format": "single",
+   "style": "text",
+   "title": "Should going just a few over the limit always get a warning instead of a ticket?",
+   "caption": "Should going just a few over the limit always get a warning instead of a ticket?",
+   "status": "scheduled",
+   "metaCheck": "passed",
+   "facebook": {
+    "postId": "6ae8fccf16d5739c13200cbb",
+    "plannedAt": "2026-11-03T13:30:00-05:00"
+   },
    "metrics": {}
   }
  ],
