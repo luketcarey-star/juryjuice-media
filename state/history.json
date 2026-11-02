@@ -5271,24 +5271,24 @@
     "facebook": {
      "reactions": 1,
      "comments": 0,
+     "impressions": 772,
      "shares": 0,
-     "impressions": 639,
-     "clicks": 6,
-     "engagementRate": 0.16,
-     "engagementRate_buffer": 1.1,
-     "measuredAt": "2026-11-01T16:20-05:00"
+     "clicks": 8,
+     "engagementRate_buffer": 1.17,
+     "engagementRate": 0.13,
+     "measuredAt": "2026-11-02T16:10-05:00"
     },
     "instagram": {
      "reactions": 0,
      "comments": 0,
+     "views": 144,
      "shares": 0,
      "saves": 0,
-     "views": 123,
-     "reach": 85,
      "follows": 0,
-     "engagementRate": 0.0,
+     "reach": 100,
      "engagementRate_buffer": 0,
-     "measuredAt": "2026-11-01T16:20-05:00"
+     "engagementRate": 0.0,
+     "measuredAt": "2026-11-02T16:10-05:00"
     }
    },
    "note": "Halloween; topic group 'other' chosen for the date"
@@ -5327,7 +5327,30 @@
    },
    "status": "sent",
    "metaCheck": "passed",
-   "metrics": {}
+   "metrics": {
+    "facebook": {
+     "reactions": 2,
+     "comments": 0,
+     "impressions": 941,
+     "shares": 0,
+     "clicks": 6,
+     "engagementRate_buffer": 0.85,
+     "engagementRate": 0.21,
+     "measuredAt": "2026-11-02T16:10-05:00"
+    },
+    "instagram": {
+     "reactions": 2,
+     "comments": 0,
+     "views": 238,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 173,
+     "engagementRate_buffer": 1.16,
+     "engagementRate": 1.16,
+     "measuredAt": "2026-11-02T16:10-05:00"
+    }
+   }
   },
   {
    "date": "2026-10-31",
@@ -5347,14 +5370,14 @@
    },
    "metrics": {
     "facebook": {
-     "reactions": 0,
+     "reactions": 1,
      "comments": 0,
+     "impressions": 497,
      "shares": 0,
-     "impressions": 385,
      "clicks": 2,
-     "engagementRate": 0.0,
-     "engagementRate_buffer": 0.52,
-     "measuredAt": "2026-11-01T16:20-05:00"
+     "engagementRate_buffer": 0.6,
+     "engagementRate": 0.2,
+     "measuredAt": "2026-11-02T16:10-05:00"
     }
    }
   },
@@ -5394,7 +5417,30 @@
    },
    "status": "sent",
    "metaCheck": "passed",
-   "metrics": {}
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 551,
+     "shares": 0,
+     "clicks": 6,
+     "engagementRate_buffer": 1.09,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-11-02T16:10-05:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 149,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 101,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-11-02T16:10-05:00"
+    }
+   }
   },
   {
    "date": "2026-11-01",
@@ -5430,9 +5476,32 @@
     "postId": "6ae64bf5cf3a3112f3bfee06",
     "plannedAt": "2026-11-01T20:56:00-05:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed (grille logo painted out)",
-   "metrics": {}
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 488,
+     "shares": 0,
+     "clicks": 13,
+     "engagementRate_buffer": 2.66,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-11-02T16:10-05:00"
+    },
+    "instagram": {
+     "reactions": 1,
+     "comments": 0,
+     "views": 262,
+     "shares": 0,
+     "saves": 2,
+     "follows": 0,
+     "reach": 189,
+     "engagementRate_buffer": 1.59,
+     "engagementRate": 1.59,
+     "measuredAt": "2026-11-02T16:10-05:00"
+    }
+   }
   },
   {
    "date": "2026-11-01",
@@ -5450,7 +5519,18 @@
     "postId": "6ae64bf621c807e9d5826b40",
     "plannedAt": "2026-11-01T13:40:00-05:00"
    },
-   "metrics": {}
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 305,
+     "shares": 0,
+     "clicks": 0,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-11-02T16:10-05:00"
+    }
+   }
   },
   {
    "date": "2026-11-02",
@@ -5484,7 +5564,7 @@
     "postId": "6ae7abc948ce42a6b4289c82",
     "plannedAt": "2026-11-02T08:13:00-05:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed (jail mention and city name left out)",
    "metrics": {}
   },
@@ -5535,12 +5615,72 @@
    "style": "text",
    "title": "Should parking meters be free after 6pm everywhere?",
    "caption": "Should parking meters be free after 6pm everywhere?",
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
    "facebook": {
     "postId": "6ae7abcb01fa08ffbe699442",
     "plannedAt": "2026-11-02T13:39:00-05:00"
    },
+   "metrics": {}
+  },
+  {
+   "date": "2026-11-03",
+   "run": "day",
+   "n": 1,
+   "window": "w1",
+   "type": "list",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "photo",
+   "captionStyle": "payoff",
+   "look": "blue",
+   "sceneTag": "policeLights",
+   "title": "Pulled Over Over a Lap Dog",
+   "topic": "BC Highway Patrol (not named), April 9 2025: driver on a highway (Lougheed Hwy, Burnaby, not named) stopped and fined $109 under MVA s.195(1)(a) for driving with a dog on his lap; Cpl. Michael McLaughlin (not named) said pets should be belted in, ideally with a harness in the rear seat. Collision/'kill' quote left out on purpose.",
+   "subtopic": "dog on driver's lap",
+   "slides": [
+    "Police pulled him over on a busy highway over **who was on his lap**: his little dog."
+   ],
+   "caption": "That was a $109 fine. Police said a dog should ride buckled in, ideally with a harness in the back seat, the same way you'd strap in any passenger. Small dog, short drive: does that change anything for you?\n\n#JuryJuice #DogLovers #TrafficTicket\n\nSource: Global News (2025)",
+   "sources": [
+    {
+     "item": "Global News, Apr 15 2025",
+     "source": "https://globalnews.ca/news/11132708/bc-driver-fined-driving-dog-on-lap"
+    }
+   ],
+   "imageFolder": "posts/2026-11-03/1-list",
+   "status": "pending",
+   "metaCheck": "passed",
+   "metrics": {}
+  },
+  {
+   "date": "2026-11-03",
+   "run": "day",
+   "n": 2,
+   "window": "w2",
+   "type": "laws",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "photo",
+   "captionStyle": "classic",
+   "look": "original",
+   "sceneTag": "policeLights",
+   "title": "Fined for Splashing Someone With a Puddle",
+   "topic": "UK (not named, 'one country'): splashing a pedestrian by driving through a puddle can be inconsiderate driving under Road Traffic Act 1988 s.3 (driving without reasonable consideration for other persons); fixed penalty notice + 3 points since 2013 (RAC). Amounts left out on purpose (RAC article is 2018; current amounts not re-verified).",
+   "subtopic": "puddle splashing fine",
+   "slides": [
+    "In one country, drive through a puddle and **soak someone walking by**, and police can fine you and put points on your licence."
+   ],
+   "caption": "Rainy days come with an extra rule at the curb. Has a passing car ever drenched you on the way somewhere?\n\n#JuryJuice #RoadRules #RainyDay\n\nSource: Road Traffic Act 1988, s.3",
+   "sources": [
+    {
+     "item": "RAC, Jul 30 2018",
+     "source": "https://www.rac.co.uk/drive/news/motoring-news/drivers-splashing-pedestrians-face-fines-of-up-to-5000"
+    }
+   ],
+   "imageFolder": "posts/2026-11-03/2-laws",
+   "status": "pending",
+   "metaCheck": "passed (added 'In one country' so it doesn't read as a rule everywhere)",
    "metrics": {}
   }
  ],
