@@ -3388,7 +3388,7 @@
         "postId": "6ae6521e37c1acd2a0ccacff",
         "plannedAt": "2026-11-01T21:27:00-05:00"
       },
-      "status": "scheduled",
+      "status": "sent",
       "metaCheck": "passed",
       "metrics": {}
     },
@@ -3416,7 +3416,7 @@
         "postId": "6ae7b1992da2578c18833be6",
         "plannedAt": "2026-11-02T07:45:00-05:00"
       },
-      "status": "scheduled",
+      "status": "sent",
       "metaCheck": "passed",
       "metrics": {}
     },
@@ -3430,7 +3430,7 @@
       "style": "text",
       "title": "What did your grandmother always keep in the candy dish?",
       "caption": "What did your grandmother always keep in the candy dish?",
-      "status": "scheduled",
+      "status": "sent",
       "metaCheck": "passed",
       "facebook": {
         "postId": "6ae7b199902c3fb1debbe888",
@@ -3463,6 +3463,82 @@
       "facebook": {
         "postId": "6ae7b19a902c3fb1debbe8b3",
         "plannedAt": "2026-11-02T21:26:00-05:00"
+      },
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "metrics": {}
+    },
+    {
+      "date": "2026-11-03",
+      "run": "day",
+      "n": 1,
+      "window": "o1",
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "title": "Bought a planner to get organized. It's still in the bag.",
+      "line": "Bought a planner to get organized. It's still in the bag.",
+      "topic": "Buying a planner to get organized and never opening it (habits / buying things)",
+      "slides": [
+        {
+          "text": "Bought a planner to get organized. It's still in the bag.",
+          "scene": "paper shopping bag with wrapped planner, hall table of scattered sticky notes, front hallway"
+        }
+      ],
+      "caption": "Next year, definitely.",
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-11-03/1-oneliner",
+      "facebook": {
+        "postId": "6ae9034c90c1e19b03477e4e",
+        "plannedAt": "2026-11-03T08:02:00-05:00"
+      },
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "metrics": {}
+    },
+    {
+      "date": "2026-11-03",
+      "run": "day",
+      "type": "text",
+      "kind": "relatable",
+      "window": "t1",
+      "format": "single",
+      "style": "text",
+      "title": "There's something comforting about the sound of rain on the roof at night.",
+      "caption": "There's something comforting about the sound of rain on the roof at night.",
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "facebook": {
+        "postId": "6ae9034da49200278eb8adfe",
+        "plannedAt": "2026-11-03T14:08:00-05:00"
+      },
+      "metrics": {}
+    },
+    {
+      "date": "2026-11-03",
+      "run": "day",
+      "n": 2,
+      "window": "o2",
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "title": "Waited all week for the weekend. Spent it doing laundry.",
+      "line": "Waited all week for the weekend. Spent it doing laundry.",
+      "topic": "Weekends swallowed by chores like laundry (time / work)",
+      "slides": [
+        {
+          "text": "Waited all week for the weekend. Spent it doing laundry.",
+          "scene": "overflowing wicker laundry basket, sock over shoulder, sunny window"
+        }
+      ],
+      "caption": "Mostly socks.",
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-11-03/2-oneliner",
+      "facebook": {
+        "postId": "6ae9034da49200278eb8ae3a",
+        "plannedAt": "2026-11-03T21:27:00-05:00"
       },
       "status": "scheduled",
       "metaCheck": "passed",
