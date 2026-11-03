@@ -3214,12 +3214,12 @@
         "facebook": {
           "reactions": 5,
           "comments": 0,
-          "impressions": 712,
+          "impressions": 966,
           "shares": 0,
-          "clicks": 10,
-          "bufferEngagementRatePct": 2.11,
-          "engagementRate": 0.007,
-          "measuredAt": "2026-11-01T21:37:34Z"
+          "clicks": 12,
+          "bufferEngagementRatePct": 1.76,
+          "engagementRate": 0.0052,
+          "measuredAt": "2026-11-03T21:40:51Z"
         }
       }
     },
@@ -3243,12 +3243,12 @@
         "facebook": {
           "reactions": 0,
           "comments": 0,
-          "impressions": 222,
+          "impressions": 303,
           "shares": 0,
           "clicks": 0,
           "bufferEngagementRatePct": 0,
           "engagementRate": 0.0,
-          "measuredAt": "2026-11-01T21:37:34Z"
+          "measuredAt": "2026-11-03T21:40:51Z"
         }
       }
     },
@@ -3280,14 +3280,14 @@
       "metaCheck": "passed",
       "metrics": {
         "facebook": {
-          "reactions": 5,
+          "reactions": 9,
           "comments": 0,
-          "impressions": 604,
-          "shares": 0,
-          "clicks": 8,
-          "bufferEngagementRatePct": 2.15,
-          "engagementRate": 0.0083,
-          "measuredAt": "2026-11-01T21:37:34Z"
+          "impressions": 1216,
+          "shares": 1,
+          "clicks": 16,
+          "bufferEngagementRatePct": 2.14,
+          "engagementRate": 0.0082,
+          "measuredAt": "2026-11-03T21:40:51Z"
         }
       }
     },
@@ -3321,14 +3321,14 @@
       "metaCheck": "passed",
       "metrics": {
         "facebook": {
-          "reactions": 1,
+          "reactions": 2,
           "comments": 0,
-          "impressions": 157,
-          "shares": 0,
-          "clicks": 5,
-          "bufferEngagementRatePct": 3.82,
-          "engagementRate": 0.0064,
-          "measuredAt": "2026-11-01T21:37:34Z"
+          "impressions": 613,
+          "shares": 2,
+          "clicks": 10,
+          "bufferEngagementRatePct": 2.28,
+          "engagementRate": 0.0065,
+          "measuredAt": "2026-11-03T21:40:51Z"
         }
       }
     },
@@ -3350,14 +3350,14 @@
       },
       "metrics": {
         "facebook": {
-          "reactions": 0,
+          "reactions": 1,
           "comments": 0,
-          "impressions": 0,
+          "impressions": 272,
           "shares": 0,
           "clicks": 0,
-          "bufferEngagementRatePct": 0,
-          "engagementRate": null,
-          "measuredAt": "2026-11-01T21:37:34Z"
+          "bufferEngagementRatePct": 0.37,
+          "engagementRate": 0.0037,
+          "measuredAt": "2026-11-03T21:40:51Z"
         }
       }
     },
@@ -3390,7 +3390,18 @@
       },
       "status": "sent",
       "metaCheck": "passed",
-      "metrics": {}
+      "metrics": {
+        "facebook": {
+          "reactions": 8,
+          "comments": 0,
+          "impressions": 1364,
+          "shares": 0,
+          "clicks": 20,
+          "bufferEngagementRatePct": 2.05,
+          "engagementRate": 0.0059,
+          "measuredAt": "2026-11-03T21:40:51Z"
+        }
+      }
     },
     {
       "date": "2026-11-02",
@@ -3418,7 +3429,18 @@
       },
       "status": "sent",
       "metaCheck": "passed",
-      "metrics": {}
+      "metrics": {
+        "facebook": {
+          "reactions": 1,
+          "comments": 0,
+          "impressions": 628,
+          "shares": 0,
+          "clicks": 11,
+          "bufferEngagementRatePct": 1.91,
+          "engagementRate": 0.0016,
+          "measuredAt": "2026-11-03T21:40:51Z"
+        }
+      }
     },
     {
       "date": "2026-11-02",
@@ -3436,7 +3458,18 @@
         "postId": "6ae7b199902c3fb1debbe888",
         "plannedAt": "2026-11-02T14:02:00-05:00"
       },
-      "metrics": {}
+      "metrics": {
+        "facebook": {
+          "reactions": 0,
+          "comments": 1,
+          "impressions": 288,
+          "shares": 0,
+          "clicks": 6,
+          "bufferEngagementRatePct": 2.43,
+          "engagementRate": 0.0035,
+          "measuredAt": "2026-11-03T21:40:51Z"
+        }
+      }
     },
     {
       "date": "2026-11-02",
@@ -3464,7 +3497,7 @@
         "postId": "6ae7b19a902c3fb1debbe8b3",
         "plannedAt": "2026-11-02T21:26:00-05:00"
       },
-      "status": "scheduled",
+      "status": "sent",
       "metaCheck": "passed",
       "metrics": {}
     },
@@ -3493,7 +3526,7 @@
         "postId": "6ae9034c90c1e19b03477e4e",
         "plannedAt": "2026-11-03T08:02:00-05:00"
       },
-      "status": "scheduled",
+      "status": "sent",
       "metaCheck": "passed",
       "metrics": {}
     },
@@ -3507,7 +3540,7 @@
       "style": "text",
       "title": "There's something comforting about the sound of rain on the roof at night.",
       "caption": "There's something comforting about the sound of rain on the roof at night.",
-      "status": "scheduled",
+      "status": "sent",
       "metaCheck": "passed",
       "facebook": {
         "postId": "6ae9034da49200278eb8adfe",
