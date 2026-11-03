@@ -5601,7 +5601,7 @@
     "postId": "6ae7abcb779ee9f13cb6e9ab",
     "plannedAt": "2026-11-02T21:03:00-05:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed (country, driver and child left out)",
    "metrics": {}
   },
@@ -5649,7 +5649,7 @@
     }
    ],
    "imageFolder": "posts/2026-11-03/1-list",
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
    "metrics": {},
    "facebook": {
@@ -5709,11 +5709,119 @@
    "style": "text",
    "title": "Should going just a few over the limit always get a warning instead of a ticket?",
    "caption": "Should going just a few over the limit always get a warning instead of a ticket?",
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
    "facebook": {
     "postId": "6ae8fccf16d5739c13200cbb",
     "plannedAt": "2026-11-03T13:30:00-05:00"
+   },
+   "metrics": {}
+  },
+  {
+   "date": "2026-11-04",
+   "run": "day",
+   "n": 1,
+   "window": "w1",
+   "type": "history",
+   "topicGroup": "county",
+   "format": "carousel",
+   "style": "photo",
+   "captionStyle": "payoff",
+   "look": "original",
+   "sceneTag": "other",
+   "title": "A $134.50 Tow at the Supreme Court",
+   "subtopic": "tow hearing delay",
+   "topic": "City of Los Angeles v. David, 538 U.S. 715 (2003): car towed Aug 13 1998 from no-parking spot on city DOT officer's order; he said trees blocked the sign; paid $134.50; hearing 27 days later (Sept 9 1998) denied his claim; 9th Cir. (2-1) required hearing within ~5 days; Supreme Court summarily reversed per curiam without argument: 27-day delay routine. Place and name not on slides.",
+   "slides": [
+    "A **$134.50 tow** ended up in front of the Supreme Court.",
+    "The city towed his car from a no-parking spot. He said **trees hid the sign**.",
+    "He paid to get his car back, then waited **27 days** for a hearing.",
+    "The hearing went against him. So he sued, saying **a month was too long** to wait.",
+    "Follow for more"
+   ],
+   "caption": "The justices didn't even need arguments. In a short opinion, they called the 27-day wait a routine delay. The city came out on top. A lower court had wanted those hearings within 5 days. Was almost a month too long to wait for your money?\n\n#JuryJuice #Towing #SupremeCourt\n\nSource: City of Los Angeles v. David (2003)",
+   "sources": [
+    {
+     "item": "Los Angeles v. David, 538 U.S. 715 (2003)",
+     "source": "https://supreme.justia.com/cases/federal/us/538/715/"
+    }
+   ],
+   "imageFolder": "posts/2026-11-04/1-history",
+   "status": "scheduled",
+   "metaCheck": "passed",
+   "metrics": {},
+   "facebook": {
+    "format": "single",
+    "postId": "6aea4e9084e334d814e1c4bc",
+    "plannedAt": "2026-11-04T08:03:00-05:00",
+    "slides": [
+     "His towed car cost **$134.50** to get back. He took his fight over a 27-day wait for a hearing to the Supreme Court."
+    ]
+   },
+   "instagram": {
+    "format": "carousel",
+    "postId": "6aea4e900a183b1b742caed1",
+    "plannedAt": "2026-11-04T08:08:00-05:00"
+   },
+   "experiment": "one-case story told across a carousel (payoff style) instead of a multi-case list"
+  },
+  {
+   "date": "2026-11-04",
+   "run": "day",
+   "n": 2,
+   "window": "w2",
+   "type": "list",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "photo",
+   "captionStyle": "classic",
+   "look": "blue",
+   "sceneTag": "policeLights",
+   "title": "A Giant Bull in the Front Seat",
+   "subtopic": "bull riding in car",
+   "topic": "Aug 30 2023 (Norfolk NE, not named): 911 caller reported a cow in a car; police stopped Lee Meyer (not named) in modified Ford Crown Victoria with Watusi bull Howdy Doody (not named) in the passenger seat; officer wrote warnings and asked him to take the animal home (Capt. Chad Reiman, CBS). No ticket.",
+   "slides": [
+    "A caller reported a cow in a car. Police found **a giant horned bull** in the front seat, and the driver got a warning."
+   ],
+   "caption": "Police were picturing something small enough to fit in a car. What's the oddest passenger you've ever spotted on the road?\n\n#JuryJuice #Cows #TrafficStop\n\nSource: CBS News (2023)",
+   "sources": [
+    {
+     "item": "CBS News, Sep 1 2023",
+     "source": "https://www.cbsnews.com/news/howdy-doody-bull-nebraska-lee-meyer"
+    },
+    {
+     "item": "The National, Aug 31 2023",
+     "source": "https://www.thenationalnews.com/world/us-news/2023/08/31/watusi-bull-nebraska-driver/"
+    }
+   ],
+   "imageFolder": "posts/2026-11-04/2-list",
+   "status": "scheduled",
+   "metaCheck": "passed (avoided the word 'shotgun')",
+   "metrics": {},
+   "facebook": {
+    "postId": "6aea4e919da2f6a2e96eefb6",
+    "plannedAt": "2026-11-04T20:40:00-05:00"
+   },
+   "instagram": {
+    "postId": "6aea4e910a183b1b742caf44",
+    "plannedAt": "2026-11-04T20:35:00-05:00"
+   }
+  },
+  {
+   "date": "2026-11-04",
+   "run": "day",
+   "type": "text",
+   "kind": "everyday",
+   "window": "t1",
+   "format": "single",
+   "style": "text",
+   "title": "Should a parking ticket be cancelled if the meter was broken when you parked?",
+   "caption": "Should a parking ticket be cancelled if the meter was broken when you parked?",
+   "status": "scheduled",
+   "metaCheck": "passed",
+   "facebook": {
+    "postId": "6aea4e92ca28ab6c31768ac3",
+    "plannedAt": "2026-11-04T13:55:00-05:00"
    },
    "metrics": {}
   }
