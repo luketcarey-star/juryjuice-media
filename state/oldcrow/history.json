@@ -3576,6 +3576,80 @@
       "status": "scheduled",
       "metaCheck": "passed",
       "metrics": {}
+    },
+    {
+      "date": "2026-11-04",
+      "run": "day",
+      "n": 1,
+      "window": "o1",
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "title": "We're a family here, they said. Then they scheduled your performance review.",
+      "line": "We're a family here, they said. Then they scheduled your performance review.",
+      "topic": "'We're a family' workplace talk vs performance reviews (work)",
+      "object": "manila folder in an office corridor beside a potted plant, reading glasses",
+      "caption": "Adopted, apparently.",
+      "slides": [
+        {
+          "text": "We're a family here, they said. Then they scheduled your performance review."
+        }
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-11-04/1-oneliner",
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "facebook": {
+        "postId": "6aea55700a183b1b742ee44f",
+        "plannedAt": "2026-11-04T08:10:00-05:00"
+      },
+      "metrics": {}
+    },
+    {
+      "date": "2026-11-04",
+      "run": "day",
+      "type": "text",
+      "kind": "memory",
+      "window": "t1",
+      "format": "single",
+      "style": "text",
+      "title": "What was the best prize you ever found at the bottom of a cereal box?",
+      "caption": "What was the best prize you ever found at the bottom of a cereal box?",
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "facebook": {
+        "postId": "6aea5571fdaa0acca709e475",
+        "plannedAt": "2026-11-04T14:05:00-05:00"
+      },
+      "metrics": {}
+    },
+    {
+      "date": "2026-11-04",
+      "run": "day",
+      "n": 2,
+      "window": "o2",
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "title": "Money can't buy happiness. It does keep the heat on.",
+      "line": "Money can't buy happiness. It does keep the heat on.",
+      "topic": "Money and happiness vs the heating bill in November (money; quieter wry line)",
+      "object": "old cast-iron radiator, knitted scarf, frosted window",
+      "caption": "November agrees.",
+      "slides": [
+        {
+          "text": "Money can't buy happiness. It does keep the heat on."
+        }
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-11-04/2-oneliner",
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "facebook": {
+        "postId": "6aea5571fdaa0acca709e4a0",
+        "plannedAt": "2026-11-04T20:48:00-05:00"
+      },
+      "metrics": {}
     }
   ],
   "ideas": [
