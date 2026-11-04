@@ -5915,6 +5915,98 @@
     "plannedAt": "2026-11-04T13:55:00-05:00"
    },
    "metrics": {}
+  },
+  {
+   "date": "2026-11-05",
+   "run": "day",
+   "n": 1,
+   "window": "w1",
+   "type": "laws",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "photo",
+   "theme": null,
+   "captionStyle": "payoff",
+   "look": "panel",
+   "sceneTag": "policeLights",
+   "title": "A Ticket for Honking in Traffic",
+   "topic": "NYC (not named): honking is only allowed as a warning of danger (311); unnecessary honking is illegal; $350 fine (AP/NBC NY 2013, NYPD 206 summonses in 2012); Fox 5 NY Apr 2024: fines $800-$2,500, DEP issued 165 violations in 2023, 10 rotating noise cameras catch honkers. Caption says 'hundreds of dollars' because the two sources give different amounts. 'Don't Honk' signs were removed in 2013, so not mentioned.",
+   "subtopic": "honking noise ticket",
+   "slides": [
+    "In one big city, leaning on your horn in traffic can get you **a ticket**."
+   ],
+   "caption": "The rule there says a horn is only for warning someone of danger. Honking at a slow car or a long light counts as noise, and fines run into the hundreds of dollars. The city even has noise cameras that catch honkers. Too strict, or a rule you'd like on your own street?\n\n#JuryJuice #Traffic #RoadRules\n\nSource: Fox 5 NY (2024)",
+   "sources": [
+    "Fox 5 NY, Apr 16 2024 (honking only for danger, fines, 165 DEP violations 2023, noise cameras)",
+    "NBC New York / AP, Jan 29 2013 (unnecessary honking still illegal, $350 fine)"
+   ],
+   "imageFolder": "posts/2026-11-05/1-laws",
+   "facebook": {
+    "postId": "6aeb9ff5f0e1705c28e81a9d",
+    "plannedAt": "2026-11-05T08:01:00-05:00"
+   },
+   "instagram": {
+    "postId": "6aeb9ff691e850096bd1ea0d",
+    "plannedAt": "2026-11-05T08:08:00-05:00"
+   },
+   "status": "scheduled",
+   "metaCheck": "passed",
+   "metrics": {}
+  },
+  {
+   "date": "2026-11-05",
+   "run": "day",
+   "n": 2,
+   "window": "w2",
+   "type": "list",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "photo",
+   "theme": null,
+   "captionStyle": "classic",
+   "look": "original",
+   "sceneTag": "policeLights",
+   "title": "The Parked Car Made of Snow",
+   "topic": "Montreal (not named), Jan 2018: Simon Laprise (not named) sculpted a life-size DeLorean (model not named) out of snow in a snow removal zone; an officer called a second patrol car; officers played along and left a joke ticket/note 'You made our night!' (Global) / 'You made our night hahahahaha :)' (CBS); no real fine; sculpture plowed/destroyed soon after. Framed as officers playing along, not as fooling police.",
+   "subtopic": "funny police moment",
+   "slides": [
+    "Officers found a car parked in a snow removal zone. It was **made of snow**, so they left a note: \"You made our night!\""
+   ],
+   "caption": "Two patrol cars showed up for a car nobody could ever drive. Did it look like a real car to you at first?\n\n#JuryJuice #Snow #Police\n\nSource: CBS News (2018)",
+   "sources": [
+    "CBS News, Jan 18 2018",
+    "Global News, Jan 18 2018"
+   ],
+   "imageFolder": "posts/2026-11-05/2-list",
+   "facebook": {
+    "postId": "6aeb9ff791e850096bd1ea93",
+    "plannedAt": "2026-11-05T20:36:00-05:00"
+   },
+   "instagram": {
+    "postId": "6aeb9ff70bb7d41592a72a24",
+    "plannedAt": "2026-11-05T20:53:00-05:00"
+   },
+   "status": "scheduled",
+   "metaCheck": "passed",
+   "metrics": {}
+  },
+  {
+   "date": "2026-11-05",
+   "run": "day",
+   "type": "text",
+   "kind": "police",
+   "window": "t1",
+   "format": "single",
+   "style": "text",
+   "title": "Should police hand out small rewards to drivers they spot being extra careful on the road?",
+   "caption": "Should police hand out small rewards to drivers they spot being extra careful on the road?",
+   "status": "scheduled",
+   "metaCheck": "passed",
+   "facebook": {
+    "postId": "6aeb9ff61c31d2bdeba37cc3",
+    "plannedAt": "2026-11-05T13:33:00-05:00"
+   },
+   "metrics": {}
   }
  ],
  "ideas": [
