@@ -3650,6 +3650,85 @@
         "plannedAt": "2026-11-04T20:48:00-05:00"
       },
       "metrics": {}
+    },
+    {
+      "date": "2026-11-05",
+      "run": "day",
+      "n": 1,
+      "type": "thennow",
+      "format": "single",
+      "style": "ai",
+      "window": "o1",
+      "title": "Just the recipe, please.",
+      "topic": "Recipe on a handwritten card vs recipe buried under ads and life stories online (food / community memory)",
+      "headline": "JUST THE RECIPE, PLEASE.",
+      "then": "butter-stained handwritten recipe card with wooden spoon",
+      "now": "phone spilling an endless scroll of ads and blank text",
+      "object": "recipe card -> phone with endless scroll",
+      "slides": [
+        {
+          "text": "JUST THE RECIPE, PLEASE.",
+          "image": "slide1.jpg"
+        }
+      ],
+      "caption": "Ever scrolled past a whole life story just to find out how much flour? 🤔\n\nGrandma's recipe fit on one stained little card. Now it sits at the bottom of a long page, after the pop-ups, the ads and three paragraphs about autumn.\n\nThe card never asked you to subscribe.",
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-11-05/1-thennow",
+      "experiment": "Then vs Now on a community/memory theme (grandma's recipe card)",
+      "metaCheck": "passed",
+      "status": "scheduled",
+      "facebook": {
+        "postId": "6aeba621e33a6d353dc4a4e5",
+        "plannedAt": "2026-11-05T07:45:00-05:00"
+      },
+      "metrics": {}
+    },
+    {
+      "date": "2026-11-05",
+      "run": "day",
+      "type": "text",
+      "kind": "relatable",
+      "window": "t1",
+      "format": "single",
+      "style": "text",
+      "title": "Fresh sheets on the bed can make an ordinary night feel special.",
+      "caption": "Fresh sheets on the bed can make an ordinary night feel special.",
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "facebook": {
+        "postId": "6aeba6213a6057e11e774fec",
+        "plannedAt": "2026-11-05T13:51:00-05:00"
+      },
+      "metrics": {}
+    },
+    {
+      "date": "2026-11-05",
+      "run": "day",
+      "n": 2,
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "window": "o2",
+      "title": "Save for a rainy day, they said. Turns out every day is rainy.",
+      "topic": "Rainy-day savings advice vs constant expenses (money / advice)",
+      "line": "Save for a rainy day, they said. Turns out every day is rainy.",
+      "object": "torn umbrella, rain cloud, nearly empty coin jar",
+      "slides": [
+        {
+          "text": "Save for a rainy day, they said. Turns out every day is rainy.",
+          "image": "slide1.jpg"
+        }
+      ],
+      "caption": "Forecast unchanged.",
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-11-05/2-oneliner",
+      "metaCheck": "passed",
+      "status": "scheduled",
+      "facebook": {
+        "postId": "6aeba6224cb090f0ac3e7c0e",
+        "plannedAt": "2026-11-05T21:13:00-05:00"
+      },
+      "metrics": {}
     }
   ],
   "ideas": [
