@@ -5566,7 +5566,30 @@
    },
    "status": "sent",
    "metaCheck": "passed (jail mention and city name left out)",
-   "metrics": {}
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 845,
+     "shares": 0,
+     "clicks": 21,
+     "engagementRate_buffer": 2.49,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-11-04T16:20-05:00"
+    },
+    "instagram": {
+     "reactions": 1,
+     "comments": 0,
+     "views": 432,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 303,
+     "engagementRate_buffer": 0.33,
+     "engagementRate": 0.33,
+     "measuredAt": "2026-11-04T16:20-05:00"
+    }
+   }
   },
   {
    "date": "2026-11-02",
@@ -5603,7 +5626,30 @@
    },
    "status": "sent",
    "metaCheck": "passed (country, driver and child left out)",
-   "metrics": {}
+   "metrics": {
+    "facebook": {
+     "reactions": 4,
+     "comments": 0,
+     "impressions": 1794,
+     "shares": 0,
+     "clicks": 41,
+     "engagementRate_buffer": 2.51,
+     "engagementRate": 0.22,
+     "measuredAt": "2026-11-04T16:20-05:00"
+    },
+    "instagram": {
+     "reactions": 1,
+     "comments": 0,
+     "views": 365,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 255,
+     "engagementRate_buffer": 0.39,
+     "engagementRate": 0.39,
+     "measuredAt": "2026-11-04T16:20-05:00"
+    }
+   }
   },
   {
    "date": "2026-11-02",
@@ -5621,7 +5667,18 @@
     "postId": "6ae7abcb01fa08ffbe699442",
     "plannedAt": "2026-11-02T13:39:00-05:00"
    },
-   "metrics": {}
+   "metrics": {
+    "facebook": {
+     "reactions": 4,
+     "comments": 0,
+     "impressions": 707,
+     "shares": 0,
+     "clicks": 2,
+     "engagementRate_buffer": 0.85,
+     "engagementRate": 0.57,
+     "measuredAt": "2026-11-04T16:20-05:00"
+    }
+   }
   },
   {
    "date": "2026-11-03",
@@ -5651,7 +5708,30 @@
    "imageFolder": "posts/2026-11-03/1-list",
    "status": "sent",
    "metaCheck": "passed",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 1,
+     "comments": 0,
+     "impressions": 724,
+     "shares": 0,
+     "clicks": 18,
+     "engagementRate_buffer": 2.62,
+     "engagementRate": 0.14,
+     "measuredAt": "2026-11-04T16:20-05:00"
+    },
+    "instagram": {
+     "reactions": 1,
+     "comments": 0,
+     "views": 150,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 109,
+     "engagementRate_buffer": 0.92,
+     "engagementRate": 0.92,
+     "measuredAt": "2026-11-04T16:20-05:00"
+    }
+   },
    "facebook": {
     "postId": "6ae8fcccb665951ec2fca946",
     "plannedAt": "2026-11-03T08:14:00-05:00"
@@ -5687,7 +5767,7 @@
     }
    ],
    "imageFolder": "posts/2026-11-03/2-laws",
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed (added 'In one country' so it doesn't read as a rule everywhere)",
    "metrics": {},
    "facebook": {
@@ -5715,7 +5795,18 @@
     "postId": "6ae8fccf16d5739c13200cbb",
     "plannedAt": "2026-11-03T13:30:00-05:00"
    },
-   "metrics": {}
+   "metrics": {
+    "facebook": {
+     "reactions": 1,
+     "comments": 1,
+     "impressions": 672,
+     "shares": 0,
+     "clicks": 12,
+     "engagementRate_buffer": 2.08,
+     "engagementRate": 0.3,
+     "measuredAt": "2026-11-04T16:20-05:00"
+    }
+   }
   },
   {
    "date": "2026-11-04",
@@ -5747,7 +5838,7 @@
     }
    ],
    "imageFolder": "posts/2026-11-04/1-history",
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
    "metrics": {},
    "facebook": {
@@ -5817,7 +5908,7 @@
    "style": "text",
    "title": "Should a parking ticket be cancelled if the meter was broken when you parked?",
    "caption": "Should a parking ticket be cancelled if the meter was broken when you parked?",
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
    "facebook": {
     "postId": "6aea4e92ca28ab6c31768ac3",
