@@ -3573,7 +3573,7 @@
         "postId": "6ae9034da49200278eb8ae3a",
         "plannedAt": "2026-11-03T21:27:00-05:00"
       },
-      "status": "scheduled",
+      "status": "sent",
       "metaCheck": "passed",
       "metrics": {}
     },
@@ -3597,7 +3597,7 @@
       ],
       "sources": [],
       "imageFolder": "posts/oldcrow/2026-11-04/1-oneliner",
-      "status": "scheduled",
+      "status": "sent",
       "metaCheck": "passed",
       "facebook": {
         "postId": "6aea55700a183b1b742ee44f",
@@ -3615,7 +3615,7 @@
       "style": "text",
       "title": "What was the best prize you ever found at the bottom of a cereal box?",
       "caption": "What was the best prize you ever found at the bottom of a cereal box?",
-      "status": "scheduled",
+      "status": "sent",
       "metaCheck": "passed",
       "facebook": {
         "postId": "6aea5571fdaa0acca709e475",
