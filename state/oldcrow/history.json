@@ -3806,6 +3806,85 @@
         "plannedAt": "2026-11-05T21:13:00-05:00"
       },
       "metrics": {}
+    },
+    {
+      "date": "2026-11-06",
+      "n": 1,
+      "run": "day",
+      "window": "o1",
+      "type": "thennow",
+      "format": "single",
+      "style": "ai",
+      "title": "Whatever happened to snow days?",
+      "headline": "WHATEVER HAPPENED TO SNOW DAYS?",
+      "then": "snowy wooden sled with red runners",
+      "now": "laptop with a grid of blank video-call tiles",
+      "topic": "Snow days off vs snow days turned into remote learning days (school / time)",
+      "object": "wooden sled -> laptop video call",
+      "caption": "Remember waking up early to hear if your school made the closings list? ❄️\n\nA big storm used to mean a whole free day: the sled, soggy mittens, hot chocolate after. Some school districts now turn snow days into remote learning days, so class just moves to the kitchen table.\n\nNobody ever built a snowman on a video call.",
+      "slides": [
+        {
+          "text": "WHATEVER HAPPENED TO SNOW DAYS?"
+        }
+      ],
+      "sources": [
+        "https://www.edweek.org/leadership/will-schools-actually-ditch-snow-days-for-virtual-learning-the-outlook-is-still-cloudy/2023/01",
+        "https://www.keyc.com/2021/12/10/remote-learning-replaces-snow-days-some-minnesota-school-districts/"
+      ],
+      "imageFolder": "posts/oldcrow/2026-11-06/1-thennow",
+      "facebook": {
+        "postId": "6aecf7bf07115c73fd3ac910",
+        "plannedAt": "2026-11-06T08:22:00-05:00"
+      },
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "metrics": {}
+    },
+    {
+      "date": "2026-11-06",
+      "run": "day",
+      "type": "text",
+      "kind": "memory",
+      "window": "t1",
+      "format": "single",
+      "style": "text",
+      "title": "What did your family always keep in the glove box of the car?",
+      "caption": "What did your family always keep in the glove box of the car?",
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "facebook": {
+        "postId": "6aecf7bf07115c73fd3ac94f",
+        "plannedAt": "2026-11-06T14:02:00-05:00"
+      },
+      "metrics": {}
+    },
+    {
+      "date": "2026-11-06",
+      "n": 2,
+      "run": "day",
+      "window": "o2",
+      "type": "oneliner",
+      "format": "single",
+      "style": "ai",
+      "title": "The sale ends tonight. It's been ending since March.",
+      "line": "The sale ends tonight. It's been ending since March.",
+      "topic": "Fake-urgency sales that never actually end (buying things / ads)",
+      "object": "tear-off calendar with torn pages, shop window with blank red banner",
+      "caption": "Last chance. Again.",
+      "slides": [
+        {
+          "text": "The sale ends tonight. It's been ending since March."
+        }
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-11-06/2-oneliner",
+      "facebook": {
+        "postId": "6aecf7c0d49eaca59e0064d2",
+        "plannedAt": "2026-11-06T21:00:00-05:00"
+      },
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "metrics": {}
     }
   ],
   "ideas": [
