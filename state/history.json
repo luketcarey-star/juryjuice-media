@@ -5886,7 +5886,7 @@
     }
    ],
    "imageFolder": "posts/2026-11-04/2-list",
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed (avoided the word 'shotgun')",
    "metrics": {},
    "facebook": {
@@ -5949,7 +5949,7 @@
     "postId": "6aeb9ff691e850096bd1ea0d",
     "plannedAt": "2026-11-05T08:08:00-05:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
    "metrics": {}
   },
@@ -6000,11 +6000,105 @@
    "style": "text",
    "title": "Should police hand out small rewards to drivers they spot being extra careful on the road?",
    "caption": "Should police hand out small rewards to drivers they spot being extra careful on the road?",
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
    "facebook": {
     "postId": "6aeb9ff61c31d2bdeba37cc3",
     "plannedAt": "2026-11-05T13:33:00-05:00"
+   },
+   "metrics": {}
+  },
+  {
+   "date": "2026-11-06",
+   "run": "day",
+   "n": 1,
+   "window": "w1",
+   "type": "laws",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "photo",
+   "look": "original",
+   "captionStyle": "payoff",
+   "sceneTag": "policeLights",
+   "title": "Pulled Over, No One at the Wheel",
+   "subtopic": "driverless car tickets",
+   "topic": "San Bruno CA police (not named), Sept 2025: during an early-Saturday operation officers saw a driverless Waymo (not named) make an illegal U-turn, pulled it over, no one inside; couldn't cite because moving violations need a human driver ('citation books don't have a box for robot'); contacted Waymo to report a 'glitch' (AP via KWTX, Sept 30 2025). California AB 1777 (signed 2024, in effect July 1 2026) lets police issue 'notices of noncompliance' to AV manufacturers, who report them to DMV (FOX 11 LA, June 2026). DUI-operation context left out on purpose; place and company not named.",
+   "slides": [
+    "Police pulled over a car for an illegal U-turn. When they walked up, **nobody was behind the wheel.**"
+   ],
+   "caption": "Officers couldn't write a ticket, since a moving violation needs a human driver. So they phoned the company and reported a glitch. A new law there now lets police send the company a notice of noncompliance. Should robot cars pay for their mistakes like the rest of us?\n\n#JuryJuice #SelfDrivingCars #TrafficStop\n\nSources: AP (2025); Assembly Bill 1777 (2024)",
+   "sources": [
+    "https://www.kwtx.com/2025/09/30/california-police-pull-over-self-driving-waymo-an-illegal-u-turn-they-cant-ticket/",
+    "https://www.foxla.com/news/california-robotaxi-law-ab-1777-autonomous-vehicle-citations"
+   ],
+   "imageFolder": "posts/2026-11-06/1-laws",
+   "metaCheck": "passed",
+   "facebook": {
+    "postId": "6aecf13ccf99e575e90d24d2",
+    "plannedAt": "2026-11-06T08:11:00-05:00",
+    "format": "single"
+   },
+   "instagram": {
+    "postId": "6aecf13d5a4f8c0d3fa64d22",
+    "plannedAt": "2026-11-06T08:03:00-05:00",
+    "format": "single"
+   },
+   "status": "scheduled",
+   "metrics": {}
+  },
+  {
+   "date": "2026-11-06",
+   "run": "day",
+   "n": 2,
+   "window": "w2",
+   "type": "history",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "photo",
+   "look": "blue",
+   "captionStyle": "classic",
+   "sceneTag": "other",
+   "title": "The Brooch on the Window Frame",
+   "subtopic": "found brooch court fight",
+   "topic": "Hannah v. Peel [1945] 1 KB 509 (Birkett J): Aug 1940 Lance-Corporal Duncan Hannah (not named) found a brooch on top of a window frame in a requisitioned house owned by Major Peel (not named) who bought it Dec 1938 but never moved in; handed it to police on his CO's advice; no owner found, police gave it to Peel (1942), who sold it for GBP 66; court gave judgment for the finder. Award amount not stated (not in sources). Place not named.",
+   "slides": [
+    "A soldier found an old brooch on a dusty window frame and gave it to police. A judge said **it belonged to him**, not the homeowner."
+   ],
+   "caption": "The owner had bought the house but never moved in. Who should get to keep something found in a home?\n\n#JuryJuice #LostAndFound #History\n\nSource: Hannah v. Peel (1945)",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Hannah_v_Peel",
+    "https://www.e-lawresources.co.uk/hannah-v-peel"
+   ],
+   "imageFolder": "posts/2026-11-06/2-history",
+   "metaCheck": "passed",
+   "facebook": {
+    "postId": "6aecf13e19bea0313fec04b7",
+    "plannedAt": "2026-11-06T20:45:00-05:00",
+    "format": "single"
+   },
+   "instagram": {
+    "postId": "6aecf13e94067731a420ac13",
+    "plannedAt": "2026-11-06T21:07:00-05:00",
+    "format": "single"
+   },
+   "status": "scheduled",
+   "metrics": {}
+  },
+  {
+   "date": "2026-11-06",
+   "run": "day",
+   "type": "text",
+   "kind": "everyday",
+   "window": "t1",
+   "format": "single",
+   "style": "text",
+   "title": "Should you get a street-sweeping ticket if the sweeper never came down your street that day?",
+   "caption": "Should you get a street-sweeping ticket if the sweeper never came down your street that day?",
+   "status": "scheduled",
+   "metaCheck": "passed",
+   "facebook": {
+    "postId": "6aecf13f56d74a52cd329757",
+    "plannedAt": "2026-11-06T13:44:00-05:00"
    },
    "metrics": {}
   }
