@@ -6238,6 +6238,112 @@
     "plannedAt": "2026-11-06T13:44:00-05:00"
    },
    "metrics": {}
+  },
+  {
+   "date": "2026-11-07",
+   "run": "day",
+   "n": 1,
+   "window": "w1",
+   "type": "list",
+   "topicGroup": "police",
+   "format": "single",
+   "style": "photo",
+   "captionStyle": "payoff",
+   "look": "original",
+   "sceneTag": "policeLights",
+   "title": "Picked Up Her Fallen Phone at a Red Light",
+   "topic": "R. v. Kazemi, 2013 ONCA 585 (province not named): phone fell from seat to floor, she picked it up while stopped at a red light, officer saw her holding it; lower court applied a 'sustained holding' test and let her off; Court of Appeal (Sept 27 2013) said holding for any time counts. Fine amount not stated, left out.",
+   "subtopic": "phone in hand ticket",
+   "slides": [
+    "Her phone fell to the floor at a red light. She picked it up, and an officer saw it. **She said she wasn't using it.**"
+   ],
+   "caption": "One court let her off, saying a quick grab isn't really holding a phone. The appeal court disagreed in 2013. Its view: a phone in your hand at all while driving counts, even at a red light. Should a phone that slid off the seat count the same as one you're texting on?\n\n#JuryJuice #DistractedDriving #TrafficTicket\n\nSource: R. v. Kazemi (2013)",
+   "sources": [
+    {
+     "item": "CTV/Canadian Press, Sept 28 2013",
+     "source": "https://kitchener.ctvnews.ca/ontario-appeal-court-rejects-exceptions-to-cellphone-ban-while-driving-1.1474741"
+    },
+    {
+     "item": "TheCourt.ca, Oct 3 2013",
+     "source": "https://yorku.ca/osgoode/thecourt/2013/10/03/the-ontario-court-of-appeal-upholds-an-absolute-prohibition-on-holding-cell-phones-while-driving-in-r-v-kazemi-and-r-v-pizzurro"
+    }
+   ],
+   "imageFolder": "posts/2026-11-07/1-list",
+   "status": "scheduled",
+   "metaCheck": "passed",
+   "metrics": {},
+   "facebook": {
+    "postId": "6aee4402229bf05daf0e54a9",
+    "plannedAt": "2026-11-07T08:13:00-05:00",
+    "format": "single"
+   },
+   "instagram": {
+    "postId": "6aee4403004e4879a7169c5a",
+    "plannedAt": "2026-11-07T08:12:00-05:00",
+    "format": "single"
+   }
+  },
+  {
+   "date": "2026-11-07",
+   "run": "day",
+   "n": 2,
+   "window": "w2",
+   "type": "history",
+   "topicGroup": "county",
+   "format": "single",
+   "style": "photo",
+   "captionStyle": "classic",
+   "look": "panel",
+   "sceneTag": "other",
+   "title": "Nearly $30,000 for Tall Grass",
+   "topic": "Jim Ficken (not named), Dunedin FL (not named): grass grew too tall while he was away settling his late mother's estate; city fined $500/day, ~$30,000 plus interest, liens and authorized foreclosure; lost in federal district court 2021 and 11th Circuit 2022; after reforms the city cut the fine by 80%; 2024 settlement ended $10,000 fee claim. Landscaper's death and foreclosure left out on purpose.",
+   "subtopic": "tall grass fines",
+   "slides": [
+    "He left to settle his late mother's estate. His grass grew too tall, the fines hit **nearly $30,000**, and the courts let them stand."
+   ],
+   "caption": "His bill eventually shrank by 80 percent. What's a fair fine for a shaggy lawn?\n\n#JuryJuice #Lawn #Homeowners\n\nSource: Ficken v. City of Dunedin (2022)",
+   "sources": [
+    {
+     "item": "Reason (IJ attorneys), May 1 2024",
+     "source": "https://reason.com/2024/05/01/florida-mans-tall-grass-saga-comes-to-an-end/"
+    },
+    {
+     "item": "WFLA / Tampa Bay 28: federal judge and appeals court ruled for city",
+     "source": "https://www.abcactionnews.com/news/local-news/i-team-investigates/appeals-court-sides-with-dunedin-after-city-fined-man-30k-for-uncut-grass"
+    }
+   ],
+   "imageFolder": "posts/2026-11-07/2-history",
+   "status": "scheduled",
+   "metaCheck": "passed",
+   "metrics": {},
+   "facebook": {
+    "postId": "6aee4403229bf05daf0e54f2",
+    "plannedAt": "2026-11-07T20:38:00-05:00",
+    "format": "single"
+   },
+   "instagram": {
+    "postId": "6aee4404af7e526d43e153cd",
+    "plannedAt": "2026-11-07T21:01:00-05:00",
+    "format": "single"
+   }
+  },
+  {
+   "date": "2026-11-07",
+   "run": "day",
+   "type": "text",
+   "kind": "police",
+   "window": "t1",
+   "format": "single",
+   "style": "text",
+   "title": "Do you slow down every time you see a police car parked on the side of the road?",
+   "caption": "Do you slow down every time you see a police car parked on the side of the road?",
+   "status": "scheduled",
+   "metaCheck": "passed",
+   "facebook": {
+    "postId": "6aee4404004e4879a7169cca",
+    "plannedAt": "2026-11-07T13:48:00-05:00"
+   },
+   "metrics": {}
   }
  ],
  "ideas": [
