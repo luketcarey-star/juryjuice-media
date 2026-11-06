@@ -5769,7 +5769,30 @@
    "imageFolder": "posts/2026-11-03/2-laws",
    "status": "sent",
    "metaCheck": "passed (added 'In one country' so it doesn't read as a rule everywhere)",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 394,
+     "shares": 0,
+     "clicks": 1,
+     "engagementRate_buffer": 0.25,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-11-06T16:15-05:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 157,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 112,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-11-06T16:15-05:00"
+    }
+   },
    "facebook": {
     "postId": "6ae8fcceb665951ec2fca9be",
     "plannedAt": "2026-11-03T20:53:00-05:00"
@@ -5840,7 +5863,30 @@
    "imageFolder": "posts/2026-11-04/1-history",
    "status": "sent",
    "metaCheck": "passed",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 1199,
+     "shares": 0,
+     "clicks": 14,
+     "engagementRate_buffer": 1.17,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-11-06T16:15-05:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 164,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 87,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-11-06T16:15-05:00"
+    }
+   },
    "facebook": {
     "format": "single",
     "postId": "6aea4e9084e334d814e1c4bc",
@@ -5888,7 +5934,30 @@
    "imageFolder": "posts/2026-11-04/2-list",
    "status": "sent",
    "metaCheck": "passed (avoided the word 'shotgun')",
-   "metrics": {},
+   "metrics": {
+    "facebook": {
+     "reactions": 1,
+     "comments": 0,
+     "impressions": 372,
+     "shares": 0,
+     "clicks": 4,
+     "engagementRate_buffer": 1.34,
+     "engagementRate": 0.27,
+     "measuredAt": "2026-11-06T16:15-05:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 148,
+     "shares": 0,
+     "saves": 1,
+     "follows": 0,
+     "reach": 109,
+     "engagementRate_buffer": 0.92,
+     "engagementRate": 0.92,
+     "measuredAt": "2026-11-06T16:15-05:00"
+    }
+   },
    "facebook": {
     "postId": "6aea4e919da2f6a2e96eefb6",
     "plannedAt": "2026-11-04T20:40:00-05:00"
@@ -5914,7 +5983,18 @@
     "postId": "6aea4e92ca28ab6c31768ac3",
     "plannedAt": "2026-11-04T13:55:00-05:00"
    },
-   "metrics": {}
+   "metrics": {
+    "facebook": {
+     "reactions": 3,
+     "comments": 6,
+     "impressions": 1528,
+     "shares": 0,
+     "clicks": 65,
+     "engagementRate_buffer": 4.78,
+     "engagementRate": 0.59,
+     "measuredAt": "2026-11-06T16:15-05:00"
+    }
+   }
   },
   {
    "date": "2026-11-05",
@@ -5951,7 +6031,30 @@
    },
    "status": "sent",
    "metaCheck": "passed",
-   "metrics": {}
+   "metrics": {
+    "facebook": {
+     "reactions": 1,
+     "comments": 1,
+     "impressions": 414,
+     "shares": 0,
+     "clicks": 3,
+     "engagementRate_buffer": 1.21,
+     "engagementRate": 0.48,
+     "measuredAt": "2026-11-06T16:15-05:00"
+    },
+    "instagram": {
+     "reactions": 0,
+     "comments": 0,
+     "views": 96,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 72,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-11-06T16:15-05:00"
+    }
+   }
   },
   {
    "date": "2026-11-05",
@@ -5986,9 +6089,32 @@
     "postId": "6aeb9ff70bb7d41592a72a24",
     "plannedAt": "2026-11-05T20:53:00-05:00"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
-   "metrics": {}
+   "metrics": {
+    "facebook": {
+     "reactions": 4,
+     "comments": 0,
+     "impressions": 544,
+     "shares": 0,
+     "clicks": 11,
+     "engagementRate_buffer": 2.76,
+     "engagementRate": 0.74,
+     "measuredAt": "2026-11-06T16:15-05:00"
+    },
+    "instagram": {
+     "reactions": 2,
+     "comments": 0,
+     "views": 283,
+     "shares": 0,
+     "saves": 0,
+     "follows": 0,
+     "reach": 210,
+     "engagementRate_buffer": 0.95,
+     "engagementRate": 0.95,
+     "measuredAt": "2026-11-06T16:15-05:00"
+    }
+   }
   },
   {
    "date": "2026-11-05",
@@ -6006,7 +6132,18 @@
     "postId": "6aeb9ff61c31d2bdeba37cc3",
     "plannedAt": "2026-11-05T13:33:00-05:00"
    },
-   "metrics": {}
+   "metrics": {
+    "facebook": {
+     "reactions": 0,
+     "comments": 0,
+     "impressions": 175,
+     "shares": 0,
+     "clicks": 0,
+     "engagementRate_buffer": 0,
+     "engagementRate": 0.0,
+     "measuredAt": "2026-11-06T16:15-05:00"
+    }
+   }
   },
   {
    "date": "2026-11-06",
@@ -6043,7 +6180,7 @@
     "plannedAt": "2026-11-06T08:03:00-05:00",
     "format": "single"
    },
-   "status": "scheduled",
+   "status": "sent",
    "metrics": {}
   },
   {
@@ -6094,7 +6231,7 @@
    "style": "text",
    "title": "Should you get a street-sweeping ticket if the sweeper never came down your street that day?",
    "caption": "Should you get a street-sweeping ticket if the sweeper never came down your street that day?",
-   "status": "scheduled",
+   "status": "sent",
    "metaCheck": "passed",
    "facebook": {
     "postId": "6aecf13f56d74a52cd329757",
