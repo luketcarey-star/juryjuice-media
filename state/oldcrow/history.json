@@ -3800,7 +3800,7 @@
       "sources": [],
       "imageFolder": "posts/oldcrow/2026-11-05/2-oneliner",
       "metaCheck": "passed",
-      "status": "scheduled",
+      "status": "sent",
       "facebook": {
         "postId": "6aeba6224cb090f0ac3e7c0e",
         "plannedAt": "2026-11-05T21:13:00-05:00"
@@ -3836,7 +3836,7 @@
         "postId": "6aecf7bf07115c73fd3ac910",
         "plannedAt": "2026-11-06T08:22:00-05:00"
       },
-      "status": "scheduled",
+      "status": "sent",
       "metaCheck": "passed",
       "metrics": {}
     },
@@ -3850,7 +3850,7 @@
       "style": "text",
       "title": "What did your family always keep in the glove box of the car?",
       "caption": "What did your family always keep in the glove box of the car?",
-      "status": "scheduled",
+      "status": "sent",
       "metaCheck": "passed",
       "facebook": {
         "postId": "6aecf7bf07115c73fd3ac94f",
@@ -3881,6 +3881,86 @@
       "facebook": {
         "postId": "6aecf7c0d49eaca59e0064d2",
         "plannedAt": "2026-11-06T21:00:00-05:00"
+      },
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "metrics": {}
+    },
+    {
+      "date": "2026-11-07",
+      "run": "day",
+      "n": 1,
+      "type": "oneliner",
+      "window": "o1",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "title": "Easy to assemble, said the box. Three hours later, one screw left over.",
+      "line": "Easy to assemble, said the box. Three hours later, one screw left over.",
+      "topic": "Flat-pack furniture that is never as easy as the box says (buying things / habits)",
+      "object": "leftover screw, hex key, half-built wooden bookshelf",
+      "caption": "It still wobbles.",
+      "slides": [
+        {
+          "text": "Easy to assemble, said the box. Three hours later, one screw left over.",
+          "scene": "leftover screw, hex key, half-built wooden bookshelf"
+        }
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-11-07/1-oneliner",
+      "altText": "Raven with leftover screw and hex key beside a half-built bookshelf",
+      "facebook": {
+        "postId": "6aee492c004e4879a7182f2f",
+        "plannedAt": "2026-11-07T07:57:00-05:00"
+      },
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "metrics": {}
+    },
+    {
+      "date": "2026-11-07",
+      "run": "day",
+      "type": "text",
+      "kind": "relatable",
+      "window": "t1",
+      "format": "single",
+      "style": "text",
+      "title": "An old friend who picks up right where you left off is one of life's real treasures.",
+      "caption": "An old friend who picks up right where you left off is one of life's real treasures.",
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "facebook": {
+        "postId": "6aee492ca7751de7c9ac45f4",
+        "plannedAt": "2026-11-07T14:10:00-05:00"
+      },
+      "metrics": {}
+    },
+    {
+      "date": "2026-11-07",
+      "run": "day",
+      "n": 2,
+      "type": "oneliner",
+      "window": "o2",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "title": "Join our rewards program, they said. Your reward is more emails.",
+      "line": "Join our rewards program, they said. Your reward is more emails.",
+      "topic": "Store loyalty programs that mostly bring marketing emails (buying things / ads)",
+      "object": "blank membership card, phone spilling envelope icons",
+      "caption": "Delivered daily.",
+      "slides": [
+        {
+          "text": "Join our rewards program, they said. Your reward is more emails.",
+          "scene": "blank membership card, phone spilling envelope icons"
+        }
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-11-07/2-oneliner",
+      "altText": "Raven with blank membership card and phone spilling envelope icons",
+      "facebook": {
+        "postId": "6aee492d229bf05daf0fd385",
+        "plannedAt": "2026-11-07T21:03:00-05:00"
       },
       "status": "scheduled",
       "metaCheck": "passed",
