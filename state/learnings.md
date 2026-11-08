@@ -1,37 +1,30 @@
 # What works on Jury Juice (the bot keeps this up to date from Buffer insights)
 
-Last updated: 2026-11-01 (Sunday review; ~90 measured posts, Oct 5 to 31; bot posts only)
+Last updated: 2026-11-08 (Sunday review; ~105 measured bot posts, Oct 5 to Nov 7)
 Engagement rate = (reactions + comments + shares + saves) / reach (FB: impressions).
 
 ## Do more
-- Single-photo police stories about one everyday ticket, told as ONE clear story. Police FB 0.43% over 48
-  vs county 0.11% (16); IG 0.74% (50) vs 0.28%. Best photo post this week: The Chief Who Ticketed Himself
-  (0.81% FB, 4 shares, police lights, blue look).
-- Police car lights in the photo: policeLights FB 0.42% (19) vs other 0.18% (20); IG 0.80% vs 0.51%.
-- The `blue` look: FB 0.46% over 13 vs original 0.20% (19) and panel 0.24% (9); IG 0.84% vs 0.61% / 0.33%.
-  Blue and original now have 10+ measured each; panel has 9 (Luke decides any split).
-- Warm police text questions: "nicest thing an officer has done for you" got 12 comments (0.89% FB), the
-  most of any text post; "smallest thing you've been pulled over for" 0.43%. Police-kind text posts beat
-  everyday ones that ask about a past experience (most got 0 reactions).
-- Quick questions / text posts that ask people to pick a side on a road rule everyone knows (cyclists and
-  stop signs: 1.67% FB, 3.85% IG, still the best ever).
-- Singles over carousels: FB 0.36% (77) vs 0.15% (13); IG 0.61% vs 0.23%.
+- Single-photo police stories about one everyday ticket or odd stop, told as ONE clear story. Police FB 0.41%
+  over 59 vs county 0.10% (20); IG 0.78% vs 0.32%. This week's best: Pulled Over, No One at the Wheel (0.79% FB,
+  4 comments, 2 shares) and The Parked Car Made of Snow (0.63% FB, 1.42% IG).
+- Police car lights in the photo: policeLights FB 0.40% (28) vs other 0.30% (41); IG 0.83% vs 0.65%.
+- The `blue` look: FB 0.40% over 17 vs original 0.35% (40) and panel 0.22% (12); IG 1.04% vs 0.69% / 0.38%.
+  All three looks now have 10+ measured posts (Luke decides any split).
+- `list` type (real single cases) is the best type: FB 0.47% (31), IG 0.85% (33).
+- Text questions that ask people to judge a fairness situation everyone has met (broken meter: 6 comments,
+  0.51%; free meters after 6pm 0.49%) and warm police questions ("nicest thing an officer has done", 12 comments).
+- Singles over carousels: FB 0.35% (83) vs 0.15% (14); IG 0.66% vs 0.28%.
 
 ## Do less
-- Carousels: all three this week (property fights, objects as defendants, HOA fights) got 0.0-0.31% FB and
-  0% IG. Singles first; use the planner's carousel slots only for very strong lists.
-- Weird-law / ordinance posts (laws type): FB 0.17% over 16, lowest real-fact type (Party String 0.0%,
-  Beach Treehouse 0.0% FB though 1.34% IG). Tie each one to a person with something at stake.
-- County / city stories without a personal stake (The $23,420 Fee 0.04%, House Called a Boat 0.10%).
-- Text questions about past experiences with no side to pick ("strangest ticket", "let off with a warning",
-  "car light out", "Halloween decorations": all 0.0%).
-- Police history with no person in a fix (First Parking Meter Ticket 0.27%, Carpool Paperwork 0.10%).
+- Carousels (FB 0.15%, IG 0.28% over 14). Singles first; use the planner's carousel slots only for one strong story.
+- County / city stories with no personal stake: Free Book Box 0.0%, Snow Ticket in June 0.10%, Tall Grass 0.0% FB.
+- Weird-law / ordinance posts (laws type): FB 0.19% over 21, lowest real-fact type (Puddle Splashing 0.0% both).
+- Old court history with no modern hook (Brooch on the Window Frame 0.0% FB, $134.50 Tow 0.07% FB).
+- Text questions about hypothetical police policies (plane-timed speeding 0.0%, rewards for careful drivers 0.0%).
 
 ## Test next
-- Caption style: payoff FB 0.25% (22) / IG 0.70% (23) vs classic FB 0.30% (21) / IG 0.51% (22). Still a
-  near tie: classic a bit ahead on FB, payoff ahead on IG (see weekly report). Luke decides.
-- Panel look: needs 1+ more measured post before it can be judged; so far the weakest on IG.
-- Text questions that pick a side ("Should parking meters be free after 6pm everywhere?", 2026-11-02) vs
-  past-experience questions.
-- Seasonal winter ticket stories (snow notice in June, 2026-11-02) vs non-seasonal ones.
-- Posting hour: 08:00-09:00 and 11:00-13:00 beat 19:00-21:00 on FB in earlier weeks (small samples).
+- Caption style: payoff FB 0.25% (29) / IG 0.68% (30) vs classic FB 0.28% (29) / IG 0.68% (30). Both have 10+;
+  still a tie (classic slightly ahead on FB). Luke decides.
+- Police history told as one story across a carousel with a payoff ending (radar ticket, 2026-11-09).
+- Warm police past-experience text questions vs fairness questions (flat tire question, 2026-11-09).
+- Posting hour: 11:00-12:00 FB 0.49% (8) and 08:00 0.39% (14) beat 20:00 0.25% (20) on FB; IG is flat.
