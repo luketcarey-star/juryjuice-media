@@ -2370,7 +2370,7 @@
           "clicks": 75,
           "bufferEngagementRatePct": 1.75,
           "engagementRate": 0.004,
-          "measuredAt": "2026-11-01T21:37:34Z"
+          "measuredAt": "2026-10-29T19:39:20.718Z"
         }
       },
       "metaCheck": "passed",
@@ -2439,7 +2439,7 @@
           "clicks": 1973,
           "bufferEngagementRatePct": 2.82,
           "engagementRate": 0.0066,
-          "measuredAt": "2026-11-01T21:37:34Z"
+          "measuredAt": "2026-10-30T18:39:29.509Z"
         }
       },
       "metaCheck": "passed",
@@ -2505,7 +2505,7 @@
           "clicks": 14,
           "bufferEngagementRatePct": 2.18,
           "engagementRate": 0.0113,
-          "measuredAt": "2026-11-01T21:37:34Z"
+          "measuredAt": "2026-10-30T18:39:29.509Z"
         }
       },
       "metaCheck": "passed",
@@ -2543,7 +2543,7 @@
           "clicks": 29,
           "bufferEngagementRatePct": 2.13,
           "engagementRate": 0.0073,
-          "measuredAt": "2026-11-01T21:37:34Z"
+          "measuredAt": "2026-10-30T18:39:29.509Z"
         }
       },
       "metaCheck": "passed",
@@ -2581,7 +2581,7 @@
           "clicks": 4,
           "bufferEngagementRatePct": 0.93,
           "engagementRate": 0.004,
-          "measuredAt": "2026-11-01T21:37:34Z"
+          "measuredAt": "2026-10-31T17:39:40.574Z"
         }
       },
       "metaCheck": "passed",
@@ -2621,7 +2621,7 @@
           "clicks": 10,
           "bufferEngagementRatePct": 1.51,
           "engagementRate": 0.0079,
-          "measuredAt": "2026-11-01T21:37:34Z"
+          "measuredAt": "2026-10-31T17:39:40.574Z"
         }
       },
       "metaCheck": "passed",
@@ -2644,7 +2644,7 @@
           "clicks": 16,
           "bufferEngagementRatePct": 2.6,
           "engagementRate": 0.0111,
-          "measuredAt": "2026-11-01T21:37:34Z"
+          "measuredAt": "2026-10-31T17:39:40.574Z"
         }
       },
       "sources": [],
@@ -2683,7 +2683,7 @@
           "clicks": 61,
           "bufferEngagementRatePct": 2.78,
           "engagementRate": 0.0058,
-          "measuredAt": "2026-11-01T21:37:34Z"
+          "measuredAt": "2026-11-01T16:39:50.805Z"
         }
       },
       "sources": [
@@ -2728,7 +2728,7 @@
           "clicks": 4,
           "bufferEngagementRatePct": 1.23,
           "engagementRate": 0.0078,
-          "measuredAt": "2026-11-01T21:37:34Z"
+          "measuredAt": "2026-11-01T16:39:50.805Z"
         }
       },
       "sources": [],
@@ -2830,7 +2830,7 @@
           "clicks": 2,
           "bufferEngagementRatePct": 0.96,
           "engagementRate": 0.0048,
-          "measuredAt": "2026-11-01T21:37:34Z"
+          "measuredAt": "2026-11-01T16:39:50.805Z"
         }
       },
       "metaCheck": "passed",
@@ -2865,12 +2865,12 @@
         "facebook": {
           "reactions": 8,
           "comments": 0,
-          "impressions": 1009,
+          "impressions": 1012,
           "shares": 1,
           "clicks": 8,
           "bufferEngagementRatePct": 1.68,
           "engagementRate": 0.0089,
-          "measuredAt": "2026-11-01T21:37:34Z"
+          "measuredAt": "2026-11-02T15:40:01.340Z"
         }
       },
       "metaCheck": "passed",
@@ -2905,12 +2905,12 @@
         "facebook": {
           "reactions": 3,
           "comments": 0,
-          "impressions": 678,
+          "impressions": 696,
           "shares": 0,
           "clicks": 7,
-          "bufferEngagementRatePct": 1.47,
-          "engagementRate": 0.0044,
-          "measuredAt": "2026-11-01T21:37:34Z"
+          "bufferEngagementRatePct": 1.44,
+          "engagementRate": 0.0043,
+          "measuredAt": "2026-11-03T14:40:11.954Z"
         }
       },
       "metaCheck": "passed",
@@ -2936,12 +2936,12 @@
         "facebook": {
           "reactions": 0,
           "comments": 1,
-          "impressions": 248,
+          "impressions": 256,
           "shares": 0,
           "clicks": 1,
-          "bufferEngagementRatePct": 0.81,
-          "engagementRate": 0.004,
-          "measuredAt": "2026-11-01T21:37:34Z"
+          "bufferEngagementRatePct": 0.78,
+          "engagementRate": 0.0039,
+          "measuredAt": "2026-11-02T15:40:01.340Z"
         }
       }
     },
@@ -2965,12 +2965,12 @@
         "facebook": {
           "reactions": 0,
           "comments": 0,
-          "impressions": 217,
+          "impressions": 223,
           "shares": 0,
           "clicks": 0,
           "bufferEngagementRatePct": 0,
           "engagementRate": 0.0,
-          "measuredAt": "2026-11-01T21:37:34Z"
+          "measuredAt": "2026-11-02T15:40:01.340Z"
         }
       }
     },
@@ -3007,14 +3007,14 @@
       "metaCheck": "passed",
       "metrics": {
         "facebook": {
-          "reactions": 5,
+          "reactions": 6,
           "comments": 0,
-          "impressions": 1123,
+          "impressions": 1152,
           "shares": 1,
-          "clicks": 21,
-          "bufferEngagementRatePct": 2.4,
-          "engagementRate": 0.0053,
-          "measuredAt": "2026-11-01T21:37:34Z"
+          "clicks": 23,
+          "bufferEngagementRatePct": 2.6,
+          "engagementRate": 0.0061,
+          "measuredAt": "2026-11-03T14:40:11.954Z"
         }
       }
     },
@@ -3038,12 +3038,12 @@
         "facebook": {
           "reactions": 0,
           "comments": 1,
-          "impressions": 297,
+          "impressions": 314,
           "shares": 0,
           "clicks": 3,
-          "bufferEngagementRatePct": 1.35,
-          "engagementRate": 0.0034,
-          "measuredAt": "2026-11-01T21:37:34Z"
+          "bufferEngagementRatePct": 1.27,
+          "engagementRate": 0.0032,
+          "measuredAt": "2026-11-04T13:40:22.335Z"
         }
       }
     },
@@ -3073,14 +3073,14 @@
       "metaCheck": "passed",
       "metrics": {
         "facebook": {
-          "reactions": 6,
+          "reactions": 7,
           "comments": 0,
-          "impressions": 926,
+          "impressions": 986,
           "shares": 2,
           "clicks": 18,
-          "bufferEngagementRatePct": 2.81,
-          "engagementRate": 0.0086,
-          "measuredAt": "2026-11-01T21:37:34Z"
+          "bufferEngagementRatePct": 2.74,
+          "engagementRate": 0.0091,
+          "measuredAt": "2026-11-04T13:40:22.335Z"
         }
       }
     },
@@ -3101,14 +3101,14 @@
       },
       "metrics": {
         "facebook": {
-          "reactions": 10,
+          "reactions": 12,
           "comments": 1,
-          "impressions": 2233,
+          "impressions": 2640,
           "shares": 3,
-          "clicks": 42,
-          "bufferEngagementRatePct": 2.51,
-          "engagementRate": 0.0063,
-          "measuredAt": "2026-11-01T21:37:34Z"
+          "clicks": 48,
+          "bufferEngagementRatePct": 2.42,
+          "engagementRate": 0.0061,
+          "measuredAt": "2026-11-05T12:40:30.928Z"
         }
       },
       "headline": "GROWN FOR TASTE. GROWN TO TRAVEL.",
@@ -3141,12 +3141,12 @@
         "facebook": {
           "reactions": 4,
           "comments": 0,
-          "impressions": 451,
+          "impressions": 516,
           "shares": 0,
           "clicks": 4,
-          "bufferEngagementRatePct": 1.77,
-          "engagementRate": 0.0089,
-          "measuredAt": "2026-11-01T21:37:34Z"
+          "bufferEngagementRatePct": 1.55,
+          "engagementRate": 0.0078,
+          "measuredAt": "2026-11-06T11:40:41.596Z"
         }
       },
       "line": "You deserve it, said the ad. The ad says that to everyone.",
@@ -3175,12 +3175,12 @@
         "facebook": {
           "reactions": 0,
           "comments": 0,
-          "impressions": 210,
+          "impressions": 245,
           "shares": 0,
           "clicks": 0,
           "bufferEngagementRatePct": 0,
           "engagementRate": 0.0,
-          "measuredAt": "2026-11-01T21:37:34Z"
+          "measuredAt": "2026-11-05T12:40:30.928Z"
         }
       }
     },
@@ -3214,12 +3214,12 @@
         "facebook": {
           "reactions": 5,
           "comments": 0,
-          "impressions": 966,
+          "impressions": 986,
           "shares": 0,
-          "clicks": 12,
-          "bufferEngagementRatePct": 1.76,
-          "engagementRate": 0.0052,
-          "measuredAt": "2026-11-03T21:40:51Z"
+          "clicks": 13,
+          "bufferEngagementRatePct": 1.83,
+          "engagementRate": 0.0051,
+          "measuredAt": "2026-11-06T11:40:41.596Z"
         }
       }
     },
@@ -3243,12 +3243,12 @@
         "facebook": {
           "reactions": 0,
           "comments": 0,
-          "impressions": 303,
+          "impressions": 324,
           "shares": 0,
           "clicks": 0,
           "bufferEngagementRatePct": 0,
           "engagementRate": 0.0,
-          "measuredAt": "2026-11-03T21:40:51Z"
+          "measuredAt": "2026-11-06T11:40:41.595Z"
         }
       }
     },
@@ -3280,14 +3280,14 @@
       "metaCheck": "passed",
       "metrics": {
         "facebook": {
-          "reactions": 9,
+          "reactions": 10,
           "comments": 0,
-          "impressions": 1216,
+          "impressions": 1289,
           "shares": 1,
           "clicks": 16,
-          "bufferEngagementRatePct": 2.14,
-          "engagementRate": 0.0082,
-          "measuredAt": "2026-11-03T21:40:51Z"
+          "bufferEngagementRatePct": 2.09,
+          "engagementRate": 0.0085,
+          "measuredAt": "2026-11-07T10:40:49.117Z"
         }
       }
     },
@@ -3321,14 +3321,14 @@
       "metaCheck": "passed",
       "metrics": {
         "facebook": {
-          "reactions": 2,
+          "reactions": 3,
           "comments": 0,
-          "impressions": 613,
-          "shares": 2,
+          "impressions": 656,
+          "shares": 3,
           "clicks": 10,
-          "bufferEngagementRatePct": 2.28,
-          "engagementRate": 0.0065,
-          "measuredAt": "2026-11-03T21:40:51Z"
+          "bufferEngagementRatePct": 2.44,
+          "engagementRate": 0.0091,
+          "measuredAt": "2026-11-07T10:40:49.117Z"
         }
       }
     },
@@ -3352,12 +3352,12 @@
         "facebook": {
           "reactions": 1,
           "comments": 0,
-          "impressions": 272,
+          "impressions": 321,
           "shares": 0,
           "clicks": 0,
-          "bufferEngagementRatePct": 0.37,
-          "engagementRate": 0.0037,
-          "measuredAt": "2026-11-03T21:40:51Z"
+          "bufferEngagementRatePct": 0.31,
+          "engagementRate": 0.0031,
+          "measuredAt": "2026-11-08T09:40:58.697Z"
         }
       }
     },
@@ -3392,14 +3392,14 @@
       "metaCheck": "passed",
       "metrics": {
         "facebook": {
-          "reactions": 8,
+          "reactions": 9,
           "comments": 0,
-          "impressions": 1364,
+          "impressions": 1696,
           "shares": 0,
-          "clicks": 20,
-          "bufferEngagementRatePct": 2.05,
-          "engagementRate": 0.0059,
-          "measuredAt": "2026-11-03T21:40:51Z"
+          "clicks": 23,
+          "bufferEngagementRatePct": 1.89,
+          "engagementRate": 0.0053,
+          "measuredAt": "2026-11-08T09:40:58.697Z"
         }
       }
     },
@@ -3433,12 +3433,12 @@
         "facebook": {
           "reactions": 2,
           "comments": 0,
+          "impressions": 825,
           "shares": 0,
-          "impressions": 800,
-          "clicks": 13,
-          "bufferEngagementRate": 1.88,
-          "engagementRate": 0.0025,
-          "measuredAt": "2026-11-05T16:45:00-05:00"
+          "clicks": 15,
+          "bufferEngagementRatePct": 2.06,
+          "engagementRate": 0.0024,
+          "measuredAt": "2026-11-08T09:40:58.697Z"
         }
       }
     },
@@ -3462,12 +3462,12 @@
         "facebook": {
           "reactions": 1,
           "comments": 1,
+          "impressions": 408,
           "shares": 0,
-          "impressions": 375,
           "clicks": 7,
-          "bufferEngagementRate": 2.4,
-          "engagementRate": 0.0053,
-          "measuredAt": "2026-11-05T16:45:00-05:00"
+          "bufferEngagementRatePct": 2.21,
+          "engagementRate": 0.0049,
+          "measuredAt": "2026-11-08T09:40:58.697Z"
         }
       }
     },
@@ -3503,12 +3503,12 @@
         "facebook": {
           "reactions": 3,
           "comments": 1,
+          "impressions": 604,
           "shares": 1,
-          "impressions": 556,
           "clicks": 11,
-          "bufferEngagementRate": 2.88,
-          "engagementRate": 0.009,
-          "measuredAt": "2026-11-05T16:45:00-05:00"
+          "bufferEngagementRatePct": 2.65,
+          "engagementRate": 0.0083,
+          "measuredAt": "2026-11-08T09:40:58.697Z"
         }
       }
     },
@@ -3541,14 +3541,14 @@
       "metaCheck": "passed",
       "metrics": {
         "facebook": {
-          "reactions": 5,
+          "reactions": 6,
           "comments": 0,
-          "shares": 0,
-          "impressions": 1067,
+          "impressions": 1119,
+          "shares": 1,
           "clicks": 8,
-          "bufferEngagementRate": 1.22,
-          "engagementRate": 0.0047,
-          "measuredAt": "2026-11-05T16:45:00-05:00"
+          "bufferEngagementRatePct": 1.34,
+          "engagementRate": 0.0063,
+          "measuredAt": "2026-11-08T09:40:58.697Z"
         }
       }
     },
@@ -3572,12 +3572,12 @@
         "facebook": {
           "reactions": 1,
           "comments": 0,
+          "impressions": 264,
           "shares": 0,
-          "impressions": 224,
           "clicks": 2,
-          "bufferEngagementRate": 1.34,
-          "engagementRate": 0.0045,
-          "measuredAt": "2026-11-05T16:45:00-05:00"
+          "bufferEngagementRatePct": 1.14,
+          "engagementRate": 0.0038,
+          "measuredAt": "2026-11-08T09:40:58.697Z"
         }
       }
     },
@@ -3610,14 +3610,14 @@
       "metaCheck": "passed",
       "metrics": {
         "facebook": {
-          "reactions": 4,
+          "reactions": 5,
           "comments": 0,
+          "impressions": 1019,
           "shares": 0,
-          "impressions": 907,
           "clicks": 13,
-          "bufferEngagementRate": 1.87,
-          "engagementRate": 0.0044,
-          "measuredAt": "2026-11-05T16:45:00-05:00"
+          "bufferEngagementRatePct": 1.77,
+          "engagementRate": 0.0049,
+          "measuredAt": "2026-11-08T09:40:58.697Z"
         }
       }
     },
@@ -3649,14 +3649,14 @@
       },
       "metrics": {
         "facebook": {
-          "reactions": 2,
+          "reactions": 3,
           "comments": 0,
+          "impressions": 385,
           "shares": 0,
-          "impressions": 302,
           "clicks": 7,
-          "bufferEngagementRate": 2.98,
-          "engagementRate": 0.0066,
-          "measuredAt": "2026-11-05T16:45:00-05:00"
+          "bufferEngagementRatePct": 2.6,
+          "engagementRate": 0.0078,
+          "measuredAt": "2026-11-08T09:40:58.697Z"
         }
       }
     },
@@ -3680,12 +3680,12 @@
         "facebook": {
           "reactions": 0,
           "comments": 0,
+          "impressions": 240,
           "shares": 0,
-          "impressions": 158,
           "clicks": 2,
-          "bufferEngagementRate": 1.27,
+          "bufferEngagementRatePct": 0.83,
           "engagementRate": 0.0,
-          "measuredAt": "2026-11-05T16:45:00-05:00"
+          "measuredAt": "2026-11-08T09:40:58.697Z"
         }
       }
     },
@@ -3717,14 +3717,14 @@
       },
       "metrics": {
         "facebook": {
-          "reactions": 4,
-          "comments": 2,
+          "reactions": 21,
+          "comments": 3,
+          "impressions": 3184,
           "shares": 0,
-          "impressions": 627,
-          "clicks": 21,
-          "bufferEngagementRate": 4.31,
-          "engagementRate": 0.0096,
-          "measuredAt": "2026-11-05T16:45:00-05:00"
+          "clicks": 60,
+          "bufferEngagementRatePct": 2.64,
+          "engagementRate": 0.0075,
+          "measuredAt": "2026-11-08T09:40:58.697Z"
         }
       }
     },
@@ -3758,7 +3758,18 @@
         "postId": "6aeba621e33a6d353dc4a4e5",
         "plannedAt": "2026-11-05T07:45:00-05:00"
       },
-      "metrics": {}
+      "metrics": {
+        "facebook": {
+          "reactions": 1,
+          "comments": 0,
+          "impressions": 286,
+          "shares": 0,
+          "clicks": 3,
+          "bufferEngagementRatePct": 1.4,
+          "engagementRate": 0.0035,
+          "measuredAt": "2026-11-08T09:40:58.697Z"
+        }
+      }
     },
     {
       "date": "2026-11-05",
@@ -3776,7 +3787,18 @@
         "postId": "6aeba6213a6057e11e774fec",
         "plannedAt": "2026-11-05T13:51:00-05:00"
       },
-      "metrics": {}
+      "metrics": {
+        "facebook": {
+          "reactions": 0,
+          "comments": 0,
+          "impressions": 185,
+          "shares": 0,
+          "clicks": 0,
+          "bufferEngagementRatePct": 0,
+          "engagementRate": 0.0,
+          "measuredAt": "2026-11-08T09:40:58.697Z"
+        }
+      }
     },
     {
       "date": "2026-11-05",
@@ -3805,7 +3827,18 @@
         "postId": "6aeba6224cb090f0ac3e7c0e",
         "plannedAt": "2026-11-05T21:13:00-05:00"
       },
-      "metrics": {}
+      "metrics": {
+        "facebook": {
+          "reactions": 2,
+          "comments": 0,
+          "impressions": 670,
+          "shares": 0,
+          "clicks": 8,
+          "bufferEngagementRatePct": 1.49,
+          "engagementRate": 0.003,
+          "measuredAt": "2026-11-08T09:40:58.697Z"
+        }
+      }
     },
     {
       "date": "2026-11-06",
@@ -3838,7 +3871,18 @@
       },
       "status": "sent",
       "metaCheck": "passed",
-      "metrics": {}
+      "metrics": {
+        "facebook": {
+          "reactions": 1,
+          "comments": 0,
+          "impressions": 215,
+          "shares": 1,
+          "clicks": 2,
+          "bufferEngagementRatePct": 1.86,
+          "engagementRate": 0.0093,
+          "measuredAt": "2026-11-08T09:40:58.697Z"
+        }
+      }
     },
     {
       "date": "2026-11-06",
@@ -3856,7 +3900,18 @@
         "postId": "6aecf7bf07115c73fd3ac94f",
         "plannedAt": "2026-11-06T14:02:00-05:00"
       },
-      "metrics": {}
+      "metrics": {
+        "facebook": {
+          "reactions": 0,
+          "comments": 0,
+          "impressions": 183,
+          "shares": 0,
+          "clicks": 3,
+          "bufferEngagementRatePct": 1.64,
+          "engagementRate": 0.0,
+          "measuredAt": "2026-11-08T09:40:58.697Z"
+        }
+      }
     },
     {
       "date": "2026-11-06",
@@ -3882,9 +3937,20 @@
         "postId": "6aecf7c0d49eaca59e0064d2",
         "plannedAt": "2026-11-06T21:00:00-05:00"
       },
-      "status": "scheduled",
+      "status": "sent",
       "metaCheck": "passed",
-      "metrics": {}
+      "metrics": {
+        "facebook": {
+          "reactions": 3,
+          "comments": 0,
+          "impressions": 318,
+          "shares": 0,
+          "clicks": 1,
+          "bufferEngagementRatePct": 1.26,
+          "engagementRate": 0.0094,
+          "measuredAt": "2026-11-08T09:40:58.697Z"
+        }
+      }
     },
     {
       "date": "2026-11-07",
@@ -3913,9 +3979,20 @@
         "postId": "6aee492c004e4879a7182f2f",
         "plannedAt": "2026-11-07T07:57:00-05:00"
       },
-      "status": "scheduled",
+      "status": "sent",
       "metaCheck": "passed",
-      "metrics": {}
+      "metrics": {
+        "facebook": {
+          "reactions": 2,
+          "comments": 0,
+          "impressions": 893,
+          "shares": 0,
+          "clicks": 12,
+          "bufferEngagementRatePct": 1.57,
+          "engagementRate": 0.0022,
+          "measuredAt": "2026-11-08T09:40:58.697Z"
+        }
+      }
     },
     {
       "date": "2026-11-07",
@@ -3927,13 +4004,24 @@
       "style": "text",
       "title": "An old friend who picks up right where you left off is one of life's real treasures.",
       "caption": "An old friend who picks up right where you left off is one of life's real treasures.",
-      "status": "scheduled",
+      "status": "sent",
       "metaCheck": "passed",
       "facebook": {
         "postId": "6aee492ca7751de7c9ac45f4",
         "plannedAt": "2026-11-07T14:10:00-05:00"
       },
-      "metrics": {}
+      "metrics": {
+        "facebook": {
+          "reactions": 1,
+          "comments": 0,
+          "impressions": 143,
+          "shares": 0,
+          "clicks": 0,
+          "bufferEngagementRatePct": 0.7,
+          "engagementRate": 0.007,
+          "measuredAt": "2026-11-08T09:40:58.697Z"
+        }
+      }
     },
     {
       "date": "2026-11-07",
@@ -3962,9 +4050,20 @@
         "postId": "6aee492d229bf05daf0fd385",
         "plannedAt": "2026-11-07T21:03:00-05:00"
       },
-      "status": "scheduled",
+      "status": "sent",
       "metaCheck": "passed",
-      "metrics": {}
+      "metrics": {
+        "facebook": {
+          "reactions": 4,
+          "comments": 0,
+          "impressions": 205,
+          "shares": 1,
+          "clicks": 4,
+          "bufferEngagementRatePct": 4.39,
+          "engagementRate": 0.0244,
+          "measuredAt": "2026-11-08T09:40:58.697Z"
+        }
+      }
     }
   ],
   "ideas": [
