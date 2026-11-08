@@ -4064,6 +4064,92 @@
           "measuredAt": "2026-11-08T09:40:58.697Z"
         }
       }
+    },
+    {
+      "date": "2026-11-09",
+      "run": "day",
+      "n": 1,
+      "type": "oneliner",
+      "window": "o1",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "title": "Live in the moment, they said. So we filmed it.",
+      "line": "Live in the moment, they said. So we filmed it.",
+      "topic": "Filming moments on phones instead of living them (advice / technology / habits)",
+      "object": "birthday cake with three candles, phone held up to film it, small round table",
+      "caption": "In portrait mode.",
+      "slides": [
+        {
+          "text": "Live in the moment, they said. So we filmed it.",
+          "scene": "birthday cake with three candles, phone held up to film it"
+        }
+      ],
+      "sources": [],
+      "imageFolder": "posts/oldcrow/2026-11-09/1-oneliner",
+      "altText": "Raven filming a birthday cake with his phone instead of watching it",
+      "facebook": {
+        "postId": "6af0ec79229bf05dafd824ff",
+        "plannedAt": "2026-11-09T07:49:00-05:00"
+      },
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "metrics": {}
+    },
+    {
+      "date": "2026-11-09",
+      "run": "day",
+      "type": "text",
+      "kind": "relatable",
+      "window": "t1",
+      "format": "single",
+      "style": "text",
+      "title": "A phone call from someone you love can still turn an ordinary day around.",
+      "caption": "A phone call from someone you love can still turn an ordinary day around.",
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "facebook": {
+        "postId": "6af0ec7a229bf05dafd82532",
+        "plannedAt": "2026-11-09T13:53:00-05:00"
+      },
+      "metrics": {}
+    },
+    {
+      "date": "2026-11-09",
+      "run": "day",
+      "n": 2,
+      "type": "thennow",
+      "window": "o2",
+      "format": "single",
+      "style": "ai",
+      "theme": null,
+      "title": "One catalog. Endless scroll.",
+      "headline": "ONE CATALOG. ENDLESS SCROLL.",
+      "then": "worn holiday toy catalog with toys circled in red pen",
+      "now": "tablet spilling an endless stream of blank shopping tiles",
+      "topic": "The once-a-year holiday toy catalog vs endless online shopping ads (advertising / community memory)",
+      "object": "holiday toy catalog -> tablet with shopping tiles",
+      "caption": "Did you ever wear out the pages of a holiday catalog before December even started? 🤔\n\nIt came once a year, and you circled your wishes page by page until the list was just right. Now the ads arrive every hour, and the wanting never seems to finish.\n\nWishing used to take a whole season.",
+      "slides": [
+        {
+          "text": "ONE CATALOG. ENDLESS SCROLL.",
+          "scene": "holiday toy catalog -> tablet with shopping tiles"
+        }
+      ],
+      "sources": [
+        "https://hchm.org/wishbook/",
+        "https://blog.newspapers.com/sears-christmas-wish-book/"
+      ],
+      "imageFolder": "posts/oldcrow/2026-11-09/2-thennow",
+      "altText": "Raven holding a worn holiday toy catalog and a tablet spilling endless shopping tiles",
+      "experiment": "Then vs Now on a community/memory theme (seasonal nostalgia) per Test next",
+      "facebook": {
+        "postId": "6af0ec7a9214322f687aeb2d",
+        "plannedAt": "2026-11-09T21:21:00-05:00"
+      },
+      "status": "scheduled",
+      "metaCheck": "passed",
+      "metrics": {}
     }
   ],
   "ideas": [
@@ -4120,6 +4206,24 @@
       "type": "thennow",
       "idea": "Food/shrinkflation theme again: a full chocolate bar vs the same wrapper with fewer squares (keep it general, no brands)",
       "why": "Grown for taste (2.2k impressions) and the skinny roll did solid reach for then vs now this week"
+    },
+    {
+      "added": "2026-11-08",
+      "type": "oneliner",
+      "idea": "Evening 'they said' advice twist on money or work, e.g. about 'pay yourself first' or 'dress for the job you want'",
+      "why": "'they said' one-liners average 1.10% over 8 posts vs 0.86% for other one-liners; rewards-program line hit 2.44% this week"
+    },
+    {
+      "added": "2026-11-08",
+      "type": "oneliner",
+      "idea": "Cozy-season money line with a wry twist in the evening slot (like 'Money can't buy happiness. It does keep the heat on.')",
+      "why": "heating-bill line had the week's biggest reach (3.2k) and 3 comments"
+    },
+    {
+      "added": "2026-11-08",
+      "type": "text",
+      "idea": "Very concrete memory questions naming one object (the family's first VCR, a school lunchbox, the phone cord stretched round the corner)",
+      "why": "memory questions got all 3 text-post comments over 12 posts; relatable statements got none"
     }
   ]
 }

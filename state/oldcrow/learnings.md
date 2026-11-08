@@ -1,26 +1,26 @@
 # What works on Old Crow (the bot keeps this up to date from Buffer insights)
 
-Last updated: 2026-11-01 (Sunday review; per-post metrics refreshed 2026-11-01)
+Last updated: 2026-11-08 (Sunday review; per-post metrics refreshed 2026-11-08)
 Engagement rate = (reactions + comments + shares) / impressions (Buffer's own rate also counts clicks, so it reads higher).
-Week of Oct 26-Nov 1: bot posts got 18.5k impressions (22 posts) vs 170.6k (27 posts) the week before; avg rate 0.57% vs 0.88%.
-Luke's own posts on the page (the "Who decided...?" / "#knowledge" posts) carried most of the page's 130k impressions this week.
+Week of Nov 1-7: page channel 13.8k impressions (21 posts) vs 235.8k (28 posts) Oct 25-31; the earlier week was lifted by one viral one-liner (bigger fridge: 91k impressions, 68 shares).
+Bot image posts this week: one-liners 0.77% avg (10), then vs now 0.66% (4), text 0.27% (7).
 
 ## Do more
-- One-liners are still the best image type: 42 measured, avg 0.93% vs 0.76% for then vs now (19). This week 0.73% vs 0.63%.
-- Lines with a hard final twist that turns on the reader: "Your password must be stronger... Including you." 1.11% (4 shares), "Think outside the box, they said" 0.89%, "You deserve it, said the ad" 0.89%.
-- The "..., they said." set-up then twist (advice / work / ads): Think outside the box 0.89%, Unlimited vacation 0.78%, Work hard 1.39%, Honest advice 1.33% (3+ posts, consistently above average).
-- Everyday group / people moments with a sharp twist: group chat restaurant 0.86%, Everyone's an expert online 2.37%.
+- One-liners stay the best image type: 51 measured, avg 0.90% vs 0.75% for then vs now (23).
+- The "..., they said." set-up then twist: 1.10% avg over 8 vs 0.86% for other one-liners (rewards program 2.44%, work hard 1.39%, honest advice 1.33%).
+- Twists that land on the reader's own habits or wallet: bigger fridge (91k impressions, 68 shares), password 1.11%, heat-on 3.2k impressions + 3 comments.
+- Evening image slot: 0.85% avg over 14 posts since Oct 25 vs 0.61% for the morning slot (14).
 
 ## Do less
-- Tech lines with a soft or obvious twist: app update 0.40%, smart speaker 0.48%, "Your cart misses you" 0.44% (tech alone isn't the draw; the twist is).
-- Then vs Now "made to last / repairable" (0.65%, 0.62%, 0.49%) and plain shrinkflation (skinny roll 0.53%).
-- Soft "shared everyday moment" one-liners without a twist (~0.8% avg over 4, no comments).
+- Soft, obvious or purely "online shopping" twists: reviews 0.24%, flat-pack 0.22%, rainy-day 0.30%, smart speaker 0.48%, cart 0.43%.
+- Then vs Now "made to last / repairable" and plain shrinkflation (0.49-0.65%).
+- Then vs Now in the morning slot did poorly this week (recipe card 0.35% on 286 impressions).
 
 ## Text posts (Luke's rule, 1 a day; not the bot's call to change)
-- 5 measured: 210-300 impressions each, 0 reactions, 2 comments in total (avg 0.15%). Memory questions got the only comments; relatable statements got nothing.
-- Keep memory questions very specific and concrete (a named object or place: candy dish, junk drawer) rather than general moods.
+- 12 measured: 140-410 impressions each, avg 0.22%. Memory questions got all 3 comments (6 posts); relatable statements got 0 comments (6 posts).
+- Keep memory questions very specific and concrete (a named object or place: candy dish, junk drawer, glove box).
 
 ## Test next
-- Then vs Now on community / memory themes (phone numbers by heart tested 2026-11-02) vs food / prices.
-- One-liner caption length: 1-3 words vs 4-6 words (still open).
-- Posting hours: evening image posts 0.77% avg (6) vs morning 0.69% (7) this week; need 30+ posts before trusting it.
+- Then vs Now on seasonal community / memory themes (holiday catalog tested 2026-11-09) vs food / prices.
+- One-liner caption length: 1-3 words 0.92% (36) vs 4-6 words 0.85% (15): slight edge to very short; keep testing.
+- Posting hours: need 30+ posts per slot before trusting the evening lead.
